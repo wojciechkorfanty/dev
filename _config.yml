@@ -67,7 +67,8 @@ feed_show_excerpt: false
 
 # Build settings
 markdown: kramdown
-theme: coronastudies-theme
+#theme: coronastudies-theme
+remote_theme:  covidstudies/theme
 plugins:
   - jekyll-feed
   - jekyll-paginate
