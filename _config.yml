@@ -13,19 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Corona Studies. Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und Maßnahmen.
+title: Corona Studies. Virus, Immunität, Vorbeugung, Behandlung, Impfstoffe und nichtmedizinische Maßnahmen.
 author: Corona Studies
 email: "info@coronastudies.org"
 description: >- # this means to ignore newlines until "baseurl:"
-  Studien rund um das Thema Corona, zu Virus, Immunität,
-  Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
+  Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.coronastudies.org"
 twitter_username: "coronastudies"
 telegram_username: "coronastudies"
 
 language: "de"
-date_format: "%e %B %Y"
+date_format: "%Y-%m-%d"
 
 collections:
   studies:

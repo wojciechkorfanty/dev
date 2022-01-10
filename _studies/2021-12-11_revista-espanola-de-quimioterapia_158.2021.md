@@ -2,14 +2,14 @@
 date:        2021-12-11
 ## Das Datum der Studienveröffentlichung im Format JJJJ-MM-TT.
 ##
-title:       Revista Espanola de Quimioterapia
+title:       Revista Española de Quimioterapia
 ## Titel der Publikation, beispielweise The Lancet.
 ##
 authors:      'García-Lledó, A, Gómez-Pavón, J, González Del Castillo, J, et al.'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       Preprint
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Pharmacological treatment of COVID-19: an opinion paper'

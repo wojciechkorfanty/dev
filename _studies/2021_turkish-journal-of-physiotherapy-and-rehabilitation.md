@@ -1,6 +1,6 @@
 ---
 date:        2021-12-31
-title:       Turkish Journal of Physiotherapy and Rehabilitation
+title:       TJPR
 authors:      'Taher, NA, Salah-Alden, RS, Al-Bustany, DA'
 status:       default
 en:

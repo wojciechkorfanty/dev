@@ -2,14 +2,14 @@
 date:        2021-10-01
 ## Das Datum der Studienveröffentlichung im Format JJJJ-MM-TT.
 ##
-title:       Pakistan Journal of Medical Health & Health Sciences
+title:       PJMHS
 ## Titel der Publikation, beispielweise The Lancet.
 ##
 authors:      'Tatlibal, P, Oral, O, Aydin, I'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'Vitamin, Mineral Use and Participation in Exercise during the Coronavirus-19 Pandemic Period'

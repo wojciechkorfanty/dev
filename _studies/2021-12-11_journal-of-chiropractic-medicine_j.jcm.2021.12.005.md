@@ -9,7 +9,7 @@ authors:      'Brett, R, Martin, DC, Richardson, J'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
-## Status der Publikation. Peer Reviewed = default, Preprint oder Handout (Thesenpapier)
+## Status der Publikation. default = default, Preprint oder Handout (Thesenpapier)
 ##
 en:
   subtitle:    'An exploratory review of Potential Adjunct Therapies for the Treatment of Coronavirus Infections'
