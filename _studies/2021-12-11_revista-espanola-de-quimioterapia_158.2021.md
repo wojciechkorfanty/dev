@@ -2,10 +2,10 @@
 date:        2021-12-11
 ## Das Datum der Studienveröffentlichung im Format JJJJ-MM-TT.
 ##
-title:       Revista espanola de quimioterapia
+title:       Revista Espanola de Quimioterapia
 ## Titel der Publikation, beispielweise The Lancet.
 ##
-authors:      'García-Lledó, A., Gómez-Pavón, J., González Del Castillo, J., Hernández-Sampelayo, T., Martín-Delgado, M. C., Martín Sánchez, F. J., Martínez-Sellés, M., Molero García, J. M., Moreno Guillén, S., Rodríguez-Artalejo, F. J., Ruiz-Galiana, J., Cantón, R., De Lucas Ramos, P., García-Botella, A., & Bouza, E.'
+authors:      'García-Lledó, A, Gómez-Pavón, J, González Del Castillo, J, et al.'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       Preprint
@@ -35,9 +35,6 @@ group:       "Treatments"
 ##
 credit:      https://seq.es/abstract/rev-esp-quimioter-2021-december-11-2/
 ## Link zur Studien-Website.
-##
-link:       "https://seq.es/wp-content/uploads/2021/12/bouza11dec2021.pdf"
-## Link zum PDF.
 ##
 ## Der Dateinamen setzt sich aus Datum, Titel der Publikation, DOI-ID der Studie (nach dem letzten Slash) und der Dateiendung zusammen. Bitte den Unterstrich vor der DOI-ID beachten!
 ##

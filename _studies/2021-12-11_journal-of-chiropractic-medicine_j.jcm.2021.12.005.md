@@ -5,7 +5,7 @@ date:        2021-12-11
 title:       Journal of Chiropractic Medicine
 ## Titel der Publikation, beispielweise The Lancet.
 ##
-authors:      'Brett, R., Martin, D. C. & Richardson, J.'
+authors:      'Brett, R, Martin, DC, Richardson, J'
 ## Autorinnen und Autoren der Studie – bitte die einfachen Anführungszeichen beachten!
 ##
 status:       default
@@ -35,9 +35,6 @@ group:       "Treatments"
 ##
 credit:      https://www.sciencedirect.com/science/article/pii/S1556370721000523
 ## Link zur Studien-Website.
-##
-link:       "https://www.sciencedirect.com/science/article/pii/S1556370721000523/pdfft?md5=6cff0e32778c98ba0053ba5dbc5b1f7b&pid=1-s2.0-S1556370721000523-main.pdf"
-## Link zum PDF.
 ##
 ## Der Dateinamen setzt sich aus Datum, Titel der Publikation, DOI-ID der Studie (nach dem letzten Slash) und der Dateiendung zusammen. Bitte den Unterstrich vor der DOI-ID beachten!
 ##
