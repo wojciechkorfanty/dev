@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "“When the search for truth is confused with political advocacy, the pursuit of knowledge is reduced to the quest for power.” – Alston Chase"
+title:  "“When the search for truth is confused with political advocacy, the pursuit of knowledge is reduced to the quest for power.” – Alston Chase"
 date:   2022-01-11
 categories: jekyll update
 ---
