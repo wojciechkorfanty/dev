@@ -66,6 +66,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 
 # Build settings
+# Change for local dev
 markdown: kramdown
 #theme: coronastudies-theme
 remote_theme:  covidstudies/theme
