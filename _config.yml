@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Corona Studies. Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und Maßnahmen.
 author: Corona Studies
 email: "info@coronastudies.org"
-description: >- # this means to ignore newlines until "baseurl:"
-  Studien rund um das Thema Corona, zu Virus, Immunität,
-  Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
+de:
+  title: Corona Studies. Virus, Immunität, Vorbeugung, Behandlung, Impfstoffe und nichtmedizinische Maßnahmen.
+  description: Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
+en:
+  title: Corona Studies. Virus, immunity, prevention, treatment, vaccines, and nonmedical measures. 
+  description: Studies related to corona, the virus, immunity, prevention, treatment, vaccines and non-medical measures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.coronastudies.org"
 twitter_username: "coronastudies"
 telegram_username: "coronastudies"
 
 language: "de"
-date_format: "%e %B %Y"
+date_format: "%Y-%m-%d"
 
 collections:
   studies:
@@ -66,6 +68,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 
 # Build settings
+# Change for local dev
 markdown: kramdown
 #theme: coronastudies-theme
 remote_theme:  covidstudies/theme
