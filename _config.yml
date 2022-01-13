@@ -29,15 +29,15 @@ telegram_username: "coronastudies"
 language: "de"
 date_format: "%Y-%m-%d"
 
-permalink: "/:year/:month/:day/:title"
+permalink: "/posts/:year/:month/:day/:title"
 
 collections:
   studies:
     output: true
-    permalink: /studies/:name
+    permalink: "/studies/:year/:month/:day/:title"
   posts_en:
     output: true
-    permalink: /posts/:name
+    permalink: "/posts_en/:year/:month/:day/:title"
 
 defaults:
   - scope:
