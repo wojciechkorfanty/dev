@@ -3,7 +3,7 @@ title:  "“When the search for truth is confused with political advocacy, the p
 date:   2022-01-11
 categories: presse
 ---
-Expertinnen und Experten aus den Bereichen Medizin und Biowissenschaften, Statistik und Forschungsmethoden, Softwaretechnik und Datenvisualisierung sowie visuelle Kommunikation stellen auf der neuen Webseite _Corona Studies_ eine umfangreiche und stetig anwachsende Sammlung wissenschaftlicher Studien, Stellungnahmem und Berichte rund um das Thema „Corona“ bereit. 
+EN: Expertinnen und Experten aus den Bereichen Medizin und Biowissenschaften, Statistik und Forschungsmethoden, Softwaretechnik und Datenvisualisierung sowie visuelle Kommunikation stellen auf der neuen Webseite _Corona Studies_ eine umfangreiche und stetig anwachsende Sammlung wissenschaftlicher Studien, Stellungnahmem und Berichte rund um das Thema „Corona“ bereit. 
 
 Ziel des Projektes ist es, wissenschaftliche Erkenntnisse einem breiten Publikum und dem öffentlichen Diskurs zugänglich zu machen. Im Mittelpunkt stehen das Virus SARS-CoV-2, sein Spike-Protein, die Erkrankung COVID-19, ihre Vorbeugung und Behandlung, Aspekte der Immunität, die verschiedenen Impfstoffe sowie die Effekte der nichtmedizinischen Massnahmen zur Panmdiebekämpfung.
 
