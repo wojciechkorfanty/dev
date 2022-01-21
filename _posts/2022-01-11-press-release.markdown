@@ -1,5 +1,5 @@
 ---
-title:  "_Corona Studies_: Werkzeug der Aufklärung"
+title:  "Corona Studies: Werkzeug der Aufklärung"
 date:   2022-01-21
 categories: Press Release
 ---
