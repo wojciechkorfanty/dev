@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "_Corona Studies_: Werkzeug der Aufklärung"
 date:   2022-01-21
 categories: Press Release
 ---
+
 Auf ihrer neuen Website _Corona Studies_ – [coronastudies.org] (https://coronastudies.org) – stellen Expertinnen und Experten aus den Bereichen Medizin und Life Sciences, Software-Entwicklung und visueller Kommunikation, Statistik und Forschungsmethoden ab sofort eine umfangreiche und stetig anwachsende Sammlung aktueller wissenschaftlicher Dokumente und Studien rund um die Viruserkrankung COVID-19 bereit.
 
 Der Fokus von Corona Studies liegt auf Studien zu Prävention und Behandlung der COVID-19-Erkrankung, zu Wirkung und Nebenwirkungen der neuartigen Impfstoffe, zu Aspekten der Immunität sowie zu den Effekten nichtmedizinischer Maßnahmen zur Eindämmung von COVID-19.
