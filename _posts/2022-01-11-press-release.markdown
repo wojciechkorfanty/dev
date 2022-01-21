@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "“When the search for truth is confused with political advocacy, the pursuit of knowledge is reduced to the quest for power.” – Alston Chase"
 date:   2022-01-11
-categories: jekyll update
+categories: presse
 ---
 Expertinnen und Experten aus den Bereichen Medizin und Biowissenschaften, Statistik und Forschungsmethoden, Softwaretechnik und Datenvisualisierung sowie visuelle Kommunikation stellen auf der neuen Webseite _Corona Studies_ eine umfangreiche und stetig anwachsende Sammlung wissenschaftlicher Studien, Stellungnahmem und Berichte rund um das Thema „Corona“ bereit. 
 

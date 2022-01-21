@@ -29,24 +29,32 @@ telegram_username: "coronastudies"
 language: "de"
 date_format: "%Y-%m-%d"
 
+permalink: "/posts/:year/:month/:day/:title"
+
 collections:
   studies:
     output: true
-    permalink: /studies/:name
+    permalink: "/studies/:year/:month/:day/:title"
+  posts_en:
+    output: true
+    permalink: "/posts_en/:year/:month/:day/:title"
 
 defaults:
+  - scope:
+      path: ""
+      type: "posts_en"
+    values:
+      layout: "post_en"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
   - scope:
       path: ""
       type: "studies"
     values:
       layout: "study"
-      comments: true  # add comments to all blog posts
   - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
@@ -58,8 +66,6 @@ feed:
     studies:
       path: "/studies.xml"
   posts_limit: 20
-
-paginate: 1
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -74,7 +80,6 @@ markdown: kramdown
 remote_theme:  covidstudies/theme
 plugins:
   - jekyll-feed
-  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
