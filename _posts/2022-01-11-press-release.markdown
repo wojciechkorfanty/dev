@@ -4,7 +4,7 @@ date:   2022-01-21
 categories: Press Release
 ---
 
-Auf ihrer neuen Website _Corona Studies_ – [coronastudies.org] (https://coronastudies.org) – stellen Expertinnen und Experten aus den Bereichen Medizin und Life Sciences, Software-Entwicklung und visueller Kommunikation, Statistik und Forschungsmethoden ab sofort eine umfangreiche und stetig anwachsende Sammlung aktueller wissenschaftlicher Dokumente und Studien rund um die Viruserkrankung COVID-19 bereit.
+Auf ihrer neuen Website _Corona Studies_ – [coronastudies.org](https://coronastudies.org) – stellen Expertinnen und Experten aus den Bereichen Medizin und Life Sciences, Software-Entwicklung und visueller Kommunikation, Statistik und Forschungsmethoden ab sofort eine umfangreiche und stetig anwachsende Sammlung aktueller wissenschaftlicher Dokumente und Studien rund um die Viruserkrankung COVID-19 bereit.
 
 Der Fokus von Corona Studies liegt auf Studien zu Prävention und Behandlung der COVID-19-Erkrankung, zu Wirkung und Nebenwirkungen der neuartigen Impfstoffe, zu Aspekten der Immunität sowie zu den Effekten nichtmedizinischer Maßnahmen zur Eindämmung von COVID-19.
 
@@ -12,8 +12,8 @@ Der Fokus von Corona Studies liegt auf Studien zu Prävention und Behandlung der
 
 Nicht zuletzt möchte das Projektteam dazu beitragen, dass der öffentliche Diskurs wieder sachlich, evidenzbasiert und menschlich geführt wird – kurzum: seine Toxizität verliert. Die angespannte gesellschaftliche Situation sei auch der Grund dafür, dass die Gruppe bis auf weiteres anonym bleiben möchte, um sich vor Diffamierung und Diskreditierung zu schützen.
 
-Praktizierende Ärzte und Wissenschaftler, aber auch interessierte Laien finden auf der Website _Corona Studies_ eine Zusammenstellung wissenschaftlicher Dokumente und veröffentlichter empirischer Studien in deutscher und englischer Sprache. Die Studien und Dokumente sind kategorisiert in fünf chronologisch geordnete Themengebiete: „Virus“, „Immunität“, „Vorbeugung und Behandlung“, „Impfstoffe“ sowie „nichtmedizinische Maßnahmen“. Die englischsprachigen Inhalte sind mit Hilfe von [DeepL] (https://www.deepl.com) automatisch ins Deutsche übersetzt, die Originalstudien direkt verlinkt. Der neue Internetauftritt soll in den nächsten Monaten weiter wachsen, auf dem jeweils aktuellen Stand gehalten und in mehrere Sprachen übersetzt werden.
+Praktizierende Ärzte und Wissenschaftler, aber auch interessierte Laien finden auf der Website _Corona Studies_ eine Zusammenstellung wissenschaftlicher Dokumente und veröffentlichter empirischer Studien in deutscher und englischer Sprache. Die Studien und Dokumente sind kategorisiert in fünf chronologisch geordnete Themengebiete: „Virus“, „Immunität“, „Vorbeugung und Behandlung“, „Impfstoffe“ sowie „nichtmedizinische Maßnahmen“. Die englischsprachigen Inhalte sind mit Hilfe von [DeepL](https://www.deepl.com) automatisch ins Deutsche übersetzt, die Originalstudien direkt verlinkt. Der neue Internetauftritt soll in den nächsten Monaten weiter wachsen, auf dem jeweils aktuellen Stand gehalten und in mehrere Sprachen übersetzt werden.
 
-In Ergänzung zu den bereitgestellten Studien bereitet das Team wissenschaftliche Erkenntnisse thematisch in einem Online-Journal auf. Zur Verbreitung werden [Twitter] (https://twitter.com/coronastudies) und weitere soziale Medien genutzt.
+In Ergänzung zu den bereitgestellten Studien bereitet das Team wissenschaftliche Erkenntnisse thematisch in einem Online-Journal auf. Zur Verbreitung werden [Twitter](https://twitter.com/coronastudies) und weitere soziale Medien genutzt.
 
-Das Team freut sich jederzeit über Anregungen und Fragen, aber auch über Verstärkung in den Bereichen EDV und Übersetzung. Kontakt: [info@coronastudies.org] (mailto:info@coronastudies.org).
+Das Team freut sich jederzeit über Anregungen und Fragen, aber auch über Verstärkung in den Bereichen EDV und Übersetzung. Kontakt: [info@coronastudies.org](mailto:info@coronastudies.org).
