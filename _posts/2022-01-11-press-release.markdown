@@ -15,4 +15,4 @@ Praktizierende Ärzte und Wissenschaftler, aber auch interessierte Laien finden 
 
 In Ergänzung zu den bereitgestellten Studien bereitet unser Team wissenschaftliche Erkenntnisse thematisch in einem Online-Journal auf. Zur Verbreitung werden [Twitter](https://twitter.com/coronastudies) und weitere soziale Medien genutzt.
 
-Das Team freut sich jederzeit über Anregungen und Fragen, aber auch über Verstärkung in den Bereichen EDV und Übersetzung. Kontakt: [info@coronastudies.org](mailto:info@coronastudies.org).
+Das Team freut sich jederzeit über Anregungen und Fragen, aber auch über Verstärkung in den Bereichen <abbr title="Elektronische Datenverarbeitung">EDV</abbr> und Übersetzung. Kontakt: [info@coronastudies.org](mailto:info@coronastudies.org).

@@ -15,4 +15,4 @@ Medical doctors, scientists, as well as interested laypersons can find a compila
 
 In addition to the studies provided, the team is preparing scientific findings thematically in an online journal. [Twitter](https://twitter.com/coronastudies) and other social media are used for dissemination.
 
-The team is happy to receive suggestions and questions, but also to receive reinforcement in the areas of EDP and translation. Contact: [info@coronastudies.org](mailto:info@coronastudies.org).
+The team is happy to receive suggestions and questions, but also to receive reinforcement in the areas of <abbr title="electronic data processing">EDP</abbr> and translation. Contact: [info@coronastudies.org](mailto:info@coronastudies.org).
