@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "_Corona Studies_"
+title:  "Corona Studies"
 date:   2022-01-21
 categories: Press Release
 ---
