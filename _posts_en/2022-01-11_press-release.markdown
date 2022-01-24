@@ -11,7 +11,7 @@ The focus of the website is on studies related to prevention and treatment of CO
 
 The project team aims to ensure that the public discourse becomes again evidence-based and human and loses its toxicity. The tense social situation is also the reason why the group wishes to remain anonymous for the time being, in order to protect itself from defamation and discredit.
 
-Medical doctors, scientists, as well as interested laypersons can find a compilation of scientific documents and empirical studies in German and English on the website. Documents are categorized into five chronologically ordered topics: “virus,” “immunity,” “prevention and treatment,” “vaccines,” and “non-medical interventions.” The English-language content is automatically translated into German using DeepL, and the original studies are linked. The new website will continue to grow in the coming months, will be kept up to date and will be translated into several languages.
+Medical doctors, scientists, as well as interested laypersons can find a compilation of scientific documents and empirical studies in German and English on the website. Documents are categorized into five chronologically ordered topics: “virus,” “immunity,” “prevention and treatment,” “vaccines,” and “non-medical interventions.” The English-language content is automatically translated into German using [DeepL](https://deepl.com), and the original studies are linked. The new website will continue to grow in the coming months, will be kept up to date and will be translated into several languages.
 
 In addition to the studies provided, the team is preparing scientific findings thematically in an online journal. [Twitter](https://twitter.com/coronastudies) and other social media are used for dissemination.
 
