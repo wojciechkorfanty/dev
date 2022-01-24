@@ -1,5 +1,5 @@
 ---
-title:  "Corona Studies: A Comprehensive Information Tool "
+title:  "Corona Studies: A Comprehensive Information Tool"
 date:   2022-01-21
 categories: Press Release
 ---
