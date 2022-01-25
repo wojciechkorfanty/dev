@@ -1,6 +1,6 @@
 ---
 title:  "Corona Studies: An Educational Tool"
-date:   2022-01-21
+date:   2022-01-11
 categories: Press Release
 ---
 On their new website _Corona Studies_ – [coronastudies.org](https://coronastudies.org) - experts from the fields of medicine and life sciences, software development and visual communication, statistics and research methods provide an extensive and constantly growing collection of current scientific documents and studies on the viral disease COVID-19. 

@@ -1,6 +1,6 @@
 ---
 title:  "Corona Studies: Werkzeug der Aufklärung"
-date:   2022-01-21
+date:   2022-01-11
 categories: Press Release
 ---
 Auf der neuen Website _Corona Studies_ – [coronastudies.org](https://coronastudies.org) – stellen Expertinnen und Experten aus den Bereichen Medizin und Life Sciences, Software-Entwicklung und visueller Kommunikation, Statistik und Forschungsmethoden ab sofort eine umfangreiche und stetig anwachsende Sammlung aktueller wissenschaftlicher Dokumente und Studien rund um die Viruserkrankung COVID-19 bereit.
