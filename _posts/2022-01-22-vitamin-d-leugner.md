@@ -1,6 +1,6 @@
 ---
 title:  "Die Vitamin-D-Leugner"
-date:   2022-01-11
+date:   2022-01-22
 categories: Post
 ---
 Irgendwo im weltweiten Netz schrieb einmal ein User, dass man das aktuelle politische Handeln entweder als Verbrechen oder als Wahnsinn bezeichnen könne, je nachdem, ob die Schwächung des Immunsystems der Menschen pure Absicht oder bloß ein Versehen ist. Erste Hinweise auf eine Antwort liefert die Tatsache, dass die Schwächung der körpereigenen Abwehrmechanismen durch Maßnahmen wie Restriktionen für Bewegung und Sport[^1] und „Maske auf!“[^2] Hand in Hand geht mit dem Leugnen von Möglichkeiten zur Unterstützung des Immunsystems. Das beste Beispiel ist das Negieren der Wirksamkeit des „Sonnenvitamins“. Die Zahl der Vitamin-D-Leugner dürfte größer sein als die der „Corona-Leugner“. Ein Verdacht drängt sich auf: Gesundheit steht nicht im Vordergrund, sondern Krankheit – und am Horizont lockt der große Reibach mit „Corona“.
