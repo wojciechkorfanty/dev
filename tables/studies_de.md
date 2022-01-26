@@ -1,5 +1,5 @@
 ---
-layout:    minimal
+layout:    default
 title:     Studies
 subtitle:  studies
 ext-js:    ["//code.jquery.com/jquery-3.6.0.min.js", "//cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js", "//cdn.datatables.net/plug-ins/1.11.3/dataRender/ellipsis.js"]
