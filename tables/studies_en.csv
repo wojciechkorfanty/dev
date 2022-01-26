@@ -4,4 +4,4 @@ search: exclude
 ---
 Date,Title,Description,URL,Category
 {%- for studie in site.studies %}
-{{ studie.date | date: "%Y-%m-%d" }},{{ studie.en.subtitle }},{{ studie.en.description }},{{ studie.credit }},{{ studie.group }}{%- endfor -%}
+{{ studie.date | date: "%Y-%m-%d" }},"{{ studie.en.subtitle }}","{{ studie.en.description }}",{{ studie.credit }},{{ studie.group }}{%- endfor -%}
