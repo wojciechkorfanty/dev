@@ -20,9 +20,9 @@ de:
   description: Studien, Thesenpapiere und Berichte rund um das Thema Corona, zu Virus, Immunität, Vorbeugung, Behandlung, Impfstoffen und nichtmedizinischen Maßnahmen.
 en:
   title: Corona Studies. Virus, immunity, prevention, treatment, vaccines, and nonmedical measures. 
-  description: Studies related to corona, the virus, immunity, prevention, treatment, vaccines and non-medical measures.
+  description: Studies, thesis papers and reports on the topic of Corona, on the virus, immunity, prevention, treatment, vaccines and non-medical measures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dev.coronastudies.org"
+url: "https://coronastudies.org"
 twitter_username: "coronastudies"
 telegram_username: "coronastudies"
 
