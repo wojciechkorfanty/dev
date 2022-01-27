@@ -5,36 +5,36 @@ categories: Post
 ---
 Irgendwo im weltweiten Netz schrieb einmal ein User, dass man das aktuelle politische Handeln entweder als Verbrechen oder als Wahnsinn bezeichnen könne, je nachdem, ob die Schwächung des Immunsystems der Menschen pure Absicht oder bloß ein Versehen ist. Erste Hinweise auf eine Antwort liefert die Tatsache, dass die Schwächung der körpereigenen Abwehrmechanismen durch Maßnahmen wie Restriktionen für Bewegung und Sport[^1] und „Maske auf!“[^2] Hand in Hand geht mit dem Leugnen von Möglichkeiten zur Unterstützung des Immunsystems. Das beste Beispiel ist das Negieren der Wirksamkeit des „Sonnenvitamins“. Die Zahl der Vitamin-D-Leugner dürfte größer sein als die der „Corona-Leugner“. Ein Verdacht drängt sich auf: Gesundheit steht nicht im Vordergrund, sondern Krankheit – und am Horizont lockt der große Reibach mit „Corona“.
 
-###Alltags- und Fachwissen
+### Alltags- und Fachwissen
 
 Vitamin D ist kein Vitamin im engeren Sinne, sondern die Vorstufe eines Hormons,[^3] das der Organismus unter Einfluss des Sonnenlichts selbst bilden kann. Als Quell der Gesundheit ist es fast in Vergessenheit geraten. Früher haben Generationen von Mütter ihre Kinder während der Wintermonate täglich mit Lebertran[^4] versorgt. Das Fischöl enthält unter anderem Vitamin D in großen Mengen. Wer wollte verzichten, heißt es in den Beiträgen zur ärztlichen Fortbildung von 1928, „auf eines der wichtigsten tierischen Vitaminträger, den Lebertran“.[^5]
 
-Dieses Alltagswissen unserer Vorfahren ist nicht mehr – oder noch nicht wieder – in allen Bevölkerungskreisen präsent. Das Fachwissen zu Vitamin D aber ist stark gewachsen. In der Medizin-Datenbank PubMed[^6] hat sich die Zahl der jährlichen Veröffentlichungen zu Vitamin D in den vergangenen 20 Jahren mehr als verfünffacht: ![Datenbankabfrage auf PubMed, Stand: 17.01.2022](assets/img/vd-results-by-year-2002-2022.png)
+Dieses Alltagswissen unserer Vorfahren ist nicht mehr – oder noch nicht wieder – in allen Bevölkerungskreisen präsent. Das Fachwissen zu Vitamin D aber ist stark gewachsen. In der Medizin-Datenbank PubMed[^6] hat sich die Zahl der jährlichen Veröffentlichungen zu Vitamin D in den vergangenen 20 Jahren mehr als verfünffacht: {% include image.html file="/assets/img/vd-results-by-year-2002-2022.png" alt="Datenbankabfrage auf PubMed, Stand: 17.01.2022" %}
 
 Dass ein optimaler Blutspiegel[^7] die Basis bildet für ein stabiles Immunsystem, ist belegt. Sinkt der Blutspiegel, droht Ungemach. Von Oktober bis März, wenn verschwindend geringe UV-Strahlung[^8] auf dick ummantelte Haut trifft, kann der Körper kein Vitamin D bilden und wird anfällig für Virusinfektionen aller Art.
 
 Dieses Wechselspiel von Vitamin D und Infektionskrankheiten steht aktuell stark im Fokus der Forschung. Zahlreiche wissenschaftliche Arbeiten aus verschiedenen Ländernzeigen signifikante Zusammenhänge zwischen dem durchschnittlichen Vitamin D-Spiegel und der Anzahl von COVID-19-Infektionen.[^9] Zum Beispiel wies das Team um die spanische Lungenärztin Marta Castillo nach, dass die Verabreichung einer hohen Dosis Vitamin D die Zahl der Intensivbehandlungen reduziert.[^10] Niedrige Vitamin D-Blutspiegel gehen mit einem höheren Risiko für Beatmung einher, und Patienten mit Vitamin D-Mangel haben eine fast fünfzehnmal so hohe Sterberate, wie Forscher aus Heidelberg feststellten.[^11]
 Doch die Erkenntnisse aus diesen Studien verbleiben in den Fachkreisen der Medizin. Gelangen sie doch einmal an die Öffentlichkeit, werden sie umgehend relativiert oder sogar negiert. 
 
-###Vitamin- und andere Tipps: Nicht salonfähig?
+### Vitamin- und andere Tipps: Nicht salonfähig?
 
 Auch der frühere Bundesgesundheitsminister Jens Spahn[^12] weiß um die Wirkung von Vitamin D. In einem Interview auf den milden Verlauf seiner Corona-Infektion angesprochen, sagte er, er habe sich „an die Tipps für die Stärkung des Immunsystems gehalten“. Gerade mit Blick auf den Winter gebe es „manchen Vitamintipp, Vitamin D, Zink und anderes mehr“. Umgehend reagierte ein Medizinjournalist auf Spahns Aussage. Die Annahme, „ich muss also Vitamin D nehmen und dann habe ich das Risiko für einen schweren Verlauf reduziert“, sei völlig verkehrt. „Das können wir gar nicht sagen!“[^13]
 
 Zahlreiche Studien zeigen jedoch, dass Spahns Annahme nicht verkehr war. Aber Vitamin D scheint – dies gilt auch für andere Substanzen wie das von Spahn angeführte Zink – nicht „salonfähig“ zu sein. Anders ist das Negieren des Wissens zum Thema kaum zu erklären. Sobald die Rede ist vom Einfluss des „Sonnenvitamins“ auf das Immunsystem, folgt die Relativierung oder die Zurückweisung. „Ungesund und unwirksam – das fragwürdige Geschäft mit Vitaminen“, titelte etwa DIE WELT.Ein gutes Beispiel sei Vitamin D. Man munkle über die Wirkung dieses Vitamins, doch tatsächlich richte dieses „im Übermaß … schwere Schäden an“.[^14]  
 
-###… und die Politik?
+### … und die Politik?
 
 In Kreisen der Politik schweigt man nach wie vor zum Thema und verlässt sich auf einen relativ überschaubaren Kreis handverlesener Berater,[^15][^16] darunter der Virologe Christian Drosten, der zugibt, nichts zum Thema Vitamin D beitragen zu können. So ging er in einem Podcast auf die Frage ein, ob das Immunsystem denn zum Beispiel durch die Gabe des „Sonnenvitamins“ zu wappnen sei. „Also irgendwelche Dinge zu nehmen, irgendwelche Vitamine, … das ist nicht mein Forschungsgebiet, damit kenne ich mich überhaupt nicht aus.“[^17]
 
-###Anträge, Offene Briefe und Appelle
+### Anträge, Offene Briefe und Appelle
 
 Den Antrag der AfD-Fraktion im Bundestag aus dem Jahr 2020, „die Bevölkerung in Deutschland umfassend über die gesundheitlichen Folgen einer mangelhaften oder suboptimalen Vitamin-D-Versorgung in Bezug auf akute Atemwegserkrankungen und andere Erkrankungen“ zu informieren,[^18] lehnte man ab.[^19] Die beachtliche Zahl an offenen Briefen, die die Bundesregierung, die Landesregierungen und die Abgeordneten im Laufe der vergangenen zwei Jahre aus allen Kreisen der Bevölkerung erreichten, zeigte keine Wirkung. Der unermüdlich um Aufklärung bemühte Allgemeinmediziner Raimund von Helden[^20] bezeichnete die Ergebnisse der bereits angesprochenen Studie von Marta Castillo[^10] als ein „Erdbeben der Heilung, das man überall hätte aufgreifen müssen“, und richtete einen offenen Appell an die Ex-Bundeskanzlerin: „Frau Merkel, erinnern Sie an Vitamin D!“[^21] Der frühere Chefarzt und Professor für Nuklearmedizin Jörg Spitz startete einen Aufruf zur Vitamin-D-Offensive 2021 gegen COVID-19,[^22] und mehr als 200 Wissenschaftlerinnen und Wissenschaftler forderten in einem offenen Brief „eine sofortige, weitverbreitete erhöhte Vitamin-D-Aufnahme“ zur Bekämpfung von COVID-19. Dieses Schreiben erhielten alle Regierungen, Beamte des öffentlichen Gesundheitswesens, Ärzte und Beschäftigte im Gesundheitswesen und endete mit den Worten: „Bitte handeln Sie sofort.“[^23]
 
-###Das Handeln bleibt aus
+### Das Handeln bleibt aus
 
 Doch alles Bitten, Betteln und Flehen verpuffte. Bis zum heutigen Tag. Das Robert Koch-Institut empfiehlt zwar das Auffüllen leerer Vitaminspeicher, wenn „ein erhöhtes Risiko für COVID-19 besteht oder bereits eine COVID-19- Erkrankung vorliegt“, gibt aber „keine Empfehlung zur routinemäßigen Verwendung von Vitamin D zur Prophylaxe oder … Therapie von SARS-CoV-2-Infektionen“.[^24] Ex-Bundeskanzlerin Angela Merkel zeigte sich mit ihrem Kurs in der Pandemie zufrieden: „Wir haben das Menschenmögliche getan.“[^25] 
 
-###Die Suche nach Gründen, oder: Ein fragwürdiger Umgang mit Gesundheit
+### Die Suche nach Gründen, oder: Ein fragwürdiger Umgang mit Gesundheit
 
 Wird Vitamin D, das als Kapsel oder Öl eingenommen schon in den vergangenen beiden Pandemie-Wintern den „Sommer-Sofort-Effekt“[^19] hätte liefern und den Lockdown verhindern können, womöglich vorsätzlich ignoriert? Wenn ja, was könnte der Grund sein für dieses Unterschlagen gesundheitsrelevanter Erkenntnisse aus der Wissenschaft?
 
@@ -44,7 +44,7 @@ Ist Vitamin D womöglich eine immense Konkurrenz, die man auf Biegen und Breche
 
 Der Mediziner und Sozialpsychiater Klaus Dörner[^31] skizzierte den allgemeinen Missstand im Gesundheitssystem, der sich auch im Umgang mit Vitamin D ausdrückt, mit scharfen Worten. Man komme um die „bedrückende Feststellung nicht herum, dass wir … falsch mit Gesundheit umgehen – mit katastrophalen Folgen für die Entwicklung der Gesundheit als Mittel der Vitalität“.[^32] Die Gesundheitsgesellschaft treibe der Gesellschaft mit der Gesundheit die Vitalität aus. Auch die Corona-Politik treibt den Menschen die Vitalität aus mit Mitteln, von denen sie glaubt, die Gesundheit zu schützen – die Pflicht zum Tragen von FFP2-, FFP3- und OP-Masken[^2] ist ein Beispiel hierfür –, statt jeden Einzelnen in die Lage zu versetzen, Gesundheit und Vitalität trotz eines kursierenden Virus erhalten zu können. Die Tatsache, dass den Menschen ein mit ziemlicher Sicherheit wirksames Mittel, das Anlass zur Hoffnung auf den Ausweg aus der Pandemie gibt, vorenthalten wird, ist ethisch mindestens fragwürdig.
 
-###Eine Utopie zum Schluss
+### Eine Utopie zum Schluss
 
 Angenommen, die Politik trüge den Verfassern der offenen Briefe, der Appelle und der aktuellen Erkenntnisse aus der Forschung Rechnung und ordnete die Einnahme von Vitamin D und Co-Faktoren[^33] unter ärztlicher Kontrolle an, wie sie das Tragen von Mund-Nase-Masken und das Abstandhalten angeordnet hat. Was wäre, wenn nach gewisser Zeit der Einnahme kaum jemand mehr an COVID-19 erkrankte oder allenfalls nur leichte Symptome zeigte, wenn nur noch wenige Menschen an „Erkältung“ oder Grippe litten? Das wäre doch schön! Oder?
 
