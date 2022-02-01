@@ -601,6 +601,9 @@ COVID-19:
   - Spektrum der neurologischen Komplikationen nach COVID-19-Impfung
 - - "/studies/2021/11/20/2021-11-20_10.1016_S0140-6736(21)02243-1.html"
   - 'COVID-19: Stigmatisierung der Ungeimpften ist nicht gerechtfertigt'
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
 - - "/studies/2021/12/29/2021-12-29_10.1101_2021.03.12.21253490.html"
   - Serum-Vitamin-D-Spiegel sind unabhängig von viszeraler Adipositas mit erhöhtem
     COVID-19-Schweregrad und erhöhter Sterblichkeit verbunden
@@ -1567,6 +1570,11 @@ SARS-CoV-2:
 - - "/studies/2021/08/21/2021-08-21_10.1016_j.jshs.2021.08.001.html"
   - Kein unabhängiger Zusammenhang zwischen körperlicher Aktivität und klinischen
     Ergebnissen bei hospitalisierten Patienten mit mittelschwerer bis schwerer COVID-19
+- - "/studies/2021/10/30/2021-10-30_10.1007_s10072-021-05662-9.html"
+  - Spektrum der neurologischen Komplikationen nach COVID-19-Impfung
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
 - - "/studies/2021/05/21/2021-05-21_10.3390_nu13061760.html"
   - 'Calcifediol-Behandlung und Krankenhaussterblichkeit aufgrund von COVID-19: Eine
     Kohortenstudie'
@@ -1774,6 +1782,8 @@ SARS-CoV-2:
     randomisierter kontrollierter Studien'
 - - "/studies/2021/09/29/2021-09-29_10.3390_ijms221910559.html"
   - 'Vitamin D und COVID-19: Ein Überblick über die jüngste Evidenz'
+- - "/studies/2021/12/14/2021-12-14_10.4314_ahs.v21i4.3.html"
+  - 'COVID-19 in Afrika: Überdenken der Instrumente zur Bewältigung künftiger Pandemien'
 - - "/studies/2020/08/23/2020-08-23_0.3390_nu12092550.html"
   - Könnten Vitamine bei der Bekämpfung von COVID-19 helfen?
 - - "/studies/2021/07/22/2021-07-22_10.1080_22221751.2021.1953403.html"
@@ -3518,6 +3528,9 @@ Coronavirus:
 - - "/studies/2020/01/20/2021-01-20_10.1038_s42003-020-01577-x.html"
   - Identifizierung von Inhibitoren der 3-Chymotrypsin-ähnlichen Protease (3CLPro)
     als potenzielle Wirkstoffe gegen SARS-CoV-2
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
 - - "/studies/2021/10/14/2021-10-14_10.1186_s43088-021-00163-2.html"
   - Vitamine und andere immununterstützende Elemente als Kofaktoren für das Überstehen
     der COVID-19-Pandemie
@@ -5616,6 +5629,9 @@ Lockdown:
 - - "/studies/2021/01/15/2021-01-15_10.3389_fpsyg.2020.624567.html"
   - 'Auswirkungen der COVID-19-Pandemie auf das körperliche Aktivitätsniveau von Universitätsstudenten:
     Eine frühe systematische Überprüfung'
+- - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
+  - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
+    körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
 - - "/studies/2022/01/17/2022-01-17_10.4025_actascihealthsci.v44i1.57231.html"
   - Ernährung, körperliche Aktivität und psychologischer Zustand während des Lodkdown
     aufgrund von Covid-19
@@ -5708,6 +5724,9 @@ Körperliche Aktivität:
 - - "/studies/2021/12/27/2021-12-27_10.1016_j.pmedr.2021.101680.html"
   - 'Häufigkeit der körperlichen Betätigung während der COVID-19-Pandemie: Eine Längsschnitt-Wahrscheinlichkeitserhebung
     in der US-Bevölkerung'
+- - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
+  - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
+    körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
 - - "/studies/2021/12/31/2021-12-31_JNHS_ISSN_2798-1118.html"
   - Die Beziehung zwischen körperlicher Aktivität und der Verbesserung des Immunsystems
     in der Covid-19-Prävention im Dorf Sebelimbingan Rt.03, Pulau Laut Utara District,
@@ -5794,6 +5813,9 @@ Vitamin:
   - Positive Auswirkungen von Vitaminen, Mineralien und bioaktiven Peptiden auf die
     Stärkung des Immunsystems gegen COVID-19 und die Rolle der Kuhmilch bei der Versorgung
     mit diesen Nährstoffen
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
 - - "/studies/2020/08/23/2020-08-23_0.3390_nu12092550.html"
   - Könnten Vitamine bei der Bekämpfung von COVID-19 helfen?
 Adaptive Immunität:
@@ -6001,10 +6023,6 @@ VITT-Modell:
 - - "/studies/2021/05/19/2021-05-19_10.1016_j.jaut.2021.102662.html"
   - Mechanismen der Immunthrombose bei impfstoffinduzierter thrombotischer Thrombozytopenie
     (VITT) im Vergleich zur natürlichen SARS-CoV-2-Infektion
-Physical activity:
-- - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
-  - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
-    körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
 Wearable:
 - - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
   - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
@@ -6013,11 +6031,7 @@ Smartwatch:
 - - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
   - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
     körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
-Sedentary behavior:
-- - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
-  - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
-    körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
-Lockdow:
+sesshaftes Verhalten:
 - - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
   - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
     körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
@@ -6590,6 +6604,9 @@ Nahrungsergänzung:
   - Die Rolle von Mikronährstoffen zur Unterstützung der Immunität für die COVID-19-Prävention
 - - "/studies/2020/05/20/2020-05-20_10.1016_S2213-8587(20)30183-2.html"
   - 'Vitamin-D und COVID-19: Bildet ein Mangel ein Risiko für einen schwereren Verlauf?'
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
 - - "/studies/2021/12/03/2021-12-03_10.1093_ajcn_nqab389.html"
   - Zusammenhänge zwischen Vitamin-D-Status, Vitamin-D-Zufuhr und dem Risiko einer
     SARS-CoV-2-Infektion und dem Schweregrad der Coronavirus-Erkrankung 2019
@@ -8300,11 +8317,6 @@ SARS-CoV-2 Immunantworten:
 - - "/studies/2021/10/08/2021-10-08_10.1126_science.abh1823.html"
   - Kreuzreaktive CD4+ T-Zellen verstärken die SARS-CoV-2-Immunantwort bei Infektion
     und Impfung
-SARS-COV-2:
-- - "/studies/2021/10/30/2021-10-30_10.1007_s10072-021-05662-9.html"
-  - Spektrum der neurologischen Komplikationen nach COVID-19-Impfung
-- - "/studies/2021/12/14/2021-12-14_10.4314_ahs.v21i4.3.html"
-  - 'COVID-19 in Afrika: Überdenken der Instrumente zur Bewältigung künftiger Pandemien'
 Stigmatisierung:
 - - "/studies/2021/11/20/2021-11-20_10.1016_S0140-6736(21)02243-1.html"
   - 'COVID-19: Stigmatisierung der Ungeimpften ist nicht gerechtfertigt'
@@ -8317,6 +8329,13 @@ Geimpfte:
 Rolle bei der Übertragung:
 - - "/studies/2021/11/20/2021-11-20_10.1016_S0140-6736(21)02243-1.html"
   - 'COVID-19: Stigmatisierung der Ungeimpften ist nicht gerechtfertigt'
+Schweres Akutes Respiratorisches Syndrom:
+- - "/studies/2021/10/06/2021-10-06_10.7573_dic.2021-6-2.html"
+  - 'Vitamine, Nahrungsergänzungsmittel und COVID-19: eine Übersicht über die derzeit
+    verfügbaren Daten'
+- - "/studies/2021/06/22/2021-06-22_10.2147_IJGM.S317421.html"
+  - 'Der Zusammenhang zwischen Vitamin D und Infektionen einschließlich COVID-19:
+    besteht Hoffnung?'
 Impfverzögerung:
 - - "/studies/2021/12/27/2021-12-27_10.5281_zenodo.xxxxxxx.html"
   - Eine Überprüfung des Einsatzes von Überzeugung und Zwang zur Überwindung der COVID-19-Impfstoff-Zögerlichkeit
@@ -10680,10 +10699,6 @@ HIV:
   - 'Der Zusammenhang zwischen Vitamin D und Infektionen einschließlich COVID-19:
     besteht Hoffnung?'
 Humanes Immundefizienz-Virus:
-- - "/studies/2021/06/22/2021-06-22_10.2147_IJGM.S317421.html"
-  - 'Der Zusammenhang zwischen Vitamin D und Infektionen einschließlich COVID-19:
-    besteht Hoffnung?'
-Schweres Akutes Respiratorisches Syndrom:
 - - "/studies/2021/06/22/2021-06-22_10.2147_IJGM.S317421.html"
   - 'Der Zusammenhang zwischen Vitamin D und Infektionen einschließlich COVID-19:
     besteht Hoffnung?'
