@@ -963,9 +963,6 @@ COVID-19:
 - - "/studies/2021/11/12/2021-11-10_10.4269_ajtmh.21-0577.html"
   - Bewertung des Vitamin-D-Status und dessen Zusammenhang mit den klinischen Ergebnissen
     bei COVID-19-Patienten in Pakistan
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2021/12/14/2021-12-14_10.3390_nu13124459.html"
   - 'Bekämpfung sitzender Verhaltensweisen durch körperliche Betätigung aus der Ferne
     bei Kindern und Jugendlichen mit Adipositas in der COVID-19-Ära: Ein narrativer
@@ -1939,9 +1936,6 @@ Epigallocatechingallat:
 - - "/studies/2021/06/17/2021-06-17_10.1155_2021_6622410.html"
   - Kandidaten für Anti-COVID-19-Heilpflanzen aus Äthiopien. Eine Übersicht über Pflanzen,
     die traditionell zur Behandlung von Viruskrankheiten verwendet werden
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
   - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
     bei SARS-CoV-2
@@ -4748,9 +4742,6 @@ Hesperidin:
 - - "/studies/2021/06/17/2021-06-17_10.1155_2021_6622410.html"
   - Kandidaten für Anti-COVID-19-Heilpflanzen aus Äthiopien. Eine Übersicht über Pflanzen,
     die traditionell zur Behandlung von Viruskrankheiten verwendet werden
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2021/01/25/2021-01-25_10.5772_intechopen.95529.html"
   - 'Neubewertung von Phytochemikalien aus der Nahrung bei Coronavirus-Infektionen:
     Fokus auf Hesperidin und Quercetin'
@@ -5499,9 +5490,6 @@ ACE2:
 - - "/studies/2021/10/25/2021-10-25_10.3390_ijms222111483.html"
   - 'ACE2 und angeborene Immunität bei der Regulierung von SARS-CoV-2-induzierten
     akuten Lungenschädigungen: Ein Überblick'
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2020/06/25/2020-06-25_10.1002_rmv.2119.html"
   - 'Ein kurzer Überblick über das Zusammenspiel von Vitamin D und Angiotensin-konvertierendem
     Enzym 2: Implikationen für eine mögliche Behandlung von COVID-19'
@@ -5531,9 +5519,6 @@ Quercetin:
     und Behandlung von SARS-CoV-2-bedingten Erkrankungen (COVID-19)'
 - - "/studies/2021/12/11/2021-12-11_journal-of-chiropractic-medicine_j.jcm.2021.12.005.html"
   - Eine explorative Überprüfung möglicher Zusatztherapien zur Behandlung von Coronavirus-Infektionen
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2021/01/25/2021-01-25_10.5772_intechopen.95529.html"
   - 'Neubewertung von Phytochemikalien aus der Nahrung bei Coronavirus-Infektionen:
     Fokus auf Hesperidin und Quercetin'
@@ -6224,10 +6209,16 @@ Cannabis:
 - - "/studies/2021/12/02/2021-12-02_10.1007_s00044-021-02826-22.html"
   - Eine Übersicht über Naturstoffe, ihre Wirkungen auf SARS-CoV-2 und ihre Nützlichkeit
     als Leitverbindungen bei der Entdeckung von Medikamenten zur Behandlung von COVID-19
-Atemwegsinfektion:
+Atemwegsinfektionen:
 - - "/studies/2022/01/20/2022-01-20_10.3390_ijerph19031125.html"
   - Mikronährstoffmangel als Störfaktor bei der Ermittlung der Rolle von Fettleibigkeit
     bei schwerer COVID-19-Infektion
+- - "/studies/2021/11/16/2021-11-16_10.3390_ijerph182212001.html"
+  - Die Rolle pflanzlicher und ernährungsphysiologischer Behandlungen im Kampf gegen
+    COVID-19 und andere Atemwegsinfektionen
+- - "/studies/2021/10/28/2021-10-28_10.37184_lnjpc.2707-3521.3.20.html"
+  - 'Vitamin E und Immunsystem: Ein schützender Nährstoff gegen Influenza und COVID-19
+    bei älteren Menschen'
 Vitamin-D-Status:
 - - "/studies/2020/11/30/2020-11-30_0.3892_ijmm.2020.4802.html"
   - Enträtselung der Rolle des Vitamin-D-Status und des Melanins bei Covid-19
@@ -6622,6 +6613,8 @@ Atemwegserkrankungen:
 - - "/studies/2021/11/02/2021-11-02_10.1111_cts.13044.html"
   - Möglicher Nutzen einer Vitamin-D-Supplementierung bei Menschen mit Atemwegserkrankungen
     während der COVID-19-Pandemie
+- - "/studies/2021/12/16/2021-12-16_10.9734_JPR_2021_v33i59A34296.html"
+  - Vitamin D, ein Prädiktor für den Verlauf der COVID-19-Erkrankung
 Oxidativer Stress:
 - - "/studies/2021/10/24/2021-10-24_10.1007_s12011-021-02997-4.html"
   - 'COVID-19 und Selenmangel: ein systematischer Überblick'
@@ -6868,9 +6861,6 @@ Baicalin:
 - - "/studies/2021/08/15/2021-08-15_10.1002_ptr.7228.html"
   - 'Kombination aus natürlichen Virostatika und starken Immunstärkungsmitteln: Ein
     natürliches Mittel zur Bekämpfung von COVID-19'
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 - - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
   - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
     bei SARS-CoV-2
@@ -6904,13 +6894,6 @@ Virus:
   - Mögliche physiologische und zelluläre Mechanismen von Bewegung, die das Risiko
     schwerer Komplikationen und der Sterblichkeit nach einer SARS-CoV-2-Infektion
     verringern
-Atemwegsinfektionen:
-- - "/studies/2021/11/16/2021-11-16_10.3390_ijerph182212001.html"
-  - Die Rolle pflanzlicher und ernährungsphysiologischer Behandlungen im Kampf gegen
-    COVID-19 und andere Atemwegsinfektionen
-- - "/studies/2021/10/28/2021-10-28_10.37184_lnjpc.2707-3521.3.20.html"
-  - 'Vitamin E und Immunsystem: Ein schützender Nährstoff gegen Influenza und COVID-19
-    bei älteren Menschen'
 Chinesische Kräutermedizin:
 - - "/studies/2021/11/16/2021-11-16_10.3390_ijerph182212001.html"
   - Die Rolle pflanzlicher und ernährungsphysiologischer Behandlungen im Kampf gegen
@@ -8729,9 +8712,6 @@ Verhaltensänderung:
 schlechte Prognose:
 - - "/studies/2021/12/16/2021-12-16_10.9734_JPR_2021_v33i59A34296.html"
   - Vitamin D, ein Prädiktor für den Verlauf der COVID-19-Erkrankung
-Atemwegserkrankung:
-- - "/studies/2021/12/16/2021-12-16_10.9734_JPR_2021_v33i59A34296.html"
-  - Vitamin D, ein Prädiktor für den Verlauf der COVID-19-Erkrankung
 Bevölkerung:
 - - "/studies/2022/01/01/2022-01-01_10.3923_pjbs.2022.1.8.html"
   - 'COVID-19: Ein Überblick über die Rolle von Spurenelementen in traditionellen
@@ -9667,79 +9647,6 @@ Masern:
 - - "/studies/2021/12/05/2021-12-05_10.31219_osf.io_swc7x.html"
   - Verzögerung bei der Bewertung von Vitamin-D-Zusätzen und Lebendimpfstoffen gegen
     Tuberkulose, Polio und Masern zum Schutz der Menschen vor Covid-19
-Angiotensin-konvertierendes Enzym 2:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2020/06/25/2020-06-25_10.1002_rmv.2119.html"
-  - 'Ein kurzer Überblick über das Zusammenspiel von Vitamin D und Angiotensin-konvertierendem
-    Enzym 2: Implikationen für eine mögliche Behandlung von COVID-19'
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Flavanoide:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Epicatechin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Naringenin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Rutin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Luteolin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Diosmin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Genistein:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Biochanin A:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-Silymarin:
-- - "/studies/2021/03/21/2021-03-21_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
-- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
-    bei SARS-CoV-2
 Kinder-Adipositas:
 - - "/studies/2021/12/14/2021-12-14_10.3390_nu13124459.html"
   - 'Bekämpfung sitzender Verhaltensweisen durch körperliche Betätigung aus der Ferne
@@ -9771,6 +9678,13 @@ Hypoxie:
 intermittierende hypoxische Präkonditionierung:
 - - "/studies/2021/12/22/2021-12-22_10.3389_fimmu.2021.761382.html"
   - Die Rolle der Trainingsintensität auf Th1/Th2-Immunmodulationen während der COVID-19-Pandemie
+Angiotensin-konvertierendes Enzym 2:
+- - "/studies/2020/06/25/2020-06-25_10.1002_rmv.2119.html"
+  - 'Ein kurzer Überblick über das Zusammenspiel von Vitamin D und Angiotensin-konvertierendem
+    Enzym 2: Implikationen für eine mögliche Behandlung von COVID-19'
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
 neutralisierende Antikörperreaktion:
 - - "/studies/2021/07/30/2021-07-30_10.1101_2021.07.27.21261237.html"
   - Korrelate der neutralisierenden/SARS-CoV-2-S1-bindenden Antikörperreaktion mit
@@ -10356,6 +10270,42 @@ Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie:
 - - "/studies/2021/06/17/2021-06-17_10.1111_ijlh.13629.html"
   - Labortests bei Verdacht auf COVID-19-Impfstoff-induzierte (immunologische) thrombotische
     Thrombozytopenie
+Flavanoide:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Epicatechin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Naringenin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Rutin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Luteolin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Diosmin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Genistein:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Biochanin A:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
+Silymarin:
+- - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
+  - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
+    bei SARS-CoV-2
 mRNA:
 - - "/studies/2021/04/21/2021-04-21_10.1056_NEJMoa2104983.html"
   - Vorläufige Ergebnisse zur Sicherheit des mRNA-Impfstoffs Covid-19 bei Schwangeren
