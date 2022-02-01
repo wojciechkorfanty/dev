@@ -25,6 +25,9 @@ COVID-19:
 - - "/studies/2021/09/30/2021-09-30_10.1007_s10654-021-00808-7.html"
   - Anstieg von COVID-19 steht in 68 Ländern und 2947 Bezirken in den Vereinigten
     Staaten in keinem Zusammenhang mit dem Grad der Impfung
+- - "/studies/2021/02/26/2021-02-26_10.1038_s41366-021-00776-8.html"
+  - 'Adipositas in der COVID-19-Ära, Implikationen für Mechanismen, Komorbiditäten
+    und Prognose: eine Übersichtsarbeit und Meta-Analyse'
 - - "/studies/2020/08/08/2020-08-08_10.1016_j.maturitas.2020.08.003.html"
   - 'Die immunstärkende Rolle der Vitamine D, C, E, Zink, Selen und Omega-3-Fettsäuren:
     Könnten sie gegen COVID-19 helfen?'
@@ -877,6 +880,9 @@ COVID-19:
   - SARS-CoV-2-Positivitätsraten in Verbindung mit zirkulierenden 25-Hydroxyvitamin-D-Spiegeln
 - - "/studies/2021/12/27/2021-12-27_10.1016_j.maturitas.2021.12.009.html"
   - 'Beschleunigte Alterung bei der COVID-19-Pandemie: Ein Dilemma für gesundes Altern'
+- - "/studies/2020/12/03/2020-12-03_10.18087_cardio.2020.11.n1440.html"
+  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
+    und Spironolacton bei hospitalisierungspflichtiger Coronavirus-Infektion (BISCUIT)"'
 - - "/studies/2021/11/18/2021-11-18_dspace-repositorium_20.500.12988_487.html"
   - Supplementierungstendenzen von Vitamin C und D bei leicht erkrankten COVID-19-Patienten
     in Blantyre, Malawi
@@ -902,6 +908,9 @@ COVID-19:
 - - "/studies/2021/10/25/2021-10-25_10.3390_ijms222111483.html"
   - 'ACE2 und angeborene Immunität bei der Regulierung von SARS-CoV-2-induzierten
     akuten Lungenschädigungen: Ein Überblick'
+- - "/studies/2021/05/20/2021-05-20_10.1038_s41598-021-90189-4.html"
+  - Auswirkungen einer täglichen hochdosierten oralen Vitamin-D-Therapie auf die Entzündungsmarker
+    bei Patienten mit COVID 19-Krankheit
 - - "/studies/2022/01/08/2022-01-08_10.3390_healthcare10010122.html"
   - 'Teilnahme an sportlichen Aktivitäten vor und nach dem Ausbruch von COVID-19:
     Analyse der Daten aus der nationalen Sportbeteiligungserhebung 2020 in Korea'
@@ -3144,13 +3153,6 @@ Covid-19-Krankheit:
   - Der Zusammenhang zwischen dem Vitamin-D-Status und Interleukin-6 (IL-6), D-Dimer
     und dem Schweregrad der Covid-19-Krankheit in einer Stichprobe der irakischen
     Bevölkerung
-COVID 19:
-- - "/studies/2021/02/26/2021-02-26_10.1038_s41366-021-00776-8.html"
-  - 'Adipositas in der COVID-19-Ära, Implikationen für Mechanismen, Komorbiditäten
-    und Prognose: eine Übersichtsarbeit und Meta-Analyse'
-- - "/studies/2021/05/20/2021-05-20_10.1038_s41598-021-90189-4.html"
-  - Auswirkungen einer täglichen hochdosierten oralen Vitamin-D-Therapie auf die Entzündungsmarker
-    bei Patienten mit COVID 19-Krankheit
 Krankheitsschwere:
 - - "/studies/2021/02/26/2021-02-26_10.1038_s41366-021-00776-8.html"
   - 'Adipositas in der COVID-19-Ära, Implikationen für Mechanismen, Komorbiditäten
@@ -6368,7 +6370,7 @@ Angiotensin-konvertierendes Enzym:
 - - "/studies/2021/10/04/2021-10-04_10.1016_j.jiph.2021.09.022.html"
   - Mögliche Vorteile der Einnahme von Zink bei kardiovaskulären Erkrankungen und
     COVID-19-Komorbidität
-CVD und COVID 19 Komorbidität:
+CVD und COVID-19 Komorbidität:
 - - "/studies/2021/10/04/2021-10-04_10.1016_j.jiph.2021.09.022.html"
   - Mögliche Vorteile der Einnahme von Zink bei kardiovaskulären Erkrankungen und
     COVID-19-Komorbidität
@@ -7999,13 +8001,6 @@ Rauchen:
   - Veränderungen der Stressbewältigung, des Alkoholkonsums, des Zigarettenrauchens
     und der körperlichen Aktivität während einer COVID-19-bedingten Schließung bei
     Medizinstudenten in Polen
-COVID 19; Spironolacton; Bromhexin; SHOKS-COVID:
-- - "/studies/2021/12/03/2021-01-27_10.18087_cardio.2020.11.n1440.html"
-  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
-    und Spironolacton bei hospizpflichtiger Coronavirus-Infektion (BISCUIT)"'
-- - "/studies/2020/12/03/2020-12-03_10.18087_cardio.2020.11.n1440.html"
-  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
-    und Spironolacton bei hospitalisierungspflichtiger Coronavirus-Infektion (BISCUIT)"'
 AZD7442:
 - - "/studies/2021/12/11/2021-12-11_revista-espanola-de-quimioterapia_158.2021.html"
   - 'Pharmakologische Behandlung von COVID-19: ein Meinungsbild'
@@ -9333,6 +9328,18 @@ beschleunigte Alterung:
 Informations- und Kommunikationstechnologien:
 - - "/studies/2021/12/27/2021-12-27_10.1016_j.maturitas.2021.12.009.html"
   - 'Beschleunigte Alterung bei der COVID-19-Pandemie: Ein Dilemma für gesundes Altern'
+Spironolacton:
+- - "/studies/2020/12/03/2020-12-03_10.18087_cardio.2020.11.n1440.html"
+  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
+    und Spironolacton bei hospitalisierungspflichtiger Coronavirus-Infektion (BISCUIT)"'
+Bromhexin:
+- - "/studies/2020/12/03/2020-12-03_10.18087_cardio.2020.11.n1440.html"
+  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
+    und Spironolacton bei hospitalisierungspflichtiger Coronavirus-Infektion (BISCUIT)"'
+SHOKS-COVID:
+- - "/studies/2020/12/03/2020-12-03_10.18087_cardio.2020.11.n1440.html"
+  - 'Ergebnisse der offenen, nicht-randomisierten klinischen Vergleichsstudie: "Bromhexin
+    und Spironolacton bei hospitalisierungspflichtiger Coronavirus-Infektion (BISCUIT)"'
 Lactoferrin:
 - - "/studies/2021/02/15/2021-02-15_10.1186_s13052-021-00990-0.html"
   - Könnten Nahrungsergänzungsmittel als therapeutische Adjuvantien bei COVID-19 wirken?
