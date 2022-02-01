@@ -50,6 +50,8 @@ Der Mediziner und Sozialpsychiater Klaus Dörner[^31] skizzierte den allgemeinen
 
 Angenommen, die Politik trüge den Verfassern der offenen Briefe, der Appelle und der aktuellen Erkenntnisse aus der Forschung Rechnung und ordnete die Einnahme von Vitamin D und Co-Faktoren[^33] unter ärztlicher Kontrolle an, wie sie das Tragen von Mund-Nase-Masken und das Abstandhalten angeordnet hat. Was wäre, wenn nach gewisser Zeit der Einnahme kaum jemand mehr an COVID-19 erkrankte oder allenfalls nur leichte Symptome zeigte, wenn nur noch wenige Menschen an „Erkältung“ oder Grippe litten? Das wäre doch schön! Oder?
 
+*Anna Luise Fennberg arbeitet im Öffentlichen Sektor und schreibt hier unter einem Pseudonym.
+
 [^1]: [Landessportverband Baden-Württemberg (2021): Aktuelle Informationen des LSVBW zum SARS-CoV-2 – Covid-19 (Coronavirus) Dezember 2020](https://www.lsvbw.de/coronavirus/#5d2bda05515b8f3f8) 
 [^2]: [Die Bundesregierung (2021): OP-Masken, FFP2, KN95. So schützen uns Masken im Alltag.](https://www.bundesregierung.de/breg-de/aktuelles/regelung-zu-masken-1842704)
 [^3]:  [Chemie.de (2021): Cholecaliferol](https://www.chemie.de/lexikon/Cholecalciferol.html) 
