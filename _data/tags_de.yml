@@ -822,8 +822,6 @@ COVID-19:
   - 'COVID-19-Patienten in ambulanter Behandlung: Frühe risikostratifizierte Behandlung
     mit Zink plus niedrig dosiertem Hydroxychloroquin und Azithromycin: eine retrospektive
     Fallserienstudie'
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 - - "/studies/2021/09/13/2021-09-13_10.1016_S0140-6736(21)02046-8.html"
   - Überlegungen zur Verstärkung der Immunantwort auf den COVID-19-Impfstoff
 - - "/studies/2021/12/08/2021-12-08_researchgate_355581860.html"
@@ -1652,8 +1650,6 @@ SARS-CoV-2:
   - 'COVID-19-Patienten in ambulanter Behandlung: Frühe risikostratifizierte Behandlung
     mit Zink plus niedrig dosiertem Hydroxychloroquin und Azithromycin: eine retrospektive
     Fallserienstudie'
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 - - "/studies/2021/12/08/2021-12-08_researchgate_355581860.html"
   - Groß angelegte Studie zum Abklingen des Antikörpertiters nach BNT162b2 mRNA-Impfstoff
     oder SARS-CoV-2-Infektion
@@ -2242,8 +2238,6 @@ Vitamin D:
 - - "/studies/2020/10/20/2020-10-20_10.1016_j.cct.2020.106176.html"
   - 'Die Vitamin D für COVID-19 (VIVID) Studie: Ein pragmatisches cluster-randomisiertes
     Design'
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 - - "/studies/2021/01/01/2021-01-01_10.1016_j.ijid.2020.12.077.html"
   - 'Niedriger Vitamin-D-Status steht in Zusammenhang mit den Ergebnissen der Coronavirus-Erkrankung
     2019: eine systematische Überprüfung und Meta-Analyse'
@@ -2542,8 +2536,6 @@ Calcitriol:
     werden: Ergebnisse einer systematischen Überprüfung und Meta-Analyse'
 - - "/studies/2021/09/24/2021-09-24_10.1007_s11154-021-09683-9.html"
   - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 - - "/studies/2021/01/16/2021-01-16_10.3390_ijerph18020740.html"
   - Kann eine optimale Sonnenbestrahlung oder eine zusätzliche Vitamin-D-Zufuhr die
     Schwere der COVID-19-Symptome verringern?
@@ -2751,6 +2743,9 @@ Immunantwort:
   - Stellen COVID-19-Impfstoffe auf RNA-Basis ein Risiko für immunvermittelte Krankheiten
     dar? Antwort auf "Potenzielle antigene Kreuzreaktivität zwischen SARS-CoV-2 und
     menschlichem Gewebe mit möglicher Verbindung zu einer Zunahme von Autoimmunerkrankungen"
+- - "/studies/2022/01/10/2022-01-10_10.1038_s41467-021-27674-x.html"
+  - Kreuzreaktive Gedächtnis-T-Zellen stehen in Zusammenhang mit dem Schutz vor einer
+    SARS-CoV-2-Infektion bei COVID-19-Kontakten
 - - "/studies/2022/01/15/2022-01-15_10.1016_j.genrep.2022.101509.html"
   - Serumspiegel von Vitamin D und Funktion des Immunsystems bei Patienten mit COVID-19
     auf der Intensivstation
@@ -2762,6 +2757,9 @@ Immunantwort:
   - Überlegungen zur Verstärkung der Immunantwort auf den COVID-19-Impfstoff
 - - "/studies/2021/04/17/2021-04-17_10.1016_j.intimp.2021.107686.html"
   - 'Die Rolle von Vitamin D bei der Verringerung der SARS-CoV-2-Infektion: Ein Update'
+- - "/studies/2021/05/06/2021-05-06_10.1101_2021.05.03.21256520.html"
+  - Der mRNA-Impfstoff BNT162b2 gegen SARS-CoV-2 programmiert sowohl die adaptive
+    als auch die angeborene Immunantwort um
 Metalle:
 - - "/studies/2021/03/19/2021-03-19_10.1016_j.fct.2021.112161.html"
   - 'Die Auswirkungen einiger essentieller und toxischer Metalle/Metalloide in COVID-19:
@@ -3746,10 +3744,48 @@ Immunität:
 - - "/studies/2021/12/24/2021-12-24_10.2991_assehr.k.211223.084_3.html"
   - Engagement der Gemeinschaft zur Steigerung der körperlichen Aktivität während
     der Covid-19-Pandemie
-Infektionskrankheiten; Mangelernährung; Mikrobiom; Nährstoffdefizite; Lungenerkrankung:
+Infektionskrankheiten:
 - - "/studies/2020/05/20/2020-05-20_10.1136_bmjnph-2020-000085.html"
   - Ernährung, Immunität und COVID-19
-- - "/studies/2020/04/30/2020-04-30_10.1136_bmjnph-2020-000085.html"
+- - "/studies/2021/12/22/2021-12-22_10.3390_nu14010024.html"
+  - Das Exposom und die Gesundheit des Immunsystems in Zeiten der COVID-19-Pandemie
+- - "/studies/2021/01/08/2021-01-08_10.3390_nu13010180.html"
+  - Magnesium bei Infektionskrankheiten älterer Menschen
+- - "/studies/2021/12/15/2021-12-15_10.1093_fampra_cmab167.html"
+  - Ambulante Verschreibungsmuster von COVID-19-Medikamenten im Großraum Mexiko-Stadt
+- - "/studies/2021/06/08/2021-06-08_10.2147_IJGM.S318720.html"
+  - 'Mögliche therapeutische Effekte einer adjuvanten Quercetin-Supplementierung gegen
+    eine COVID-19-Infektion im Frühstadium: Eine prospektive, randomisierte, kontrollierte
+    und unverblindete Studie'
+Mangelernährung:
+- - "/studies/2020/05/20/2020-05-20_10.1136_bmjnph-2020-000085.html"
+  - Ernährung, Immunität und COVID-19
+- - "/studies/2021/03/09/2021-03-09_10.3390_ijerph18052772.html"
+  - Ansätze zum Ernährungsscreening bei Patienten mit Coronavirus-Erkrankungen 2019
+    (COVID-19)
+- - "/studies/2021/10/01/2021-10-01_10.1016_j.ecoenv.2021.112500.html"
+  - 'Nano-Biofortifikation verschiedener Nutzpflanzen zur Immunisierung gegen COVID-19:
+    Eine Übersicht'
+- - "/studies/2021/07/10/2021-07-10_10.1016_j.ecoenv.2021.112500.html"
+  - 'Nano-Biofortifikation verschiedener Nutzpflanzen zur Immunisierung gegen COVID-19:
+    Eine Übersicht'
+Mikrobiom:
+- - "/studies/2020/05/20/2020-05-20_10.1136_bmjnph-2020-000085.html"
+  - Ernährung, Immunität und COVID-19
+- - "/studies/2022/01/02/2022-01-02_10.1016_j.tifs.2021.12.033.html"
+  - 'Belege und Perspektiven für die Verwendung von Probiotika, Präbiotika, Synbiotika
+    und Postbiotika als Hilfsmittel zur Prävention und Behandlung von COVID-19: Eine
+    bibliometrische Analyse und systematische Überprüfung'
+- - "/studies/2021/03/04/2021-03-04_10.3390_microorganisms9030525.html"
+  - SARS-CoV-2-Krankheit Adjuvante Therapien und Supplemente. Durchbruch bei der Infektionsprävention
+- - "/studies/2021/09/26/2021-09-26_10.3390_nu13103378.html"
+  - 'Der Zusammenhang zwischen Vitamin D und der Darmmikrobiota: Eine systematische
+    Überprüfung von Humanstudien'
+Nährstoffdefizite:
+- - "/studies/2020/05/20/2020-05-20_10.1136_bmjnph-2020-000085.html"
+  - Ernährung, Immunität und COVID-19
+Lungenerkrankung:
+- - "/studies/2020/05/20/2020-05-20_10.1136_bmjnph-2020-000085.html"
   - Ernährung, Immunität und COVID-19
 Infektionsraten:
 - - "/studies/2021/04/09/2021-04-09_10.1016_S0140-6736(21)00675-9.html"
@@ -4855,16 +4891,6 @@ Darm-Lungen-Achse:
   - 'Belege und Perspektiven für die Verwendung von Probiotika, Präbiotika, Synbiotika
     und Postbiotika als Hilfsmittel zur Prävention und Behandlung von COVID-19: Eine
     bibliometrische Analyse und systematische Überprüfung'
-Mikrobiom:
-- - "/studies/2022/01/02/2022-01-02_10.1016_j.tifs.2021.12.033.html"
-  - 'Belege und Perspektiven für die Verwendung von Probiotika, Präbiotika, Synbiotika
-    und Postbiotika als Hilfsmittel zur Prävention und Behandlung von COVID-19: Eine
-    bibliometrische Analyse und systematische Überprüfung'
-- - "/studies/2021/03/04/2021-03-04_10.3390_microorganisms9030525.html"
-  - SARS-CoV-2-Krankheit Adjuvante Therapien und Supplemente. Durchbruch bei der Infektionsprävention
-- - "/studies/2021/09/26/2021-09-26_10.3390_nu13103378.html"
-  - 'Der Zusammenhang zwischen Vitamin D und der Darmmikrobiota: Eine systematische
-    Überprüfung von Humanstudien'
 Adipositas:
 - - "/studies/2021/07/13/2021-07-13_10.7150_thno.59293.html"
   - 'Adipositas und schwere Coronavirus-Erkrankungen 2019: Molekulare Mechanismen,
@@ -5972,13 +5998,6 @@ sesshaftes Verhalten:
 - - "/studies/2022/01/07/2022-01-07_10.1007_s11332-021-00885-x.html"
   - '"Wearables on vogue": ein Überblick über die Auswirkungen von Wearables auf die
     körperliche Aktivität und das sitzende Verhalten während der COVID-19-Pandemie'
-Immunantworten:
-- - "/studies/2022/01/10/2022-01-10_10.1038_s41467-021-27674-x.html"
-  - Kreuzreaktive Gedächtnis-T-Zellen stehen in Zusammenhang mit dem Schutz vor einer
-    SARS-CoV-2-Infektion bei COVID-19-Kontakten
-- - "/studies/2021/05/06/2021-05-06_10.1101_2021.05.03.21256520.html"
-  - Der mRNA-Impfstoff BNT162b2 gegen SARS-CoV-2 programmiert sowohl die adaptive
-    als auch die angeborene Immunantwort um
 T-Zellen:
 - - "/studies/2022/01/10/2022-01-10_10.1038_s41467-021-27674-x.html"
   - Kreuzreaktive Gedächtnis-T-Zellen stehen in Zusammenhang mit dem Schutz vor einer
@@ -6241,16 +6260,6 @@ altersbedingte nicht übertragbare Krankheiten:
 - - "/studies/2021/03/09/2021-03-09_10.3390_ijerph18052772.html"
   - Ansätze zum Ernährungsscreening bei Patienten mit Coronavirus-Erkrankungen 2019
     (COVID-19)
-Mangelernährung:
-- - "/studies/2021/03/09/2021-03-09_10.3390_ijerph18052772.html"
-  - Ansätze zum Ernährungsscreening bei Patienten mit Coronavirus-Erkrankungen 2019
-    (COVID-19)
-- - "/studies/2021/10/01/2021-10-01_10.1016_j.ecoenv.2021.112500.html"
-  - 'Nano-Biofortifikation verschiedener Nutzpflanzen zur Immunisierung gegen COVID-19:
-    Eine Übersicht'
-- - "/studies/2021/07/10/2021-07-10_10.1016_j.ecoenv.2021.112500.html"
-  - 'Nano-Biofortifikation verschiedener Nutzpflanzen zur Immunisierung gegen COVID-19:
-    Eine Übersicht'
 Ernährungsdefizite:
 - - "/studies/2021/03/09/2021-03-09_10.3390_ijerph18052772.html"
   - Ansätze zum Ernährungsscreening bei Patienten mit Coronavirus-Erkrankungen 2019
@@ -6335,17 +6344,6 @@ Umweltexposition:
 gesunder Lebensstil:
 - - "/studies/2021/12/22/2021-12-22_10.3390_nu14010024.html"
   - Das Exposom und die Gesundheit des Immunsystems in Zeiten der COVID-19-Pandemie
-Infektionskrankheiten:
-- - "/studies/2021/12/22/2021-12-22_10.3390_nu14010024.html"
-  - Das Exposom und die Gesundheit des Immunsystems in Zeiten der COVID-19-Pandemie
-- - "/studies/2021/01/08/2021-01-08_10.3390_nu13010180.html"
-  - Magnesium bei Infektionskrankheiten älterer Menschen
-- - "/studies/2021/12/15/2021-12-15_10.1093_fampra_cmab167.html"
-  - Ambulante Verschreibungsmuster von COVID-19-Medikamenten im Großraum Mexiko-Stadt
-- - "/studies/2021/06/08/2021-06-08_10.2147_IJGM.S318720.html"
-  - 'Mögliche therapeutische Effekte einer adjuvanten Quercetin-Supplementierung gegen
-    eine COVID-19-Infektion im Frühstadium: Eine prospektive, randomisierte, kontrollierte
-    und unverblindete Studie'
 Interleukin:
 - - "/studies/2021/10/02/2021-10-02_10.1016_j.clnesp.2021.09.744.html"
   - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
@@ -8311,8 +8309,6 @@ Calcifediol:
     Kohortenstudie'
 - - "/studies/2021/09/24/2021-09-24_10.1007_s11154-021-09683-9.html"
   - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 - - "/studies/2021/01/16/2021-01-16_10.3390_ijerph18020740.html"
   - Kann eine optimale Sonnenbestrahlung oder eine zusätzliche Vitamin-D-Zufuhr die
     Schwere der COVID-19-Symptome verringern?
@@ -8769,8 +8765,6 @@ globaler Süden:
   - Das Aufkommen des Freizeitradsports in Hanoi während der Covid-19-Pandemie
 Infektionskrankheiten der Atemwege:
 - - "/studies/2021/09/24/2021-09-24_10.1007_s11154-021-09683-9.html"
-  - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
-- - "/studies/2021/08/21/2021-08-21_10.1007_s11154-021-09683-9.html"
   - Klinische Aspekte der SARS-CoV-2-Infektion und Vitamin D
 wiederverwendete Medikamente:
 - - "/studies/2022/01/13/2022-01-13_10.1186_s40001-021-00626-3.html"
