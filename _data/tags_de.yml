@@ -97,9 +97,6 @@ COVID-19:
     und mehr beatmungsfreien Tagen bei beatmeten Patienten mit COVID-19 verbunden:
     Eine Propensity-Score-Analyse'
   - "/studies/2021/12/30/2021-12-30_10.1016_j.jiac.2021.12.024.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
 - - Die Rolle der Magnesium-Supplementierung für die unterstützende Therapie bei Covid-19-Infektion
   - "/studies/2021/12/30/2021-12-30_ADMJ_5438.html"
 - - 'Qualität und Inhalt von Online-Informationen zum Thema "Immunitätsstärkung" während
@@ -422,6 +419,9 @@ COVID-19:
 - - Aktuelle Informationen über Arzneimittel mit therapeutischem Potenzial für die
     Behandlung von SARS-CoV-2 (COVID-19)
   - "/studies/2021/12/09/2021-12-09_10.1016_j.drup.2021.100794.html"
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
 - - 'Die Verabreichung von Ivermectin ist mit weniger gastrointestinalen Komplikationen
     und mehr beatmungsfreien Tagen bei beatmeten Patienten mit COVID-19 verbunden:
     Eine Propensity-Score-Analyse'
@@ -1184,9 +1184,6 @@ COVID-19:
 - - Flavonoide als potentielle Phytotherapeutika zur Bekämpfung des Zytokinsturms
     bei SARS-CoV-2
   - "/studies/2021/03/30/2021-03-30_10.1002_ptr.7092.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
 - - 'Eine Übersicht: Antikörper-abhängiges Enhancement bei COVID-19: Die nicht so
     freundliche Seite der Antikörper'
   - "/studies/2021/10/10/2021-10-10_10.1177_20587384211050199.html"
@@ -1267,9 +1264,6 @@ COVID-19:
 - - 'Zink und virale Infektionen der Atemwege: Wichtiges Spurenelement für die antivirale
     Reaktion und die Immunregulation'
   - "/studies/2021/08/09/2021-08-09_10.1007_s12011-021-02859-z.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 - - 'Sonnenlichtexposition und Phototherapie: Perspektiven für gesundes Altern in
     der COVID-19-Ära'
   - "/studies/2021/10/18/2021-10-18_0.3390_ijerph182010950.html"
@@ -1425,6 +1419,8 @@ SARS-CoV-2:
     im Zusammenhang mit großen öffentlichen Versammlungen - Barnstable County, Massachusetts,
     Juli 2021 '
   - "/studies/2021/08/06/2021-08-06_10.15585_mmwr.mm7031e2.html"
+- - 'Ivermectin in der COVID-19-Behandlung: Was sind die aktuellen Erkenntnisse?'
+  - "/studies/2022/01/19/2022-01-19_10.2174_1871526522666220119114035.html"
 - - 'Impfstoffinduzierte thrombotische Thrombozytopenie: Das düstere Kapitel einer
     Erfolgsgeschichte.'
   - "/studies/2021/06/18/2021-06-18_10.1016_j.metop.2021.100101.html"
@@ -1511,6 +1507,9 @@ SARS-CoV-2:
 - - 'Zusammenhang zwischen dem Vitamin-D-Status und der SARS-CoV-2-Infektion oder
     dem Schweregrad von COVID-19: Eine systematische Überprüfung und Meta-Analyse'
   - "/studies/2021/03/05/2021-03-05_10.1093_advances_nmab090.html"
+- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
+    Übersicht
+  - "/studies/2021/10/02/2021-10-02_10.1016_j.clnesp.2021.09.744.html"
 - - Abnehmende humorale Immunantwort auf BNT162b2 Covid-19-Impfstoff über 6 Monate
   - "/studies/2021/12/09/2021-12-09_10.1056_NEJMoa2114583.html"
 - - Gibt es Beweise für eine Abschwächung der Entzündungsreaktion durch Nahrungsergänzungsmittel
@@ -1580,6 +1579,9 @@ SARS-CoV-2:
   - "/studies/2020/07/17/2020-07-17_10.1016_j.phymed.2020.153286.html"
 - - Postulierte Adjuvans-Therapiestrategien für COVID-19
   - "/studies/2020/08/05/2020-08-05_10.3390_jpm10030080.html"
+- - 'Wirkung von Bromhexin auf die klinischen Ergebnisse und die Sterblichkeit bei
+    COVID-19-Patienten: Eine randomisierte klinische Studie'
+  - "/studies/2020/07/19/2020-07-19_10.34172_bi.2020.27.html"
 - - 'Symptomatische SARS-CoV-2-Infektionen nach vollständiger BNT162b2-Impfung bei
     seropositiven Beschäftigten im Gesundheitswesen: eine Fallserie aus einer einzigen
     Einrichtung'
@@ -2012,9 +2014,6 @@ Vitamin D:
     das Ergebnis bei Patienten über 65 Jahren mit Covid-19: Umfassende Erfahrung eines
     Tertiärzentrums'
   - "/studies/2021/11/22/2021-11-22_10.31086_tjgeri.2021.254.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
 - - 'Leitartikel: Ein Überblick über Mikronährstoffe und das Immunsystem - Zusammenarbeit
     im Einklang zur Verringerung des Infektionsrisikos'
   - "/studies/2021/11/22/2021-11-22_10.3390_nu13114180.html"
@@ -2127,6 +2126,9 @@ Vitamin D:
   - "/studies/2020/12/07/2020-12-07_10.1016_j.numecd.2020.12.001.html"
 - - 'Vitamin-D und COVID-19: Bildet ein Mangel ein Risiko für einen schwereren Verlauf?'
   - "/studies/2020/05/20/2020-05-20_10.1016_S2213-8587(20)30183-2.html"
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
 - - " Die Rolle von immunmodulatorischen Nährstoffen bei der Linderung von Komplikationen
     im Zusammenhang mit SARS-CoV-2: Eine Übersichtsarbeit"
   - "/studies/2021/12/21/2021-12-21_10.1093_advances_nmab128.html"
@@ -2395,9 +2397,6 @@ Vitamin D:
 - - COVID-19-Pneumonie-Patienten mit 25(OH)D-Spiegeln unter 12 ng/ml haben ein erhöhtes
     Sterberisiko
   - "/studies/2022/01/22/2022-01-22-10.1016-j.ijid.2022.01.044.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
 - - 'Licht ins Dunkel von Vitamin D: die gemeinsame mechanistische und pathophysiologische
     Rolle von Hypovitaminose D und COVID-19-Risikofaktoren und Komplikationen'
   - "/studies/2021/06/29/2021-06-29_10.1007_s10787-021-00835-6.html"
@@ -2441,9 +2440,6 @@ Vitamin D:
   - "/studies/2021/07/30/2021-07-30_10.1007_s00203-021-02482-5.html"
 - - 'Vitamin D und COVID-19: Wo stehen wir jetzt?'
   - "/studies/2021/12/09/2021-12-09_10.2147_JIR.S323356.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 - - Immunmodulatorische und therapeutische Bedeutung von Vitamin D bei der Behandlung
     von COVID-19
   - "/studies/2022/01/24/2022-01-24-10.1080-21645515.2022.2025734.html"
@@ -2638,9 +2634,6 @@ Zytokinsturm:
     Sterblichkeit bei Patienten, die wegen COVID-19 stationär behandelt werden: Eine
     randomisierte klinische Pilotstudie'
   - "/studies/2020/08/29/2020-08-29_10.1016_j.jsbmb.2020.105751.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Pandemie:
 - - 'Vitamin-D-Regulierung des Immunsystems und seine Auswirkungen auf COVID-19: Ein
     kleiner Überblick'
@@ -2721,9 +2714,6 @@ Pandemie:
 - - Globale Datenanalyse und Risikofaktoren im Zusammenhang mit der Morbidität und
     Mortalität von COVID-19
   - "/studies/2022/01/15/2022-01-15_10.1016_j.genrep.2022.101505.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 - - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
   - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
 Entzündung:
@@ -2981,9 +2971,6 @@ Zink:
 - - 'Zink und virale Infektionen der Atemwege: Wichtiges Spurenelement für die antivirale
     Reaktion und die Immunregulation'
   - "/studies/2021/08/09/2021-08-09_10.1007_s12011-021-02859-z.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Selen:
 - - Spurenelemente als Immunregulatoren bei SARS-CoV-2 und anderen viralen Infektionen
   - "/studies/2021/01/23/2021-01-23_10.1007_s12291-021-00961-6.html"
@@ -3041,9 +3028,6 @@ Selen:
 - - Ein mechanistischer Zusammenhang zwischen Selen und Coronavirus-Erkrankungen 2019
     (COVID-19)
   - "/studies/2021/04/09/2021-04-09_10.1007_s13668-021-00354-4.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 - - 'Selen-Biofortifikation im 21. Jahrhundert: Status und Herausforderungen für eine
     gesunde menschliche Ernährung'
   - "/studies/2020/12/03/2020-12-03_10.1007_s11104-020-04635-9.html"
@@ -3310,9 +3294,6 @@ Vitamin C:
 - - 'Intravenöses hochdosiertes Vitamin C zur Behandlung von schwerem COVID-19: Studienprotokoll
     für eine multizentrische randomisierte kontrollierte Studie'
   - "/studies/2020/07/08/2020-07-08_10.1136_bmjopen-2020-039519.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Vitamin E:
 - - 'Die immunstärkende Rolle der Vitamine D, C, E, Zink, Selen und Omega-3-Fettsäuren:
     Könnten sie gegen COVID-19 helfen?'
@@ -4038,15 +4019,6 @@ Antivirus:
 Importin-Protein:
 - - 'Ivermectin in der COVID-19-Behandlung: Was sind die aktuellen Erkenntnisse?'
   - "/studies/2022/01/19/2022-01-19_10.2174_1871526522666220119114035.html"
-SARS CoV-2:
-- - 'Ivermectin in der COVID-19-Behandlung: Was sind die aktuellen Erkenntnisse?'
-  - "/studies/2022/01/19/2022-01-19_10.2174_1871526522666220119114035.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/10/02/2021-10-02_10.1016_j.clnesp.2021.09.744.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Wohlbefinden:
 - - 'Beziehung zwischen Selbstfürsorgeaktivitäten, Stress und Wohlbefinden während
     der COVID-19-Sperre: ein kulturübergreifendes Mediationsmodell'
@@ -4238,9 +4210,6 @@ Mikronährstoffe:
 - - 'Die Rolle der Ernährung bei der Anfälligkeit für COVID-19 und der Schwere der
     Erkrankung: Systematische Überprüfung'
   - "/studies/2021/05/19/2021-05-19_10.1093_jn_nxab059.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Vitamin A:
 - - Frühe Ernährungsinterventionen mit Zink, Selen und Vitamin D zur Erhöhung der
     antiviralen Resistenz gegen progressives COVID-19
@@ -4527,44 +4496,6 @@ beatmungsfreie Tage:
     und mehr beatmungsfreien Tagen bei beatmeten Patienten mit COVID-19 verbunden:
     Eine Propensity-Score-Analyse'
   - "/studies/2021/12/31/2021-12-31_10.1016_j.jiac.2021.12.024.html"
-SARS-CoV2-Infektion:
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
-Vitamin D-Mangel:
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
-- - 'Zusammenhang zwischen Vitamin-D-Mangel und der Schwere der COVID-19-Infektion:
-    Systematische Überprüfung und Meta-Analyse'
-  - "/studies/2021/06/23/2021-06-23_10.1111_cen.14540.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
-25(OH)D3:
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
-- - Nordic Walking statt hochintensivem Intervalltraining senkte die Myostatin-Konzentration
-    bei älteren Probanden effektiver, und der Umfang dieses Rückgangs wurde durch
-    die Vitamin-D-Stoffwechselprodukte modifiziert
-  - "/studies/2021/12/08/2021-12-08_10.3390_nu13124393.html"
-- - Vitamin D bei der Corona-Virus-Krankheit 2019 (COVID-19) und dem damit verbundenen
-    Multisystem-Entzündungssyndrom bei Kindern (MIS-C)
-  - "/studies/2021/03/08/2021-03-08_10.3389_fimmu.2021.648546.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
-COVID-19-Schweregrad:
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3 .html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/10/2021-03-10_10.1007_s40475-021-00236-3 .html"
 Magnesium-Supplementierung:
 - - Die Rolle der Magnesium-Supplementierung für die unterstützende Therapie bei Covid-19-Infektion
   - "/studies/2021/12/30/2021-12-30_ADMJ_5438.html"
@@ -5801,6 +5732,9 @@ SARS-CoV-2-Infektion:
 - - Kreuzreaktive Gedächtnis-T-Zellen stehen in Zusammenhang mit dem Schutz vor einer
     SARS-CoV-2-Infektion bei COVID-19-Kontakten
   - "/studies/2022/01/10/2022-01-10_10.1038_s41467-021-27674-x.html"
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
 - - Vitamin-D-Status und SARS-CoV-2-Infektion sowie klinische Ergebnisse von COVID-19
   - "/studies/2021/12/22/2021-12-22_10.3389_fpubh.2021.736665.html"
 - - Vitamin D bei der Corona-Virus-Krankheit 2019 (COVID-19) und dem damit verbundenen
@@ -5881,9 +5815,6 @@ Melatonin:
   - "/studies/2021/12/01/2021-12-01_10.1016_j.scitotenv.2021.152072.html"
 - - 'Jüngste Fortschritte bei der Behandlung von COVID-19: Ein Überblick'
   - "/studies/2021/08/27/2021-08-27_10.1016_j.biopha.2021.112107.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 N-Acetyl-5-Methoxytryptamin:
 - - 'Die Auswirkungen von Melatonin auf die Schlafqualität und die Ergebnisse von
     COVID-19-Patienten: Eine offene, randomisierte, kontrollierte Studie'
@@ -6156,16 +6087,10 @@ Interleukin:
 - - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
     Übersicht
   - "/studies/2021/10/02/2021-10-02_10.1016_j.clnesp.2021.09.744.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Tumor-Nekrose-Faktor:
 - - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
     Übersicht
   - "/studies/2021/10/02/2021-10-02_10.1016_j.clnesp.2021.09.744.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Nutrazeutika:
 - - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
     Übersicht
@@ -6180,9 +6105,6 @@ Nutrazeutika:
 - - 'Neubewertung von Phytochemikalien aus der Nahrung bei Coronavirus-Infektionen:
     Fokus auf Hesperidin und Quercetin'
   - "/studies/2021/01/25/2021-01-25_10.5772_intechopen.95529.html"
-- - Mikronährstoffe für den potenziellen therapeutischen Einsatz gegen COVID-19; eine
-    Übersicht
-  - "/studies/2021/09/27/2021-09-27_10.1016_j.clnesp.2021.09.744.html"
 Anti-Spike-IgG:
 - - Abnehmende humorale Immunantwort auf BNT162b2 Covid-19-Impfstoff über 6 Monate
   - "/studies/2021/12/09/2021-12-09_10.1056_NEJMoa2114583.html"
@@ -6941,6 +6863,28 @@ pflanzliche Ernährung:
 vegane Ernährung:
 - - Eine gut durchdachte vegane Ernährung für Slowenen
   - "/studies/2021/12/18/2021-12-18_10.3390_nu13124545.html"
+Vitamin D-Mangel:
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
+- - 'Zusammenhang zwischen Vitamin-D-Mangel und der Schwere der COVID-19-Infektion:
+    Systematische Überprüfung und Meta-Analyse'
+  - "/studies/2021/06/23/2021-06-23_10.1111_cen.14540.html"
+25(OH)D3:
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
+- - Nordic Walking statt hochintensivem Intervalltraining senkte die Myostatin-Konzentration
+    bei älteren Probanden effektiver, und der Umfang dieses Rückgangs wurde durch
+    die Vitamin-D-Stoffwechselprodukte modifiziert
+  - "/studies/2021/12/08/2021-12-08_10.3390_nu13124393.html"
+- - Vitamin D bei der Corona-Virus-Krankheit 2019 (COVID-19) und dem damit verbundenen
+    Multisystem-Entzündungssyndrom bei Kindern (MIS-C)
+  - "/studies/2021/03/08/2021-03-08_10.3389_fimmu.2021.648546.html"
+COVID-19-Schweregrad:
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/2021-03-31_10.1007_s40475-021-00236-3.html"
 Influenzavirus:
 - - 'TMPRSS2: Ein potenzielles Ziel für die Behandlung von Infektionen mit Influenza-
     und Coronaviren'
@@ -7505,10 +7449,6 @@ Bromhexinhydrochlorid:
     COVID-19-Patienten: Eine randomisierte klinische Studie'
   - "/studies/2020/07/19/2020-07-19_10.34172_bi.2020.27.html"
 COVID-19-Krankheit:
-- - 'Wirkung von Bromhexin auf die klinischen Ergebnisse und die Sterblichkeit bei
-    COVID-19-Patienten: Eine randomisierte klinische Studie'
-  - "/studies/2020/07/19/2020-07-19_10.34172_bi.2020.27.html"
-SARS-CoV2:
 - - 'Wirkung von Bromhexin auf die klinischen Ergebnisse und die Sterblichkeit bei
     COVID-19-Patienten: Eine randomisierte klinische Studie'
   - "/studies/2020/07/19/2020-07-19_10.34172_bi.2020.27.html"
