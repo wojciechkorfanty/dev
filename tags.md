@@ -6,17 +6,18 @@ layout: default
 
 <ul>
 {% for tag in taglist %}
-  <li><a href="#{{tag[0]}}">{{tag[0]}}</a></li>
+  <li><a href="#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
 {% endfor %}
 </ul>
 
 {% for tag in taglist %}
-<h3 id="{{tag[0]}}">{{tag[0]}}</h3>
+<h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
 <ul>
-  {% for url in tag[1] %}
-    {% assign name = url[1] %}
-    {% assign link = url[0] %}
-  <li><a href="{{link}}">{{name}}</a></li>
+  {% assign urls = tag[1] | sort %}
+  {% for url in urls %}
+    {% assign name = url[0] %}
+    {% assign link = url[1] %}
+  <li><a href="{{ link }}">{{ name }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}
