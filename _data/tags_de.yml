@@ -147,8 +147,6 @@ COVID-19:
 - - 'Zink, Vitamin D und Vitamin C: Perspektiven für COVID-19 mit Schwerpunkt auf
     der Integrität der physischen Gewebeschranke'
   - "/studies/2020/12/07/2020-12-07_10.3389_fnut.2020.606398.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
 - - Unterschätzen wir die Auswirkungen von COVID-19 auf die körperliche Aktivität
     von Kindern in Europa? - eine Studie mit 24.302 Kindern
   - "/studies/2022/01/12/2022-01-12_10.1093_eurpub_ckac003.html"
@@ -437,6 +435,9 @@ COVID-19:
   - "/studies/2022/01/25/2022-01-25-10.1039-D2MD00009A.html"
 - - Vorschlag für ein Nahrungsergänzungsmittel zur Behandlung des Post-COVID-Syndroms
   - "/studies/2021/12/10/2021-12-10_10.26355_eurrev_202112_27335.html"
+- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
+    immunologische Perspektive
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
 - - 'Die Wirkung von COVID-19-bedingten Sperren auf Ernährung und körperliche Aktivität
     bei älteren Erwachsenen: eine systematische Übersicht'
   - "/studies/2021/12/01/2021-12-01_10.14336_AD.2021.0606.html"
@@ -1231,9 +1232,6 @@ COVID-19:
   - "/studies/2022/01/10/2022-01-10_10.1007_s16024-021-00364-w.html"
 - - 'Metallische Strukturen: Wirksame Mittel zur Bekämpfung pathogener Mikroorganismen'
   - "/studies/2022/01/21/2022-01-21-10.3390-ijms23031165.html"
-- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
-    immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
 - - 'Veränderungen in der Inanspruchnahme von Gesundheitsleistungen und im Lebensstil
     älterer Menschen während der COVID-19-Sperre in Deutschland: die bevölkerungsbasierte
     AugUR-Studie'
@@ -2027,6 +2025,8 @@ Vitamin D:
     - Die sich häufenden Belege aus epidemiologischen und Interventionsstudien erfordern
     sofortiges Handeln
   - "/studies/2021/01/28/2021-01-28_10.3390_nu13020411.html"
+- - Assoziation von Vitamin-D und VDR mit ACE2 moduliert den Schweregrad bei COVID-19
+  - "/studies/2021/01/30/2021-01-30_ec-orthopaedics_12.2_2021.html"
 - - 'Das immunologische Profil von Vitamin D und seine Rolle bei verschiedenen immunvermittelten
     Krankheiten: Eine Expertenmeinung'
   - "/studies/2022/01/21/2022-01-21-10.3390-nu14030473.html"
@@ -2125,6 +2125,9 @@ Vitamin D:
 - - " Die Rolle von immunmodulatorischen Nährstoffen bei der Linderung von Komplikationen
     im Zusammenhang mit SARS-CoV-2: Eine Übersichtsarbeit"
   - "/studies/2021/12/21/2021-12-21_10.1093_advances_nmab128.html"
+- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
+    immunologische Perspektive
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
 - - 'Vitamin-D-Dosierung: Grundlegende Prinzipien und ein kurzer Algorithmus (Update
     2021)'
   - "/studies/2021/12/10/2021-12-10_10.3390_nu13124415.html"
@@ -2423,9 +2426,6 @@ Vitamin D:
 - - COVID-19-Sterblichkeit steht mit niedrigen Vitamin-D-Spiegeln bei Patienten mit
     Risikofaktoren und/oder fortgeschrittenem Alter in Verbindung
   - "/studies/2021/11/24/2021-11-24_10.1016_j.clnesp.2021.11.025.html"
-- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
-    immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
 - - Vitamin D und sein möglicher Nutzen für die COVID-19-Pandemie
   - "/studies/2021/03/16/2021-03-16_10.1016_j.eprac.2021.03.006.html"
 - - Ein ausreichender Vitamin-D- und Albuminspiegel hat eine schützende Wirkung auf
@@ -2649,8 +2649,6 @@ Pandemie:
     und Postbiotika als Hilfsmittel zur Prävention und Behandlung von COVID-19: Eine
     bibliometrische Analyse und systematische Überprüfung'
   - "/studies/2022/01/02/2022-01-02_10.1016_j.tifs.2021.12.033.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
 - - 'Praktische Empfehlungen zur Aufrechterhaltung eines aktiven Lebensstils während
     der COVID-19-Pandemie: Eine systematische Literaturübersicht'
   - "/studies/2020/08/28/2020-08-28_10.3390_ijerph17176265.html"
@@ -2907,6 +2905,9 @@ Zink:
 - - Vitamin D, Zink und Eisen bei erwachsenen Patienten mit Covid-19 und ihre Wirkung
     auf die Immunreaktion als Biomarker
   - "/studies/2021/05/18/2021-05-18_10.20944_preprints202105.0413.v1.html"
+- - Mögliche molekulare Mechanismen der Zink- und Kupfer-vermittelten antiviralen
+    Aktivität auf COVID-19
+  - "/studies/2021/06/13/2021-06-13_10.1016_j.nutres.2021.05.008.html"
 - - Zink
   - "/studies/2021/05/24/2021-05-24_10.1016_bs.afnr.2021.01.003.html"
 - - 'Therapien zur Verhinderung des Fortschreitens von COVID-19, einschließlich Hydroxychloroquin,
@@ -3033,6 +3034,9 @@ Kupfer:
   - "/studies/2021/11/22/2021-11-22_10.3390_nu13114180.html"
 - - Mögliche metallbezogene Strategien zur Prävention und Behandlung von COVID-19
   - "/studies/2022/01/17/2022-01-17_10.1007_s12598-021-01894-y.html"
+- - Mögliche molekulare Mechanismen der Zink- und Kupfer-vermittelten antiviralen
+    Aktivität auf COVID-19
+  - "/studies/2021/06/13/2021-06-13_10.1016_j.nutres.2021.05.008.html"
 - - Die Wirksamkeit und Bedeutung von Zink, Kupfer, Selemium und Magnesium bei der
     Behandlung von SARS-COV-2 (COVID-19)
   - "/studies/2021/07/05/2021-07-05_10.54803_sauhsd.823643.html"
@@ -4849,63 +4853,6 @@ Integrität der physischen Gewebebarriere:
 - - 'Zink, Vitamin D und Vitamin C: Perspektiven für COVID-19 mit Schwerpunkt auf
     der Integrität der physischen Gewebeschranke'
   - "/studies/2020/12/07/2020-12-07_10.3389_fnut.2020.606398.html"
-Zinktherapie:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
-Mikroelement:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
-immunstärkend:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
-Wirksamkeit:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - 'Wirksamkeit der Covid-19-Impfung gegen das Risiko einer symptomatischen Infektion,
-    eines Krankenhausaufenthalts und des Todes bis zu 9 Monaten: Eine schwedische
-    Kohortenstudie an der Gesamtbevölkerung'
-  - "/studies/2021/10/25/2021-10-25_10.2139_ssrn.3949410.html"
-- - 'Vitamin-D-Supplementierung beugt Rachitis und akuten Atemwegsinfektionen vor,
-    wenn sie als tägliche Erhaltungsdosis, nicht aber als intermittierender Bolus
-    verabreicht wird: Auswirkungen auf COVID-19'
-  - "/studies/2021/02/16/2021-06-16_10.7861_clinmed.2021-0035.html"
-- - Potenzieller Einsatz von Ivermectin zur Behandlung und Prophylaxe der SARS-CoV-2-Infektion
-  - "/studies/2021/08/21/2021-08-21_10.1016_j.retram.2021.103309.html"
-- - Abklingen der Spike-Antikörper nach der zweiten Dosis von BNT162b2 oder ChAdOx1
-  - "/studies/2021/07/15/2021-07-15_10.1016_S0140-6736(21)01642-1.html"
-- - Potenzieller Einsatz von Ivermectin zur Behandlung und Prophylaxe der SARS-CoV-2-Infektion
-  - "/studies/2021/08/21/2021-08-21_10.1111_ijcp.14649.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
-virale Infektionen:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/08/18/2021-08-18_10.1111_ijcp.14649.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/07/26/2021-07-26_10.1111_ijcp.14649.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
-Lungenentzündung:
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.S295377.html"
-- - 'Mögliche therapeutische Effekte einer adjuvanten Quercetin-Supplementierung gegen
-    eine COVID-19-Infektion im Frühstadium: Eine prospektive, randomisierte, kontrollierte
-    und unverblindete Studie'
-  - "/studies/2021/06/08/2021-06-08_10.2147_IJGM.S318720.html"
-- - Wirkung einer einmaligen hochdosierten Vitamin-D3-Gabe auf die Dauer des Krankenhausaufenthalts
-    von Patienten mit schwerem 25-Hydroxyvitamin-D-Mangel und COVID-19
-  - "/studies/2021/11/26/2021-11-26_10.6061_clinics_2021_e3549.html"
-- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
-  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
 Kinder:
 - - Unterschätzen wir die Auswirkungen von COVID-19 auf die körperliche Aktivität
     von Kindern in Europa? - eine Studie mit 24.302 Kindern
@@ -5125,9 +5072,6 @@ ACE2:
 - - 'Einblicke aus einer computergestützten Analyse der SARS-CoV-2 Omicron-Variante:
     Wirt-Pathogen-Interaktion, Pathogenität und mögliche Therapeutika'
   - "/studies/2022/01/20/2022-01-20-arXiv-2201.08176.html"
-Vitamin-D:
-- - Assoziation von Vitamin-D und VDR mit ACE2 moduliert den Schweregrad bei COVID-19
-  - "/studies/2021/01/30/2021-01-30_ec-orthopaedics_12.2_2021.html"
 VDR:
 - - Assoziation von Vitamin-D und VDR mit ACE2 moduliert den Schweregrad bei COVID-19
   - "/studies/2021/01/30/2021-01-30_ec-orthopaedics_12.2_2021.html"
@@ -6340,7 +6284,7 @@ akutes Atemnotsyndrom:
   - "/studies/2021/11/20/2021-11-20-indian-journal-of-clinical-practice.html"
 - - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
     immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
 Serumferritin:
 - - Korrelation von Vitamin-D-Spiegeln mit COVID-19-Schweregrad und Verlauf
   - "/studies/2021/11/20/2021-11-20-indian-journal-of-clinical-practice.html"
@@ -6862,6 +6806,15 @@ therapeutische Maßnahmen:
 - - 'TMPRSS2: Ein potenzielles Ziel für die Behandlung von Infektionen mit Influenza-
     und Coronaviren'
   - "/studies/2017/08/01/2017-08-01_10.1016_j.biochi.2017.07.016.html"
+virale Infektionen:
+- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
+    systematische Überprüfung'
+  - "/studies/2021/08/18/2021-08-18_10.1111_ijcp.14649.html"
+- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
+    systematische Überprüfung'
+  - "/studies/2021/07/26/2021-07-26_10.1111_ijcp.14649.html"
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
 immunmodulierende Nährstoffe:
 - - " Die Rolle von immunmodulatorischen Nährstoffen bei der Linderung von Komplikationen
     im Zusammenhang mit SARS-CoV-2: Eine Übersichtsarbeit"
@@ -6869,6 +6822,29 @@ immunmodulierende Nährstoffe:
 Post-COVID:
 - - Vorschlag für ein Nahrungsergänzungsmittel zur Behandlung des Post-COVID-Syndroms
   - "/studies/2021/12/10/2021-12-10_10.26355_eurrev_202112_27335.html"
+Coronavirus-induzierte Krankheit 2019:
+- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
+    immunologische Perspektive
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
+regulatorische T-Zellen:
+- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
+    immunologische Perspektive
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
+Vitamin D-Rezeptor:
+- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
+    immunologische Perspektive
+  - "/studies/2021/01/19/2021-01-19_10.1002_JLB.4COVR1020-698R.html"
+- - 'Shedding light on vitamin D: the shared mechanistic and pathophysiological role
+    between hypovitaminosis D and COVID-19 risk factors and complications'
+  - "/studies/2021/06/16/2021-06-21_10.1007_s10787-021-00835-6.html"
+- - 'Licht ins Dunkel von Vitamin D: die gemeinsame mechanistische und pathophysiologische
+    Rolle von Hypovitaminose D und COVID-19-Risikofaktoren und Komplikationen'
+  - "/studies/2021/06/29/2021-06-29_10.1007_s10787-021-00835-6.html"
+- - 'Wirkung einer Calcifediol-Behandlung und der besten verfügbaren Therapie im Vergleich
+    zur besten verfügbaren Therapie auf die Aufnahme in die Intensivstation und die
+    Sterblichkeit bei Patienten, die wegen COVID-19 stationär behandelt werden: Eine
+    randomisierte klinische Pilotstudie'
+  - "/studies/2020/08/29/2020-08-29_10.1016_j.jsbmb.2020.105751.html"
 antivirale Therapie:
 - - Orale Virostatika zur Prävention und Behandlung der SARS-CoV-2-Infektion
   - "/studies/2022/01/24/2022-01-24-10.24875-AIDSRev.22000001.html"
@@ -7179,6 +7155,23 @@ COVID-19-Impfung:
 - - 'Zerebrale Venenthrombose nach Impfung gegen COVID-19 im Vereinigten Königreich:
     eine multizentrische Kohortenstudie'
   - "/studies/2021/08/06/2021-08-0610.1016_S0140-6736(21)01608-1.html"
+Wirksamkeit:
+- - 'Wirksamkeit der Covid-19-Impfung gegen das Risiko einer symptomatischen Infektion,
+    eines Krankenhausaufenthalts und des Todes bis zu 9 Monaten: Eine schwedische
+    Kohortenstudie an der Gesamtbevölkerung'
+  - "/studies/2021/10/25/2021-10-25_10.2139_ssrn.3949410.html"
+- - 'Vitamin-D-Supplementierung beugt Rachitis und akuten Atemwegsinfektionen vor,
+    wenn sie als tägliche Erhaltungsdosis, nicht aber als intermittierender Bolus
+    verabreicht wird: Auswirkungen auf COVID-19'
+  - "/studies/2021/02/16/2021-06-16_10.7861_clinmed.2021-0035.html"
+- - Potenzieller Einsatz von Ivermectin zur Behandlung und Prophylaxe der SARS-CoV-2-Infektion
+  - "/studies/2021/08/21/2021-08-21_10.1016_j.retram.2021.103309.html"
+- - Abklingen der Spike-Antikörper nach der zweiten Dosis von BNT162b2 oder ChAdOx1
+  - "/studies/2021/07/15/2021-07-15_10.1016_S0140-6736(21)01642-1.html"
+- - Potenzieller Einsatz von Ivermectin zur Behandlung und Prophylaxe der SARS-CoV-2-Infektion
+  - "/studies/2021/08/21/2021-08-21_10.1111_ijcp.14649.html"
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
 Risiko einer symptomatischen Infektion:
 - - 'Wirksamkeit der Covid-19-Impfung gegen das Risiko einer symptomatischen Infektion,
     eines Krankenhausaufenthalts und des Todes bis zu 9 Monaten: Eine schwedische
@@ -8242,14 +8235,6 @@ Dosis-Wirkung:
 - - 'Ivermectin zeigt klinischen Nutzen bei leichter bis mittelschwerer COVID19: eine
     randomisierte, kontrollierte, doppelblinde Dosis-Wirkungs-Studie in Lagos'
   - "/studies/2022/01/07/2022-01-05_10.1093_qjmed_hcab035.html"
-Zink (Zn):
-- - Mögliche molekulare Mechanismen der Zink- und Kupfer-vermittelten antiviralen
-    Aktivität auf COVID-19
-  - "/studies/2021/06/13/2021-06-13_10.1016_j.nutres.2021.05.008.html"
-Kupfer (Cu):
-- - Mögliche molekulare Mechanismen der Zink- und Kupfer-vermittelten antiviralen
-    Aktivität auf COVID-19
-  - "/studies/2021/06/13/2021-06-13_10.1016_j.nutres.2021.05.008.html"
 Gastrointestinales System:
 - - Mögliche molekulare Mechanismen der Zink- und Kupfer-vermittelten antiviralen
     Aktivität auf COVID-19
@@ -9774,6 +9759,16 @@ venöse Thromboembolie (VTE):
 - - 'Die Rolle von Vitamin D bei der Behandlung der COVID-19-assoziierten Koagulopathie:
     Probleme und Perspektive'
   - "/studies/2021/02/18/2021-02-18_10.1007_s11010-021-04093-6.html"
+Lungenentzündung:
+- - 'Mögliche therapeutische Effekte einer adjuvanten Quercetin-Supplementierung gegen
+    eine COVID-19-Infektion im Frühstadium: Eine prospektive, randomisierte, kontrollierte
+    und unverblindete Studie'
+  - "/studies/2021/06/08/2021-06-08_10.2147_IJGM.S318720.html"
+- - Wirkung einer einmaligen hochdosierten Vitamin-D3-Gabe auf die Dauer des Krankenhausaufenthalts
+    von Patienten mit schwerem 25-Hydroxyvitamin-D-Mangel und COVID-19
+  - "/studies/2021/11/26/2021-11-26_10.6061_clinics_2021_e3549.html"
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
 pflanzliche Stoffe:
 - - 'Mögliche therapeutische Effekte einer adjuvanten Quercetin-Supplementierung gegen
     eine COVID-19-Infektion im Frühstadium: Eine prospektive, randomisierte, kontrollierte
@@ -10015,18 +10010,6 @@ Hypovitaminose D:
 - - 'Shedding light on vitamin D: the shared mechanistic and pathophysiological role
     between hypovitaminosis D and COVID-19 risk factors and complications'
   - "/studies/2021/06/16/2021-06-21_10.1007_s10787-021-00835-6.html"
-Vitamin D-Rezeptor:
-- - 'Shedding light on vitamin D: the shared mechanistic and pathophysiological role
-    between hypovitaminosis D and COVID-19 risk factors and complications'
-  - "/studies/2021/06/16/2021-06-21_10.1007_s10787-021-00835-6.html"
-- - 'Licht ins Dunkel von Vitamin D: die gemeinsame mechanistische und pathophysiologische
-    Rolle von Hypovitaminose D und COVID-19-Risikofaktoren und Komplikationen'
-  - "/studies/2021/06/29/2021-06-29_10.1007_s10787-021-00835-6.html"
-- - 'Wirkung einer Calcifediol-Behandlung und der besten verfügbaren Therapie im Vergleich
-    zur besten verfügbaren Therapie auf die Aufnahme in die Intensivstation und die
-    Sterblichkeit bei Patienten, die wegen COVID-19 stationär behandelt werden: Eine
-    randomisierte klinische Pilotstudie'
-  - "/studies/2020/08/29/2020-08-29_10.1016_j.jsbmb.2020.105751.html"
 antivirale Eigenschaften:
 - - Ein Überblick über die mögliche Rolle von EGCG bei der Behandlung von COVID-19-Infektionen
   - "/studies/2021/10/28/2021-10-28_10.2147_DDDT.S314666.html"
@@ -10393,18 +10376,6 @@ Pilze:
 Viren:
 - - 'Metallische Strukturen: Wirksame Mittel zur Bekämpfung pathogener Mikroorganismen'
   - "/studies/2022/01/21/2022-01-21-10.3390-ijms23031165.html"
-Coronavirus-induzierte Krankheit 2019:
-- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
-    immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
-regulatorische T-Zellen:
-- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
-    immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
-Vitamin-D-Rezeptor:
-- - Die Rolle von Vitamin D bei der Regulierung des Schweregrads von COVID-19 - eine
-    immunologische Perspektive
-  - "/studies/2021/01/19/2021-01-19_ 10.1002_JLB.4COVR1020-698R.html"
 AugUR:
 - - 'Veränderungen in der Inanspruchnahme von Gesundheitsleistungen und im Lebensstil
     älterer Menschen während der COVID-19-Sperre in Deutschland: die bevölkerungsbasierte
@@ -10569,3 +10540,12 @@ ICU-Aufnahme:
 - - 'Der Zusammenhang zwischen COVID-19 und VItamin D (VIVID): Eine systematische
     Überprüfung und Meta-Analyse'
   - "/studies/2021/03/24/2021-03-24_10.1016_j.metabol.2021.154753.html"
+Zinktherapie:
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
+Mikroelement:
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
+immunstärkend:
+- - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
+  - "/studies/2021/02/26/2021-02-26_10.2147_JIR.S295377.html"
