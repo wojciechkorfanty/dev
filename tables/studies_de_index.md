@@ -3,7 +3,7 @@ layout:    default
 title:     Studies
 subtitle:  studies
 ---
- 
+<article> 
 <div class="datatable">
   <table id="studies" class="display responsive" style="width:100%">
     <thead>
@@ -22,3 +22,4 @@ subtitle:  studies
     </tbody>
   </table>
 </div>
+</article> 
