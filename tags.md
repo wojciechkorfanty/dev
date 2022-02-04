@@ -4,6 +4,7 @@ layout: default
 
 {% assign taglist = site.data.tags_de | sort  %}
 
+<article>
 <ul>
 {% for tag in taglist %}
   <li><a href="#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
@@ -21,4 +22,5 @@ layout: default
   {% endfor %}
 </ul>
 {% endfor %}
+</article>
 
