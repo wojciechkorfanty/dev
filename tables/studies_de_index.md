@@ -18,7 +18,7 @@ subtitle:  studies
       <tr>
         <td>{{ studie.date | date: "%Y-%m-%d" }}</td>
         <td>{{ studie.credit }}</td>
-        <td><a href="{{ studie.id }}">{{ studie.id | split: "/" | last }}.md</a></td>
+        <td><a href="{{ studie.id }}">{{ studie.path | split: "/" | last }}</a></td>
       </tr>
     {% endfor %}
     </tbody>
