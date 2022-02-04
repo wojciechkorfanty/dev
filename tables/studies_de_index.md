@@ -10,6 +10,7 @@ subtitle:  studies
       <tr>
         <th>Datum</th>
         <th>URL</th>
+        <th>Filename</th>
       </tr>
     </thead>
     <tbody>
@@ -17,6 +18,7 @@ subtitle:  studies
       <tr>
         <td>{{ studie.date | date: "%Y-%m-%d" }}</td>
         <td>{{ studie.credit }}</td>
+        <td><a href="{{ studie.id }}">{{ studie.id | split: "/" | last }}.md</a></td>
       </tr>
     {% endfor %}
     </tbody>
