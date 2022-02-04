@@ -3,8 +3,6 @@ layout:    default
 title:     Studies
 subtitle:  studies
 ---
-
-<h1>Studies</h1>
  
 <div class="datatable">
   <table id="studies" class="display responsive" style="width:100%">
