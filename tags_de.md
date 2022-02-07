@@ -12,7 +12,8 @@ layout: default
 </ul>
 
 {% for tag in taglist %}
-<h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
+<a id="{{ tag[0] }}"></a>
+<h3>{{ tag[0] }}</h3>
 <ul>
   {% assign urls = tag[1] | sort %}
   {% for url in urls %}
