@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h2>Keywords</h2>
+
 {% assign taglist = site.data.tags_en | sort  %}
 
 <article>
