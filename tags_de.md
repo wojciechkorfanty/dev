@@ -2,11 +2,10 @@
 layout: default
 ---
 
-<h2>Schlüsselworte</h2>
-
 {% assign taglist = site.data.tags_de | sort  %}
 
 <article>
+<h2>Schlüsselworte</h2>
 <ul>
 {% for tag in taglist %}
   <li><a href="#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
