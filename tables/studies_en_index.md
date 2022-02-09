@@ -1,13 +1,13 @@
 ---
-layout:    table
-title:     Studien
+layout:    table_en
+title:     Studies
 ---
 <article> 
 <div class="datatable">
   <table id="studies" class="display responsive" style="width:100%">
     <thead>
       <tr>
-        <th>Datum</th>
+        <th>Date</th>
         <th>URL</th>
         <th>Filename</th>
       </tr>
