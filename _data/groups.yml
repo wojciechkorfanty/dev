@@ -7,10 +7,10 @@ Immunity:
   en_name: Immunity
 Treatments:
   de_name: Vorbeugung & Behandlung
-  en_name: Treatments
+  en_name: Prevention & Treatment
 Vaccines:
-  de_name: Impstoffe
+  de_name: Impfstoffe
   en_name: Vaccines
 Interventions:
-  de_name: nichtmedizinische Maßnahmen
-  en_name: non-medical interventions
+  de_name: Nichtmedizinische Maßnahmen
+  en_name: Non-medical interventions
