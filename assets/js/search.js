@@ -32,8 +32,6 @@
 
   var searchTerm = getQueryVariable('query');
 
-  console.log(window.store);
-
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
