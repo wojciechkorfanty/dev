@@ -5,6 +5,7 @@ permalink: /assets/js/search-content-en.js
 window.store = {
   {%- for study in site.studies %}
     "{{ study.url | slugify }}": {
+      "date": "{{ study.date | date: "%Y-%m-%d" }}",
       "title": "{{ study.en.subtitle | xml_escape }}",
       "author": "{{ study.authors | xml_escape }}",
       "journal": "{{ study.title | xml_escape }}",
