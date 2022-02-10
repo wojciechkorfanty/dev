@@ -1,5 +1,5 @@
 PATH
-  remote: /Users/tillcremer/Documents/GitHub/theme
+  remote: /Users/joroth/Development/angst-frei.ch/cs-theme
   specs:
     coronastudies-theme (0.1.0)
       jekyll (~> 3.9)
@@ -84,4 +84,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.3.5
+   2.3.6

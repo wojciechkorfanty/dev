@@ -2,39 +2,22 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
 
-//    <article id="{{ post.id }}-article">
-//      <div>
-//        <p>{{ post.title | strip_html }}</p>
-//        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-//        {% if post.status != "default" %}
-//        <p>&emsp;<mark>{{ post.status }}</mark>&emsp;<time datetime="{{ post.date }}">{{ post.date | date: date_format }}</time></p>
-//        {% else %}
-//        <p>&emsp;<time datetime="{{ post.date }}">{{ post.date | date: date_format }}</time></p>
-//        {% endif %}
-//      </div>
-//        <h2 class="subtitle"><a href="{{ post.credit }}" target="_blank"><div data-icon="ei-external-link" data-size="s"></div> {{ post.de.subtitle }}</a></h2>
-//      <p>Autoren: {{ post.authors }}</p>
-//      <blockquote cite="{{ post.credit }}">
-//        <p class="content">„{{post.de.description | replace: '"', "'"}}“</p>
-//      </blockquote>
-//      {% if post.de.tags and post.de.tags.size > 0 %}
-//      <p>Schlüsselworte: {{ post.de.tags | join: ", " }}</p>
-//      {% endif %}
-//      <aside class="group"><a href="/studies_de_{{ post.group | downcase }}.html#{{ post.id }}"><div data-icon="ei-chevron-right" data-size="s"></div><p>{{ site.data.groups[post.group]['de_name'] }}</p></a></aside>
-//    </article>
-
-
     if (results.length) { // Are there any results?
       var appendString = '';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<article><div><p>' + item.journal + '</p><p>&emsp;<em>' + item.status + '</em>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
+        console.log(item);
+        if ( item.status != "default" ) {
+          appendString += '<article id="' + item.article + '-article"><div><p>' + item.journal + '</p><p>&emsp;<em>' + item.status + '</em>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
+        } else {
+          appendString += '<article><div><p>' + item.journal + '</p><p>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
+        }
         appendString += '<h2 class="subtitle"><a href="' + item.url + '" target="_blank"><div data-icon="ei-external-link" data-size="s"></div> ' + item.title + '</a></h2>';
         appendString += '<p>Autoren: ' + item.author + '</p>';
-        appendString += '<blockquote cite="' + item.url + '"><p class="content">„' + item.content.substring(0, 250) + '...“</p></blockquote>';
+        appendString += '<blockquote cite="' + item.url + '"><p class="content">„' + item.content + '...“</p></blockquote>';
         appendString += '<p>Schlüsselworte: ' + item.category + '</p>';
-        appendString += '<aside class="group"><a href=""><div data-icon="ei-chevron-right" data-size="s"></div><p>Gruppe</p></a></aside>';
+        appendString += '<aside class="group"><a href="/studies_de_' + item.group + '.html#' + item.article + '"><div data-icon="ei-chevron-right" data-size="s"></div><p>' + item.groupname + '</p></a></aside>';
         appendString += '</article>';
       }
 
@@ -66,10 +49,14 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('id');
+      this.field('article');
       this.field('date');
       this.field('title', { boost: 10 });
       this.field('author');
       this.field('journal');
+      this.field('group');
+      this.field('groupname');
+      this.field('status');
       this.field('category', { boost: 5 });
       this.field('content', { boost: 5 });
 
@@ -77,10 +64,14 @@
       for (var key in window.store) {
         this.add({
           'id': key,
+          'article': window.store[key].article,
           'date': window.store[key].date,
           'title': window.store[key].title,
           'author': window.store[key].author,
           'journal': window.store[key].journal,
+          'group': window.store[key].group,
+          'groupname': window.store[key].groupname,
+          'status': window.store[key].groupname,
           'category': window.store[key].category,
           'content': window.store[key].content
         });
