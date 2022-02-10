@@ -29,17 +29,18 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<article><div><p>' + item.journal + '</p><p>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
+        appendString += '<article><div><p>' + item.journal + '</p><p>&emsp;<em>' + item.status + '</em>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
         appendString += '<h2 class="subtitle"><a href="' + item.url + '" target="_blank"><div data-icon="ei-external-link" data-size="s"></div> ' + item.title + '</a></h2>';
         appendString += '<p>Autoren: ' + item.author + '</p>';
         appendString += '<blockquote cite="' + item.url + '"><p class="content">„' + item.content.substring(0, 250) + '...“</p></blockquote>';
         appendString += '<p>Schlüsselworte: ' + item.category + '</p>';
+        appendString += '<aside class="group"><a href=""><div data-icon="ei-chevron-right" data-size="s"></div><p>Gruppe</p></a></aside>';
         appendString += '</article>';
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = '<article><h3>No results found.</h3></article>';
     }
   }
 
@@ -69,8 +70,8 @@
       this.field('title', { boost: 10 });
       this.field('author');
       this.field('journal');
-      this.field('category');
-      this.field('content');
+      this.field('category', { boost: 5 });
+      this.field('content', { boost: 5 });
 
       // Add data to lunr
       for (var key in window.store) {

@@ -1,16 +1,20 @@
 ---
 layout: default
-title:  Search
+title: Search
 ext-js: ["//code.jquery.com/jquery-3.6.0.min.js", "//unpkg.com/lunr/lunr.js"]
-js:     ["/assets/js/search-content-de.js", "/assets/js/search.js"]
+js: ["/assets/js/search-content-de.js", "/assets/js/search.js"]
 ---
 
 <div class="search">
   <article>
-  <form action="search_de" method="get">
-    <input type="text" id="search-box" name="query">
-    <input type="submit" value="Search">
-  </form>
+    <h3>Suche</h3>
+    <form action="search_de" method="get">
+      <input type="text" id="search-box" name="query">
+      <input type="submit" value="Search">
+      <!-- 
+      Statt Submit-Button die Lupe nehmen: <div data-icon="ei-search" data-size="s">
+      -->
+    </form>
   </article>
   <div id="search-results" class="search-results"></div>
 </div>

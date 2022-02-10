@@ -77,8 +77,8 @@ feed_show_excerpt: false
 # Build settings
 # Change for local dev
 markdown: kramdown
-#theme: coronastudies-theme
-remote_theme:  covidstudies/theme
+theme: coronastudies-theme
+#remote_theme:  covidstudies/theme
 plugins:
   - jekyll-feed
 

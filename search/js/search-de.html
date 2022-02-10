@@ -11,7 +11,9 @@ window.store = {
       "journal": "{{ study.title | xml_escape }}",
       "category": "{% for category in study.de.tags %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
       "content": {{ study.de.description | strip_html | jsonify }},
-      "url": "{{ study.credit | xml_escape }}"
+      "url": "{{ study.credit | xml_escape }}",
+      "group": "{{ site.data.groups[study.group]['de_name'] | xml_escape }}",
+      "status": "{{ study.status | xml_escape }}"
     }
     {%- unless forloop.last -%},{%- endunless -%}
   {% endfor %}
