@@ -55,8 +55,6 @@ COVID-19:
   - "/studies/2022/01/22/10.1007_s12011-022-03124-7.html"
 - - The Implications of Zinc Therapy in Combating the COVID-19 Global Pandemic
   - "/studies/2021/02/26/10.2147_JIR.S295377.html"
-- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - 'Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an
     open-label non-randomized clinical trial'
   - "/studies/2020/03/20/10.1016_j.ijantimicag.2020.105949.html"
@@ -767,8 +765,6 @@ COVID-19:
   - "/studies/2020/05/11/10.31989_ffhd.v10i5.707.html"
 - - 'Antimicrobial Peptides and Physical Activity: A Great Hope against COVID 19'
   - "/studies/2021/06/30/10.3390_microorganisms9071415.html"
-- - Vitamin D status of critically ill patients with Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
 - - 'Evidences and perspectives of the use of probiotics, prebiotics, synbiotics,
     and postbiotics as adjuvants for prevention and treatment of COVID-19: A bibliometric
     analysis and systematic review'
@@ -2968,7 +2964,7 @@ Paediatric intensive care unit:
 - - Vitamin D status of children with paediatric inflammatory multisystem syndrome
     temporally associated with severe acute respiratory syndrome coronavirus 2 (PIMS-TS)
   - "/studies/2021/05/12/10.1017_S0007114521001562.html"
-Vitamin D deficiency:
+Vitamin D-deficiency:
 - - Vitamin D status of children with paediatric inflammatory multisystem syndrome
     temporally associated with severe acute respiratory syndrome coronavirus 2 (PIMS-TS)
   - "/studies/2021/05/12/10.1017_S0007114521001562.html"
@@ -3207,8 +3203,6 @@ severity:
 - - Comparative Analysis of Serum Zinc, Copper and Magnesium Level and Their Relations
     in Association with Severity and Mortality in SARS-CoV-2 Patients
   - "/studies/2022/01/22/10.1007_s12011-022-03124-7.html"
-- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - Vitamin D deficiency and COVID-19 severity
   - "/studies/2022/01/11/10.1063_5.0067024.html"
 - - 'Associations between body-mass index and COVID-19 severity in 6·9 million people
@@ -3332,8 +3326,6 @@ efficacy:
 viral infections:
 - - The Implications of Zinc Therapy in Combating the COVID-19 Global Pandemic
   - "/studies/2021/02/26/10.2147_JIR.S295377.html"
-- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - 'Medicinal Plants and Zinc: Impact on COVID-19 Pandemic'
   - "/studies/2021/09/23/10.1155_2021_9632034.html"
 - - 'Enhancing immunity in viral infections, with special emphasis on COVID-19: A
@@ -3347,21 +3339,6 @@ pneumonia:
 - - 'Possible Therapeutic Effects of Adjuvant Quercetin Supplementation Against Early-Stage
     COVID-19 Infection: A Prospective, Randomized, Controlled, and Open-Label Study'
   - "/studies/2021/06/08/10.2147_IJGM.S318720.html"
-vitamin D deficiency:
-- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
-- - SARS-CoV-2 positivity rates associated with circulating 25-hydroxyvitamin D levels
-  - "/studies/2020/09/17/10.1371_journal.pone.0239252.html"
-- - Vitamin D Levels among Hospitalized and Non-Hospitalized COVID-19 Patients in
-    Dr. M. Djamil General Hospital Padang
-  - "/studies/2021/12/10/10.24018_ejmed.2021.3.6.1131.html"
-- - 'Vitamin D and COVID-19: Role of ACE2, age, gender, and ethnicity'
-  - "/studies/2021/05/14/10.1002_jmv.27075.html"
-- - 'Association of vitamin D deficiency with COVID-19 infection severity: Systematic
-    review and meta-analysis'
-  - "/studies/2021/06/23/10.1111_cen.14540.html"
-- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
-  - "/studies/2021/07/26/10.1111_ijcp.14649.html"
 2019-nCoV:
 - - 'Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an
     open-label non-randomized clinical trial'
@@ -5250,8 +5227,6 @@ vitamin d:
   - "/studies/2021/10/31/10.1186_s12937-021-00744-y.html"
 - - 'The role of vitamin D in the age of COVID-19: A systematic review and meta-analysis'
   - "/studies/2021/07/29/10.1111_ijcp.14675.html"
-- - Vitamin D status of critically ill patients with Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
 - - Supplementation tendencies of vitamin C and D among non-severe COVID-19 patients
     in Blantyre, Malawi
   - "/studies/2021/11/18/dspace-repositorium_20.500.12988_487.html"
@@ -8092,6 +8067,19 @@ vaccination rate:
     rate will save many lives, but it probably won’t be enough to stop covid-19 becoming
     a seasonal disease, finds Helen Thomson
   - "/studies/2021/08/21/10.1016_S0262-4079(21)01448-2.html"
+vitamin D deficiency:
+- - SARS-CoV-2 positivity rates associated with circulating 25-hydroxyvitamin D levels
+  - "/studies/2020/09/17/10.1371_journal.pone.0239252.html"
+- - Vitamin D Levels among Hospitalized and Non-Hospitalized COVID-19 Patients in
+    Dr. M. Djamil General Hospital Padang
+  - "/studies/2021/12/10/10.24018_ejmed.2021.3.6.1131.html"
+- - 'Vitamin D and COVID-19: Role of ACE2, age, gender, and ethnicity'
+  - "/studies/2021/05/14/10.1002_jmv.27075.html"
+- - 'Association of vitamin D deficiency with COVID-19 infection severity: Systematic
+    review and meta-analysis'
+  - "/studies/2021/06/23/10.1111_cen.14540.html"
+- - 'Insufficient evidence for vitamin D use in COVID-19: A rapid systematic review'
+  - "/studies/2021/07/26/10.1111_ijcp.14649.html"
 infection rates:
 - - SARS-CoV-2 positivity rates associated with circulating 25-hydroxyvitamin D levels
   - "/studies/2020/09/17/10.1371_journal.pone.0239252.html"
@@ -8674,11 +8662,6 @@ chemokine receptor:
 toll-like receptor:
 - - 'Antimicrobial Peptides and Physical Activity: A Great Hope against COVID 19'
   - "/studies/2021/06/30/10.3390_microorganisms9071415.html"
-vitamin d deficiency:
-- - Vitamin D status of critically ill patients with Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
-- - Vitamin D status of critically ill patients with Covid-19
-  - "/studies/2021/11/30/10.1016_j.clnesp.2021.09.284.html"
 Chemoprophylaxis:
 - - 'Chemoprophylaxis against COVID-19 among health-care workers using Ivermectin
     in low- and middle-income countries: A systematic review and meta-analysis'
@@ -9765,6 +9748,9 @@ probiotics:
   - "/studies/2022/02/04/10.1016-j.lwt.2022.113154.html"
 - - 'Patient Nutrition and Probiotic Therapy in COVID-19: What Do We Know in 2021?'
   - "/studies/2021/09/26/10.3390_nu13103385.html"
+vitamin d deficiency:
+- - Vitamin D status of critically ill patients with Covid-19
+  - "/studies/2021/11/30/10.1016_j.clnesp.2021.09.284.html"
 acute viral respiratory tract infections:
 - - 'Zinc for the prevention or treatment of acute viral respiratory tract infections
     in adults: a rapid systematic review and meta-analysis of randomised controlled

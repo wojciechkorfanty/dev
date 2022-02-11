@@ -62,9 +62,6 @@ COVID-19:
   - "/studies/2022/01/22/10.1007_s12011-022-03124-7.html"
 - - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
   - "/studies/2021/02/26/10.2147_JIR.S295377.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - 'Hydroxychloroquin und Azithromycin zur Behandlung von COVID-19: Ergebnisse einer
     offenen nicht-randomisierten klinischen Studie'
   - "/studies/2020/03/20/10.1016_j.ijantimicag.2020.105949.html"
@@ -822,8 +819,6 @@ COVID-19:
 - - 'Antimikrobielle Peptide und körperliche Aktivität: Eine große Hoffnung gegen
     COVID 19'
   - "/studies/2021/06/30/10.3390_microorganisms9071415.html"
-- - Vitamin-D-Status von kritisch kranken Patienten mit Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
 - - 'Belege und Perspektiven für die Verwendung von Probiotika, Präbiotika, Synbiotika
     und Postbiotika als Hilfsmittel zur Prävention und Behandlung von COVID-19: Eine
     bibliometrische Analyse und systematische Überprüfung'
@@ -1552,8 +1547,6 @@ Vitamin D:
 - - Eine systematische Überprüfung und Meta-Analyse der Auswirkungen des Vitamin-D-Spiegels
     auf das Auftreten von COVID-19
   - "/studies/2021/07/02/10.5603_CJ.a2021.0072.html"
-- - Vitamin-D-Status von kritisch kranken Patienten mit Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
 - - 'Therapien zur Verhinderung des Fortschreitens von COVID-19, einschließlich Hydroxychloroquin,
     Azithromycin, Zink und Vitamin D3 mit oder ohne Vitamin C intravenös: Eine internationale,
     multizentrische, randomisierte Studie'
@@ -3504,14 +3497,11 @@ Pädiatrische Intensivstation:
     in zeitlichem Zusammenhang mit dem schweren akuten respiratorischen Syndrom Coronavirus
     2 (PIMS-TS)"
   - "/studies/2021/05/12/10.1017_S0007114521001562.html"
-Vitamin-D-Mangel:
+Vitamin D-Mangel:
 - - " Vitamin-D-Status von Kindern mit pädiatrischem entzündlichen Multisystem-Syndrom
     in zeitlichem Zusammenhang mit dem schweren akuten respiratorischen Syndrom Coronavirus
     2 (PIMS-TS)"
   - "/studies/2021/05/12/10.1017_S0007114521001562.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - 'Der Einfluss des Vitamin-D-Spiegels auf die COVID-19-Infektion: Systematische
     Überprüfung und Meta-Analyse'
   - "/studies/2021/03/05/10.3389_fpubh.2021.624559.html"
@@ -3523,16 +3513,20 @@ Vitamin-D-Mangel:
 - - Vitamin-D-Spiegel bei hospitalisierten und nicht hospitalisierten COVID-19-Patienten
     im Dr. M. Djamil General Hospital Padang
   - "/studies/2021/12/10/10.24018_ejmed.2021.3.6.1131.html"
-- - Vitamin-D-Status von kritisch kranken Patienten mit Covid-19
-  - "/studies/2021/12/01/10.1016_j.clnesp.2021.09.284.html"
 - - 'Vitamin D und COVID-19: Die Rolle von ACE2, Alter, Geschlecht und ethnischer
     Zugehörigkeit'
   - "/studies/2021/05/14/10.1002_jmv.27075.html"
 - - Vitamin-D-Status von kritisch kranken Patienten mit Covid-19
   - "/studies/2021/11/30/10.1016_j.clnesp.2021.09.284.html"
+- - 'Zusammenhang zwischen Vitamin-D-Mangel und der Schwere der COVID-19-Infektion:
+    Systematische Überprüfung und Meta-Analyse'
+  - "/studies/2021/06/23/10.1111_cen.14540.html"
 - - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
     systematische Überprüfung'
   - "/studies/2021/07/26/10.1111_ijcp.14649.html"
+- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
+    beeinflussen?'
+  - "/studies/2021/03/31/10.1007_s40475-021-00236-3.html"
 Einfacher Algorithmus für die Therapie zu Hause:
 - - 'Ein einfacher Algorithmus für die Heimtherapie zur Vermeidung von Krankenhausaufenthalten
     bei COVID-19-Patienten: Eine retrospektive, beobachtende Matched-Cohort-Studie'
@@ -3698,9 +3692,6 @@ Schweregrad:
 - - Vergleichende Analyse des Zink-, Kupfer- und Magnesiumspiegels im Serum und deren
     Zusammenhang mit dem Schweregrad und der Sterblichkeit bei SARS-CoV-2-Patienten
   - "/studies/2022/01/22/10.1007_s12011-022-03124-7.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - Vitamin-D-Mangel und COVID-19-Schweregrad
   - "/studies/2022/01/11/10.1063_5.0067024.html"
 - - 'Zusammenhänge zwischen Body-Mass-Index und COVID-19-Schweregrad bei 6-9 Millionen
@@ -3808,9 +3799,6 @@ Wirksamkeit:
 virale Infektionen:
 - - Die Bedeutung der Zinktherapie bei der Bekämpfung der globalen Pandemie COVID-19
   - "/studies/2021/02/26/10.2147_JIR.S295377.html"
-- - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
-    systematische Überprüfung'
-  - "/studies/2021/08/18/10.1111_ijcp.14649.html"
 - - 'Unzureichende Beweise für die Verwendung von Vitamin D bei COVID-19: Eine schnelle
     systematische Überprüfung'
   - "/studies/2021/07/26/10.1111_ijcp.14649.html"
@@ -10607,13 +10595,6 @@ SSRI:
 Serotonin:
 - - 'Jüngste Fortschritte bei der Behandlung von COVID-19: Ein Überblick'
   - "/studies/2021/08/27/10.1016_j.biopha.2021.112107.html"
-Vitamin D-Mangel:
-- - 'Zusammenhang zwischen Vitamin-D-Mangel und der Schwere der COVID-19-Infektion:
-    Systematische Überprüfung und Meta-Analyse'
-  - "/studies/2021/06/23/10.1111_cen.14540.html"
-- - 'Vitamin-D-Status: Kann er das Infektionsrisiko und den Schweregrad der COVID-19-Symptome
-    beeinflussen?'
-  - "/studies/2021/03/31/10.1007_s40475-021-00236-3.html"
 Schwere der Infektion:
 - - 'Zusammenhang zwischen Vitamin-D-Mangel und der Schwere der COVID-19-Infektion:
     Systematische Überprüfung und Meta-Analyse'
