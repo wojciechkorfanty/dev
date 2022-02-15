@@ -1,21 +1,21 @@
 ---
 layout:     default
 full-width: true
-ext-js:     ["//unpkg.com/3d-force-graph"]
-css:        ["/assets/css/link-graph.css"]
+ext-js:     ["//unpkg.com/force-graph"]
+css:        ["/assets/css/link-graph-3d.css"]
 ---
 
 <div id="graph"></div>
 
 <script type="module">
 
-  const Graph = ForceGraph3D()
+  fetch('/json/network-studies-data.json').then(res => res.json()).then(data => {
+  const Graph = ForceGraph()
     (document.getElementById('graph'))
-      .jsonUrl('/json/network-studies-data.json')
+      .graphData(data)
       .nodeLabel('title')
       .nodeVal('value')
       .nodeAutoColorBy('group')
-      .linkWidth('value')
       .linkLabel('title')
       .linkAutoColorBy('group')
       .onNodeClick(node => {
@@ -29,4 +29,5 @@ css:        ["/assets/css/link-graph.css"]
         node.fy = node.y;
         node.fz = node.z;
       });
+    });
 </script>
