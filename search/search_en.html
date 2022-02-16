@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: search
 title: Search
-ext-js: ["//code.jquery.com/jquery-3.6.0.min.js", "//unpkg.com/lunr/lunr.js"]
-js: ["/assets/js/search-content-en.js", "/assets/js/search.js"]
+ext-js: ["//code.jquery.com/jquery-3.6.0.min.js", "//unpkg.com/lunr/lunr.js", "//cdnjs.cloudflare.com/ajax/libs/cuttr/1.3.2/cuttr.min.js"]
+js: ["/assets/js/search-content-de.js", "/assets/js/search.js", "/assets/js/studies.js"]
 ---
 <div class="search">
-  <article>
-    <h3>Search</h3>
     <form action="search_en" method="get">
       <input type="text" id="search-box" placeholder="Search…" name="query">
+      <!--
       <button type="submit"><div data-icon="ei-search" data-size="s"></button>
+      -->
     </form>
-  </article>
   <div id="search-results" class="search-results"></div>
 </div>
