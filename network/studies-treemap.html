@@ -7,17 +7,15 @@
 
 <script>
 
-d3.csv("tree-studies.csv", ({typed: true}))
+d3.json("tree-studies.json")
   .then(function(data) {
-  chart = Treemap(data, {
-  //Treemap(data, {
-    path: d => d.name.replace(/\./g, "/"), // e.g., "flare/animate/Easing"
-    value: d => d?.size, // size of each node (file); null for internal nodes (folders)
-    group: d => d.name.split(".")[1], // e.g., "animate" in "flare.animate.Easing"; for color
-    label: (d, n) => [...d.name.split(".").pop().split(/(?=[A-Z][a-z])/g), n.value.toLocaleString("en")].join("\n"),
-    title: (d, n) => `${d.name}\n${n.value.toLocaleString("en")}`, // text to show on hover
-    link: (d, n) => `https://github.com/prefuse/Flare/blob/master/flare/src${n.id}.as`,
-    tile: d3.treemapBinary,
+  Treemap(data, {
+    value: d => d.size, // size of each node (file); null for internal nodes (folders)
+    label: d => d.name, // display name for each cell
+    title: (d, n) => `${n.ancestors().reverse().map(d => d.data.name).join(".")}\n${n.value.toLocaleString("en")}`, // hover text
+    link: (d, n) => n.children
+      ? `https://github.com/prefuse/Flare/tree/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}`
+      : `https://github.com/prefuse/Flare/blob/master/flare/src/${n.ancestors().reverse().map(d => d.data.name).join("/")}.as`,
     width: 1152,
     height: 1152
   });
