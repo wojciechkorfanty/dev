@@ -1,0 +1,1532 @@
+name,size
+covid,
+covid.Treatments,
+covid.Treatments.Vitamin D,173
+covid.Treatments.UV-B,1
+covid.Treatments.Haut,1
+covid.Treatments.Supplementierung,9
+covid.Treatments.Vitamin-D-verwandte Gene,1
+covid.Treatments.Pathogenese,2
+covid.Treatments.Behandlungsergebnis,1
+covid.Treatments.Virale Infektionen,4
+covid.Treatments.Stürze,2
+covid.Treatments.Gebrechlichkeit,2
+covid.Treatments.Körperliche Aktivität,27
+covid.Treatments.hochdosierte orale Vitamin-D-Therapie,1
+covid.Treatments.Entzündungsmarker,1
+covid.Treatments.N/L-Ratio,1
+covid.Treatments.CRP,4
+covid.Treatments.LDH,1
+covid.Treatments.IL6,1
+covid.Treatments.Ferritin,2
+covid.Treatments.Korea,1
+covid.Treatments.sportliche Aktivität,1
+covid.Treatments.Sportbeteiligung,2
+covid.Treatments.Knochen,2
+covid.Treatments.extraskelettale Effekte,1
+covid.Treatments.Fettleibigkeit,7
+covid.Treatments.Parathormon,1
+covid.Treatments.Lebensmittel,1
+covid.Treatments.Immunkomponenten,1
+covid.Treatments.Nährstoffe,3
+covid.Treatments.Vitamin C,25
+covid.Treatments.Zink,42
+covid.Treatments.Angiotensin konvertierendes Enzym 2 (ACE2),7
+covid.Treatments.Lockdown,8
+covid.Treatments.Ernährung,23
+covid.Treatments.ältere Erwachsene,5
+covid.Treatments.Coronavirus,34
+covid.Treatments.Immunologie,3
+covid.Treatments.Sterblichkeitsrate,2
+covid.Treatments.immunmodulatorische Wirkung,1
+covid.Treatments.Immunpathogenese,3
+covid.Treatments.Infektionskrankheiten,6
+covid.Treatments.Pandemie,17
+covid.Treatments.Eisen,6
+covid.Treatments.Ivermectin,35
+covid.Treatments.Ost-Indien,1
+covid.Treatments.Calciferol,1
+covid.Treatments.systematische Überprüfung,5
+covid.Treatments.Meta-Analyse,9
+covid.Treatments.Ambulante Patienten,2
+covid.Treatments.Hydroxychloroquin,9
+covid.Treatments.Azithromycin,4
+covid.Treatments.Barrieren,1
+covid.Treatments.Bildung,2
+covid.Treatments.Umwelt,2
+covid.Treatments.Gesundheit,4
+covid.Treatments.pflanzliche Ernährung,1
+covid.Treatments.Sport,4
+covid.Treatments.vegane Ernährung,1
+covid.Treatments.Coronavirus-Krankheit 2019,5
+covid.Treatments.Pädiatrisches entzündliches Multisystem-Syndrom,1
+covid.Treatments.Multisystem-Entzündungssyndrom bei Kindern,1
+covid.Treatments.Pädiatrische Intensivstation,1
+covid.Treatments.Vitamin D-Mangel,10
+covid.Treatments.Einfacher Algorithmus für die Therapie zu Hause,1
+covid.Treatments.Beobachtungsstudie mit abgestimmter Kohorte,1
+covid.Treatments.Hausärzte,1
+covid.Treatments.Frühe Symptome zu Hause,1
+covid.Treatments.Immunität,17
+covid.Treatments.Sterblichkeit,21
+covid.Treatments.ICU-Aufnahme,1
+covid.Treatments.Krankenhausaufenthalt,5
+covid.Treatments.COVID-19-Impfstoffe,1
+covid.Treatments.Chloroquin,2
+covid.Treatments.evidenzbasierte Praxis,1
+covid.Treatments.Magnesium,9
+covid.Treatments.Kupfer,9
+covid.Treatments.Schweregrad,20
+covid.Treatments.Mortalität,8
+covid.Treatments.Zinktherapie,1
+covid.Treatments.Mikroelement,1
+covid.Treatments.immunstärkend,1
+covid.Treatments.Wirksamkeit,5
+covid.Treatments.Lungenentzündung,3
+covid.Treatments.2019-nCoV,3
+covid.Treatments.Azithomycin,1
+covid.Treatments.Klinische Studien,5
+covid.Treatments.Vitamin,3
+covid.Treatments.Immunonutrition,1
+covid.Treatments.Nahrungsergänzung,7
+covid.Treatments.antivirales Potential,1
+covid.Treatments.Epidemiologie,2
+covid.Treatments.Wirkungsweise,1
+covid.Treatments.phylogenetisch,1
+covid.Treatments.Phytochemikalien,2
+covid.Treatments.antivirale Medikamente,2
+covid.Treatments.Paxlovic,1
+covid.Treatments.Molnupiravir,8
+covid.Treatments.Quercetin,5
+covid.Treatments.Selen,21
+covid.Treatments.Vitamin A,7
+covid.Treatments.Holunder,1
+covid.Treatments.Knoblauch,1
+covid.Treatments.Süßholz,1
+covid.Treatments.Brennnessel,1
+covid.Treatments.Grippe,3
+covid.Treatments.Anämie,2
+covid.Treatments.n-3 PUFA,1
+covid.Treatments.Probiotika,3
+covid.Treatments.anti-inflammatorisch,1
+covid.Treatments.Kortikosteroide,2
+covid.Treatments.Zytokinsturm,21
+covid.Treatments.Veteranen,1
+covid.Treatments.körperliche Inaktivität,1
+covid.Treatments.Erwachsene,1
+covid.Treatments.Zeitraum des Sitzens,1
+covid.Treatments.Bewegungsverhalten,1
+covid.Treatments.Determinanten,1
+covid.Treatments.COM-B-Modell,1
+covid.Treatments.Verhaltensänderung,1
+covid.Treatments.Vitamin-E-Supplementierung,1
+covid.Treatments.ältere Menschen,4
+covid.Treatments.Antioxidantienstatus,1
+covid.Treatments.Immunsystem,22
+covid.Treatments.Atemwegsinfektionen,3
+covid.Treatments.Influenza,2
+covid.Treatments.Bewegung,13
+covid.Treatments.Bevölkerungsrepräsentative Umfrage,1
+covid.Treatments.Gesundheitspolitik,1
+covid.Treatments.Calcidiol,4
+covid.Treatments.Inflammation,1
+covid.Treatments.Antibacterial,1
+covid.Treatments.Antiviral,2
+covid.Treatments.Cathelicidin,3
+covid.Treatments.β-defensin 2,1
+covid.Treatments.NOD2,1
+covid.Treatments.Coronavirus-Erkrankung 2019,5
+covid.Treatments.niedriger Vitamin-D-Status,1
+covid.Treatments.25-Hydroxyvitamin D,6
+covid.Treatments.gesundheitsbezogene Angaben,1
+covid.Treatments.Mikronährstoffe,18
+covid.Treatments.Nahrungsergänzungsmittel,10
+covid.Treatments.Melatonin,8
+covid.Treatments.Interleukin,1
+covid.Treatments.Tumor-Nekrose-Faktor,1
+covid.Treatments.Nutrazeutika,4
+covid.Treatments.Lang-COVID,1
+covid.Treatments.Symptome,1
+covid.Treatments.Virus,4
+covid.Treatments.milde Erkrankung,1
+covid.Treatments.mittelschwere Erkrankung,1
+covid.Treatments.Wirkmechanismus,2
+covid.Treatments.Therapie,5
+covid.Treatments.Rolle bei der COVID-19-Infektion,1
+covid.Treatments.Traditionelle Chinesische Medizin,1
+covid.Treatments.TCM,1
+covid.Treatments.Glycyrrhizin,2
+covid.Treatments.Flavonoide,5
+covid.Treatments.Polyphenole,1
+covid.Treatments.Cannabis,1
+covid.Treatments.Parkinson-Krankheit,1
+covid.Treatments.Prophylaxe,11
+covid.Treatments.Prävention,10
+covid.Treatments.Decorin,1
+covid.Treatments.Alterung,4
+covid.Treatments.Myokine,1
+covid.Treatments.Osteokine,1
+covid.Treatments.25(OH)D3,3
+covid.Treatments.24.25(OH)2D3,1
+covid.Treatments.3-epi-25(OH)D3,1
+covid.Treatments.Mangelernährung,4
+covid.Treatments.Ascorbinsäure,2
+covid.Treatments.Thiamin,1
+covid.Treatments.Hesperidin,8
+covid.Treatments.Behandlung,9
+covid.Treatments.Viruseintritt,1
+covid.Treatments.antivirale Aktivität,1
+covid.Treatments.Folat,1
+covid.Treatments.Repurposing von Medikamenten,1
+covid.Treatments.zukünftige Pandemien,2
+covid.Treatments.Erfahrung in der Behandlung,1
+covid.Treatments.Körpertemperatur,1
+covid.Treatments.tragbare Geräte,1
+covid.Treatments.9-Achsen-IMU,1
+covid.Treatments.Temperatursensoren,1
+covid.Treatments.Innenraumbedingungen,1
+covid.Treatments.Aktivitätserkennung,1
+covid.Treatments.BLE,1
+covid.Treatments.Arduino nano 33 BLE sense,1
+covid.Treatments.ARDS,3
+covid.Treatments.schweres akutes respiratorisches Syndrom,1
+covid.Treatments.Körperzusammensetzung,1
+covid.Treatments.Vitamine,19
+covid.Treatments.Ernährungsmuster,2
+covid.Treatments.Darm,1
+covid.Treatments.Selbstmedikationspraktiken,1
+covid.Treatments.Management,2
+covid.Treatments.Zitrusfrüchte,3
+covid.Treatments.Hesperetin,2
+covid.Treatments.hydrodynamische Kavitation,1
+covid.Treatments.Pektin,1
+covid.Treatments.Alterungsprozess,1
+covid.Treatments.Immunoseneszenz,1
+covid.Treatments.entzündungshemmende Diät,1
+covid.Treatments.COVID-19 und Ernährung,1
+covid.Treatments.Lactoferrin,1
+covid.Treatments.Endokrinopathie,1
+covid.Treatments.Essgewohnheiten,1
+covid.Treatments.Vitaminsupplementierung,1
+covid.Treatments.Verzehr von eingelegten Lebensmitteln,1
+covid.Treatments.täglicher Lebensstil,1
+covid.Treatments.Interferon,2
+covid.Treatments.sitzendes Verhalten,1
+covid.Treatments.Photosynthese,1
+covid.Treatments.Aerobes Training,1
+covid.Treatments.Aerobe Kapazität,1
+covid.Treatments.Immunbiomarker,1
+covid.Treatments.Flavanoide,1
+covid.Treatments.Epicatechin,1
+covid.Treatments.Epigallocatechingallat,4
+covid.Treatments.Naringenin,1
+covid.Treatments.Rutin,1
+covid.Treatments.Luteolin,1
+covid.Treatments.Baicalin,2
+covid.Treatments.Diosmin,1
+covid.Treatments.Genistein,1
+covid.Treatments.Biochanin A,1
+covid.Treatments.Silymarin,1
+covid.Treatments.Senioren,2
+covid.Treatments.wiederverwendete Medikamente,1
+covid.Treatments.Rekonvaleszenzplasma,1
+covid.Treatments.monoklonale Antikörper,2
+covid.Treatments.Immunglobuline,1
+covid.Treatments.Zelltherapie,1
+covid.Treatments.Italien,1
+covid.Treatments.Zytokine,5
+covid.Treatments.Epigenetik,2
+covid.Treatments.Mineralien,6
+covid.Treatments.Sturm,1
+covid.Treatments.Risikofaktoren,3
+covid.Treatments.Intensivstation,9
+covid.Treatments.Hypervitaminose D,1
+covid.Treatments.Vitamin D Toxizität,1
+covid.Treatments.Hyperkalzämie,1
+covid.Treatments.Schilddrüse,1
+covid.Treatments.Hoden,1
+covid.Treatments.Eierstöcke,1
+covid.Treatments.endokrin,1
+covid.Treatments.Diabetes,3
+covid.Treatments.Doxycyclin,2
+covid.Treatments.Favipiravir,3
+covid.Treatments.Remdesivir,9
+covid.Treatments.Repurposing-Medikamente,1
+covid.Treatments.Rivaroxaban,1
+covid.Treatments.immunvermittelte Krankheiten,1
+covid.Treatments.Cholecalciferol,3
+covid.Treatments.COVID-19 Sepsis,1
+covid.Treatments.Darm-Mikrobiom,1
+covid.Treatments.ACE2 Immun-Seneszenz,1
+covid.Treatments.Entzündung,23
+covid.Treatments.Impfung,4
+covid.Treatments.Biomarker,2
+covid.Treatments.Diagnosen,1
+covid.Treatments.Metabolomics,1
+covid.Treatments.Prognosen,1
+covid.Treatments.Agomelatin,1
+covid.Treatments.Repurposing von Arzneimitteln,1
+covid.Treatments.Interferone,1
+covid.Treatments.Ramelteon,1
+covid.Treatments.Virusübertragung,1
+covid.Treatments.Fitnesscenter,1
+covid.Treatments.Norwegen,1
+covid.Treatments.TMPRSS2,3
+covid.Treatments.ACE2,8
+covid.Treatments.D614G,1
+covid.Treatments.501Y.v2,1
+covid.Treatments.Immunmodulation,5
+covid.Treatments.RT-PCR,2
+covid.Treatments.Cyanobakterielle Metaboliten,1
+covid.Treatments.Bindungsaffinitäten,1
+covid.Treatments.SARS-CoV-2-Proteine,1
+covid.Treatments.antiviral,3
+covid.Treatments.molekulares Docking,1
+covid.Treatments.Hypokalzämie,1
+covid.Treatments.Calcium,2
+covid.Treatments.Covid-19,7
+covid.Treatments.Ebola,1
+covid.Treatments.Wissenschaftsführerschaft in Afrika,1
+covid.Treatments.Impfstoff,2
+covid.Treatments.Gesundheitsvorsorge,2
+covid.Treatments.Anti-Spike neutralisierende Antikörper,1
+covid.Treatments.RBD IgG-Antikörper,1
+covid.Treatments.Covid-Impfstoff-Wirksamkeit,1
+covid.Treatments.Zitrusflavanone,1
+covid.Treatments.funktionelle Lebensmittel,3
+covid.Treatments.Atemwegsvirus,1
+covid.Treatments.oxidativer Stress,4
+covid.Treatments.metabolisches Syndrom,1
+covid.Treatments.Nrf2,1
+covid.Treatments.Frühbehandlung,1
+covid.Treatments.Cluster-Randomisierung,1
+covid.Treatments.Autoimmunität,1
+covid.Treatments.Autoinflammation,1
+covid.Treatments.Immunantwort,5
+covid.Treatments.mRNA-Impfstoff,1
+covid.Treatments.Typ-I-Interferon,1
+covid.Treatments.adjuvante Therapie,1
+covid.Treatments.Curcumin,3
+covid.Treatments.entzündungshemmend,1
+covid.Treatments.gerinnungshemmend,1
+covid.Treatments.Körperimmunität,1
+covid.Treatments.Waldbaden,2
+covid.Treatments.Flüchtige organische Verbindungen,1
+covid.Treatments.Mangel,3
+covid.Treatments.Verabreichung von Arzneimitteln,1
+covid.Treatments.Genehmigung für den Notfalleinsatz,1
+covid.Treatments.Post-COVID-Komplikationen,1
+covid.Treatments.Orangen,1
+covid.Treatments.Virus and oxidativer stress,1
+covid.Treatments.Süßorange,1
+covid.Treatments.IL-7,1
+covid.Treatments.Immunsuppression,1
+covid.Treatments.Thymosin-α,1
+covid.Treatments.Antimikrobielle Peptide,1
+covid.Treatments.Renin-Angiotensin-System,2
+covid.Treatments.Immunomodulation,1
+covid.Treatments.Disparitäten,1
+covid.Treatments.Ernährungsungleichheiten,1
+covid.Treatments.chronisch degenerative nicht übertragbare Krankheiten,1
+covid.Treatments.Stress,2
+covid.Treatments.Wohlbefinden,2
+covid.Treatments.Gesundheitsverhalten,1
+covid.Treatments.Stressbewältigung,1
+covid.Treatments.Einfluss soziodemografischer Variablen,1
+covid.Treatments.Kritische Erkrankung,1
+covid.Treatments.ICU,1
+covid.Treatments.Serum Vitamin C,1
+covid.Treatments.Serum Vitamin D,1
+covid.Treatments.Alter,2
+covid.Treatments.Body Mass Index,1
+covid.Treatments.BMI,1
+covid.Treatments.HbA1c,1
+covid.Treatments.glykiertes Hämoglobin,1
+covid.Treatments.globaler Ausbruch,1
+covid.Treatments.Morphologie,1
+covid.Treatments.Impfstoff der Universität Oxford,1
+covid.Treatments.psychische Gesundheit,5
+covid.Treatments.psychische Belastung,1
+covid.Treatments.akutes Atemnotsyndrom (ARDS),2
+covid.Treatments.akute Atemwegsinfektion (ARTI),1
+covid.Treatments.Calcifediol,5
+covid.Treatments.Calcitriol,6
+covid.Treatments.menschliche Gesundheit,1
+covid.Treatments.Infektionskrankheit,4
+covid.Treatments.räumliche Praktiken,1
+covid.Treatments.räumliche Strategien,1
+covid.Treatments.Sport und Raum,1
+covid.Treatments.Sportanbieter,1
+covid.Treatments.Haltungskontrolle,1
+covid.Treatments.Gleichgewicht,1
+covid.Treatments.Umlernen,1
+covid.Treatments.Inaktivität,2
+covid.Treatments.Infektionskrankheiten der Atemwege,1
+covid.Treatments.COVID-19-Behandlung,2
+covid.Treatments.Wirkung,1
+covid.Treatments.kutane Larva migrans,1
+covid.Treatments.Demodikose,1
+covid.Treatments.Dermatologie,1
+covid.Treatments.Dosis,1
+covid.Treatments.Arzneimittelwechselwirkung,1
+covid.Treatments.Filariose,1
+covid.Treatments.Malaria,1
+covid.Treatments.Nematoden,1
+covid.Treatments.Onchozerkose,1
+covid.Treatments.Pedikulose,1
+covid.Treatments.Rosacea,1
+covid.Treatments.Sicherheit,3
+covid.Treatments.Krätze,1
+covid.Treatments.Nebenwirkungen,1
+covid.Treatments.Tropen,1
+covid.Treatments.Anwendungen,1
+covid.Treatments.regulatorische T-Lymphozyten,1
+covid.Treatments.akutes Atemnotsyndrom,2
+covid.Treatments.IL-6,8
+covid.Treatments.Serumferritin,1
+covid.Treatments.Körperliche Bewegung,1
+covid.Treatments.Ältere Menschen,1
+covid.Treatments.Naher Osten,1
+covid.Treatments.SARS,2
+covid.Treatments.Lymphozyten,1
+covid.Treatments.Zytokin,2
+covid.Treatments.Arginin,2
+covid.Treatments.Stickstoffmonoxid,1
+covid.Treatments.Multisystemisches Entzündungssyndrom bei Kindern,1
+covid.Treatments.Tetrahydrobiopterin,1
+covid.Treatments.Tee-Polyphenole,3
+covid.Treatments.EGCG,4
+covid.Treatments.Theaflavin,2
+covid.Treatments.Akute Atemwegserkrankung,1
+covid.Treatments.Albumin,1
+covid.Treatments.Prä-Infektion,1
+covid.Treatments.Influenzaviren,1
+covid.Treatments.Virusinfektionen der Atemwege,1
+covid.Treatments.chronische Krankheiten,1
+covid.Treatments.Irak,1
+covid.Treatments.angeborene Immunität,4
+covid.Treatments.ernährungsbedingte Immunität,1
+covid.Treatments.Intensivpflege,1
+covid.Treatments.Intensivpatient,1
+covid.Treatments.Biofortifikation,1
+covid.Treatments.Virale Immunität,1
+covid.Treatments.Coenzym Q10,1
+covid.Treatments.Schweres Akutes Respiratorisches Syndrom,2
+covid.Treatments.Infektion,8
+covid.Treatments.Asien,1
+covid.Treatments.Regulatorische T-Zellen,1
+covid.Treatments.kardiovaskuläre Komplikationen,1
+covid.Treatments.Psychische Gesundheit,1
+covid.Treatments.COVID-19-Pandemie,4
+covid.Treatments.Bewältigungsverhalten,1
+covid.Treatments.integrierter Rahmen,1
+covid.Treatments.Selenoproteine,2
+covid.Treatments.viral kodierte Selenoproteine,1
+covid.Treatments.Krebs,1
+covid.Treatments.Anosmie,1
+covid.Treatments.Hyposmie,1
+covid.Treatments.viszerale Adipositas,1
+covid.Treatments.N-Acetyl-5-Methoxytryptamin,1
+covid.Treatments.Schlafqualität,1
+covid.Treatments.SARS-CoV-1,1
+covid.Treatments.rheumatoide Arthritis (RA),1
+covid.Treatments.systemischer Lupus erythematodes (SLE),1
+covid.Treatments.multiple Sklerose (MS),1
+covid.Treatments.respiratorische Symptome,1
+covid.Treatments.adaptive Immunität,3
+covid.Treatments.Selenmangel,1
+covid.Treatments.Schwangerschaft,1
+covid.Treatments.Krankheit,1
+covid.Treatments.Autoimmunerkrankungen,2
+covid.Treatments.SARS-CoV-2 RNA-Virus und RNA-Mutanten,1
+covid.Treatments.Zink-Homöostase,1
+covid.Treatments.COVID-19-Prävention,1
+covid.Treatments.Atemwegs- und Lungenerkrankungen,1
+covid.Treatments.Anti-Thrombusbildung,1
+covid.Treatments.ZAP-vermittelte RNA-Replikation,1
+covid.Treatments.Zink-Ionen-koordinierte Bindung,1
+covid.Treatments.KSHV,1
+covid.Treatments.EBV,1
+covid.Treatments.Spurenelemente,7
+covid.Treatments.Zellvermittelte Immunität,2
+covid.Treatments.Mangan,2
+covid.Treatments.Reaktive Sauerstoffspezies,2
+covid.Treatments.Vitamin E,3
+covid.Treatments.Vitamin B6,1
+covid.Treatments.Vitamin B12,2
+covid.Treatments.Folsäure,1
+covid.Treatments.Medikamenten-Repurposing,1
+covid.Treatments.Importin-Heterodimerkomplex,1
+covid.Treatments.Inhibition,1
+covid.Treatments.STAT3,1
+covid.Treatments.Streptomyces avermitilis,1
+covid.Treatments.Viral 3CLpro,1
+covid.Treatments.Adipositas,3
+covid.Treatments.Adipokine,1
+covid.Treatments.Herz-Kreislauf-System,1
+covid.Treatments.Insulinresistenz,1
+covid.Treatments.Thromboembolie,1
+covid.Treatments.Atmung,1
+covid.Treatments.antivirale Therapie,1
+covid.Treatments.Kombinationstherapie,1
+covid.Treatments.langwirksame Virostatika,1
+covid.Treatments.Mutagenese,1
+covid.Treatments.Nirmatrelvir,3
+covid.Treatments.orales Remdesivir,1
+covid.Treatments.Proteasehemmer,1
+covid.Treatments.Stoffwechsel,3
+covid.Treatments.Thrombose,4
+covid.Treatments.Antioxidantien,5
+covid.Treatments.Coronavirus-Erkrankung (COVID-19),1
+covid.Treatments.Schweres Akutes Respiratorisches Syndrom Coronavirus 2,6
+covid.Treatments.Vitamin D3,5
+covid.Treatments.Hydroxyderivate,1
+covid.Treatments.CYP27B1,1
+covid.Treatments.SARS-CoV-2-Virus,1
+covid.Treatments.Glutathion,2
+covid.Treatments.L-Cystein,1
+covid.Treatments.Aufnahme auf der Intensivstation,2
+covid.Treatments.Immunomodulator,1
+covid.Treatments.Hypovitaminose,1
+covid.Treatments.Vitamin D-Rezeptor,3
+covid.Treatments.Cathelicidin-LL37,1
+covid.Treatments.akutes Lungenversagen,1
+covid.Treatments.polyphenolische Verbindungen,1
+covid.Treatments.Flavandiole,1
+covid.Treatments.Flavonole,1
+covid.Treatments.Phenolsäuren,1
+covid.Treatments.Spironolacton,1
+covid.Treatments.Bromhexin,1
+covid.Treatments.SHOKS-COVID,1
+covid.Treatments.Gesundheitsinformationen,1
+covid.Treatments.medizinische Fehler/Patientensicherheit,1
+covid.Treatments.Überwachungsprogramme für verschreibungspflichtige Arzneimittel,1
+covid.Treatments.Selbstmanagement,1
+covid.Treatments.Mikronährstoffmangel,1
+covid.Treatments.Nickel,1
+covid.Treatments.Chrom,1
+covid.Treatments.Omicron-Variante,2
+covid.Treatments.NRP1,2
+covid.Treatments.Arzneimittelwirksamkeit,1
+covid.Treatments.Wirt-Pathogen-Interaktion,2
+covid.Treatments.Paxlovid,6
+covid.Treatments.Lopinavir,2
+covid.Treatments.Bromhexinhydrochlorid-Tabletten,1
+covid.Treatments.Atemwegserkrankungen,2
+covid.Treatments.zellfreier DNA-Marker,1
+covid.Treatments.Lagevrio,1
+covid.Treatments.Wirkstoffe,1
+covid.Treatments.Gastrointestinales System,1
+covid.Treatments.Endotheliale Dysfunktion,1
+covid.Treatments.Impfstatus,1
+covid.Treatments.Ergebnis,3
+covid.Treatments.Prognose-Risikofaktor,1
+covid.Treatments.Supplementation,1
+covid.Treatments.COPD,1
+covid.Treatments.SARS-CoV-2-Infektion,5
+covid.Treatments.Asthma,2
+covid.Treatments.Lungengesundheit,1
+covid.Treatments.chronische Lungenkrankheiten,1
+covid.Treatments.Pathophysiologie von SARS-CoV-2,1
+covid.Treatments.immunitätsfördernde Lebensmittel,1
+covid.Treatments.vitaminreiche Lebensmittel,1
+covid.Treatments.angiotensin-converting enzyme 2,1
+covid.Treatments.calmodulin,1
+covid.Treatments.lösliches ACE2,1
+covid.Treatments.ACE2 shedding,1
+covid.Treatments.lösliche katalytische Ektodomäne von ACE2,1
+covid.Treatments.Kalzium-Signalisierung,1
+covid.Treatments.COVID-19 thromboembolische Ereignisse,1
+covid.Treatments.Neuropilin-1,1
+covid.Treatments.Virusinfektion,5
+covid.Treatments.Redoxstatus,1
+covid.Treatments.Natrium,1
+covid.Treatments.Alkohol,1
+covid.Treatments.25-Hydroxyvitamin D. Vitamin-D-Rezeptor (VDR),1
+covid.Treatments.25-Hydroxyvitamin D-1alpha-Hydroxylase (CYP27B1),1
+covid.Treatments.Mechanismus,1
+covid.Treatments.unerwünschte Wirkung,1
+covid.Treatments.Medikamente,2
+covid.Treatments.Influenzavirus,1
+covid.Treatments.therapeutische Maßnahmen,1
+covid.Treatments.Gurgeln,1
+covid.Treatments.Grüner Tee,1
+covid.Treatments.Nicht-pharmazeutische Intervention,1
+covid.Treatments.Atemwegsvirusinfektion,1
+covid.Treatments.Teegetränk,1
+covid.Treatments.alpha-MSH,1
+covid.Treatments.Post-COVID,1
+covid.Treatments.Minerale,1
+covid.Treatments.Beatmungsmedizin,1
+covid.Treatments.Komorbidität,1
+covid.Treatments.VDR,1
+covid.Treatments.Umweltexposition,1
+covid.Treatments.gesunder Lebensstil,1
+covid.Treatments.Impfstoffe,5
+covid.Treatments.Spurenelement,2
+covid.Treatments.Mikronährstoff,2
+covid.Treatments.Vitamin-D3-Spiegel vor der Infektion,1
+covid.Treatments.COVID-19-Erkrankung,1
+covid.Treatments.orale Anti-COVID-19 Medikamente,2
+covid.Treatments.Bamlanivimab,2
+covid.Treatments.Etesevimab,3
+covid.Treatments.Casirivimab,5
+covid.Treatments.Imdevimab,4
+covid.Treatments.Systematische Überprüfung,2
+covid.Treatments.Gerinnung,1
+covid.Treatments.Hyperkoagulabilität,2
+covid.Treatments.Thromboinflammation,1
+covid.Treatments.venöse Thromboembolie (VTE),1
+covid.Treatments.AZD7442,1
+covid.Treatments.Adalimumab,1
+covid.Treatments.Anakinra,1
+covid.Treatments.BRII-196,1
+covid.Treatments.BRII-198,1
+covid.Treatments.Banlanivimab,1
+covid.Treatments.Baricitinib,3
+covid.Treatments.Canakinumab,1
+covid.Treatments.Certolizumab,1
+covid.Treatments.Ciganilmab,1
+covid.Treatments.Colchicin,1
+covid.Treatments.Dexamethason,2
+covid.Treatments.Etanercept,1
+covid.Treatments.Evusheld,1
+covid.Treatments.Fluvoxamin,3
+covid.Treatments.Golimumab,1
+covid.Treatments.Imdevinab,1
+covid.Treatments.Infliximab,1
+covid.Treatments.Itolizumab,1
+covid.Treatments.Lemilumab,1
+covid.Treatments.Lopinavir/Ritonavir,1
+covid.Treatments.Metformin,1
+covid.Treatments.PF-07321332,1
+covid.Treatments.Ravulizumab,1
+covid.Treatments.Ruxolitinib,1
+covid.Treatments.Sarilumab,1
+covid.Treatments.Sotrovimab,3
+covid.Treatments.Tixagevimab,1
+covid.Treatments.Tocilizumab,5
+covid.Treatments.Tofacitinib,1
+covid.Treatments.Genesungsplasma,1
+covid.Treatments.Fall-Kontrolle,1
+covid.Treatments.klinischer Schweregrad,2
+covid.Treatments.schlechte Prognose,1
+covid.Treatments.Israelische Bevölkerungsstudie,1
+covid.Treatments.niedriger 25(OH)-Vitamin-D-Plasmaspiegel,1
+covid.Treatments.Infektionsrisiko,2
+covid.Treatments.körperliches Aktivitätsniveau,1
+covid.Treatments.psychische Störung,1
+covid.Treatments.öffentliche Gesundheit,1
+covid.Treatments.Überblick,1
+covid.Treatments.NMV,1
+covid.Treatments.PAXLOVID,1
+covid.Treatments.embryofötale Entwicklung,1
+covid.Treatments.Fruchtbarkeit,1
+covid.Treatments.genetische Toxizität,1
+covid.Treatments.Ratte,1
+covid.Treatments.Kaninchen,1
+covid.Treatments.orale COVID-19-Therapie,1
+covid.Treatments.Heilpflanzen,1
+covid.Treatments.Virusinfektionen,2
+covid.Treatments.Mundspülungen,2
+covid.Treatments.Entzündungshemmung,1
+covid.Treatments.Immunstärkung,2
+covid.Treatments.Povidon-Jod,1
+covid.Treatments.Cetylpyridiniumchlorid,1
+covid.Treatments.Chlorhexidin,1
+covid.Treatments.Bibliometrische Analyse,1
+covid.Treatments.Lebensqualität,1
+covid.Treatments.Tee-Polyphenol,1
+covid.Treatments.SARS-CoV,1
+covid.Treatments.Vulnerabilität,1
+covid.Treatments.CGA,1
+covid.Treatments.Fallserien,1
+covid.Treatments.CVD und COVID-19 Komorbidität,1
+covid.Treatments.Bluthochdruck,1
+covid.Treatments.Vasokonstriktion,1
+covid.Treatments.Mulnupiravir,1
+covid.Treatments.antivirales Medikament,1
+covid.Treatments.Delta-Variante,1
+covid.Treatments.Wildtyp,1
+covid.Treatments.Hauptprotease,1
+covid.Treatments.Ritonavir,1
+covid.Treatments.PCSS,1
+covid.Treatments.nicht-pharmakologisch,1
+covid.Treatments.Übungen,1
+covid.Treatments.Gerowissenschaft,1
+covid.Treatments.Irisin,1
+covid.Treatments.neurotropher Faktor des Gehirns (BDNF),1
+covid.Treatments.Infektionen,1
+covid.Treatments.antivirale Mechanismen,1
+covid.Treatments.Renin-Angiotensin-Achse,1
+covid.Treatments.biologische Aktivität,1
+covid.Treatments.Arzneipflanzen,1
+covid.Treatments.Lycorin,1
+covid.Treatments.Gingerol Shogaol,1
+covid.Treatments.Resveratrol,2
+covid.Treatments.Rhoifolin,1
+covid.Treatments.Oleanolsäure,1
+covid.Treatments.Kaempferol,1
+covid.Treatments.Rosmarinsäure,1
+covid.Treatments.Mandelöl,1
+covid.Treatments.Ursolsäure,1
+covid.Treatments.Hederagenin,1
+covid.Treatments.Nigellidin,1
+covid.Treatments.α-Hederin,1
+covid.Treatments.Apigenin,1
+covid.Treatments.Nobiletin,1
+covid.Treatments.Tangeretin,1
+covid.Treatments.Chalkon,1
+covid.Treatments.Allicin,1
+covid.Treatments.Diallyltrisulfid,1
+covid.Treatments.Ajoen,1
+covid.Treatments.Aloenin,1
+covid.Treatments.Artemisinin,1
+covid.Treatments.Glucobrassicin,1
+covid.Treatments.Piperin,1
+covid.Treatments.Anthrachinon,1
+covid.Treatments.Jensenon,1
+covid.Treatments.natürliche antivirale Mittel,1
+covid.Treatments.Immunstärker,1
+covid.Treatments.Herbacetin,1
+covid.Treatments.Catechine,1
+covid.Treatments.Ubiquitinierung,1
+covid.Treatments.ISGylierung,1
+covid.Treatments.rheumatoide Arthritis,1
+covid.Treatments.PLPro,1
+covid.Treatments.demographische Faktoren,1
+covid.Treatments.epidemiologische Faktoren,1
+covid.Treatments.Oman,1
+covid.Treatments.Atemnotsyndrom,2
+covid.Treatments.Ionophor,1
+covid.Treatments.RNA-Virus,1
+covid.Treatments.Thioredoxin-Reduktase,1
+covid.Treatments.Infektionsraten,1
+covid.Treatments.Dosis-Wirkung,1
+covid.Treatments.Übersicht,1
+covid.Treatments.pflanzliche Arzneimittel,1
+covid.Treatments.ayurvedische Heilmittel,1
+covid.Treatments.nutrazeutische Arzneimittel,1
+covid.Treatments.chinesische Kräuter,1
+covid.Treatments.traditionelle chinesische Medizin,1
+covid.Treatments.hospitalisierte Patienten,2
+covid.Treatments.Vereinigte Arabische Emirate,1
+covid.Treatments.Omega-3-Fettsäuren,1
+covid.Treatments.ultraviolettes Licht,1
+covid.Treatments.Morbidität,3
+covid.Treatments.Risikopatienten,1
+covid.Treatments.Biochemische Parameter,1
+covid.Treatments.Serum-Ferritin,1
+covid.Treatments.d-Dimer,1
+covid.Treatments.Inflammasom,1
+covid.Treatments.neutrophile extrazelluläre Fallen (NETs),1
+covid.Treatments.Pflanzen-Selen-Verbindungen,1
+covid.Treatments.Selenit,1
+covid.Treatments.organisches Se,1
+covid.Treatments.Zink n-3 PUFA,1
+covid.Treatments.Doppelbelastung durch Mangelernährung,1
+covid.Treatments.Ernährungsverhalten,1
+covid.Treatments.Gewichtsveränderungen,1
+covid.Treatments.Ernährungsunsicherheit,2
+covid.Treatments.Ageusie,1
+covid.Treatments.Dysgeusie,1
+covid.Treatments.Bromhexinhydrochlorid,1
+covid.Treatments.COVID-19-Krankheit,1
+covid.Treatments.COVID-19-Pneumonie,1
+covid.Treatments.Adjuvans,1
+covid.Treatments.Compounding,1
+covid.Treatments.Arzneimittel,1
+covid.Treatments.immunologisch,1
+covid.Treatments.Pharmakologie,1
+covid.Treatments.Therapeutika,1
+covid.Treatments.25(OH)D,3
+covid.Treatments.Jahreszeiten,1
+covid.Treatments.Breitengrade,1
+covid.Treatments.Klima,1
+covid.Treatments.Wetter,1
+covid.Treatments.Regulierung der Zytokinantwort,1
+covid.Treatments.Funktionelle Lebensmittel,2
+covid.Treatments.Lebensstilprävention,1
+covid.Treatments.solares UV-B,1
+covid.Treatments.UV-A,1
+covid.Treatments.Robertson-Berger-Meter,1
+covid.Treatments.Coronavirus-Infektionen,2
+covid.Treatments.Verzerrung,1
+covid.Treatments.Infektionsrate,1
+covid.Treatments.Kuhmilch,1
+covid.Treatments.Mineral,2
+covid.Treatments.Adaptive Immunität,1
+covid.Treatments.Komplementkaskade,1
+covid.Treatments.Genregulation in Immunzellen,1
+covid.Treatments.Coronaviruserkrankung 2019,1
+covid.Treatments.Risiko,1
+covid.Treatments.entzündungshemmende Stoffe,1
+covid.Treatments.Muskelschäden,2
+covid.Treatments.Training,1
+covid.Treatments.Herz-Kreislauf-Erkrankungen,2
+covid.Treatments.Depression,2
+covid.Treatments.Gender-Medizin,1
+covid.Treatments.Long-COVID,2
+covid.Treatments.Anti-antivirale Aktivität,1
+covid.Treatments.Coronavirus-Erkrankungen-19,1
+covid.Treatments.in silico molecular docking,1
+covid.Treatments.Naturstoffe,1
+covid.Treatments.Phytokonstituenten,1
+covid.Treatments.Anti-antivirale Aktivität und Coronavirus-Erkrankungen-19,1
+covid.Treatments.Wirkstoffkandidaten,1
+covid.Treatments.Myokin,1
+covid.Treatments.löslicher IL-6R,1
+covid.Treatments.gp130,1
+covid.Treatments.NAFLD,1
+covid.Treatments.Effektgröße,1
+covid.Treatments.antivirale Mittel,1
+covid.Treatments.Meditation,1
+covid.Treatments.ganzheitliche Gesundheit,1
+covid.Treatments.Omega-3,1
+covid.Treatments.Alarmine,1
+covid.Treatments.Mikrobiota,2
+covid.Treatments.Phototherapie,1
+covid.Treatments.Sonnenlicht,2
+covid.Treatments.Ergänzung zu Impfstoffen,1
+covid.Treatments.Cannabinoide,1
+covid.Treatments.Makronährstoffe,1
+covid.Treatments.beatmet,1
+covid.Treatments.Durchfall,1
+covid.Treatments.gastrointestinal,1
+covid.Treatments.beatmungsfreie Tage,1
+covid.Treatments.Phloretin,1
+covid.Treatments.Berberin,1
+covid.Treatments.antimikrobielles Peptid,1
+covid.Treatments.Defensin,2
+covid.Treatments.Chemokinrezeptor,1
+covid.Treatments.Toll-like-Rezeptor,1
+covid.Treatments.Chemoprophylaxe,1
+covid.Treatments.Coronavirus-Krankheit-2019-Prävention,1
+covid.Treatments.Gesundheitspersonal,1
+covid.Treatments.ressourcenbeschränkte Bedingungen,1
+covid.Treatments.Darm-Lungen-Achse,1
+covid.Treatments.Mikrobiom,4
+covid.Treatments.saisonale Variation,1
+covid.Treatments.Blutparameter,1
+covid.Treatments.Trainingsbelastung,1
+covid.Treatments.Heimisolation,1
+covid.Treatments.Vitamin-D-Rezeptoren (VDR),1
+covid.Treatments.1-25-Dihidroxyvitamin D,1
+covid.Treatments.Rachitis,1
+covid.Treatments.Nebenschilddrüsenhormon (PTH),1
+covid.Treatments.Knochenstoffwechsel,1
+covid.Treatments.Altern,1
+covid.Treatments.altersbedingte nicht übertragbare Krankheiten,1
+covid.Treatments.Ernährungsdefizite,1
+covid.Treatments.Nutrition Risk Screening 2002,1
+covid.Treatments.der Controlling Nutritional Status Score,1
+covid.Treatments.CONUT-Score,1
+covid.Treatments.Inzidenz,1
+covid.Treatments.Tod,3
+covid.Treatments.immunmodulierende Nährstoffe,1
+covid.Treatments.Anthelminthikum,1
+covid.Treatments.Antivirus,1
+covid.Treatments.Importin-Protein,1
+covid.Treatments.rezeptfreie Arzneimittel,1
+covid.Treatments.Neurodegeneration,1
+covid.Treatments.Autismus,1
+covid.Treatments.Unfruchtbarkeit,1
+covid.Treatments.Krankheitsrisiko,1
+covid.Treatments.Krankheitsverlauf,1
+covid.Treatments.niedermolekulare Arzneimittel,1
+covid.Treatments.Protease-Inhibitor,1
+covid.Treatments.Polymerase-Inhibitor,1
+covid.Treatments.H. pylori,2
+covid.Treatments.Spike-Protein,2
+covid.Treatments.sportliche Leistung,1
+covid.Treatments.Darmmikrobiota,2
+covid.Treatments.kardiale Pathologien,1
+covid.Treatments.Metalle,2
+covid.Treatments.Metalloide,1
+covid.Treatments.COVID-19-Patienten,1
+covid.Treatments.Defizite,1
+covid.Treatments.Toxische Wirkungen,1
+covid.Treatments.Fachkräfte des Gesundheitswesens,1
+covid.Treatments.Nigeria,1
+covid.Treatments.Selbstmedikation,1
+covid.Treatments.Glutamin,1
+covid.Treatments.OncoTherad,1
+covid.Treatments.intravenöses Vitamin C,1
+covid.Treatments.Pathophysiologie von COVID-19,1
+covid.Treatments.Sars-Cov-2,1
+covid.Treatments.Lungeninfektion,1
+covid.Treatments.respiratorische Insuffizienz,1
+covid.Treatments.Renin-Angiotensin-Aldosteron-System,2
+covid.Treatments.Krankheitsschwere,1
+covid.Treatments.entzündliche Erkrankugnen,1
+covid.Treatments.Pandemien,2
+covid.Treatments.Mundschleimhaut,1
+covid.Treatments.Furin,1
+covid.Treatments.Zytokin-Sturm-Syndrom,1
+covid.Treatments.Endovir-Stopspray,1
+covid.Treatments.Lymphopenie,1
+covid.Treatments.Thrombozytopenie,1
+covid.Treatments.Vaskulitis,1
+covid.Treatments.ACE/ACE2,1
+covid.Treatments.Nährstoffdefizite,1
+covid.Treatments.Lungenerkrankung,1
+covid.Treatments.Soziale Isolation,1
+covid.Treatments.Quarantäne,1
+covid.Treatments.Empfehlungen,1
+covid.Treatments.Biochemie,1
+covid.Treatments.Blutbild,2
+covid.Treatments.Spirometrie,1
+covid.Treatments.Dexamethasone,2
+covid.Treatments.Omicron,3
+covid.Treatments.Folge,1
+covid.Treatments.Mikronährstoffergänzungen,2
+covid.Treatments.akute Atemwegsinfektionen,1
+covid.Treatments.Renin,2
+covid.Treatments.Demenz,1
+covid.Treatments.Heimarbeit,1
+covid.Treatments.Lebensstil,2
+covid.Treatments.sitzende Tätigkeit,3
+covid.Treatments.Verlauf,1
+covid.Treatments.kritisch krank,1
+covid.Treatments.Serumelektrolyte,1
+covid.Treatments.Anomalien,1
+covid.Treatments.Beatmungsunterstützung,1
+covid.Treatments.Chinesische Kräutermedizin,1
+covid.Treatments.Jugendliche,1
+covid.Treatments.Affektregulation,1
+covid.Treatments.Thrombozyten-aktivierender Faktor,1
+covid.Treatments.mediterrane Ernährung,1
+covid.Treatments.PAF-Hemmer,1
+covid.Treatments.Körperliche Inaktivität,1
+covid.Treatments.Prognose,3
+covid.Treatments.Saudi,1
+covid.Treatments.Vitamin-D-Insuffizienz,1
+covid.Treatments.1.25(OH)2D,1
+covid.Treatments.1.25-Dihydroxyvitamin D,1
+covid.Treatments.HIV,1
+covid.Treatments.Humanes Immundefizienz-Virus,1
+covid.Treatments.TB,1
+covid.Treatments.Tuberkulose,2
+covid.Treatments.MTB,1
+covid.Treatments.Mycobacterium tuberculosis,1
+covid.Treatments.Saudi-Arabien,2
+covid.Treatments.D3,1
+covid.Treatments.Immunstatus,1
+covid.Treatments.Immunschwäche,1
+covid.Treatments.Angiotensin,1
+covid.Treatments.Cytokin-Release-Syndrom,1
+covid.Treatments.CRS,1
+covid.Treatments.Atherothrombose,1
+covid.Treatments.Gewebefaktor,1
+covid.Treatments.Medikamentenwirksamkeit,1
+covid.Treatments.nicht geimpft,1
+covid.Treatments.Behandlung im Frühstadium,1
+covid.Treatments.OTC,1
+covid.Treatments.Ionophore,1
+covid.Treatments.Stärkung der Immunität,1
+covid.Treatments.Therapietreue,1
+covid.Treatments.Endokrin,1
+covid.Treatments.Schlaf,1
+covid.Treatments.Büroangestellte,1
+covid.Treatments.Typ-2-Diabetes,1
+covid.Treatments.Assoziation,1
+covid.Treatments.Rheumatoide Arthritis,1
+covid.Treatments.nachhaltige Gesundheit,1
+covid.Treatments.25-Hydroxyvitamin D31α,1
+covid.Treatments.25(OH)2D,1
+covid.Treatments.25-Dihydroxyvitamin D,1
+covid.Treatments.Akutes Respiratorisches Distress-Syndrom (ARDS),1
+covid.Treatments.Chemokinsturm,1
+covid.Treatments.Covidiol,1
+covid.Treatments.Neutrophile Aktivität,1
+covid.Treatments.endokrines System,1
+covid.Treatments.Cuboidal alveolar coating cells type II,1
+covid.Treatments.Cathelicidin Peptide,1
+covid.Treatments.TLR-Co-Rezeptor CD14,1
+covid.Treatments.Kinder,1
+covid.Treatments.ACE2-Bindungsinhibitor,1
+covid.Treatments.Löwenzahn,1
+covid.Treatments.SARS-CoV-2-Prävention,1
+covid.Treatments.S1-Spike-Mutation,1
+covid.Treatments.Zytokinstürme,2
+covid.Treatments.Magnesium-Supplementierung,1
+covid.Treatments.Unterstützende Therapie,1
+covid.Treatments.Multisystem,1
+covid.Treatments.Kawasaki-ähnliches Syndrom,1
+covid.Treatments.Retrospektive,1
+covid.Treatments.Vitamin-D-Status,1
+covid.Treatments.Ethnizität,1
+covid.Treatments.Ceruloplasmin,1
+covid.Treatments.Interleukin-6,1
+covid.Treatments.D-Dimer,1
+covid.Treatments.Covid-19-Krankheit,1
+covid.Treatments.Gesundheit und Wellness,1
+covid.Treatments.Frauengesundheit,1
+covid.Treatments.Risikominderung,1
+covid.Treatments.nicht-pharmakologische Interventionen,1
+covid.Treatments.Bevölkerung,1
+covid.Treatments.Entlassung,1
+covid.Treatments.mechanische Beatmung,1
+covid.Treatments.Netzwerk-Meta-Analyse,1
+covid.Treatments.virale Clearance,1
+covid.Treatments.Komorbidität-COVID-19,1
+covid.Treatments.Mangel an spezifischen Medikamenten,1
+covid.Treatments.Boceprevir,1
+covid.Treatments.Ombitasvir,1
+covid.Treatments.Paritaprevir,1
+covid.Treatments.Tipranavir,1
+covid.Treatments.Micafungin,1
+covid.Treatments.3CLPro-Inhibitoren,1
+covid.Treatments.Öffentliche Gesundheit,1
+covid.Treatments.Synergistische Rolle,1
+covid.Treatments.Phytonährstoffe,1
+covid.Treatments.akute virale Infektionen der Atemwege,1
+covid.Treatments.essentielle Metalle,1
+covid.Treatments.Immunzellen,1
+covid.Treatments.ALI,1
+covid.Treatments.Coronavirus-induzierte Krankheit 2019,1
+covid.Treatments.regulatorische T-Zellen,1
+covid.Treatments.Erhaltung,1
+covid.Treatments.Dosierung,1
+covid.Treatments.Nahrungsaufnahme,1
+covid.Treatments.ernährungsbedingter Entzündungsindex,1
+covid.Treatments.Vitamin-D-Supplementierung,1
+covid.Treatments.Serum-Vitamin-D-Spiegel,1
+covid.Treatments.Ergebnisse,1
+covid.Treatments.Evidenz,1
+covid.Treatments.antivirale Eigenschaften,1
+covid.Treatments.Immunmodulator,1
+covid.Treatments.CD147,2
+covid.Treatments.Catch and clump,1
+covid.Treatments.Receptor,1
+covid.Treatments.Pathogenese von COVID-19,1
+covid.Treatments.Lungenschäden,1
+covid.Treatments.Bioaktive Substanzen,1
+covid.Treatments.Übung,1
+covid.Treatments.Selen-Nanopartikel,1
+covid.Treatments.Eisen-Nanopartikel,1
+covid.Treatments.Kupfer-Nanopartikel,1
+covid.Treatments.Wirkstoffentdeckung,1
+covid.Treatments.Ultraviolette Strahlung,1
+covid.Treatments.Diabetes mellitus,1
+covid.Treatments.Hyperglykämie,1
+covid.Treatments.Blutzuckerkontrolle,1
+covid.Treatments.Blutzuckermessung,1
+covid.Treatments.Telemedizin,2
+covid.Treatments.Ergänzungen,1
+covid.Treatments.Polio,1
+covid.Treatments.Masern,1
+covid.Treatments.TNF-α,1
+covid.Treatments.Medikamente auf Metallbasis,1
+covid.Treatments.Metallement-Nährstoffe,1
+covid.Treatments.Metallhydrogel,1
+covid.Treatments.klinische Ergebnisse,2
+covid.Treatments.2019 neuartiges Coronavirus,1
+covid.Treatments.Sars-Cov,1
+covid.Treatments.Coronaviridae,1
+covid.Treatments.Brasilien,1
+covid.Treatments.WHO,1
+covid.Treatments.akutes respiratorisches Krankheitssyndrom,1
+covid.Treatments.Thrombomodulin,1
+covid.Treatments.Nährstoff,1
+covid.Treatments.antimikrobielle Mittel,1
+covid.Treatments.Bakterien,1
+covid.Treatments.Pilze,1
+covid.Treatments.Viren,1
+covid.Treatments.Oxidativer Stress,1
+covid.Treatments.Schwermetalle,1
+covid.Treatments.Erholungszeit,1
+covid.Treatments.Famotidin,1
+covid.Treatments.Fluoxetin,1
+covid.Treatments.Monoklonale Antikörper,1
+covid.Treatments.Nanobodies,1
+covid.Treatments.SSRI,1
+covid.Treatments.Serotonin,1
+covid.Treatments.Schwere der Infektion,1
+covid.Treatments.demografische Ökonomie,1
+covid.Treatments.Ökonomie von Minderheiten,1
+covid.Treatments.Rassen,1
+covid.Treatments.indigene Völker,1
+covid.Treatments.Einwanderer,1
+covid.Treatments.Diskriminierung außerhalb des Arbeitsmarktes,1
+covid.Treatments.Laborergebnisse,1
+covid.Treatments.Glukose,1
+covid.Treatments.Kalzium,1
+covid.Treatments.pflanzliche Stoffe,1
+covid.Treatments.Phytosome®,1
+covid.Treatments.Kardiorespiratorische Fitness,1
+covid.Treatments.Mentale Gesundheit,1
+covid.Treatments.Metabolische Gesundheit,1
+covid.Treatments.Mitochondriale Fitness,1
+covid.Treatments.SARS-Cov-2-Virus,1
+covid.Treatments.pharmazeutische Gesundheitsinfrastruktur,1
+covid.Treatments.Prävalenz,1
+covid.Treatments.Komorbiditäten,1
+covid.Treatments.Ergebnisse der Intensivpflege,1
+covid.Treatments.entzündungshemmende Medikamente,1
+covid.Treatments.monoklonale Anti-SARS-CoV-2-Antikörper,1
+covid.Treatments.immunmodulierende Wirkstoffe,1
+covid.Treatments.therapeutisch,1
+covid.Treatments.Kinder-Adipositas,1
+covid.Treatments.Online-Trainingsprogramm,1
+covid.Treatments.Pädiatrie,1
+covid.Treatments.allgemeine Ängstlichkeit,1
+covid.Treatments.soziales Interaktionsniveau,1
+covid.Treatments.Argentinien,1
+covid.Treatments.Integrität der physischen Gewebebarriere,1
+covid.Treatments.Rumänien,1
+covid.Treatments.junge Erwachsene,1
+covid.Treatments.Beobachtungsstudie,1
+covid.Treatments.COVID-19-Schweregrad,1
+covid.Treatments.physical activity,1
+covid.Treatments.catching COVID-19,1
+covid.Treatments.overcome COVID-19,1
+covid.Treatments.Energieaufnahme,1
+covid.Treatments.Proteine,1
+covid.Treatments.Fettsäuren,1
+covid.Treatments.Omega-3-Vitamine,1
+covid.Treatments.Elektrolyte,1
+covid.Treatments.CD8,1
+covid.Treatments.Lektin,1
+covid.Treatments.Glykan,1
+covid.Treatments.Epitope,1
+covid.Treatments.Angioödem,1
+covid.Immunity,
+covid.Immunity.T-Zell-Immunität,1
+covid.Immunity.SARS-CoV-2-Peptide,1
+covid.Immunity.CD4,1
+covid.Immunity.CD8,1
+covid.Immunity.T-Zellen,3
+covid.Immunity.Epitope,1
+covid.Immunity.Immunität,1
+covid.Immunity.Neutralisierende Antikörper,1
+covid.Immunity.Reinfektion,3
+covid.Immunity.Antikörper,3
+covid.Immunity.Coronaviren,1
+covid.Immunity.CD4 T-Zellen,1
+covid.Immunity.CD8 T-Zellen,1
+covid.Immunity.B-Zellen,1
+covid.Immunity.Immungedächtnis,2
+covid.Immunity.neutralisierende Antikörper,1
+covid.Immunity.bindende Antikörper,1
+covid.Immunity.Immunkorrelate,1
+covid.Immunity.Serum,1
+covid.Immunity.Peptide und Proteine,1
+covid.Immunity.Antigene,1
+covid.Immunity.Enzymimmunoassays,1
+covid.Immunity.Assays,1
+covid.Immunity.Herdenimmunität,1
+covid.Immunity.Impfrate,1
+covid.Immunity.Langlebige Plasmazellen aus dem Knochenmark,1
+covid.Immunity.BMPCs,1
+covid.Immunity.COVID-19-Impfung,1
+covid.Immunity.COVID-19-Infektion,1
+covid.Immunity.Infektionsrisiko,1
+covid.Immunity.Inzidenz,1
+covid.Immunity.Immunantwort,1
+covid.Immunity.SARS-CoV-2-Infektion,1
+covid.Immunity.Impfstoffe,1
+covid.Immunity.IG-B-Zellen,1
+covid.Immunity.IgG,1
+covid.Immunity.IgA,1
+covid.Immunity.ACE2,1
+covid.Immunity.Pandemie,1
+covid.Immunity.One-Health,1
+covid.Immunity.Epidemiologie,1
+covid.Immunity.Mortalität,1
+covid.Immunity.Immunologisches Gedächtnis,1
+covid.Immunity.Infektion,2
+covid.Immunity.ungeimpfte Personen,1
+covid.Immunity.natürliche Immunität,1
+covid.Immunity.Risikofaktoren,1
+covid.Immunity.BMI,1
+covid.Immunity.Rauchen,1
+covid.Immunity.Diabetes,1
+covid.Immunity.Vitamine,1
+covid.Immunity.Vitamin D,1
+covid.Immunity.Vitamin E,1
+covid.Immunity.Kalzium,1
+covid.Immunity.Retinol,1
+covid.Immunity.kreuzreaktive CD4+ T-Zellen,1
+covid.Immunity.SARS-CoV-2 Immunantworten,1
+covid.Immunity.Impfung,1
+covid.Immunity.frühere Infektion,1
+covid.Immunity.Antikörper-positiv,2
+covid.Immunity.Antikörper-negativ,2
+covid.Immunity.Infektionsraten,1
+covid.Interventions,
+covid.Interventions.Übergewicht,2
+covid.Interventions.Fettleibigkeit,3
+covid.Interventions.ältere Erwachsene,3
+covid.Interventions.Lockdown,8
+covid.Interventions.Körperliche Aktivität,28
+covid.Interventions.Ermüdung,1
+covid.Interventions.Atmung,1
+covid.Interventions.Gesichtsmasken,1
+covid.Interventions.psychische Gesundheit,6
+covid.Interventions.Depression,3
+covid.Interventions.Angst,2
+covid.Interventions.Alkoholkonsum,1
+covid.Interventions.Quarantäne,3
+covid.Interventions.Suizidalität,1
+covid.Interventions.Immunität,1
+covid.Interventions.Bildung,1
+covid.Interventions.Gemeinschaftsdienste,1
+covid.Interventions.depressive Symptome,1
+covid.Interventions.Cross-Lagged-Panel-Modell,1
+covid.Interventions.Längsschnittdesign,2
+covid.Interventions.Gesundheitsverhalten,3
+covid.Interventions.Familie,2
+covid.Interventions.Isolation,1
+covid.Interventions.Abriegelung,1
+covid.Interventions.soziale Isolation,2
+covid.Interventions.periphere Arterienerkrankung,1
+covid.Interventions.Lebensstil,3
+covid.Interventions.Mitarbeiter des Gesundheitswesens,1
+covid.Interventions.Aktivität,1
+covid.Interventions.Staatlicher Beamtenapparat,1
+covid.Interventions.Gresik,1
+covid.Interventions.Pandemie,7
+covid.Interventions.Kollateralschäden,1
+covid.Interventions.psychische Belastung,1
+covid.Interventions.Verhaltensänderungen,2
+covid.Interventions.Schweden,1
+covid.Interventions.Stress,2
+covid.Interventions.ältere Menschen,1
+covid.Interventions.gesättigte Fette,1
+covid.Interventions.EPA/DHA,1
+covid.Interventions.Sojabohnen,1
+covid.Interventions.Diabetes,1
+covid.Interventions.Sterblichkeit,1
+covid.Interventions.Bewegung,5
+covid.Interventions.Jugendliche,3
+covid.Interventions.Coronavirus,3
+covid.Interventions.gesundes Altern,1
+covid.Interventions.Bevölkerungsalterung,1
+covid.Interventions.beschleunigte Alterung,1
+covid.Interventions.Ernährung,6
+covid.Interventions.Informations- und Kommunikationstechnologien,1
+covid.Interventions.Gesundheit,3
+covid.Interventions.Intensität,2
+covid.Interventions.IPAQ,2
+covid.Interventions.Arbeitsmodus,1
+covid.Interventions.Schlafqualität,1
+covid.Interventions.Älterwerden,1
+covid.Interventions.Einschränkungen,1
+covid.Interventions.soziale Kontakte,1
+covid.Interventions.Wohlbefinden,2
+covid.Interventions.AugUR,1
+covid.Interventions.bevölkerungsbasierte Studie,1
+covid.Interventions.ältere Bevölkerung,1
+covid.Interventions.Lebensstilfaktoren,1
+covid.Interventions.Lebensqualität,2
+covid.Interventions.Anteil mit Risiko für COVID-19,1
+covid.Interventions.DISCERN-Tool,1
+covid.Interventions.Immunitätsstärkung,1
+covid.Interventions.Informationsqualität,1
+covid.Interventions.Internet,1
+covid.Interventions.Online-Gesundheitsinformationen,1
+covid.Interventions.Fertiggerichte,1
+covid.Interventions.Essen zum Mitnehmen,1
+covid.Interventions.Qualität der Ernährung,1
+covid.Interventions.Schulkinder,1
+covid.Interventions.Japan,1
+covid.Interventions.rassische/ethnische Minderheiten,1
+covid.Interventions.sitzende Tätigkeit,1
+covid.Interventions.Kinder,4
+covid.Interventions.Gesundheitsbeschwerden,1
+covid.Interventions.Homeoffice,1
+covid.Interventions.betriebliche Gesundheitsförderung,1
+covid.Interventions.Potenzial,1
+covid.Interventions.Sport,1
+covid.Interventions.Intervention,1
+covid.Interventions.junge Erwachsene,1
+covid.Interventions.Teenager,1
+covid.Interventions.ältere Frauen,1
+covid.Interventions.ASAS-HI,1
+covid.Interventions.axiale Spondyloarthritis,1
+covid.Interventions.von Patienten berichtete Ergebnisse,1
+covid.Interventions.kardiovaskuläre Erkrankungen,1
+covid.Interventions.Detraining,1
+covid.Interventions.sitzendes Verhalten,2
+covid.Interventions.geistige Gesundheit,2
+covid.Interventions.akademische Leistung,2
+covid.Interventions.Th1/Th2-Verhältnis,1
+covid.Interventions.Hypoxie,2
+covid.Interventions.Immunmodulation,1
+covid.Interventions.intermittierende hypoxische Präkonditionierung,1
+covid.Interventions.Bewegungsmangel,1
+covid.Interventions.Beschleunigungsmesser,1
+covid.Interventions.Wearable,1
+covid.Interventions.Smartwatch,1
+covid.Interventions.sesshaftes Verhalten,2
+covid.Interventions.Körpergewicht,1
+covid.Interventions.Gewichtszunahme,1
+covid.Interventions.Lebensmittel,1
+covid.Interventions.Pandemien,1
+covid.Interventions.körperliches Aktivitätsniveau,1
+covid.Interventions.Ängstlichkeit,1
+covid.Interventions.Erwachsene,1
+covid.Interventions.sportliche Betätigung,1
+covid.Interventions.körperliche Betätigung,1
+covid.Interventions.Grünflächen,1
+covid.Interventions.Bildschirmzeit,1
+covid.Interventions.Europa,1
+covid.Interventions.isolierte und eingeschränkte Umgebung,1
+covid.Interventions.Einsperren,1
+covid.Interventions.Schlaf,1
+covid.Interventions.Raumanalogie,1
+covid.Interventions.aktiver Lebensstil,1
+covid.Interventions.Immunsystem,1
+covid.Interventions.körperliche Inaktivität,1
+covid.Interventions.Freizeitradfahren,1
+covid.Interventions.Hanoi,1
+covid.Interventions.Vietnam,1
+covid.Interventions.aktiver Verkehr,1
+covid.Interventions.globaler Süden,1
+covid.Interventions.Persönliche Schutzausrüstung,1
+covid.Interventions.Masken,1
+covid.Interventions.N95-Gesichtsmaske,1
+covid.Interventions.chirurgische Maske,1
+covid.Interventions.Risiko,1
+covid.Interventions.unerwünschte Wirkungen,1
+covid.Interventions.langfristige unerwünschte Wirkungen,1
+covid.Interventions.Kontraindikationen,1
+covid.Interventions.Bewertung des Gesundheitsrisikos,1
+covid.Interventions.Hyperkapnie,1
+covid.Interventions.Kopfschmerzen,1
+covid.Interventions.Dyspnoe,1
+covid.Interventions.körperliche Anstrengung,1
+covid.Interventions.MIES-Syndrom,1
+covid.Interventions.Alkohol,1
+covid.Interventions.Distress,1
+covid.Interventions.Rauchen,1
+covid.Interventions.COVID-19-Einschränkungen,1
+covid.Interventions.körperliche Aktivität nach der Pandemie,1
+covid.Interventions.Long-COVID-Syndrom,1
+covid.Interventions.neurologische Erkrankung,1
+covid.Vaccines,
+covid.Vaccines.Impfung,6
+covid.Vaccines.Comirnaty,1
+covid.Vaccines.COVID-19 Impfung,1
+covid.Vaccines.Autopsie,1
+covid.Vaccines.Impfstoff-Durchbruchsinfektionen,2
+covid.Vaccines.Antikörper-Epitope,1
+covid.Vaccines.impfstoffinduzierte immunthrombotische Thrombozytopenie,2
+covid.Vaccines.mRNA-Impfstoff,1
+covid.Vaccines.BNT162b2,6
+covid.Vaccines.Antikörperantwort,1
+covid.Vaccines.ChAdOx1 nCoV-19-Impfstoff,1
+covid.Vaccines.Ad26.COV2-Impfstoff,1
+covid.Vaccines.Impfstoff-induzierte immunthrombotische Thrombozytopenie,1
+covid.Vaccines.zerebrale venöse Sinusthrombose,3
+covid.Vaccines.Omicron,1
+covid.Vaccines.Impfstoffe,8
+covid.Vaccines.Antikörper,2
+covid.Vaccines.Wirksamkeit des Impfstoffs,1
+covid.Vaccines.Infektion,2
+covid.Vaccines.Tod,1
+covid.Vaccines.Impfstofftyp,1
+covid.Vaccines.Adenoviraler Vektor,1
+covid.Vaccines.Adenovirus,1
+covid.Vaccines.Impfstoff-induzierte thrombotische Thrombozytopenie,2
+covid.Vaccines.Impfstoff,11
+covid.Vaccines.Öffentliche Gesundheit,1
+covid.Vaccines.medizinische Ethik,1
+covid.Vaccines.Nutzen-Risiko-Verhältnis,1
+covid.Vaccines.Epidemiologie,1
+covid.Vaccines.Impfstoff-Nebenwirkungen,1
+covid.Vaccines.Lipid-Nanopartikel,2
+covid.Vaccines.Immunogenität,1
+covid.Vaccines.LNP-formulierte mRNA-Impfstoffe,1
+covid.Vaccines.Spike-Antikörper-Abnahme,1
+covid.Vaccines.zweite Dosis Vakzine,1
+covid.Vaccines.ChAdOx1,1
+covid.Vaccines.Wirksamkeit,2
+covid.Vaccines.klinische Merkmale,1
+covid.Vaccines.pharmakologisches Management,1
+covid.Vaccines.zerebrale Venensinusthrombose,1
+covid.Vaccines.mRNA-Omicron,1
+covid.Vaccines.mRNA-1273,2
+covid.Vaccines.Immunantwort,2
+covid.Vaccines.Ad26.COV2.S,1
+covid.Vaccines.VITT,2
+covid.Vaccines.Thrombose mit Thrombozytopenie-Syndrom,2
+covid.Vaccines.TTS,1
+covid.Vaccines.Thrombose,3
+covid.Vaccines.prothrombotische Immunthrombozytopenie,1
+covid.Vaccines.COVID-19-Impfung,4
+covid.Vaccines.Anti-SARS-CoV-2-Impfstoff,1
+covid.Vaccines.Pandemie,2
+covid.Vaccines.Risiko einer symptomatischen Infektion,1
+covid.Vaccines.Risiko eines Krankenhausaufenthalts,1
+covid.Vaccines.Sterberisiko,1
+covid.Vaccines.Schweden,1
+covid.Vaccines.SARS-CoV-2. Impfstoff-induzierte Immunität,1
+covid.Vaccines.Durchbruchinfektionen,1
+covid.Vaccines.Anti-Spike-IgG,1
+covid.Vaccines.neutralisierende Antikörper,1
+covid.Vaccines.Antikörper-Titer,1
+covid.Vaccines.Autoimmun-HIT (aHIT),1
+covid.Vaccines.Zerebrale Venenthrombose (CVT),1
+covid.Vaccines.Disseminierte intravasale Gerinnung (DIC),1
+covid.Vaccines.Heparin-induzierte Thrombozytopenie (HIT),2
+covid.Vaccines.Splanchnische Venenthrombose,1
+covid.Vaccines.Thrombozytopenie,4
+covid.Vaccines.Knie-Totalendoprothese (TKA),1
+covid.Vaccines.fulminante Myokarditis,1
+covid.Vaccines.extrakorporale Membranoxygenierung,1
+covid.Vaccines.Fallbericht,1
+covid.Vaccines.Sicherheitsstudie,1
+covid.Vaccines.ChAdOx1 nCoV-19 Coronavirus-Impfstoff,1
+covid.Vaccines.Nachzulassung,1
+covid.Vaccines.AEFI,1
+covid.Vaccines.Indien,1
+covid.Vaccines.Risiko,1
+covid.Vaccines.Schilddrüse,1
+covid.Vaccines.Biosynthetische Heparine,1
+covid.Vaccines.HIT,2
+covid.Vaccines.PF4,2
+covid.Vaccines.Plättchenfaktor 4/Polyanion-Komplex,1
+covid.Vaccines.Moderna,1
+covid.Vaccines.Astra Zeneca,1
+covid.Vaccines.ChAdOx1-S,1
+covid.Vaccines.Sputnik V,1
+covid.Vaccines.Gam-COVID-Vac,1
+covid.Vaccines.Sinopharm,1
+covid.Vaccines.BBIBP-CorV,1
+covid.Vaccines.Prägung,1
+covid.Vaccines.Delta-Variante,3
+covid.Vaccines.endemisch,1
+covid.Vaccines.mRNA,4
+covid.Vaccines.Zerebrale Venenthrombose,1
+covid.Vaccines.Vereinigtes Königreich,1
+covid.Vaccines.Stigmatisierung,1
+covid.Vaccines.Ungeimpfte,1
+covid.Vaccines.Geimpfte,1
+covid.Vaccines.Rolle bei der Übertragung,1
+covid.Vaccines.COVID Spike Protein,1
+covid.Vaccines.Immunaktivierung,1
+covid.Vaccines.Infektionsausbruch,1
+covid.Vaccines.Reinfektionen,1
+covid.Vaccines.Multisystemisches Entzündungssyndrom,1
+covid.Vaccines.Komplikationen,1
+covid.Vaccines.Unerwünschte Ereignisse,2
+covid.Vaccines.COVID-19 Pneumonie-bedingte Thrombose,1
+covid.Vaccines.Impfstoff-induzierte thrombotische Thrombozytopenie (VITT),1
+covid.Vaccines.DNA-PF4-Interaktionen,1
+covid.Vaccines.VITT-Modell,1
+covid.Vaccines.Impfstoff-Nationalismus,1
+covid.Vaccines.Gesundheitssicherheit,1
+covid.Vaccines.lokale Kapazitäten,1
+covid.Vaccines.Labortests,1
+covid.Vaccines.Thrombozytenfaktor-4-Antikörper,1
+covid.Vaccines.Impfstoff-assoziierte thrombotische Thrombozytopenie,1
+covid.Vaccines.Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie,1
+covid.Vaccines.mRNA-Impfstoffe,2
+covid.Vaccines.Virale Vektorimpfstoffe,1
+covid.Vaccines.Impfstoffsicherheit,1
+covid.Vaccines.Peru,1
+covid.Vaccines.Coronavirus,1
+covid.Vaccines.Biologische Wissenschaften,1
+covid.Vaccines.Biotechnologie,1
+covid.Vaccines.Immunologie,2
+covid.Vaccines.COVID-19-Impfstoffe,1
+covid.Vaccines.Schwere unerwünschte Ereignisse,1
+covid.Vaccines.Venöse Thrombose,1
+covid.Vaccines.Risikofaktoren,1
+covid.Vaccines.neurologische Nebenwirkungen,1
+covid.Vaccines.SARS-CoV-2-Impfungen,1
+covid.Vaccines.Myokarditis,4
+covid.Vaccines.VAERS,1
+covid.Vaccines.unerwünschte Ereignisse (AEs),1
+covid.Vaccines.COVID-19-Injektionsbedingte Myokarditis (CIRM),1
+covid.Vaccines.Coronavirus-Krankheit 2019,1
+covid.Vaccines.Covid-19,1
+covid.Vaccines.mRNA Covid-19 Impfstoffe Sicherheit,1
+covid.Vaccines.Schwangere,1
+covid.Vaccines.ADE,1
+covid.Vaccines.Antikörper-abhängiges Enhancement,1
+covid.Vaccines.Impfquote,1
+covid.Vaccines.messenger RNA (mRNA) COVID-19 Impfstoffe,1
+covid.Vaccines.Alpha-Variante,1
+covid.Vaccines.Prävalenz,1
+covid.Vaccines.Impfstoffschutz,1
+covid.Vaccines.Impfungen,1
+covid.Vaccines.Klinische Studien,1
+covid.Vaccines.Körperliche Aktivität,1
+covid.Vaccines.COVID-19 Impfstoff Durchbruchinfektionen,1
+covid.Vaccines.Vereinigte Staaten von Amerika,1
+covid.Vaccines.Wirksamkeit der Impfstoffe,1
+covid.Vaccines.Bioprinting,1
+covid.Vaccines.Verabreichungsweg,1
+covid.Vaccines.Gerinnung,1
+covid.Vaccines.Antikoagulation,1
+covid.Vaccines.Thromboembolie,1
+covid.Vaccines.Vitamine,1
+covid.Vaccines.humorale Antwort,1
+covid.Vaccines.Ernährung,1
+covid.Vaccines.TTP,1
+covid.Vaccines.Thrombotische Thrombozytopenie Purpura,1
+covid.Vaccines.Impfverzögerung,1
+covid.Vaccines.Impfverweigerung,1
+covid.Vaccines.Überredung,1
+covid.Vaccines.Anreize,1
+covid.Vaccines.Mandate,1
+covid.Vaccines.Zwang,1
+covid.Vaccines.natürliche Immunität,1
+covid.Vaccines.Adenovirus-vermittelte Impfstoffe,1
+covid.Vaccines.Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff,1
+covid.Vaccines.PF4-Antikörper,1
+covid.Vaccines.thrombotische thrombozytopenische Purpura,1
+covid.Vaccines.AstraZeneca,1
+covid.Vaccines.AstraZeneca Impfstoff,1
+covid.Vaccines.ChAdOx1 nCoV-19,1
+covid.Vaccines.Heparin-induzierte Thrombozytopenie,1
+covid.Vaccines.Hyperkoagulation,1
+covid.Vaccines.Hyperstimulation,1
+covid.Vaccines.Molekulare Mimikry,1
+covid.Vaccines.Adenovirus-DNA-Integration in Säugetiergenome,1
+covid.Vaccines.Adenovirus-Vektor-DNA-Integration in menschliches Genom,1
+covid.Vaccines.Expression adenoviraler Gene in Vektor-DNA,1
+covid.Vaccines.Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe,1
+covid.Vaccines.epigenetische Konsequenzen der Fremd-DNA-Integration,1
+covid.Vaccines.Retrotranskription von SARS-CoV-2-RNA in DNA,1
+covid.Vaccines.Perikarditis,1
+covid.Vaccines.Jugendliche,1
+covid.Vaccines.Komirnatie,1
+covid.Vaccines.Hongkong,1
+covid.Vaccines.neutralisierende Antikörperreaktion,1
+covid.Vaccines.SARS-CoV-2-S1-bindende Antikörperreaktion,1
+covid.Vaccines.unerwünschte Wirkungen,1
+covid.Vaccines.Immunkinetik,1
+covid.Vaccines.geimpft,2
+covid.Vaccines.Übertragung,1
+covid.Vaccines.ungeimpft,1
+covid.Vaccines.mRNA-basierter Impfstoff,1
+covid.Vaccines.entzündliche Zytokine,1
+covid.Virus,
+covid.Virus.Coronavirus,1
+covid.Virus.kardiovaskuläre MRT-Befunde,1
+covid.Virus.Genesung,1
+covid.Virus.Plasma-Exosomen,1
+covid.Virus.Wirtsreaktion,1
+covid.Virus.Biomarker,1
+covid.Virus.Proteomik,1
+covid.Virus.Schweregrad,1
+covid.Virus.Fettleibigkeit,1
+covid.Virus.Risikofaktoren,1
+covid.Virus.Body-Mass-Index,1
+covid.Virus.Virus,1
+covid.Virus.CFD-Analyse,1
+covid.Virus.Virusübertragung,1
+covid.Virus.Nahbereich,1
+covid.Virus.PIV,1
+covid.Virus.Tröpfchen,1
+covid.Virus.Viruslast,1
+covid.Virus.SARS-CoV-2 Delta-Variante,1
+covid.Virus.Impfung,1
+covid.Virus.Spike,1
+covid.Virus.DNA-Schaden-Reparatur,1
+covid.Virus.V(D)J-Rekombination,1
+covid.Virus.Impfstoff,1
