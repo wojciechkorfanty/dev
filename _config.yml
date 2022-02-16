@@ -98,6 +98,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - scripts
+  - _studies_new
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
