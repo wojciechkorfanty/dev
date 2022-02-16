@@ -6,15 +6,11 @@ js: ["/assets/js/search-content-de.js", "/assets/js/search.js"]
 ---
 
 <div class="search">
-  <article>
-    <h3>Suche</h3>
     <form action="search_de" method="get">
-      <input type="text" id="search-box" name="query">
-      <input type="submit" value="Search">
-      <!-- 
-      Statt Submit-Button die Lupe nehmen: <div data-icon="ei-search" data-size="s">
+      <input type="text" id="search-box" placeholder="Suche…" name="query">
+      <!--
+      <button type="submit"><div data-icon="ei-search" data-size="s"></button>
       -->
     </form>
-  </article>
   <div id="search-results" class="search-results"></div>
 </div>
