@@ -49,3413 +49,3373 @@ from,to,title,group,value
 46,43,,ältere Erwachsene,2
 15,43,,Körperliche Aktivität,2
 2,47,,Treatments,2
-48,47,,Coronavirus,2
-49,47,,Immunologie,2
-50,47,,Sterblichkeitsrate,2
+48,47,,Immunologie,2
+49,47,,Sterblichkeitsrate,2
 3,47,,Vitamin D,2
-2,51,,Treatments,2
-52,51,,immunmodulatorische Wirkung,2
-53,51,,Immunpathogenese,2
-54,51,,Infektionskrankheiten,2
-3,51,,Vitamin D,2
-25,55,,Immunity,2
-56,55,,T-Zell-Immunität,2
-57,55,,SARS-CoV-2-Peptide,2
-59,58,,Interventions,2
-60,58,,Übergewicht,2
-33,58,,Fettleibigkeit,2
-46,58,,ältere Erwachsene,2
-44,58,,Lockdown,2
-15,58,,Körperliche Aktivität,2
-59,61,,Interventions,2
-62,61,,Ermüdung,2
-63,61,,Atmung,2
-64,61,,Gesichtsmasken,2
-15,61,,Körperliche Aktivität,2
-2,65,,Treatments,2
-66,65,,Pandemie,2
-67,65,,Eisen,2
-59,68,,Interventions,2
-69,68,,psychische Gesundheit,2
-70,68,,Depression,2
-71,68,,Angst,2
-72,68,,Alkoholkonsum,2
-73,68,,Quarantäne,2
-74,68,,Suizidalität,2
-15,68,,Körperliche Aktivität,2
-59,75,,Interventions,2
-15,75,,Körperliche Aktivität,2
-76,75,,Immunität,2
-77,75,,Bildung,2
-78,75,,Gemeinschaftsdienste,2
-2,79,,Treatments,2
-80,79,,Ivermectin,2
-81,79,,Ost-Indien,2
-83,82,,Vaccines,2
-2,84,,Treatments,2
-3,84,,Vitamin D,2
-85,84,,Calciferol,2
-86,84,,systematische Überprüfung,2
-87,84,,Meta-Analyse,2
-2,88,,Treatments,2
-89,88,,Ambulante Patienten,2
-40,88,,Zink,2
-90,88,,Hydroxychloroquin,2
-91,88,,Azithromycin,2
-2,92,,Treatments,2
-93,92,,Barrieren,2
-48,92,,Coronavirus,2
-77,92,,Bildung,2
-94,92,,Umwelt,2
-95,92,,Gesundheit,2
-96,92,,pflanzliche Ernährung,2
-97,92,,Sport,2
-98,92,,vegane Ernährung,2
-2,99,,Treatments,2
-100,99,,Coronavirus-Krankheit 2019,2
-101,99,,Pädiatrisches entzündliches Multisystem-Syndrom,2
-102,99,,Multisystem-Entzündungssyndrom bei Kindern,2
-103,99,,Pädiatrische Intensivstation,2
-104,99,,Vitamin D-Mangel,2
-2,105,,Treatments,2
-106,105,,Einfacher Algorithmus für die Therapie zu Hause,2
-107,105,,Beobachtungsstudie mit abgestimmter Kohorte,2
-108,105,,Hausärzte,2
-109,105,,Frühe Symptome zu Hause,2
+2,50,,Treatments,2
+51,50,,immunmodulatorische Wirkung,2
+52,50,,Immunpathogenese,2
+53,50,,Infektionskrankheiten,2
+3,50,,Vitamin D,2
+25,54,,Immunity,2
+55,54,,T-Zell-Immunität,2
+56,54,,SARS-CoV-2-Peptide,2
+58,57,,Interventions,2
+59,57,,Übergewicht,2
+33,57,,Fettleibigkeit,2
+46,57,,ältere Erwachsene,2
+44,57,,Lockdown,2
+15,57,,Körperliche Aktivität,2
+58,60,,Interventions,2
+61,60,,Ermüdung,2
+62,60,,Atmung,2
+63,60,,Gesichtsmasken,2
+15,60,,Körperliche Aktivität,2
+2,64,,Treatments,2
+65,64,,Pandemie,2
+66,64,,Eisen,2
+58,67,,Interventions,2
+68,67,,psychische Gesundheit,2
+69,67,,Depression,2
+70,67,,Angst,2
+71,67,,Alkoholkonsum,2
+72,67,,Quarantäne,2
+73,67,,Suizidalität,2
+15,67,,Körperliche Aktivität,2
+58,74,,Interventions,2
+15,74,,Körperliche Aktivität,2
+75,74,,Immunität,2
+76,74,,Bildung,2
+77,74,,Gemeinschaftsdienste,2
+2,78,,Treatments,2
+79,78,,Ivermectin,2
+80,78,,Ost-Indien,2
+82,81,,Vaccines,2
+2,83,,Treatments,2
+3,83,,Vitamin D,2
+84,83,,Calciferol,2
+85,83,,systematische Überprüfung,2
+86,83,,Meta-Analyse,2
+2,87,,Treatments,2
+88,87,,Ambulante Patienten,2
+40,87,,Zink,2
+89,87,,Hydroxychloroquin,2
+90,87,,Azithromycin,2
+2,91,,Treatments,2
+92,91,,Barrieren,2
+76,91,,Bildung,2
+93,91,,Umwelt,2
+94,91,,Gesundheit,2
+95,91,,pflanzliche Ernährung,2
+96,91,,Sport,2
+97,91,,vegane Ernährung,2
+2,98,,Treatments,2
+99,98,,Coronavirus-Krankheit 2019,2
+100,98,,Pädiatrisches entzündliches Multisystem-Syndrom,2
+101,98,,Multisystem-Entzündungssyndrom bei Kindern,2
+102,98,,Pädiatrische Intensivstation,2
+103,98,,Vitamin D-Mangel,2
+2,104,,Treatments,2
+105,104,,Einfacher Algorithmus für die Therapie zu Hause,2
+106,104,,Beobachtungsstudie mit abgestimmter Kohorte,2
+107,104,,Hausärzte,2
+108,104,,Frühe Symptome zu Hause,2
+2,109,,Treatments,2
+75,109,,Immunität,2
+3,109,,Vitamin D,2
 2,110,,Treatments,2
-48,110,,Coronavirus,2
-76,110,,Immunität,2
 3,110,,Vitamin D,2
-2,111,,Treatments,2
-3,111,,Vitamin D,2
-112,111,,Sterblichkeit,2
-113,111,,ICU-Aufnahme,2
-114,111,,Krankenhausaufenthalt,2
-2,115,,Treatments,2
-116,115,,COVID-19-Impfstoffe,2
-3,115,,Vitamin D,2
-40,115,,Zink,2
-80,115,,Ivermectin,2
-117,115,,Chloroquin,2
-118,115,,evidenzbasierte Praxis,2
-2,119,,Treatments,2
-120,119,,Magnesium,2
-40,119,,Zink,2
-121,119,,Kupfer,2
-122,119,,Schweregrad,2
-123,119,,Mortalität,2
-2,124,,Treatments,2
-125,124,,Zinktherapie,2
-126,124,,Mikroelement,2
-127,124,,immunstärkend,2
-128,124,,Wirksamkeit,2
-129,124,,Lungenentzündung,2
-66,124,,Pandemie,2
-11,124,,Virale Infektionen,2
-2,130,,Treatments,2
-131,130,,2019-nCoV,2
-90,130,,Hydroxychloroquin,2
-132,130,,Azithomycin,2
-133,130,,Klinische Studien,2
-2,134,,Treatments,2
-135,134,,Vitamin,2
-136,134,,Immunonutrition,2
-137,134,,Nahrungsergänzung,2
-25,138,,Immunity,2
-139,138,,CD4,2
-140,138,,CD8,2
-141,138,,T-Zellen,2
-142,138,,Epitope,2
-2,143,,Treatments,2
-144,143,,antivirales Potential,2
-48,143,,Coronavirus,2
-145,143,,Epidemiologie,2
-146,143,,Wirkungsweise,2
-131,143,,2019-nCoV,2
-147,143,,phylogenetisch,2
-148,143,,Phytochemikalien,2
-83,149,,Vaccines,2
-150,149,,Impfung,2
-151,149,,Comirnaty,2
-152,149,,COVID-19 Impfung,2
-153,149,,Autopsie,2
-2,154,,Treatments,2
-155,154,,antivirale Medikamente,2
-156,154,,Paxlovic,2
-157,154,,Molnupiravir,2
-2,158,,Treatments,2
-3,158,,Vitamin D,2
-159,158,,Quercetin,2
-160,158,,Selen,2
-40,158,,Zink,2
-161,158,,Vitamin A,2
-162,158,,Holunder,2
-163,158,,Knoblauch,2
-164,158,,Süßholz,2
-165,158,,Brennnessel,2
-2,166,,Treatments,2
-40,166,,Zink,2
-3,166,,Vitamin D,2
-67,166,,Eisen,2
-167,166,,Grippe,2
-168,166,,Anämie,2
-2,169,,Treatments,2
-170,169,,n-3 PUFA,2
-40,169,,Zink,2
-39,169,,Vitamin C,2
-3,169,,Vitamin D,2
-171,169,,Probiotika,2
-173,172,,Virus,2
-48,172,,Coronavirus,2
-174,172,,kardiovaskuläre MRT-Befunde,2
-175,172,,Genesung,2
-2,176,,Treatments,2
-177,176,,anti-inflammatorisch,2
-178,176,,Kortikosteroide,2
-179,176,,Zytokinsturm,2
-3,176,,Vitamin D,2
-180,176,,Veteranen,2
-83,181,,Vaccines,2
-182,181,,Impfstoff-Durchbruchsinfektionen,2
+111,110,,Sterblichkeit,2
+112,110,,ICU-Aufnahme,2
+113,110,,Krankenhausaufenthalt,2
+2,114,,Treatments,2
+115,114,,COVID-19-Impfstoffe,2
+3,114,,Vitamin D,2
+40,114,,Zink,2
+79,114,,Ivermectin,2
+116,114,,Chloroquin,2
+117,114,,evidenzbasierte Praxis,2
+2,118,,Treatments,2
+119,118,,Magnesium,2
+40,118,,Zink,2
+120,118,,Kupfer,2
+121,118,,Schweregrad,2
+122,118,,Mortalität,2
+2,123,,Treatments,2
+124,123,,Zinktherapie,2
+125,123,,Mikroelement,2
+126,123,,immunstärkend,2
+127,123,,Wirksamkeit,2
+128,123,,Lungenentzündung,2
+65,123,,Pandemie,2
+11,123,,Virale Infektionen,2
+2,129,,Treatments,2
+130,129,,2019-nCoV,2
+89,129,,Hydroxychloroquin,2
+131,129,,Azithomycin,2
+132,129,,Klinische Studien,2
+2,133,,Treatments,2
+134,133,,Vitamin,2
+135,133,,Immunonutrition,2
+136,133,,Nahrungsergänzung,2
+25,137,,Immunity,2
+138,137,,CD4,2
+139,137,,CD8,2
+140,137,,T-Zellen,2
+141,137,,Epitope,2
+2,142,,Treatments,2
+143,142,,antivirales Potential,2
+144,142,,Epidemiologie,2
+145,142,,Wirkungsweise,2
+130,142,,2019-nCoV,2
+146,142,,phylogenetisch,2
+147,142,,Phytochemikalien,2
+82,148,,Vaccines,2
+149,148,,Impfung,2
+150,148,,Comirnaty,2
+151,148,,COVID-19 Impfung,2
+152,148,,Autopsie,2
+2,153,,Treatments,2
+154,153,,antivirale Medikamente,2
+155,153,,Paxlovic,2
+156,153,,Molnupiravir,2
+2,157,,Treatments,2
+3,157,,Vitamin D,2
+158,157,,Quercetin,2
+159,157,,Selen,2
+40,157,,Zink,2
+160,157,,Vitamin A,2
+161,157,,Holunder,2
+162,157,,Knoblauch,2
+163,157,,Süßholz,2
+164,157,,Brennnessel,2
+2,165,,Treatments,2
+40,165,,Zink,2
+3,165,,Vitamin D,2
+66,165,,Eisen,2
+166,165,,Grippe,2
+167,165,,Anämie,2
+2,168,,Treatments,2
+169,168,,n-3 PUFA,2
+40,168,,Zink,2
+39,168,,Vitamin C,2
+3,168,,Vitamin D,2
+170,168,,Probiotika,2
+172,171,,Virus,2
+173,171,,kardiovaskuläre MRT-Befunde,2
+174,171,,Genesung,2
+2,175,,Treatments,2
+176,175,,anti-inflammatorisch,2
+177,175,,Kortikosteroide,2
+178,175,,Zytokinsturm,2
+3,175,,Vitamin D,2
+179,175,,Veteranen,2
+82,180,,Vaccines,2
+181,180,,Impfstoff-Durchbruchsinfektionen,2
+2,182,,Treatments,2
+3,182,,Vitamin D,2
 2,183,,Treatments,2
-3,183,,Vitamin D,2
-2,184,,Treatments,2
-185,184,,körperliche Inaktivität,2
-186,184,,Erwachsene,2
-48,184,,Coronavirus,2
-46,184,,ältere Erwachsene,2
-187,184,,Zeitraum des Sitzens,2
-188,184,,Bewegungsverhalten,2
-189,184,,Determinanten,2
-190,184,,COM-B-Modell,2
-191,184,,Verhaltensänderung,2
-2,192,,Treatments,2
-193,192,,Vitamin-E-Supplementierung,2
-194,192,,ältere Menschen,2
-195,192,,Antioxidantienstatus,2
-196,192,,Immunsystem,2
-197,192,,Atemwegsinfektionen,2
-198,192,,Influenza,2
-2,199,,Treatments,2
-200,199,,Bewegung,2
-15,199,,Körperliche Aktivität,2
-201,199,,Bevölkerungsrepräsentative Umfrage,2
-202,199,,Gesundheitspolitik,2
-83,203,,Vaccines,2
-2,204,,Treatments,2
-3,204,,Vitamin D,2
-205,204,,Calcidiol,2
-6,204,,Supplementierung,2
-2,206,,Treatments,2
-83,207,,Vaccines,2
-59,208,,Interventions,2
-209,208,,depressive Symptome,2
-46,208,,ältere Erwachsene,2
-210,208,,Cross-Lagged-Panel-Modell,2
-211,208,,Längsschnittdesign,2
-15,208,,Körperliche Aktivität,2
-2,212,,Treatments,2
-3,212,,Vitamin D,2
-213,212,,Inflammation,2
-214,212,,Antibacterial,2
-215,212,,Antiviral,2
-216,212,,Cathelicidin,2
-217,212,,β-defensin 2,2
-218,212,,NOD2,2
-2,219,,Treatments,2
-220,219,,Coronavirus-Erkrankung 2019,2
-3,219,,Vitamin D,2
-87,219,,Meta-Analyse,2
-221,219,,niedriger Vitamin-D-Status,2
-222,219,,25-Hydroxyvitamin D,2
-2,223,,Treatments,2
-224,223,,gesundheitsbezogene Angaben,2
-196,223,,Immunsystem,2
-225,223,,Mikronährstoffe,2
-3,223,,Vitamin D,2
-226,223,,Nahrungsergänzungsmittel,2
-2,227,,Treatments,2
-225,227,,Mikronährstoffe,2
-39,227,,Vitamin C,2
-3,227,,Vitamin D,2
-40,227,,Zink,2
-160,227,,Selen,2
-228,227,,Melatonin,2
-229,227,,Interleukin,2
-230,227,,Tumor-Nekrose-Faktor,2
-66,227,,Pandemie,2
-231,227,,Nutrazeutika,2
-179,227,,Zytokinsturm,2
-59,232,,Interventions,2
-233,232,,Gesundheitsverhalten,2
-234,232,,Familie,2
-73,232,,Quarantäne,2
-235,232,,Isolation,2
-236,232,,Abriegelung,2
-25,237,,Immunity,2
-76,237,,Immunität,2
-238,237,,Neutralisierende Antikörper,2
-239,237,,Reinfektion,2
-2,240,,Treatments,2
-241,240,,Lang-COVID,2
-242,240,,Symptome,2
-173,240,,Virus,2
-2,243,,Treatments,2
-244,243,,milde Erkrankung,2
-245,243,,mittelschwere Erkrankung,2
-2,246,,Treatments,2
-48,246,,Coronavirus,2
-80,246,,Ivermectin,2
-247,246,,Wirkmechanismus,2
-83,248,,Vaccines,2
-249,248,,Antikörper-Epitope,2
-250,248,,impfstoffinduzierte immunthrombotische Thrombozytopenie,2
-2,251,,Treatments,2
-48,251,,Coronavirus,2
-80,251,,Ivermectin,2
-123,251,,Mortalität,2
-252,251,,Therapie,2
-2,253,,Treatments,2
-3,253,,Vitamin D,2
-254,253,,Rolle bei der COVID-19-Infektion,2
-2,255,,Treatments,2
-256,255,,Traditionelle Chinesische Medizin,2
-257,255,,TCM,2
-258,255,,Glycyrrhizin,2
-259,255,,Flavonoide,2
-260,255,,Polyphenole,2
-261,255,,Cannabis,2
-83,262,,Vaccines,2
-263,262,,mRNA-Impfstoff,2
-264,262,,BNT162b2,2
-265,262,,Antikörperantwort,2
-59,266,,Interventions,2
-267,266,,soziale Isolation,2
-268,266,,periphere Arterienerkrankung,2
-69,266,,psychische Gesundheit,2
-15,266,,Körperliche Aktivität,2
-2,269,,Treatments,2
-270,269,,Parkinson-Krankheit,2
-3,269,,Vitamin D,2
-59,271,,Interventions,2
-272,271,,Lebensstil,2
-273,271,,Mitarbeiter des Gesundheitswesens,2
-2,274,,Treatments,2
-80,274,,Ivermectin,2
-275,274,,Prophylaxe,2
-276,274,,Prävention,2
-48,274,,Coronavirus,2
-2,277,,Treatments,2
-278,277,,Decorin,2
-279,277,,Alterung,2
-280,277,,Myokine,2
-281,277,,Osteokine,2
-282,277,,25(OH)D3,2
-283,277,,24.25(OH)2D3,2
-284,277,,3-epi-25(OH)D3,2
-2,285,,Treatments,2
-286,285,,Mangelernährung,2
-287,285,,Ascorbinsäure,2
-288,285,,Thiamin,2
-225,285,,Mikronährstoffe,2
-2,289,,Treatments,2
-290,289,,Hesperidin,2
-275,289,,Prophylaxe,2
-291,289,,Behandlung,2
-292,289,,Viruseintritt,2
-293,289,,antivirale Aktivität,2
-76,289,,Immunität,2
-2,294,,Treatments,2
-40,294,,Zink,2
-295,294,,Folat,2
-39,294,,Vitamin C,2
-3,294,,Vitamin D,2
-2,296,,Treatments,2
-297,296,,Repurposing von Medikamenten,2
-298,296,,zukünftige Pandemien,2
-299,296,,Erfahrung in der Behandlung,2
-133,296,,Klinische Studien,2
-2,300,,Treatments,2
-301,300,,Körpertemperatur,2
-302,300,,tragbare Geräte,2
-303,300,,9-Achsen-IMU,2
-304,300,,Temperatursensoren,2
-305,300,,Innenraumbedingungen,2
-306,300,,Aktivitätserkennung,2
-307,300,,BLE,2
-308,300,,Arduino nano 33 BLE sense,2
-83,309,,Vaccines,2
-2,310,,Treatments,2
-46,310,,ältere Erwachsene,2
-311,310,,ARDS,2
-112,310,,Sterblichkeit,2
-2,312,,Treatments,2
-3,312,,Vitamin D,2
-313,312,,schweres akutes respiratorisches Syndrom,2
-2,314,,Treatments,2
-45,314,,Ernährung,2
-44,314,,Lockdown,2
-315,314,,Körperzusammensetzung,2
-316,314,,Vitamine,2
-317,314,,Ernährungsmuster,2
-49,314,,Immunologie,2
-318,314,,Darm,2
-15,314,,Körperliche Aktivität,2
-2,319,,Treatments,2
-320,319,,Selbstmedikationspraktiken,2
-276,319,,Prävention,2
-321,319,,Management,2
-2,322,,Treatments,2
-323,322,,Zitrusfrüchte,2
-48,322,,Coronavirus,2
-259,322,,Flavonoide,2
-324,322,,Hesperetin,2
-290,322,,Hesperidin,2
-325,322,,hydrodynamische Kavitation,2
-326,322,,Pektin,2
-59,327,,Interventions,2
-328,327,,Aktivität,2
-329,327,,Staatlicher Beamtenapparat,2
-330,327,,Gresik,2
-66,327,,Pandemie,2
-83,331,,Vaccines,2
-2,332,,Treatments,2
-333,332,,Alterungsprozess,2
-200,332,,Bewegung,2
-196,332,,Immunsystem,2
-334,332,,Immunoseneszenz,2
-2,335,,Treatments,2
-226,335,,Nahrungsergänzungsmittel,2
-45,335,,Ernährung,2
-336,335,,entzündungshemmende Diät,2
-337,335,,COVID-19 und Ernährung,2
-2,338,,Treatments,2
-179,338,,Zytokinsturm,2
-196,338,,Immunsystem,2
-339,338,,Lactoferrin,2
-45,338,,Ernährung,2
-171,338,,Probiotika,2
-6,338,,Supplementierung,2
-3,338,,Vitamin D,2
-40,338,,Zink,2
-2,340,,Treatments,2
-279,340,,Alterung,2
-341,340,,Endokrinopathie,2
-76,340,,Immunität,2
-3,340,,Vitamin D,2
-2,342,,Treatments,2
-66,342,,Pandemie,2
-343,342,,Essgewohnheiten,2
-344,342,,Vitaminsupplementierung,2
-345,342,,Verzehr von eingelegten Lebensmitteln,2
-346,342,,täglicher Lebensstil,2
-15,342,,Körperliche Aktivität,2
-2,347,,Treatments,2
-348,347,,Interferon,2
-3,347,,Vitamin D,2
-120,347,,Magnesium,2
-40,347,,Zink,2
-2,349,,Treatments,2
-350,349,,sitzendes Verhalten,2
-44,349,,Lockdown,2
-15,349,,Körperliche Aktivität,2
-2,351,,Treatments,2
-3,351,,Vitamin D,2
-352,351,,Photosynthese,2
-196,351,,Immunsystem,2
-247,351,,Wirkmechanismus,2
-59,353,,Interventions,2
-354,353,,Kollateralschäden,2
-355,353,,psychische Belastung,2
-356,353,,Verhaltensänderungen,2
-357,353,,Schweden,2
-83,358,,Vaccines,2
-2,359,,Treatments,2
-360,359,,Aerobes Training,2
-361,359,,Aerobe Kapazität,2
-362,359,,Immunbiomarker,2
-196,359,,Immunsystem,2
-2,363,,Treatments,2
-42,363,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-364,363,,Flavanoide,2
-365,363,,Epicatechin,2
-366,363,,Epigallocatechingallat,2
-290,363,,Hesperidin,2
-367,363,,Naringenin,2
-159,363,,Quercetin,2
-368,363,,Rutin,2
-369,363,,Luteolin,2
-370,363,,Baicalin,2
-371,363,,Diosmin,2
-372,363,,Genistein,2
-373,363,,Biochanin A,2
-374,363,,Silymarin,2
-2,375,,Treatments,2
-3,375,,Vitamin D,2
-376,375,,Senioren,2
-2,377,,Treatments,2
-378,377,,wiederverwendete Medikamente,2
-379,377,,Rekonvaleszenzplasma,2
-380,377,,monoklonale Antikörper,2
-381,377,,Immunglobuline,2
-382,377,,Zelltherapie,2
-25,383,,Immunity,2
-384,383,,Antikörper,2
-239,383,,Reinfektion,2
-83,385,,Vaccines,2
+184,183,,körperliche Inaktivität,2
+185,183,,Erwachsene,2
+46,183,,ältere Erwachsene,2
+186,183,,Zeitraum des Sitzens,2
+187,183,,Bewegungsverhalten,2
+188,183,,Determinanten,2
+189,183,,COM-B-Modell,2
+190,183,,Verhaltensänderung,2
+2,191,,Treatments,2
+192,191,,Vitamin-E-Supplementierung,2
+193,191,,ältere Menschen,2
+194,191,,Antioxidantienstatus,2
+195,191,,Immunsystem,2
+196,191,,Atemwegsinfektionen,2
+197,191,,Influenza,2
+2,198,,Treatments,2
+199,198,,Bewegung,2
+15,198,,Körperliche Aktivität,2
+200,198,,Bevölkerungsrepräsentative Umfrage,2
+201,198,,Gesundheitspolitik,2
+82,202,,Vaccines,2
+2,203,,Treatments,2
+3,203,,Vitamin D,2
+204,203,,Calcidiol,2
+6,203,,Supplementierung,2
+2,205,,Treatments,2
+82,206,,Vaccines,2
+58,207,,Interventions,2
+208,207,,depressive Symptome,2
+46,207,,ältere Erwachsene,2
+209,207,,Cross-Lagged-Panel-Modell,2
+210,207,,Längsschnittdesign,2
+15,207,,Körperliche Aktivität,2
+2,211,,Treatments,2
+3,211,,Vitamin D,2
+212,211,,Inflammation,2
+213,211,,Antibacterial,2
+214,211,,Antiviral,2
+215,211,,Cathelicidin,2
+216,211,,β-defensin 2,2
+217,211,,NOD2,2
+2,218,,Treatments,2
+219,218,,Coronavirus-Erkrankung 2019,2
+3,218,,Vitamin D,2
+86,218,,Meta-Analyse,2
+220,218,,niedriger Vitamin-D-Status,2
+221,218,,25-Hydroxyvitamin D,2
+2,222,,Treatments,2
+223,222,,gesundheitsbezogene Angaben,2
+195,222,,Immunsystem,2
+224,222,,Mikronährstoffe,2
+3,222,,Vitamin D,2
+225,222,,Nahrungsergänzungsmittel,2
+2,226,,Treatments,2
+224,226,,Mikronährstoffe,2
+39,226,,Vitamin C,2
+3,226,,Vitamin D,2
+40,226,,Zink,2
+159,226,,Selen,2
+227,226,,Melatonin,2
+228,226,,Interleukin,2
+229,226,,Tumor-Nekrose-Faktor,2
+65,226,,Pandemie,2
+230,226,,Nutrazeutika,2
+178,226,,Zytokinsturm,2
+58,231,,Interventions,2
+232,231,,Gesundheitsverhalten,2
+233,231,,Familie,2
+72,231,,Quarantäne,2
+234,231,,Isolation,2
+235,231,,Abriegelung,2
+25,236,,Immunity,2
+75,236,,Immunität,2
+237,236,,Neutralisierende Antikörper,2
+238,236,,Reinfektion,2
+2,239,,Treatments,2
+240,239,,Lang-COVID,2
+241,239,,Symptome,2
+172,239,,Virus,2
+2,242,,Treatments,2
+243,242,,milde Erkrankung,2
+244,242,,mittelschwere Erkrankung,2
+2,245,,Treatments,2
+79,245,,Ivermectin,2
+246,245,,Wirkmechanismus,2
+82,247,,Vaccines,2
+248,247,,Antikörper-Epitope,2
+249,247,,impfstoffinduzierte immunthrombotische Thrombozytopenie,2
+2,250,,Treatments,2
+79,250,,Ivermectin,2
+122,250,,Mortalität,2
+251,250,,Therapie,2
+2,252,,Treatments,2
+3,252,,Vitamin D,2
+253,252,,Rolle bei der COVID-19-Infektion,2
+2,254,,Treatments,2
+255,254,,Traditionelle Chinesische Medizin,2
+256,254,,TCM,2
+257,254,,Glycyrrhizin,2
+258,254,,Flavonoide,2
+259,254,,Polyphenole,2
+260,254,,Cannabis,2
+82,261,,Vaccines,2
+262,261,,mRNA-Impfstoff,2
+263,261,,BNT162b2,2
+264,261,,Antikörperantwort,2
+58,265,,Interventions,2
+266,265,,soziale Isolation,2
+267,265,,periphere Arterienerkrankung,2
+68,265,,psychische Gesundheit,2
+15,265,,Körperliche Aktivität,2
+2,268,,Treatments,2
+269,268,,Parkinson-Krankheit,2
+3,268,,Vitamin D,2
+58,270,,Interventions,2
+271,270,,Lebensstil,2
+272,270,,Mitarbeiter des Gesundheitswesens,2
+2,273,,Treatments,2
+79,273,,Ivermectin,2
+274,273,,Prophylaxe,2
+275,273,,Prävention,2
+2,276,,Treatments,2
+277,276,,Decorin,2
+278,276,,Alterung,2
+279,276,,Myokine,2
+280,276,,Osteokine,2
+281,276,,25(OH)D3,2
+282,276,,24.25(OH)2D3,2
+283,276,,3-epi-25(OH)D3,2
+2,284,,Treatments,2
+285,284,,Mangelernährung,2
+286,284,,Ascorbinsäure,2
+287,284,,Thiamin,2
+224,284,,Mikronährstoffe,2
+2,288,,Treatments,2
+289,288,,Hesperidin,2
+274,288,,Prophylaxe,2
+290,288,,Behandlung,2
+291,288,,Viruseintritt,2
+292,288,,antivirale Aktivität,2
+75,288,,Immunität,2
+2,293,,Treatments,2
+40,293,,Zink,2
+294,293,,Folat,2
+39,293,,Vitamin C,2
+3,293,,Vitamin D,2
+2,295,,Treatments,2
+296,295,,Repurposing von Medikamenten,2
+297,295,,zukünftige Pandemien,2
+298,295,,Erfahrung in der Behandlung,2
+132,295,,Klinische Studien,2
+2,299,,Treatments,2
+300,299,,Körpertemperatur,2
+301,299,,tragbare Geräte,2
+302,299,,9-Achsen-IMU,2
+303,299,,Temperatursensoren,2
+304,299,,Innenraumbedingungen,2
+305,299,,Aktivitätserkennung,2
+306,299,,BLE,2
+307,299,,Arduino nano 33 BLE sense,2
+82,308,,Vaccines,2
+2,309,,Treatments,2
+46,309,,ältere Erwachsene,2
+310,309,,ARDS,2
+111,309,,Sterblichkeit,2
+2,311,,Treatments,2
+3,311,,Vitamin D,2
+312,311,,schweres akutes respiratorisches Syndrom,2
+2,313,,Treatments,2
+45,313,,Ernährung,2
+44,313,,Lockdown,2
+314,313,,Körperzusammensetzung,2
+315,313,,Vitamine,2
+316,313,,Ernährungsmuster,2
+48,313,,Immunologie,2
+317,313,,Darm,2
+15,313,,Körperliche Aktivität,2
+2,318,,Treatments,2
+319,318,,Selbstmedikationspraktiken,2
+275,318,,Prävention,2
+320,318,,Management,2
+2,321,,Treatments,2
+322,321,,Zitrusfrüchte,2
+258,321,,Flavonoide,2
+323,321,,Hesperetin,2
+289,321,,Hesperidin,2
+324,321,,hydrodynamische Kavitation,2
+325,321,,Pektin,2
+58,326,,Interventions,2
+327,326,,Aktivität,2
+328,326,,Staatlicher Beamtenapparat,2
+329,326,,Gresik,2
+65,326,,Pandemie,2
+82,330,,Vaccines,2
+2,331,,Treatments,2
+332,331,,Alterungsprozess,2
+199,331,,Bewegung,2
+195,331,,Immunsystem,2
+333,331,,Immunoseneszenz,2
+2,334,,Treatments,2
+225,334,,Nahrungsergänzungsmittel,2
+45,334,,Ernährung,2
+335,334,,entzündungshemmende Diät,2
+336,334,,COVID-19 und Ernährung,2
+2,337,,Treatments,2
+178,337,,Zytokinsturm,2
+195,337,,Immunsystem,2
+338,337,,Lactoferrin,2
+45,337,,Ernährung,2
+170,337,,Probiotika,2
+6,337,,Supplementierung,2
+3,337,,Vitamin D,2
+40,337,,Zink,2
+2,339,,Treatments,2
+278,339,,Alterung,2
+340,339,,Endokrinopathie,2
+75,339,,Immunität,2
+3,339,,Vitamin D,2
+2,341,,Treatments,2
+65,341,,Pandemie,2
+342,341,,Essgewohnheiten,2
+343,341,,Vitaminsupplementierung,2
+344,341,,Verzehr von eingelegten Lebensmitteln,2
+345,341,,täglicher Lebensstil,2
+15,341,,Körperliche Aktivität,2
+2,346,,Treatments,2
+347,346,,Interferon,2
+3,346,,Vitamin D,2
+119,346,,Magnesium,2
+40,346,,Zink,2
+2,348,,Treatments,2
+349,348,,sitzendes Verhalten,2
+44,348,,Lockdown,2
+15,348,,Körperliche Aktivität,2
+2,350,,Treatments,2
+3,350,,Vitamin D,2
+351,350,,Photosynthese,2
+195,350,,Immunsystem,2
+246,350,,Wirkmechanismus,2
+58,352,,Interventions,2
+353,352,,Kollateralschäden,2
+354,352,,psychische Belastung,2
+355,352,,Verhaltensänderungen,2
+356,352,,Schweden,2
+82,357,,Vaccines,2
+2,358,,Treatments,2
+359,358,,Aerobes Training,2
+360,358,,Aerobe Kapazität,2
+361,358,,Immunbiomarker,2
+195,358,,Immunsystem,2
+2,362,,Treatments,2
+42,362,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+363,362,,Flavanoide,2
+364,362,,Epicatechin,2
+365,362,,Epigallocatechingallat,2
+289,362,,Hesperidin,2
+366,362,,Naringenin,2
+158,362,,Quercetin,2
+367,362,,Rutin,2
+368,362,,Luteolin,2
+369,362,,Baicalin,2
+370,362,,Diosmin,2
+371,362,,Genistein,2
+372,362,,Biochanin A,2
+373,362,,Silymarin,2
+2,374,,Treatments,2
+3,374,,Vitamin D,2
+375,374,,Senioren,2
+2,376,,Treatments,2
+377,376,,wiederverwendete Medikamente,2
+378,376,,Rekonvaleszenzplasma,2
+379,376,,monoklonale Antikörper,2
+380,376,,Immunglobuline,2
+381,376,,Zelltherapie,2
+25,382,,Immunity,2
+383,382,,Antikörper,2
+238,382,,Reinfektion,2
+82,384,,Vaccines,2
+2,385,,Treatments,2
+3,385,,Vitamin D,2
+6,385,,Supplementierung,2
 2,386,,Treatments,2
-3,386,,Vitamin D,2
-6,386,,Supplementierung,2
-2,387,,Treatments,2
-89,387,,Ambulante Patienten,2
-388,387,,Italien,2
-2,389,,Treatments,2
-390,389,,Zytokine,2
-391,389,,Epigenetik,2
-392,389,,Mineralien,2
-393,389,,Sturm,2
-316,389,,Vitamine,2
-2,394,,Treatments,2
-395,394,,Risikofaktoren,2
-123,394,,Mortalität,2
-396,394,,Intensivstation,2
-2,397,,Treatments,2
-398,397,,Hypervitaminose D,2
-399,397,,Vitamin D Toxizität,2
-400,397,,Hyperkalzämie,2
-2,401,,Treatments,2
-402,401,,Schilddrüse,2
-403,401,,Hoden,2
-404,401,,Eierstöcke,2
-405,401,,endokrin,2
-406,401,,Diabetes,2
-3,401,,Vitamin D,2
-2,407,,Treatments,2
-408,407,,Doxycyclin,2
-409,407,,Favipiravir,2
-90,407,,Hydroxychloroquin,2
-80,407,,Ivermectin,2
-410,407,,Remdesivir,2
-411,407,,Repurposing-Medikamente,2
-412,407,,Rivaroxaban,2
-59,413,,Interventions,2
-414,413,,Stress,2
-66,413,,Pandemie,2
-44,413,,Lockdown,2
-194,413,,ältere Menschen,2
-15,413,,Körperliche Aktivität,2
-2,415,,Treatments,2
-3,415,,Vitamin D,2
-416,415,,immunvermittelte Krankheiten,2
-417,415,,Cholecalciferol,2
-83,418,,Vaccines,2
-419,418,,ChAdOx1 nCoV-19-Impfstoff,2
-420,418,,Ad26.COV2-Impfstoff,2
-421,418,,Impfstoff-induzierte immunthrombotische Thrombozytopenie,2
-422,418,,zerebrale venöse Sinusthrombose,2
-2,423,,Treatments,2
-424,423,,COVID-19 Sepsis,2
-425,423,,Darm-Mikrobiom,2
-3,423,,Vitamin D,2
-426,423,,ACE2 Immun-Seneszenz,2
-427,423,,Entzündung,2
-150,423,,Impfung,2
-2,428,,Treatments,2
-429,428,,Biomarker,2
-220,428,,Coronavirus-Erkrankung 2019,2
-430,428,,Diagnosen,2
-396,428,,Intensivstation,2
-431,428,,Metabolomics,2
-432,428,,Prognosen,2
-2,433,,Treatments,2
-434,433,,Agomelatin,2
-435,433,,Repurposing von Arzneimitteln,2
-436,433,,Interferone,2
-228,433,,Melatonin,2
-437,433,,Ramelteon,2
-83,438,,Vaccines,2
-2,439,,Treatments,2
-440,439,,Virusübertragung,2
-441,439,,Fitnesscenter,2
-442,439,,Norwegen,2
-2,443,,Treatments,2
-290,443,,Hesperidin,2
-444,443,,TMPRSS2,2
-445,443,,ACE2,2
-446,443,,D614G,2
-447,443,,501Y.v2,2
-2,448,,Treatments,2
-3,448,,Vitamin D,2
-179,448,,Zytokinsturm,2
-449,448,,Immunmodulation,2
-2,450,,Treatments,2
-128,450,,Wirksamkeit,2
-80,450,,Ivermectin,2
-451,450,,RT-PCR,2
+88,386,,Ambulante Patienten,2
+387,386,,Italien,2
+2,388,,Treatments,2
+389,388,,Zytokine,2
+390,388,,Epigenetik,2
+391,388,,Mineralien,2
+392,388,,Sturm,2
+315,388,,Vitamine,2
+2,393,,Treatments,2
+394,393,,Risikofaktoren,2
+122,393,,Mortalität,2
+395,393,,Intensivstation,2
+2,396,,Treatments,2
+397,396,,Hypervitaminose D,2
+398,396,,Vitamin D Toxizität,2
+399,396,,Hyperkalzämie,2
+2,400,,Treatments,2
+401,400,,Schilddrüse,2
+402,400,,Hoden,2
+403,400,,Eierstöcke,2
+404,400,,endokrin,2
+405,400,,Diabetes,2
+3,400,,Vitamin D,2
+2,406,,Treatments,2
+407,406,,Doxycyclin,2
+408,406,,Favipiravir,2
+89,406,,Hydroxychloroquin,2
+79,406,,Ivermectin,2
+409,406,,Remdesivir,2
+410,406,,Repurposing-Medikamente,2
+411,406,,Rivaroxaban,2
+58,412,,Interventions,2
+413,412,,Stress,2
+65,412,,Pandemie,2
+44,412,,Lockdown,2
+193,412,,ältere Menschen,2
+15,412,,Körperliche Aktivität,2
+2,414,,Treatments,2
+3,414,,Vitamin D,2
+415,414,,immunvermittelte Krankheiten,2
+416,414,,Cholecalciferol,2
+82,417,,Vaccines,2
+418,417,,ChAdOx1 nCoV-19-Impfstoff,2
+419,417,,Ad26.COV2-Impfstoff,2
+420,417,,Impfstoff-induzierte immunthrombotische Thrombozytopenie,2
+421,417,,zerebrale venöse Sinusthrombose,2
+2,422,,Treatments,2
+423,422,,COVID-19 Sepsis,2
+424,422,,Darm-Mikrobiom,2
+3,422,,Vitamin D,2
+425,422,,ACE2 Immun-Seneszenz,2
+426,422,,Entzündung,2
+149,422,,Impfung,2
+2,427,,Treatments,2
+428,427,,Biomarker,2
+219,427,,Coronavirus-Erkrankung 2019,2
+429,427,,Diagnosen,2
+395,427,,Intensivstation,2
+430,427,,Metabolomics,2
+431,427,,Prognosen,2
+2,432,,Treatments,2
+433,432,,Agomelatin,2
+434,432,,Repurposing von Arzneimitteln,2
+435,432,,Interferone,2
+227,432,,Melatonin,2
+436,432,,Ramelteon,2
+82,437,,Vaccines,2
+2,438,,Treatments,2
+439,438,,Virusübertragung,2
+440,438,,Fitnesscenter,2
+441,438,,Norwegen,2
+2,442,,Treatments,2
+289,442,,Hesperidin,2
+443,442,,TMPRSS2,2
+444,442,,ACE2,2
+445,442,,D614G,2
+446,442,,501Y.v2,2
+2,447,,Treatments,2
+3,447,,Vitamin D,2
+178,447,,Zytokinsturm,2
+448,447,,Immunmodulation,2
+2,449,,Treatments,2
+127,449,,Wirksamkeit,2
+79,449,,Ivermectin,2
+450,449,,RT-PCR,2
+2,451,,Treatments,2
+79,451,,Ivermectin,2
+86,451,,Meta-Analyse,2
+122,451,,Mortalität,2
 2,452,,Treatments,2
-80,452,,Ivermectin,2
-87,452,,Meta-Analyse,2
-123,452,,Mortalität,2
-2,453,,Treatments,2
-454,453,,Cyanobakterielle Metaboliten,2
-455,453,,Bindungsaffinitäten,2
-456,453,,SARS-CoV-2-Proteine,2
-457,453,,antiviral,2
-458,453,,molekulares Docking,2
-2,459,,Treatments,2
-460,459,,Hypokalzämie,2
-461,459,,Calcium,2
-3,459,,Vitamin D,2
-31,459,,Knochen,2
-2,462,,Treatments,2
-463,462,,Covid-19,2
-464,462,,Ebola,2
-465,462,,Wissenschaftsführerschaft in Afrika,2
-466,462,,Impfstoff,2
-467,462,,Gesundheitsvorsorge,2
-298,462,,zukünftige Pandemien,2
-2,468,,Treatments,2
-3,468,,Vitamin D,2
-469,468,,Anti-Spike neutralisierende Antikörper,2
-470,468,,RBD IgG-Antikörper,2
-471,468,,Covid-Impfstoff-Wirksamkeit,2
-2,472,,Treatments,2
-290,472,,Hesperidin,2
-159,472,,Quercetin,2
-473,472,,Zitrusflavanone,2
-474,472,,funktionelle Lebensmittel,2
-231,472,,Nutrazeutika,2
-475,472,,Atemwegsvirus,2
-476,472,,oxidativer Stress,2
-477,472,,metabolisches Syndrom,2
-478,472,,Nrf2,2
-2,479,,Treatments,2
-3,479,,Vitamin D,2
-480,479,,Frühbehandlung,2
-275,479,,Prophylaxe,2
-481,479,,Cluster-Randomisierung,2
-83,482,,Vaccines,2
-483,482,,Omicron,2
-484,482,,Impfstoffe,2
-384,482,,Antikörper,2
-2,485,,Treatments,2
-486,485,,Autoimmunität,2
-487,485,,Autoinflammation,2
-488,485,,Immunantwort,2
-263,485,,mRNA-Impfstoff,2
-489,485,,Typ-I-Interferon,2
-2,490,,Treatments,2
-491,490,,adjuvante Therapie,2
-492,490,,Curcumin,2
-493,490,,entzündungshemmend,2
-494,490,,gerinnungshemmend,2
-59,495,,Interventions,2
-33,495,,Fettleibigkeit,2
-496,495,,gesättigte Fette,2
-497,495,,EPA/DHA,2
-498,495,,Sojabohnen,2
-406,495,,Diabetes,2
-112,495,,Sterblichkeit,2
-2,499,,Treatments,2
-500,499,,Körperimmunität,2
-15,499,,Körperliche Aktivität,2
-501,499,,Waldbaden,2
-502,499,,Flüchtige organische Verbindungen,2
-2,503,,Treatments,2
-3,503,,Vitamin D,2
-504,503,,Mangel,2
-122,503,,Schweregrad,2
-66,503,,Pandemie,2
-83,505,,Vaccines,2
-2,506,,Treatments,2
-160,506,,Selen,2
-40,506,,Zink,2
-121,506,,Kupfer,2
-120,506,,Magnesium,2
-2,507,,Treatments,2
-508,507,,Verabreichung von Arzneimitteln,2
-509,507,,Genehmigung für den Notfalleinsatz,2
-380,507,,monoklonale Antikörper,2
-510,507,,Post-COVID-Komplikationen,2
-2,511,,Treatments,2
-323,511,,Zitrusfrüchte,2
-512,511,,Orangen,2
-290,511,,Hesperidin,2
-513,511,,Virus and oxidativer stress,2
-39,511,,Vitamin C,2
-514,511,,Süßorange,2
-2,515,,Treatments,2
-220,515,,Coronavirus-Erkrankung 2019,2
-516,515,,IL-7,2
-517,515,,Immunsuppression,2
-348,515,,Interferon,2
-518,515,,Thymosin-α,2
-3,515,,Vitamin D,2
-83,519,,Vaccines,2
-520,519,,Wirksamkeit des Impfstoffs,2
-521,519,,Infektion,2
-522,519,,Tod,2
-523,519,,Impfstofftyp,2
-2,524,,Treatments,2
-48,524,,Coronavirus,2
-196,524,,Immunsystem,2
-3,524,,Vitamin D,2
-525,524,,Antimikrobielle Peptide,2
-179,524,,Zytokinsturm,2
-526,524,,Renin-Angiotensin-System,2
-2,527,,Treatments,2
-528,527,,Immunomodulation,2
-150,527,,Impfung,2
-3,527,,Vitamin D,2
-59,529,,Interventions,2
-200,529,,Bewegung,2
-530,529,,Jugendliche,2
-48,529,,Coronavirus,2
-15,529,,Körperliche Aktivität,2
-2,531,,Treatments,2
-33,531,,Fettleibigkeit,2
-532,531,,Disparitäten,2
-533,531,,Ernährungsungleichheiten,2
-534,531,,chronisch degenerative nicht übertragbare Krankheiten,2
-59,535,,Interventions,2
-536,535,,gesundes Altern,2
-537,535,,Bevölkerungsalterung,2
-538,535,,beschleunigte Alterung,2
-267,535,,soziale Isolation,2
-45,535,,Ernährung,2
-539,535,,Informations- und Kommunikationstechnologien,2
-15,535,,Körperliche Aktivität,2
-2,540,,Treatments,2
-414,540,,Stress,2
-541,540,,Wohlbefinden,2
-233,540,,Gesundheitsverhalten,2
-542,540,,Stressbewältigung,2
-543,540,,Einfluss soziodemografischer Variablen,2
-83,544,,Vaccines,2
-545,544,,Adenoviraler Vektor,2
-546,544,,Adenovirus,2
-547,544,,Impfstoff-induzierte thrombotische Thrombozytopenie,2
-466,544,,Impfstoff,2
-59,548,,Interventions,2
-45,548,,Ernährung,2
-44,548,,Lockdown,2
-95,548,,Gesundheit,2
-356,548,,Verhaltensänderungen,2
-15,548,,Körperliche Aktivität,2
-59,549,,Interventions,2
-550,549,,Intensität,2
-551,549,,IPAQ,2
-15,549,,Körperliche Aktivität,2
-2,552,,Treatments,2
-553,552,,Kritische Erkrankung,2
-396,552,,Intensivstation,2
-554,552,,ICU,2
-555,552,,Serum Vitamin C,2
-556,552,,Serum Vitamin D,2
-557,552,,Alter,2
-558,552,,Body Mass Index,2
-559,552,,BMI,2
-560,552,,HbA1c,2
-561,552,,glykiertes Hämoglobin,2
-2,562,,Treatments,2
-80,562,,Ivermectin,2
-83,563,,Vaccines,2
-83,564,,Vaccines,2
-565,564,,Öffentliche Gesundheit,2
-566,564,,medizinische Ethik,2
-567,564,,Nutzen-Risiko-Verhältnis,2
-145,564,,Epidemiologie,2
-568,564,,Impfstoff-Nebenwirkungen,2
-83,569,,Vaccines,2
-570,569,,Lipid-Nanopartikel,2
-571,569,,Immunogenität,2
-572,569,,LNP-formulierte mRNA-Impfstoffe,2
-173,573,,Virus,2
-574,573,,Plasma-Exosomen,2
-575,573,,Wirtsreaktion,2
-429,573,,Biomarker,2
-576,573,,Proteomik,2
-59,577,,Interventions,2
-578,577,,Arbeitsmodus,2
-200,577,,Bewegung,2
-579,577,,Schlafqualität,2
-95,577,,Gesundheit,2
-414,577,,Stress,2
-2,580,,Treatments,2
-581,580,,globaler Ausbruch,2
-582,580,,Morphologie,2
-583,580,,Impfstoff der Universität Oxford,2
-410,580,,Remdesivir,2
+453,452,,Cyanobakterielle Metaboliten,2
+454,452,,Bindungsaffinitäten,2
+455,452,,SARS-CoV-2-Proteine,2
+456,452,,antiviral,2
+457,452,,molekulares Docking,2
+2,458,,Treatments,2
+459,458,,Hypokalzämie,2
+460,458,,Calcium,2
+3,458,,Vitamin D,2
+31,458,,Knochen,2
+2,461,,Treatments,2
+462,461,,Covid-19,2
+463,461,,Ebola,2
+464,461,,Wissenschaftsführerschaft in Afrika,2
+465,461,,Gesundheitsvorsorge,2
+297,461,,zukünftige Pandemien,2
+466,461,,Impfstoffe,2
+2,467,,Treatments,2
+3,467,,Vitamin D,2
+468,467,,Anti-Spike neutralisierende Antikörper,2
+469,467,,RBD IgG-Antikörper,2
+470,467,,Covid-Impfstoff-Wirksamkeit,2
+2,471,,Treatments,2
+289,471,,Hesperidin,2
+158,471,,Quercetin,2
+472,471,,Zitrusflavanone,2
+473,471,,funktionelle Lebensmittel,2
+230,471,,Nutrazeutika,2
+474,471,,Atemwegsvirus,2
+475,471,,oxidativer Stress,2
+476,471,,metabolisches Syndrom,2
+477,471,,Nrf2,2
+2,478,,Treatments,2
+3,478,,Vitamin D,2
+479,478,,Frühbehandlung,2
+274,478,,Prophylaxe,2
+480,478,,Cluster-Randomisierung,2
+82,481,,Vaccines,2
+482,481,,Omicron,2
+466,481,,Impfstoffe,2
+383,481,,Antikörper,2
+2,483,,Treatments,2
+484,483,,Autoimmunität,2
+485,483,,Autoinflammation,2
+486,483,,Immunantwort,2
+262,483,,mRNA-Impfstoff,2
+487,483,,Typ-I-Interferon,2
+2,488,,Treatments,2
+489,488,,adjuvante Therapie,2
+490,488,,Curcumin,2
+491,488,,entzündungshemmend,2
+492,488,,gerinnungshemmend,2
+58,493,,Interventions,2
+33,493,,Fettleibigkeit,2
+494,493,,gesättigte Fette,2
+495,493,,EPA/DHA,2
+496,493,,Sojabohnen,2
+405,493,,Diabetes,2
+111,493,,Sterblichkeit,2
+2,497,,Treatments,2
+498,497,,Körperimmunität,2
+15,497,,Körperliche Aktivität,2
+499,497,,Waldbaden,2
+500,497,,Flüchtige organische Verbindungen,2
+2,501,,Treatments,2
+3,501,,Vitamin D,2
+502,501,,Mangel,2
+121,501,,Schweregrad,2
+65,501,,Pandemie,2
+82,503,,Vaccines,2
+2,504,,Treatments,2
+159,504,,Selen,2
+40,504,,Zink,2
+120,504,,Kupfer,2
+119,504,,Magnesium,2
+2,505,,Treatments,2
+506,505,,Verabreichung von Arzneimitteln,2
+507,505,,Genehmigung für den Notfalleinsatz,2
+379,505,,monoklonale Antikörper,2
+508,505,,Post-COVID-Komplikationen,2
+2,509,,Treatments,2
+322,509,,Zitrusfrüchte,2
+510,509,,Orangen,2
+289,509,,Hesperidin,2
+511,509,,Virus and oxidativer stress,2
+39,509,,Vitamin C,2
+512,509,,Süßorange,2
+2,513,,Treatments,2
+219,513,,Coronavirus-Erkrankung 2019,2
+514,513,,IL-7,2
+515,513,,Immunsuppression,2
+347,513,,Interferon,2
+516,513,,Thymosin-α,2
+3,513,,Vitamin D,2
+82,517,,Vaccines,2
+518,517,,Wirksamkeit des Impfstoffs,2
+519,517,,Infektion,2
+520,517,,Tod,2
+521,517,,Impfstofftyp,2
+2,522,,Treatments,2
+195,522,,Immunsystem,2
+3,522,,Vitamin D,2
+523,522,,Antimikrobielle Peptide,2
+178,522,,Zytokinsturm,2
+524,522,,Renin-Angiotensin-System,2
+2,525,,Treatments,2
+526,525,,Immunomodulation,2
+149,525,,Impfung,2
+3,525,,Vitamin D,2
+58,527,,Interventions,2
+199,527,,Bewegung,2
+528,527,,Jugendliche,2
+15,527,,Körperliche Aktivität,2
+2,529,,Treatments,2
+33,529,,Fettleibigkeit,2
+530,529,,Disparitäten,2
+531,529,,Ernährungsungleichheiten,2
+532,529,,chronisch degenerative nicht übertragbare Krankheiten,2
+58,533,,Interventions,2
+534,533,,gesundes Altern,2
+535,533,,Bevölkerungsalterung,2
+536,533,,beschleunigte Alterung,2
+266,533,,soziale Isolation,2
+45,533,,Ernährung,2
+537,533,,Informations- und Kommunikationstechnologien,2
+15,533,,Körperliche Aktivität,2
+2,538,,Treatments,2
+413,538,,Stress,2
+539,538,,Wohlbefinden,2
+232,538,,Gesundheitsverhalten,2
+540,538,,Stressbewältigung,2
+541,538,,Einfluss soziodemografischer Variablen,2
+82,542,,Vaccines,2
+543,542,,Adenoviraler Vektor,2
+544,542,,Adenovirus,2
+545,542,,Impfstoff-induzierte thrombotische Thrombozytopenie,2
+466,542,,Impfstoffe,2
+58,546,,Interventions,2
+45,546,,Ernährung,2
+44,546,,Lockdown,2
+94,546,,Gesundheit,2
+355,546,,Verhaltensänderungen,2
+15,546,,Körperliche Aktivität,2
+58,547,,Interventions,2
+548,547,,Intensität,2
+549,547,,IPAQ,2
+15,547,,Körperliche Aktivität,2
+2,550,,Treatments,2
+551,550,,Kritische Erkrankung,2
+395,550,,Intensivstation,2
+552,550,,ICU,2
+553,550,,Serum Vitamin C,2
+554,550,,Serum Vitamin D,2
+555,550,,Alter,2
+556,550,,Body Mass Index,2
+557,550,,BMI,2
+558,550,,HbA1c,2
+559,550,,glykiertes Hämoglobin,2
+2,560,,Treatments,2
+79,560,,Ivermectin,2
+82,561,,Vaccines,2
+82,562,,Vaccines,2
+563,562,,Öffentliche Gesundheit,2
+564,562,,medizinische Ethik,2
+565,562,,Nutzen-Risiko-Verhältnis,2
+144,562,,Epidemiologie,2
+566,562,,Impfstoff-Nebenwirkungen,2
+82,567,,Vaccines,2
+568,567,,Lipid-Nanopartikel,2
+569,567,,Immunogenität,2
+570,567,,LNP-formulierte mRNA-Impfstoffe,2
+172,571,,Virus,2
+572,571,,Plasma-Exosomen,2
+573,571,,Wirtsreaktion,2
+428,571,,Biomarker,2
+574,571,,Proteomik,2
+58,575,,Interventions,2
+576,575,,Arbeitsmodus,2
+199,575,,Bewegung,2
+577,575,,Schlafqualität,2
+94,575,,Gesundheit,2
+413,575,,Stress,2
+2,578,,Treatments,2
+579,578,,globaler Ausbruch,2
+580,578,,Morphologie,2
+581,578,,Impfstoff der Universität Oxford,2
+409,578,,Remdesivir,2
+2,582,,Treatments,2
+68,582,,psychische Gesundheit,2
+354,582,,psychische Belastung,2
+44,582,,Lockdown,2
+65,582,,Pandemie,2
+15,582,,Körperliche Aktivität,2
+2,583,,Treatments,2
+3,583,,Vitamin D,2
+65,583,,Pandemie,2
 2,584,,Treatments,2
-69,584,,psychische Gesundheit,2
-355,584,,psychische Belastung,2
-48,584,,Coronavirus,2
-44,584,,Lockdown,2
-66,584,,Pandemie,2
-15,584,,Körperliche Aktivität,2
 2,585,,Treatments,2
-3,585,,Vitamin D,2
-66,585,,Pandemie,2
-2,586,,Treatments,2
-2,587,,Treatments,2
-588,587,,akutes Atemnotsyndrom (ARDS),2
-589,587,,akute Atemwegsinfektion (ARTI),2
-590,587,,Calcifediol,2
-591,587,,Calcitriol,2
-48,587,,Coronavirus,2
-94,587,,Umwelt,2
-592,587,,menschliche Gesundheit,2
-593,587,,Infektionskrankheit,2
-66,587,,Pandemie,2
-2,594,,Treatments,2
-87,594,,Meta-Analyse,2
-112,594,,Sterblichkeit,2
-3,594,,Vitamin D,2
-83,595,,Vaccines,2
-596,595,,Spike-Antikörper-Abnahme,2
-597,595,,zweite Dosis Vakzine,2
-264,595,,BNT162b2,2
-598,595,,ChAdOx1,2
-128,595,,Wirksamkeit,2
-2,599,,Treatments,2
-3,599,,Vitamin D,2
-53,599,,Immunpathogenese,2
-2,600,,Treatments,2
-601,600,,räumliche Praktiken,2
-602,600,,räumliche Strategien,2
-603,600,,Sport und Raum,2
-604,600,,Sportanbieter,2
-2,605,,Treatments,2
-606,605,,Haltungskontrolle,2
-607,605,,Gleichgewicht,2
-608,605,,Umlernen,2
-13,605,,Stürze,2
-609,605,,Inaktivität,2
-44,605,,Lockdown,2
-279,605,,Alterung,2
+586,585,,akutes Atemnotsyndrom (ARDS),2
+587,585,,akute Atemwegsinfektion (ARTI),2
+588,585,,Calcifediol,2
+589,585,,Calcitriol,2
+93,585,,Umwelt,2
+590,585,,menschliche Gesundheit,2
+591,585,,Infektionskrankheit,2
+65,585,,Pandemie,2
+2,592,,Treatments,2
+86,592,,Meta-Analyse,2
+111,592,,Sterblichkeit,2
+3,592,,Vitamin D,2
+82,593,,Vaccines,2
+594,593,,Spike-Antikörper-Abnahme,2
+595,593,,zweite Dosis Vakzine,2
+263,593,,BNT162b2,2
+596,593,,ChAdOx1,2
+127,593,,Wirksamkeit,2
+2,597,,Treatments,2
+3,597,,Vitamin D,2
+52,597,,Immunpathogenese,2
+2,598,,Treatments,2
+599,598,,räumliche Praktiken,2
+600,598,,räumliche Strategien,2
+601,598,,Sport und Raum,2
+602,598,,Sportanbieter,2
+2,603,,Treatments,2
+604,603,,Haltungskontrolle,2
+605,603,,Gleichgewicht,2
+606,603,,Umlernen,2
+13,603,,Stürze,2
+607,603,,Inaktivität,2
+44,603,,Lockdown,2
+278,603,,Alterung,2
+2,608,,Treatments,2
+3,608,,Vitamin D,2
+609,608,,Infektionskrankheiten der Atemwege,2
+588,608,,Calcifediol,2
+589,608,,Calcitriol,2
 2,610,,Treatments,2
+588,610,,Calcifediol,2
+611,610,,COVID-19-Behandlung,2
 3,610,,Vitamin D,2
-611,610,,Infektionskrankheiten der Atemwege,2
-590,610,,Calcifediol,2
-591,610,,Calcitriol,2
 2,612,,Treatments,2
-590,612,,Calcifediol,2
-613,612,,COVID-19-Behandlung,2
-3,612,,Vitamin D,2
-2,614,,Treatments,2
-615,614,,Wirkung,2
-616,614,,kutane Larva migrans,2
-617,614,,Demodikose,2
-618,614,,Dermatologie,2
-619,614,,Dosis,2
-620,614,,Arzneimittelwechselwirkung,2
-621,614,,Filariose,2
-80,614,,Ivermectin,2
-622,614,,Malaria,2
-623,614,,Nematoden,2
-624,614,,Onchozerkose,2
-625,614,,Pedikulose,2
-275,614,,Prophylaxe,2
-626,614,,Rosacea,2
-627,614,,Sicherheit,2
-628,614,,Krätze,2
-629,614,,Nebenwirkungen,2
-630,614,,Tropen,2
-631,614,,Anwendungen,2
-2,632,,Treatments,2
-3,632,,Vitamin D,2
-633,632,,regulatorische T-Lymphozyten,2
-634,632,,akutes Atemnotsyndrom,2
-635,632,,IL-6,2
-636,632,,Serumferritin,2
-2,637,,Treatments,2
-15,637,,Körperliche Aktivität,2
-638,637,,Körperliche Bewegung,2
-639,637,,Ältere Menschen,2
-59,640,,Interventions,2
-641,640,,Älterwerden,2
-48,640,,Coronavirus,2
-642,640,,Einschränkungen,2
-643,640,,soziale Kontakte,2
-541,640,,Wohlbefinden,2
-15,640,,Körperliche Aktivität,2
-2,644,,Treatments,2
-226,644,,Nahrungsergänzungsmittel,2
-316,644,,Vitamine,2
-275,644,,Prophylaxe,2
-645,644,,Naher Osten,2
-59,646,,Interventions,2
-48,646,,Coronavirus,2
-647,646,,AugUR,2
-648,646,,bevölkerungsbasierte Studie,2
-649,646,,ältere Bevölkerung,2
-650,646,,Lebensstilfaktoren,2
-651,646,,Lebensqualität,2
-652,646,,Anteil mit Risiko für COVID-19,2
-2,653,,Treatments,2
-654,653,,SARS,2
-48,653,,Coronavirus,2
-3,653,,Vitamin D,2
-488,653,,Immunantwort,2
-655,653,,Lymphozyten,2
-656,653,,Zytokin,2
-2,657,,Treatments,2
-80,657,,Ivermectin,2
-87,657,,Meta-Analyse,2
-86,657,,systematische Überprüfung,2
-2,658,,Treatments,2
-659,658,,Arginin,2
-660,658,,Stickstoffmonoxid,2
-661,658,,Multisystemisches Entzündungssyndrom bei Kindern,2
-662,658,,Tetrahydrobiopterin,2
-2,663,,Treatments,2
-664,663,,Tee-Polyphenole,2
-665,663,,EGCG,2
-666,663,,Theaflavin,2
-59,667,,Interventions,2
-668,667,,DISCERN-Tool,2
-669,667,,Immunitätsstärkung,2
-670,667,,Informationsqualität,2
-671,667,,Internet,2
-672,667,,Online-Gesundheitsinformationen,2
+613,612,,Wirkung,2
+614,612,,kutane Larva migrans,2
+615,612,,Demodikose,2
+616,612,,Dermatologie,2
+617,612,,Dosis,2
+618,612,,Arzneimittelwechselwirkung,2
+619,612,,Filariose,2
+79,612,,Ivermectin,2
+620,612,,Malaria,2
+621,612,,Nematoden,2
+622,612,,Onchozerkose,2
+623,612,,Pedikulose,2
+274,612,,Prophylaxe,2
+624,612,,Rosacea,2
+625,612,,Sicherheit,2
+626,612,,Krätze,2
+627,612,,Nebenwirkungen,2
+628,612,,Tropen,2
+629,612,,Anwendungen,2
+2,630,,Treatments,2
+3,630,,Vitamin D,2
+631,630,,regulatorische T-Lymphozyten,2
+632,630,,akutes Atemnotsyndrom,2
+633,630,,IL-6,2
+634,630,,Serumferritin,2
+2,635,,Treatments,2
+15,635,,Körperliche Aktivität,2
+636,635,,Körperliche Bewegung,2
+637,635,,Ältere Menschen,2
+58,638,,Interventions,2
+639,638,,Älterwerden,2
+640,638,,Einschränkungen,2
+641,638,,soziale Kontakte,2
+539,638,,Wohlbefinden,2
+15,638,,Körperliche Aktivität,2
+2,642,,Treatments,2
+225,642,,Nahrungsergänzungsmittel,2
+315,642,,Vitamine,2
+274,642,,Prophylaxe,2
+643,642,,Naher Osten,2
+58,644,,Interventions,2
+645,644,,AugUR,2
+646,644,,bevölkerungsbasierte Studie,2
+647,644,,ältere Bevölkerung,2
+648,644,,Lebensstilfaktoren,2
+649,644,,Lebensqualität,2
+650,644,,Anteil mit Risiko für COVID-19,2
+2,651,,Treatments,2
+652,651,,SARS,2
+3,651,,Vitamin D,2
+486,651,,Immunantwort,2
+653,651,,Lymphozyten,2
+654,651,,Zytokin,2
+2,655,,Treatments,2
+79,655,,Ivermectin,2
+86,655,,Meta-Analyse,2
+85,655,,systematische Überprüfung,2
+2,656,,Treatments,2
+657,656,,Arginin,2
+658,656,,Stickstoffmonoxid,2
+659,656,,Multisystemisches Entzündungssyndrom bei Kindern,2
+660,656,,Tetrahydrobiopterin,2
+2,661,,Treatments,2
+662,661,,Tee-Polyphenole,2
+663,661,,EGCG,2
+664,661,,Theaflavin,2
+58,665,,Interventions,2
+666,665,,DISCERN-Tool,2
+667,665,,Immunitätsstärkung,2
+668,665,,Informationsqualität,2
+669,665,,Internet,2
+670,665,,Online-Gesundheitsinformationen,2
+2,671,,Treatments,2
+195,671,,Immunsystem,2
+128,671,,Lungenentzündung,2
+672,671,,Akute Atemwegserkrankung,2
 2,673,,Treatments,2
-196,673,,Immunsystem,2
-129,673,,Lungenentzündung,2
-674,673,,Akute Atemwegserkrankung,2
-2,675,,Treatments,2
-3,675,,Vitamin D,2
-39,675,,Vitamin C,2
-316,675,,Vitamine,2
+3,673,,Vitamin D,2
+39,673,,Vitamin C,2
+315,673,,Vitamine,2
+2,674,,Treatments,2
+3,674,,Vitamin D,2
+675,674,,Albumin,2
 2,676,,Treatments,2
 3,676,,Vitamin D,2
-677,676,,Albumin,2
-48,676,,Coronavirus,2
+677,676,,Prä-Infektion,2
+121,676,,Schweregrad,2
 2,678,,Treatments,2
-3,678,,Vitamin D,2
-679,678,,Prä-Infektion,2
-122,678,,Schweregrad,2
-2,680,,Treatments,2
-40,680,,Zink,2
-681,680,,Influenzaviren,2
-682,680,,Virusinfektionen der Atemwege,2
-150,680,,Impfung,2
-2,683,,Treatments,2
-3,683,,Vitamin D,2
-684,683,,chronische Krankheiten,2
-396,683,,Intensivstation,2
-685,683,,Irak,2
-2,686,,Treatments,2
-2,687,,Treatments,2
-80,687,,Ivermectin,2
-173,688,,Virus,2
-122,688,,Schweregrad,2
-33,688,,Fettleibigkeit,2
-395,688,,Risikofaktoren,2
-689,688,,Body-Mass-Index,2
-59,690,,Interventions,2
-2,691,,Treatments,2
-48,691,,Coronavirus,2
-390,691,,Zytokine,2
-692,691,,angeborene Immunität,2
-225,691,,Mikronährstoffe,2
-693,691,,ernährungsbedingte Immunität,2
-664,691,,Tee-Polyphenole,2
-316,691,,Vitamine,2
-2,694,,Treatments,2
-2,695,,Treatments,2
-3,695,,Vitamin D,2
-696,695,,Intensivpflege,2
-697,695,,Intensivpatient,2
-59,698,,Interventions,2
-699,698,,Fertiggerichte,2
-700,698,,Essen zum Mitnehmen,2
-701,698,,Qualität der Ernährung,2
-702,698,,Schulkinder,2
-45,698,,Ernährung,2
-703,698,,Japan,2
-2,704,,Treatments,2
-160,704,,Selen,2
-45,704,,Ernährung,2
-95,704,,Gesundheit,2
-705,704,,Biofortifikation,2
-148,704,,Phytochemikalien,2
-706,704,,Virale Immunität,2
-59,707,,Interventions,2
-70,707,,Depression,2
-708,707,,rassische/ethnische Minderheiten,2
-233,707,,Gesundheitsverhalten,2
-211,707,,Längsschnittdesign,2
-69,707,,psychische Gesundheit,2
-709,707,,sitzende Tätigkeit,2
-15,707,,Körperliche Aktivität,2
-2,710,,Treatments,2
-406,710,,Diabetes,2
-200,710,,Bewegung,2
-97,710,,Sport,2
-321,710,,Management,2
-15,710,,Körperliche Aktivität,2
+40,678,,Zink,2
+679,678,,Influenzaviren,2
+680,678,,Virusinfektionen der Atemwege,2
+149,678,,Impfung,2
+2,681,,Treatments,2
+3,681,,Vitamin D,2
+682,681,,chronische Krankheiten,2
+395,681,,Intensivstation,2
+683,681,,Irak,2
+2,684,,Treatments,2
+2,685,,Treatments,2
+79,685,,Ivermectin,2
+172,686,,Virus,2
+121,686,,Schweregrad,2
+33,686,,Fettleibigkeit,2
+394,686,,Risikofaktoren,2
+687,686,,Body-Mass-Index,2
+58,688,,Interventions,2
+2,689,,Treatments,2
+389,689,,Zytokine,2
+690,689,,angeborene Immunität,2
+224,689,,Mikronährstoffe,2
+691,689,,ernährungsbedingte Immunität,2
+662,689,,Tee-Polyphenole,2
+315,689,,Vitamine,2
+2,692,,Treatments,2
+2,693,,Treatments,2
+3,693,,Vitamin D,2
+694,693,,Intensivpflege,2
+695,693,,Intensivpatient,2
+58,696,,Interventions,2
+697,696,,Fertiggerichte,2
+698,696,,Essen zum Mitnehmen,2
+699,696,,Qualität der Ernährung,2
+700,696,,Schulkinder,2
+45,696,,Ernährung,2
+701,696,,Japan,2
+2,702,,Treatments,2
+159,702,,Selen,2
+45,702,,Ernährung,2
+94,702,,Gesundheit,2
+703,702,,Biofortifikation,2
+147,702,,Phytochemikalien,2
+704,702,,Virale Immunität,2
+58,705,,Interventions,2
+69,705,,Depression,2
+706,705,,rassische/ethnische Minderheiten,2
+232,705,,Gesundheitsverhalten,2
+210,705,,Längsschnittdesign,2
+68,705,,psychische Gesundheit,2
+707,705,,sitzende Tätigkeit,2
+15,705,,Körperliche Aktivität,2
+2,708,,Treatments,2
+405,708,,Diabetes,2
+199,708,,Bewegung,2
+96,708,,Sport,2
+320,708,,Management,2
+15,708,,Körperliche Aktivität,2
+2,709,,Treatments,2
+45,709,,Ernährung,2
+251,709,,Therapie,2
+224,709,,Mikronährstoffe,2
+159,709,,Selen,2
+40,709,,Zink,2
+160,709,,Vitamin A,2
+3,709,,Vitamin D,2
+710,709,,Coenzym Q10,2
 2,711,,Treatments,2
-48,711,,Coronavirus,2
-45,711,,Ernährung,2
-252,711,,Therapie,2
-225,711,,Mikronährstoffe,2
-160,711,,Selen,2
-40,711,,Zink,2
-161,711,,Vitamin A,2
-3,711,,Vitamin D,2
-712,711,,Coenzym Q10,2
-2,713,,Treatments,2
-48,713,,Coronavirus,2
-714,713,,Schweres Akutes Respiratorisches Syndrom,2
-137,713,,Nahrungsergänzung,2
-135,713,,Vitamin,2
-59,715,,Interventions,2
-716,715,,Kinder,2
-45,715,,Ernährung,2
-272,715,,Lebensstil,2
-59,717,,Interventions,2
+712,711,,Schweres Akutes Respiratorisches Syndrom,2
+136,711,,Nahrungsergänzung,2
+134,711,,Vitamin,2
+58,713,,Interventions,2
+714,713,,Kinder,2
+45,713,,Ernährung,2
+271,713,,Lebensstil,2
+58,715,,Interventions,2
+2,716,,Treatments,2
+3,716,,Vitamin D,2
+519,716,,Infektion,2
+111,716,,Sterblichkeit,2
+717,716,,Asien,2
 2,718,,Treatments,2
+719,718,,Regulatorische T-Zellen,2
+720,718,,kardiovaskuläre Komplikationen,2
+39,718,,Vitamin C,2
 3,718,,Vitamin D,2
-521,718,,Infektion,2
-112,718,,Sterblichkeit,2
-719,718,,Asien,2
-2,720,,Treatments,2
-721,720,,Regulatorische T-Zellen,2
-722,720,,kardiovaskuläre Komplikationen,2
-39,720,,Vitamin C,2
-3,720,,Vitamin D,2
-2,723,,Treatments,2
-724,723,,Psychische Gesundheit,2
-725,723,,COVID-19-Pandemie,2
-726,723,,Bewältigungsverhalten,2
-727,723,,integrierter Rahmen,2
-15,723,,Körperliche Aktivität,2
-83,728,,Vaccines,2
-729,728,,klinische Merkmale,2
-730,728,,pharmakologisches Management,2
-250,728,,impfstoffinduzierte immunthrombotische Thrombozytopenie,2
-731,728,,zerebrale Venensinusthrombose,2
-2,732,,Treatments,2
-160,732,,Selen,2
-733,732,,Selenoproteine,2
-734,732,,viral kodierte Selenoproteine,2
-83,735,,Vaccines,2
-736,735,,mRNA-Omicron,2
-737,735,,mRNA-1273,2
-384,735,,Antikörper,2
+2,721,,Treatments,2
+722,721,,Psychische Gesundheit,2
+723,721,,COVID-19-Pandemie,2
+724,721,,Bewältigungsverhalten,2
+725,721,,integrierter Rahmen,2
+15,721,,Körperliche Aktivität,2
+82,726,,Vaccines,2
+727,726,,klinische Merkmale,2
+728,726,,pharmakologisches Management,2
+249,726,,impfstoffinduzierte immunthrombotische Thrombozytopenie,2
+729,726,,zerebrale Venensinusthrombose,2
+2,730,,Treatments,2
+159,730,,Selen,2
+731,730,,Selenoproteine,2
+732,730,,viral kodierte Selenoproteine,2
+82,733,,Vaccines,2
+734,733,,mRNA-Omicron,2
+735,733,,mRNA-1273,2
+383,733,,Antikörper,2
+2,736,,Treatments,2
+737,736,,Krebs,2
+230,736,,Nutrazeutika,2
+225,736,,Nahrungsergänzungsmittel,2
 2,738,,Treatments,2
-739,738,,Krebs,2
-231,738,,Nutrazeutika,2
-226,738,,Nahrungsergänzungsmittel,2
-2,740,,Treatments,2
-80,740,,Ivermectin,2
-741,740,,Anosmie,2
-742,740,,Hyposmie,2
-173,743,,Virus,2
-173,743,,Virus,2
+79,738,,Ivermectin,2
+739,738,,Anosmie,2
+740,738,,Hyposmie,2
+172,741,,Virus,2
+172,741,,Virus,2
+2,742,,Treatments,2
+3,742,,Vitamin D,2
+743,742,,viszerale Adipositas,2
 2,744,,Treatments,2
-3,744,,Vitamin D,2
-745,744,,viszerale Adipositas,2
+130,744,,2019-nCoV,2
+227,744,,Melatonin,2
+745,744,,N-Acetyl-5-Methoxytryptamin,2
+577,744,,Schlafqualität,2
 2,746,,Treatments,2
-131,746,,2019-nCoV,2
-228,746,,Melatonin,2
-747,746,,N-Acetyl-5-Methoxytryptamin,2
-579,746,,Schlafqualität,2
+747,746,,SARS-CoV-1,2
+633,746,,IL-6,2
+178,746,,Zytokinsturm,2
 2,748,,Treatments,2
-749,748,,SARS-CoV-1,2
-635,748,,IL-6,2
-179,748,,Zytokinsturm,2
-2,750,,Treatments,2
-3,750,,Vitamin D,2
-196,750,,Immunsystem,2
-751,750,,rheumatoide Arthritis (RA),2
-752,750,,systemischer Lupus erythematodes (SLE),2
-753,750,,multiple Sklerose (MS),2
-2,754,,Treatments,2
-3,754,,Vitamin D,2
-755,754,,respiratorische Symptome,2
-6,754,,Supplementierung,2
-59,756,,Interventions,2
-233,756,,Gesundheitsverhalten,2
-69,756,,psychische Gesundheit,2
-757,756,,Gesundheitsbeschwerden,2
-530,756,,Jugendliche,2
+3,748,,Vitamin D,2
+195,748,,Immunsystem,2
+749,748,,rheumatoide Arthritis (RA),2
+750,748,,systemischer Lupus erythematodes (SLE),2
+751,748,,multiple Sklerose (MS),2
+2,752,,Treatments,2
+3,752,,Vitamin D,2
+753,752,,respiratorische Symptome,2
+6,752,,Supplementierung,2
+58,754,,Interventions,2
+232,754,,Gesundheitsverhalten,2
+68,754,,psychische Gesundheit,2
+755,754,,Gesundheitsbeschwerden,2
+528,754,,Jugendliche,2
+2,756,,Treatments,2
+757,756,,adaptive Immunität,2
+690,756,,angeborene Immunität,2
+3,756,,Vitamin D,2
+466,756,,Impfstoffe,2
 2,758,,Treatments,2
-759,758,,adaptive Immunität,2
-692,758,,angeborene Immunität,2
-466,758,,Impfstoff,2
-3,758,,Vitamin D,2
-2,760,,Treatments,2
-761,760,,Selenmangel,2
-45,760,,Ernährung,2
-762,760,,Schwangerschaft,2
-763,760,,Krankheit,2
-764,760,,Autoimmunerkrankungen,2
-59,765,,Interventions,2
-766,765,,Homeoffice,2
-767,765,,betriebliche Gesundheitsförderung,2
-768,765,,Potenzial,2
-97,765,,Sport,2
-15,765,,Körperliche Aktivität,2
-2,769,,Treatments,2
-770,769,,SARS-CoV-2 RNA-Virus und RNA-Mutanten,2
-771,769,,Zink-Homöostase,2
-76,769,,Immunität,2
-772,769,,COVID-19-Prävention,2
-773,769,,Atemwegs- und Lungenerkrankungen,2
-774,769,,Anti-Thrombusbildung,2
-775,769,,ZAP-vermittelte RNA-Replikation,2
-776,769,,Zink-Ionen-koordinierte Bindung,2
-2,777,,Treatments,2
-778,777,,KSHV,2
-779,777,,EBV,2
-410,777,,Remdesivir,2
-157,777,,Molnupiravir,2
-2,780,,Treatments,2
-781,780,,Spurenelemente,2
-782,780,,Zellvermittelte Immunität,2
-40,780,,Zink,2
-160,780,,Selen,2
-121,780,,Kupfer,2
-783,780,,Mangan,2
-390,780,,Zytokine,2
-784,780,,Reaktive Sauerstoffspezies,2
-2,785,,Treatments,2
-316,785,,Vitamine,2
-161,785,,Vitamin A,2
-3,785,,Vitamin D,2
-39,785,,Vitamin C,2
-786,785,,Vitamin E,2
-787,785,,Vitamin B6,2
-788,785,,Vitamin B12,2
-789,785,,Folsäure,2
-67,785,,Eisen,2
-121,785,,Kupfer,2
-40,785,,Zink,2
-160,785,,Selen,2
-45,785,,Ernährung,2
-196,785,,Immunsystem,2
-2,790,,Treatments,2
-215,790,,Antiviral,2
-179,790,,Zytokinsturm,2
-791,790,,Medikamenten-Repurposing,2
-792,790,,Importin-Heterodimerkomplex,2
-793,790,,Inhibition,2
-794,790,,STAT3,2
-795,790,,Streptomyces avermitilis,2
-291,790,,Behandlung,2
-796,790,,Viral 3CLpro,2
-2,797,,Treatments,2
-798,797,,Adipositas,2
-799,797,,Adipokine,2
-427,797,,Entzündung,2
-800,797,,Herz-Kreislauf-System,2
-801,797,,Insulinresistenz,2
-802,797,,Thromboembolie,2
-63,797,,Atmung,2
-2,803,,Treatments,2
-804,803,,antivirale Therapie,2
-805,803,,Kombinationstherapie,2
-806,803,,langwirksame Virostatika,2
-157,803,,Molnupiravir,2
-807,803,,Mutagenese,2
-808,803,,Nirmatrelvir,2
-809,803,,orales Remdesivir,2
-275,803,,Prophylaxe,2
-810,803,,Proteasehemmer,2
-83,811,,Vaccines,2
-2,812,,Treatments,2
-798,812,,Adipositas,2
-220,812,,Coronavirus-Erkrankung 2019,2
-813,812,,Stoffwechsel,2
-76,812,,Immunität,2
-427,812,,Entzündung,2
-814,812,,Thrombose,2
+759,758,,Selenmangel,2
+45,758,,Ernährung,2
+760,758,,Schwangerschaft,2
+761,758,,Krankheit,2
+762,758,,Autoimmunerkrankungen,2
+58,763,,Interventions,2
+764,763,,Homeoffice,2
+765,763,,betriebliche Gesundheitsförderung,2
+766,763,,Potenzial,2
+96,763,,Sport,2
+15,763,,Körperliche Aktivität,2
+2,767,,Treatments,2
+768,767,,SARS-CoV-2 RNA-Virus und RNA-Mutanten,2
+769,767,,Zink-Homöostase,2
+75,767,,Immunität,2
+770,767,,COVID-19-Prävention,2
+771,767,,Atemwegs- und Lungenerkrankungen,2
+772,767,,Anti-Thrombusbildung,2
+773,767,,ZAP-vermittelte RNA-Replikation,2
+774,767,,Zink-Ionen-koordinierte Bindung,2
+2,775,,Treatments,2
+776,775,,KSHV,2
+777,775,,EBV,2
+409,775,,Remdesivir,2
+156,775,,Molnupiravir,2
+2,778,,Treatments,2
+779,778,,Spurenelemente,2
+780,778,,Zellvermittelte Immunität,2
+40,778,,Zink,2
+159,778,,Selen,2
+120,778,,Kupfer,2
+781,778,,Mangan,2
+389,778,,Zytokine,2
+782,778,,Reaktive Sauerstoffspezies,2
+2,783,,Treatments,2
+315,783,,Vitamine,2
+160,783,,Vitamin A,2
+3,783,,Vitamin D,2
+39,783,,Vitamin C,2
+784,783,,Vitamin E,2
+785,783,,Vitamin B6,2
+786,783,,Vitamin B12,2
+787,783,,Folsäure,2
+66,783,,Eisen,2
+120,783,,Kupfer,2
+40,783,,Zink,2
+159,783,,Selen,2
+45,783,,Ernährung,2
+195,783,,Immunsystem,2
+2,788,,Treatments,2
+214,788,,Antiviral,2
+178,788,,Zytokinsturm,2
+789,788,,Medikamenten-Repurposing,2
+790,788,,Importin-Heterodimerkomplex,2
+791,788,,Inhibition,2
+792,788,,STAT3,2
+793,788,,Streptomyces avermitilis,2
+290,788,,Behandlung,2
+794,788,,Viral 3CLpro,2
+2,795,,Treatments,2
+796,795,,Adipositas,2
+797,795,,Adipokine,2
+426,795,,Entzündung,2
+798,795,,Herz-Kreislauf-System,2
+799,795,,Insulinresistenz,2
+800,795,,Thromboembolie,2
+62,795,,Atmung,2
+2,801,,Treatments,2
+802,801,,antivirale Therapie,2
+803,801,,Kombinationstherapie,2
+804,801,,langwirksame Virostatika,2
+156,801,,Molnupiravir,2
+805,801,,Mutagenese,2
+806,801,,Nirmatrelvir,2
+807,801,,orales Remdesivir,2
+274,801,,Prophylaxe,2
+808,801,,Proteasehemmer,2
+82,809,,Vaccines,2
+2,810,,Treatments,2
+796,810,,Adipositas,2
+219,810,,Coronavirus-Erkrankung 2019,2
+811,810,,Stoffwechsel,2
+75,810,,Immunität,2
+426,810,,Entzündung,2
+812,810,,Thrombose,2
+2,813,,Treatments,2
+310,813,,ARDS,2
+204,813,,Calcidiol,2
+589,813,,Calcitriol,2
+178,813,,Zytokinsturm,2
+65,813,,Pandemie,2
+426,813,,Entzündung,2
+486,813,,Immunantwort,2
+82,814,,Vaccines,2
+486,814,,Immunantwort,2
+466,814,,Impfstoffe,2
 2,815,,Treatments,2
-311,815,,ARDS,2
-205,815,,Calcidiol,2
-591,815,,Calcitriol,2
-179,815,,Zytokinsturm,2
-66,815,,Pandemie,2
-427,815,,Entzündung,2
-488,815,,Immunantwort,2
-83,816,,Vaccines,2
-466,816,,Impfstoff,2
-488,816,,Immunantwort,2
-2,817,,Treatments,2
-818,817,,Antioxidantien,2
-819,817,,Coronavirus-Erkrankung (COVID-19),2
-76,817,,Immunität,2
-225,817,,Mikronährstoffe,2
-160,817,,Selen,2
-820,817,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+816,815,,Antioxidantien,2
+817,815,,Coronavirus-Erkrankung (COVID-19),2
+75,815,,Immunität,2
+224,815,,Mikronährstoffe,2
+159,815,,Selen,2
+818,815,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+2,819,,Treatments,2
+519,819,,Infektion,2
+820,819,,Vitamin D3,2
+111,819,,Sterblichkeit,2
+86,819,,Meta-Analyse,2
 2,821,,Treatments,2
-521,821,,Infektion,2
-822,821,,Vitamin D3,2
-112,821,,Sterblichkeit,2
-87,821,,Meta-Analyse,2
-2,823,,Treatments,2
-3,823,,Vitamin D,2
-104,823,,Vitamin D-Mangel,2
-2,824,,Treatments,2
-822,824,,Vitamin D3,2
-825,824,,Hydroxyderivate,2
-826,824,,CYP27B1,2
-827,824,,SARS-CoV-2-Virus,2
-828,824,,Glutathion,2
-829,824,,L-Cystein,2
+3,821,,Vitamin D,2
+103,821,,Vitamin D-Mangel,2
+2,822,,Treatments,2
+820,822,,Vitamin D3,2
+823,822,,Hydroxyderivate,2
+824,822,,CYP27B1,2
+825,822,,SARS-CoV-2-Virus,2
+826,822,,Glutathion,2
+827,822,,L-Cystein,2
+2,828,,Treatments,2
+3,828,,Vitamin D,2
+111,828,,Sterblichkeit,2
+829,828,,Aufnahme auf der Intensivstation,2
 2,830,,Treatments,2
 3,830,,Vitamin D,2
-112,830,,Sterblichkeit,2
-831,830,,Aufnahme auf der Intensivstation,2
-2,832,,Treatments,2
-3,832,,Vitamin D,2
-833,832,,Immunomodulator,2
-834,832,,Hypovitaminose,2
-835,832,,Vitamin D-Rezeptor,2
-59,836,,Interventions,2
-837,836,,Intervention,2
-45,836,,Ernährung,2
-200,836,,Bewegung,2
-838,836,,junge Erwachsene,2
-839,836,,Teenager,2
-15,836,,Körperliche Aktivität,2
-2,840,,Treatments,2
-3,840,,Vitamin D,2
-656,840,,Zytokin,2
-841,840,,Cathelicidin-LL37,2
-842,840,,akutes Lungenversagen,2
-59,843,,Interventions,2
-651,843,,Lebensqualität,2
-844,843,,ältere Frauen,2
-15,843,,Körperliche Aktivität,2
-2,845,,Treatments,2
-846,845,,polyphenolische Verbindungen,2
-847,845,,Flavandiole,2
-848,845,,Flavonole,2
-259,845,,Flavonoide,2
-849,845,,Phenolsäuren,2
-818,845,,Antioxidantien,2
-83,850,,Vaccines,2
-466,850,,Impfstoff,2
-851,850,,Ad26.COV2.S,2
-547,850,,Impfstoff-induzierte thrombotische Thrombozytopenie,2
-852,850,,VITT,2
-853,850,,Thrombose mit Thrombozytopenie-Syndrom,2
-854,850,,TTS,2
-422,850,,zerebrale venöse Sinusthrombose,2
-814,850,,Thrombose,2
-2,855,,Treatments,2
-856,855,,Spironolacton,2
-857,855,,Bromhexin,2
-858,855,,SHOKS-COVID,2
-2,859,,Treatments,2
-860,859,,Gesundheitsinformationen,2
-54,859,,Infektionskrankheiten,2
-861,859,,medizinische Fehler/Patientensicherheit,2
-862,859,,Überwachungsprogramme für verschreibungspflichtige Arzneimittel,2
-863,859,,Selbstmanagement,2
-59,864,,Interventions,2
-865,864,,ASAS-HI,2
-866,864,,axiale Spondyloarthritis,2
-66,864,,Pandemie,2
-867,864,,von Patienten berichtete Ergebnisse,2
-25,868,,Immunity,2
-869,868,,Coronaviren,2
-870,868,,CD4 T-Zellen,2
-871,868,,CD8 T-Zellen,2
-872,868,,B-Zellen,2
-873,868,,Immungedächtnis,2
-874,868,,neutralisierende Antikörper,2
-875,868,,bindende Antikörper,2
-876,868,,Immunkorrelate,2
-83,877,,Vaccines,2
-59,878,,Interventions,2
-272,878,,Lebensstil,2
-200,878,,Bewegung,2
-70,878,,Depression,2
-44,878,,Lockdown,2
-2,879,,Treatments,2
-880,879,,Mikronährstoffmangel,2
-122,879,,Schweregrad,2
-20,879,,CRP,2
-160,879,,Selen,2
-67,879,,Eisen,2
-40,879,,Zink,2
-881,879,,Nickel,2
-121,879,,Kupfer,2
-882,879,,Chrom,2
-83,883,,Vaccines,2
-2,884,,Treatments,2
-885,884,,Omicron-Variante,2
-445,884,,ACE2,2
-886,884,,NRP1,2
-887,884,,Arzneimittelwirksamkeit,2
-888,884,,Wirt-Pathogen-Interaktion,2
-80,884,,Ivermectin,2
-889,884,,Paxlovid,2
-890,884,,Lopinavir,2
-2,891,,Treatments,2
-892,891,,Bromhexinhydrochlorid-Tabletten,2
-59,893,,Interventions,2
-44,893,,Lockdown,2
-894,893,,kardiovaskuläre Erkrankungen,2
-895,893,,Detraining,2
-350,893,,sitzendes Verhalten,2
+831,830,,Immunomodulator,2
+832,830,,Hypovitaminose,2
+833,830,,Vitamin D-Rezeptor,2
+58,834,,Interventions,2
+835,834,,Intervention,2
+45,834,,Ernährung,2
+199,834,,Bewegung,2
+836,834,,junge Erwachsene,2
+837,834,,Teenager,2
+15,834,,Körperliche Aktivität,2
+2,838,,Treatments,2
+3,838,,Vitamin D,2
+654,838,,Zytokin,2
+839,838,,Cathelicidin-LL37,2
+840,838,,akutes Lungenversagen,2
+58,841,,Interventions,2
+649,841,,Lebensqualität,2
+842,841,,ältere Frauen,2
+15,841,,Körperliche Aktivität,2
+2,843,,Treatments,2
+844,843,,polyphenolische Verbindungen,2
+845,843,,Flavandiole,2
+846,843,,Flavonole,2
+258,843,,Flavonoide,2
+847,843,,Phenolsäuren,2
+816,843,,Antioxidantien,2
+82,848,,Vaccines,2
+849,848,,Ad26.COV2.S,2
+545,848,,Impfstoff-induzierte thrombotische Thrombozytopenie,2
+850,848,,VITT,2
+851,848,,Thrombose mit Thrombozytopenie-Syndrom,2
+852,848,,TTS,2
+421,848,,zerebrale venöse Sinusthrombose,2
+812,848,,Thrombose,2
+466,848,,Impfstoffe,2
+2,853,,Treatments,2
+854,853,,Spironolacton,2
+855,853,,Bromhexin,2
+856,853,,SHOKS-COVID,2
+2,857,,Treatments,2
+858,857,,Gesundheitsinformationen,2
+53,857,,Infektionskrankheiten,2
+859,857,,medizinische Fehler/Patientensicherheit,2
+860,857,,Überwachungsprogramme für verschreibungspflichtige Arzneimittel,2
+861,857,,Selbstmanagement,2
+58,862,,Interventions,2
+863,862,,ASAS-HI,2
+864,862,,axiale Spondyloarthritis,2
+65,862,,Pandemie,2
+865,862,,von Patienten berichtete Ergebnisse,2
+25,866,,Immunity,2
+867,866,,Coronaviren,2
+868,866,,CD4 T-Zellen,2
+869,866,,CD8 T-Zellen,2
+870,866,,B-Zellen,2
+871,866,,Immungedächtnis,2
+872,866,,neutralisierende Antikörper,2
+873,866,,bindende Antikörper,2
+874,866,,Immunkorrelate,2
+82,875,,Vaccines,2
+58,876,,Interventions,2
+271,876,,Lebensstil,2
+199,876,,Bewegung,2
+69,876,,Depression,2
+44,876,,Lockdown,2
+2,877,,Treatments,2
+878,877,,Mikronährstoffmangel,2
+121,877,,Schweregrad,2
+20,877,,CRP,2
+159,877,,Selen,2
+66,877,,Eisen,2
+40,877,,Zink,2
+879,877,,Nickel,2
+120,877,,Kupfer,2
+880,877,,Chrom,2
+82,881,,Vaccines,2
+2,882,,Treatments,2
+883,882,,Omicron-Variante,2
+444,882,,ACE2,2
+884,882,,NRP1,2
+885,882,,Arzneimittelwirksamkeit,2
+886,882,,Wirt-Pathogen-Interaktion,2
+79,882,,Ivermectin,2
+887,882,,Paxlovid,2
+888,882,,Lopinavir,2
+2,889,,Treatments,2
+890,889,,Bromhexinhydrochlorid-Tabletten,2
+58,891,,Interventions,2
+44,891,,Lockdown,2
+892,891,,kardiovaskuläre Erkrankungen,2
+893,891,,Detraining,2
+349,891,,sitzendes Verhalten,2
+2,894,,Treatments,2
+65,894,,Pandemie,2
+3,894,,Vitamin D,2
+136,894,,Nahrungsergänzung,2
+895,894,,Atemwegserkrankungen,2
 2,896,,Treatments,2
-66,896,,Pandemie,2
+897,896,,zellfreier DNA-Marker,2
 3,896,,Vitamin D,2
-137,896,,Nahrungsergänzung,2
-897,896,,Atemwegserkrankungen,2
-2,898,,Treatments,2
-899,898,,zellfreier DNA-Marker,2
-3,898,,Vitamin D,2
-83,900,,Vaccines,2
-901,900,,prothrombotische Immunthrombozytopenie,2
-902,900,,COVID-19-Impfung,2
-2,903,,Treatments,2
-157,903,,Molnupiravir,2
-904,903,,Lagevrio,2
-905,903,,Wirkstoffe,2
-2,906,,Treatments,2
-40,906,,Zink,2
-121,906,,Kupfer,2
-820,906,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
-100,906,,Coronavirus-Krankheit 2019,2
-907,906,,Gastrointestinales System,2
-781,906,,Spurenelemente,2
-83,908,,Vaccines,2
-909,908,,Anti-SARS-CoV-2-Impfstoff,2
-66,908,,Pandemie,2
-466,908,,Impfstoff,2
-2,910,,Treatments,2
-911,910,,Endotheliale Dysfunktion,2
-659,910,,Arginin,2
-48,910,,Coronavirus,2
-488,910,,Immunantwort,2
-133,910,,Klinische Studien,2
-83,912,,Vaccines,2
-902,912,,COVID-19-Impfung,2
-128,912,,Wirksamkeit,2
-913,912,,Risiko einer symptomatischen Infektion,2
-914,912,,Risiko eines Krankenhausaufenthalts,2
-915,912,,Sterberisiko,2
-357,912,,Schweden,2
-2,916,,Treatments,2
-917,916,,Impfstatus,2
-97,916,,Sport,2
-15,916,,Körperliche Aktivität,2
-83,918,,Vaccines,2
-173,919,,Virus,2
-920,919,,CFD-Analyse,2
-440,919,,Virusübertragung,2
-921,919,,Nahbereich,2
-922,919,,PIV,2
-923,919,,Tröpfchen,2
+82,898,,Vaccines,2
+899,898,,prothrombotische Immunthrombozytopenie,2
+900,898,,COVID-19-Impfung,2
+2,901,,Treatments,2
+156,901,,Molnupiravir,2
+902,901,,Lagevrio,2
+903,901,,Wirkstoffe,2
+2,904,,Treatments,2
+40,904,,Zink,2
+120,904,,Kupfer,2
+818,904,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+99,904,,Coronavirus-Krankheit 2019,2
+905,904,,Gastrointestinales System,2
+779,904,,Spurenelemente,2
+82,906,,Vaccines,2
+907,906,,Anti-SARS-CoV-2-Impfstoff,2
+65,906,,Pandemie,2
+466,906,,Impfstoffe,2
+2,908,,Treatments,2
+909,908,,Endotheliale Dysfunktion,2
+657,908,,Arginin,2
+486,908,,Immunantwort,2
+132,908,,Klinische Studien,2
+82,910,,Vaccines,2
+900,910,,COVID-19-Impfung,2
+127,910,,Wirksamkeit,2
+911,910,,Risiko einer symptomatischen Infektion,2
+912,910,,Risiko eines Krankenhausaufenthalts,2
+913,910,,Sterberisiko,2
+356,910,,Schweden,2
+2,914,,Treatments,2
+915,914,,Impfstatus,2
+96,914,,Sport,2
+15,914,,Körperliche Aktivität,2
+82,916,,Vaccines,2
+172,917,,Virus,2
+918,917,,CFD-Analyse,2
+439,917,,Virusübertragung,2
+919,917,,Nahbereich,2
+920,917,,PIV,2
+921,917,,Tröpfchen,2
+2,922,,Treatments,2
+3,922,,Vitamin D,2
+462,922,,Covid-19,2
+121,922,,Schweregrad,2
+923,922,,Ergebnis,2
 2,924,,Treatments,2
+99,924,,Coronavirus-Krankheit 2019,2
+925,924,,Prognose-Risikofaktor,2
+818,924,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+121,924,,Schweregrad,2
 3,924,,Vitamin D,2
-463,924,,Covid-19,2
-122,924,,Schweregrad,2
-925,924,,Ergebnis,2
 2,926,,Treatments,2
-100,926,,Coronavirus-Krankheit 2019,2
-927,926,,Prognose-Risikofaktor,2
-820,926,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
-122,926,,Schweregrad,2
+111,926,,Sterblichkeit,2
+275,926,,Prävention,2
+927,926,,Supplementation,2
 3,926,,Vitamin D,2
 2,928,,Treatments,2
-112,928,,Sterblichkeit,2
-276,928,,Prävention,2
-929,928,,Supplementation,2
-3,928,,Vitamin D,2
-2,930,,Treatments,2
-931,930,,COPD,2
-932,930,,SARS-CoV-2-Infektion,2
-933,930,,Asthma,2
-934,930,,Lungengesundheit,2
-38,930,,Nährstoffe,2
-935,930,,chronische Lungenkrankheiten,2
-83,936,,Vaccines,2
-937,936,,SARS-CoV-2. Impfstoff-induzierte Immunität,2
-938,936,,Durchbruchinfektionen,2
-2,939,,Treatments,2
-3,939,,Vitamin D,2
-590,939,,Calcifediol,2
-831,939,,Aufnahme auf der Intensivstation,2
-112,939,,Sterblichkeit,2
+929,928,,COPD,2
+930,928,,SARS-CoV-2-Infektion,2
+931,928,,Asthma,2
+932,928,,Lungengesundheit,2
+38,928,,Nährstoffe,2
+933,928,,chronische Lungenkrankheiten,2
+82,934,,Vaccines,2
+935,934,,SARS-CoV-2. Impfstoff-induzierte Immunität,2
+936,934,,Durchbruchinfektionen,2
+2,937,,Treatments,2
+3,937,,Vitamin D,2
+588,937,,Calcifediol,2
+829,937,,Aufnahme auf der Intensivstation,2
+111,937,,Sterblichkeit,2
+2,938,,Treatments,2
+3,938,,Vitamin D,2
+939,938,,Pathophysiologie von SARS-CoV-2,2
 2,940,,Treatments,2
+42,940,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+90,940,,Azithromycin,2
+89,940,,Hydroxychloroquin,2
+40,940,,Zink,2
 3,940,,Vitamin D,2
-941,940,,Pathophysiologie von SARS-CoV-2,2
-2,942,,Treatments,2
-42,942,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-91,942,,Azithromycin,2
-90,942,,Hydroxychloroquin,2
-40,942,,Zink,2
-3,942,,Vitamin D,2
-2,943,,Treatments,2
-944,943,,immunitätsfördernde Lebensmittel,2
-945,943,,vitaminreiche Lebensmittel,2
-83,946,,Vaccines,2
-947,946,,Anti-Spike-IgG,2
-874,946,,neutralisierende Antikörper,2
-948,946,,Antikörper-Titer,2
-25,949,,Immunity,2
-950,949,,Serum,2
-951,949,,Peptide und Proteine,2
-952,949,,Antigene,2
-953,949,,Enzymimmunoassays,2
-954,949,,Assays,2
-2,955,,Treatments,2
-956,955,,angiotensin-converting enzyme 2,2
-957,955,,calmodulin,2
-958,955,,lösliches ACE2,2
-959,955,,ACE2 shedding,2
-960,955,,lösliche katalytische Ektodomäne von ACE2,2
-961,955,,Kalzium-Signalisierung,2
-3,955,,Vitamin D,2
-962,955,,COVID-19 thromboembolische Ereignisse,2
-963,955,,Neuropilin-1,2
-83,964,,Vaccines,2
-965,964,,Autoimmun-HIT (aHIT),2
-966,964,,Zerebrale Venenthrombose (CVT),2
-902,964,,COVID-19-Impfung,2
-967,964,,Disseminierte intravasale Gerinnung (DIC),2
-968,964,,Heparin-induzierte Thrombozytopenie (HIT),2
-521,964,,Infektion,2
-969,964,,Splanchnische Venenthrombose,2
-970,964,,Thrombozytopenie,2
-814,964,,Thrombose,2
-971,964,,Knie-Totalendoprothese (TKA),2
-2,972,,Treatments,2
-160,972,,Selen,2
-427,972,,Entzündung,2
-973,972,,Virusinfektion,2
-820,972,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
-974,972,,Redoxstatus,2
-225,972,,Mikronährstoffe,2
-83,975,,Vaccines,2
-976,975,,fulminante Myokarditis,2
-150,975,,Impfung,2
-977,975,,extrakorporale Membranoxygenierung,2
-978,975,,Fallbericht,2
-83,979,,Vaccines,2
-980,979,,Sicherheitsstudie,2
-981,979,,ChAdOx1 nCoV-19 Coronavirus-Impfstoff,2
-982,979,,Nachzulassung,2
-983,979,,AEFI,2
-984,979,,Indien,2
-985,979,,Risiko,2
-402,979,,Schilddrüse,2
-2,986,,Treatments,2
-45,986,,Ernährung,2
-76,986,,Immunität,2
-3,986,,Vitamin D,2
-987,986,,Natrium,2
-988,986,,Alkohol,2
-2,989,,Treatments,2
-3,989,,Vitamin D,2
-990,989,,25-Hydroxyvitamin D. Vitamin-D-Rezeptor (VDR),2
-991,989,,25-Hydroxyvitamin D-1alpha-Hydroxylase (CYP27B1),2
-2,992,,Treatments,2
-541,992,,Wohlbefinden,2
-200,992,,Bewegung,2
-15,992,,Körperliche Aktivität,2
-2,993,,Treatments,2
-994,993,,Mechanismus,2
-995,993,,unerwünschte Wirkung,2
-996,993,,Medikamente,2
-59,997,,Interventions,2
-83,998,,Vaccines,2
-999,998,,Biosynthetische Heparine,2
-1000,998,,HIT,2
-1001,998,,PF4,2
-1002,998,,Plättchenfaktor 4/Polyanion-Komplex,2
-852,998,,VITT,2
-59,1003,,Interventions,2
-1004,1003,,geistige Gesundheit,2
-1005,1003,,akademische Leistung,2
-1004,1003,,geistige Gesundheit,2
-1005,1003,,akademische Leistung,2
-15,1003,,Körperliche Aktivität,2
-83,1006,,Vaccines,2
-264,1006,,BNT162b2,2
-1007,1006,,Moderna,2
-737,1006,,mRNA-1273,2
-1008,1006,,Astra Zeneca,2
-1009,1006,,ChAdOx1-S,2
-1010,1006,,Sputnik V,2
-1011,1006,,Gam-COVID-Vac,2
-1012,1006,,Sinopharm,2
-1013,1006,,BBIBP-CorV,2
-466,1006,,Impfstoff,2
-1014,1006,,Prägung,2
-1015,1006,,Delta-Variante,2
-1016,1006,,endemisch,2
-2,1017,,Treatments,2
-444,1017,,TMPRSS2,2
-1018,1017,,Influenzavirus,2
-48,1017,,Coronavirus,2
-1019,1017,,therapeutische Maßnahmen,2
-83,1020,,Vaccines,2
-2,1021,,Treatments,2
-366,1021,,Epigallocatechingallat,2
-1022,1021,,Gurgeln,2
-1023,1021,,Grüner Tee,2
-1024,1021,,Nicht-pharmazeutische Intervention,2
-1025,1021,,Atemwegsvirusinfektion,2
-1026,1021,,Teegetränk,2
+2,941,,Treatments,2
+942,941,,immunitätsfördernde Lebensmittel,2
+943,941,,vitaminreiche Lebensmittel,2
+82,944,,Vaccines,2
+945,944,,Anti-Spike-IgG,2
+872,944,,neutralisierende Antikörper,2
+946,944,,Antikörper-Titer,2
+25,947,,Immunity,2
+948,947,,Serum,2
+949,947,,Peptide und Proteine,2
+950,947,,Antigene,2
+951,947,,Enzymimmunoassays,2
+952,947,,Assays,2
+2,953,,Treatments,2
+954,953,,angiotensin-converting enzyme 2,2
+955,953,,calmodulin,2
+956,953,,lösliches ACE2,2
+957,953,,ACE2 shedding,2
+958,953,,lösliche katalytische Ektodomäne von ACE2,2
+959,953,,Kalzium-Signalisierung,2
+3,953,,Vitamin D,2
+960,953,,COVID-19 thromboembolische Ereignisse,2
+961,953,,Neuropilin-1,2
+82,962,,Vaccines,2
+963,962,,Autoimmun-HIT (aHIT),2
+964,962,,Zerebrale Venenthrombose (CVT),2
+900,962,,COVID-19-Impfung,2
+965,962,,Disseminierte intravasale Gerinnung (DIC),2
+966,962,,Heparin-induzierte Thrombozytopenie (HIT),2
+519,962,,Infektion,2
+967,962,,Splanchnische Venenthrombose,2
+968,962,,Thrombozytopenie,2
+812,962,,Thrombose,2
+969,962,,Knie-Totalendoprothese (TKA),2
+2,970,,Treatments,2
+159,970,,Selen,2
+426,970,,Entzündung,2
+971,970,,Virusinfektion,2
+818,970,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+972,970,,Redoxstatus,2
+224,970,,Mikronährstoffe,2
+82,973,,Vaccines,2
+974,973,,fulminante Myokarditis,2
+149,973,,Impfung,2
+975,973,,extrakorporale Membranoxygenierung,2
+976,973,,Fallbericht,2
+82,977,,Vaccines,2
+978,977,,Sicherheitsstudie,2
+979,977,,ChAdOx1 nCoV-19 Coronavirus-Impfstoff,2
+980,977,,Nachzulassung,2
+981,977,,AEFI,2
+982,977,,Indien,2
+983,977,,Risiko,2
+401,977,,Schilddrüse,2
+2,984,,Treatments,2
+45,984,,Ernährung,2
+75,984,,Immunität,2
+3,984,,Vitamin D,2
+985,984,,Natrium,2
+986,984,,Alkohol,2
+2,987,,Treatments,2
+3,987,,Vitamin D,2
+988,987,,25-Hydroxyvitamin D. Vitamin-D-Rezeptor (VDR),2
+989,987,,25-Hydroxyvitamin D-1alpha-Hydroxylase (CYP27B1),2
+2,990,,Treatments,2
+539,990,,Wohlbefinden,2
+199,990,,Bewegung,2
+15,990,,Körperliche Aktivität,2
+2,991,,Treatments,2
+992,991,,Mechanismus,2
+993,991,,unerwünschte Wirkung,2
+994,991,,Medikamente,2
+58,995,,Interventions,2
+82,996,,Vaccines,2
+997,996,,Biosynthetische Heparine,2
+998,996,,HIT,2
+999,996,,PF4,2
+1000,996,,Plättchenfaktor 4/Polyanion-Komplex,2
+850,996,,VITT,2
+58,1001,,Interventions,2
+1002,1001,,geistige Gesundheit,2
+1003,1001,,akademische Leistung,2
+1002,1001,,geistige Gesundheit,2
+1003,1001,,akademische Leistung,2
+15,1001,,Körperliche Aktivität,2
+82,1004,,Vaccines,2
+263,1004,,BNT162b2,2
+1005,1004,,Moderna,2
+735,1004,,mRNA-1273,2
+1006,1004,,ChAdOx1-S,2
+1007,1004,,Sputnik V,2
+1008,1004,,Gam-COVID-Vac,2
+1009,1004,,Sinopharm,2
+1010,1004,,BBIBP-CorV,2
+1011,1004,,Prägung,2
+1012,1004,,Delta-Variante,2
+1013,1004,,endemisch,2
+466,1004,,Impfstoffe,2
+1014,1004,,AstraZeneca,2
+2,1015,,Treatments,2
+443,1015,,TMPRSS2,2
+1016,1015,,Influenzavirus,2
+1017,1015,,therapeutische Maßnahmen,2
+82,1018,,Vaccines,2
+2,1019,,Treatments,2
+365,1019,,Epigallocatechingallat,2
+1020,1019,,Gurgeln,2
+1021,1019,,Grüner Tee,2
+1022,1019,,Nicht-pharmazeutische Intervention,2
+1023,1019,,Atemwegsvirusinfektion,2
+1024,1019,,Teegetränk,2
+2,1025,,Treatments,2
+1026,1025,,alpha-MSH,2
+460,1025,,Calcium,2
+119,1025,,Magnesium,2
+3,1025,,Vitamin D,2
 2,1027,,Treatments,2
-1028,1027,,alpha-MSH,2
-461,1027,,Calcium,2
-120,1027,,Magnesium,2
-3,1027,,Vitamin D,2
-2,1029,,Treatments,2
-822,1029,,Vitamin D3,2
-6,1029,,Supplementierung,2
+820,1027,,Vitamin D3,2
+6,1027,,Supplementierung,2
+2,1028,,Treatments,2
+1029,1028,,Post-COVID,2
+225,1028,,Nahrungsergänzungsmittel,2
+315,1028,,Vitamine,2
 2,1030,,Treatments,2
-1031,1030,,Post-COVID,2
-226,1030,,Nahrungsergänzungsmittel,2
-316,1030,,Vitamine,2
-2,1032,,Treatments,2
-48,1032,,Coronavirus,2
-1033,1032,,Minerale,2
-252,1032,,Therapie,2
-316,1032,,Vitamine,2
-83,1034,,Vaccines,2
-484,1034,,Impfstoffe,2
-1035,1034,,mRNA,2
-2,1036,,Treatments,2
-593,1036,,Infektionskrankheit,2
-1037,1036,,Beatmungsmedizin,2
-410,1036,,Remdesivir,2
-1038,1036,,Komorbidität,2
+1031,1030,,Minerale,2
+251,1030,,Therapie,2
+315,1030,,Vitamine,2
+82,1032,,Vaccines,2
+466,1032,,Impfstoffe,2
+1033,1032,,mRNA,2
+2,1034,,Treatments,2
+591,1034,,Infektionskrankheit,2
+1035,1034,,Beatmungsmedizin,2
+409,1034,,Remdesivir,2
+1036,1034,,Komorbidität,2
+2,1037,,Treatments,2
+444,1037,,ACE2,2
+3,1037,,Vitamin D,2
+1038,1037,,VDR,2
 2,1039,,Treatments,2
-445,1039,,ACE2,2
-3,1039,,Vitamin D,2
-1040,1039,,VDR,2
-2,1041,,Treatments,2
-1042,1041,,Umweltexposition,2
-1043,1041,,gesunder Lebensstil,2
-54,1041,,Infektionskrankheiten,2
-484,1041,,Impfstoffe,2
-2,1044,,Treatments,2
-1045,1044,,Spurenelement,2
-427,1044,,Entzündung,2
-1046,1044,,Mikronährstoff,2
-429,1044,,Biomarker,2
+1040,1039,,Umweltexposition,2
+1041,1039,,gesunder Lebensstil,2
+53,1039,,Infektionskrankheiten,2
+466,1039,,Impfstoffe,2
+2,1042,,Treatments,2
+1043,1042,,Spurenelement,2
+426,1042,,Entzündung,2
+1044,1042,,Mikronährstoff,2
+428,1042,,Biomarker,2
+2,1045,,Treatments,2
+462,1045,,Covid-19,2
+3,1045,,Vitamin D,2
+394,1045,,Risikofaktoren,2
+375,1045,,Senioren,2
+58,1046,,Interventions,2
+33,1046,,Fettleibigkeit,2
+714,1046,,Kinder,2
+528,1046,,Jugendliche,2
+233,1046,,Familie,2
 2,1047,,Treatments,2
-463,1047,,Covid-19,2
-3,1047,,Vitamin D,2
-395,1047,,Risikofaktoren,2
-376,1047,,Senioren,2
-59,1048,,Interventions,2
-33,1048,,Fettleibigkeit,2
-716,1048,,Kinder,2
-530,1048,,Jugendliche,2
-234,1048,,Familie,2
-2,1049,,Treatments,2
-1050,1049,,Vitamin-D3-Spiegel vor der Infektion,2
-1051,1049,,COVID-19-Erkrankung,2
-122,1049,,Schweregrad,2
-112,1049,,Sterblichkeit,2
-2,1052,,Treatments,2
-1053,1052,,orale Anti-COVID-19 Medikamente,2
-1054,1052,,Bamlanivimab,2
-1055,1052,,Etesevimab,2
-1056,1052,,Casirivimab,2
-1057,1052,,Imdevimab,2
+1048,1047,,Vitamin-D3-Spiegel vor der Infektion,2
+1049,1047,,COVID-19-Erkrankung,2
+121,1047,,Schweregrad,2
+111,1047,,Sterblichkeit,2
+2,1050,,Treatments,2
+1051,1050,,orale Anti-COVID-19 Medikamente,2
+1052,1050,,Bamlanivimab,2
+1053,1050,,Etesevimab,2
+1054,1050,,Casirivimab,2
+1055,1050,,Imdevimab,2
+2,1056,,Treatments,2
+86,1056,,Meta-Analyse,2
+1057,1056,,Systematische Überprüfung,2
+103,1056,,Vitamin D-Mangel,2
 2,1058,,Treatments,2
-87,1058,,Meta-Analyse,2
-1059,1058,,Systematische Überprüfung,2
-104,1058,,Vitamin D-Mangel,2
-2,1060,,Treatments,2
-3,1060,,Vitamin D,2
-1061,1060,,Gerinnung,2
-427,1060,,Entzündung,2
-1062,1060,,Hyperkoagulabilität,2
-1063,1060,,Thromboinflammation,2
-814,1060,,Thrombose,2
-1064,1060,,venöse Thromboembolie (VTE),2
-2,1065,,Treatments,2
-1066,1065,,AZD7442,2
-1067,1065,,Adalimumab,2
-1068,1065,,Anakinra,2
-91,1065,,Azithromycin,2
-1069,1065,,BRII-196,2
-1070,1065,,BRII-198,2
-1071,1065,,Banlanivimab,2
-1072,1065,,Baricitinib,2
-1073,1065,,Canakinumab,2
-1056,1065,,Casirivimab,2
-1074,1065,,Certolizumab,2
-1075,1065,,Ciganilmab,2
-1076,1065,,Colchicin,2
-1077,1065,,Dexamethason,2
-1078,1065,,Etanercept,2
-1055,1065,,Etesevimab,2
-1079,1065,,Evusheld,2
-409,1065,,Favipiravir,2
-1080,1065,,Fluvoxamin,2
-1081,1065,,Golimumab,2
-90,1065,,Hydroxychloroquin,2
-1082,1065,,Imdevinab,2
-1083,1065,,Infliximab,2
-1084,1065,,Itolizumab,2
-80,1065,,Ivermectin,2
-1085,1065,,Lemilumab,2
-1086,1065,,Lopinavir/Ritonavir,2
-1087,1065,,Metformin,2
-157,1065,,Molnupiravir,2
-1088,1065,,PF-07321332,2
-889,1065,,Paxlovid,2
-1089,1065,,Ravulizumab,2
-410,1065,,Remdesivir,2
-1090,1065,,Ruxolitinib,2
-1091,1065,,Sarilumab,2
-1092,1065,,Sotrovimab,2
-1093,1065,,Tixagevimab,2
-1094,1065,,Tocilizumab,2
-1095,1065,,Tofacitinib,2
-3,1065,,Vitamin D,2
-1096,1065,,Genesungsplasma,2
-291,1065,,Behandlung,2
-2,1097,,Treatments,2
-3,1097,,Vitamin D,2
-1098,1097,,Fall-Kontrolle,2
-1099,1097,,klinischer Schweregrad,2
+3,1058,,Vitamin D,2
+1059,1058,,Gerinnung,2
+426,1058,,Entzündung,2
+1060,1058,,Hyperkoagulabilität,2
+1061,1058,,Thromboinflammation,2
+812,1058,,Thrombose,2
+1062,1058,,venöse Thromboembolie (VTE),2
+2,1063,,Treatments,2
+1064,1063,,AZD7442,2
+1065,1063,,Adalimumab,2
+1066,1063,,Anakinra,2
+90,1063,,Azithromycin,2
+1067,1063,,BRII-196,2
+1068,1063,,BRII-198,2
+1069,1063,,Banlanivimab,2
+1070,1063,,Baricitinib,2
+1071,1063,,Canakinumab,2
+1054,1063,,Casirivimab,2
+1072,1063,,Certolizumab,2
+1073,1063,,Ciganilmab,2
+1074,1063,,Colchicin,2
+1075,1063,,Dexamethason,2
+1076,1063,,Etanercept,2
+1053,1063,,Etesevimab,2
+1077,1063,,Evusheld,2
+408,1063,,Favipiravir,2
+1078,1063,,Fluvoxamin,2
+1079,1063,,Golimumab,2
+89,1063,,Hydroxychloroquin,2
+1080,1063,,Imdevinab,2
+1081,1063,,Infliximab,2
+1082,1063,,Itolizumab,2
+79,1063,,Ivermectin,2
+1083,1063,,Lemilumab,2
+1084,1063,,Lopinavir/Ritonavir,2
+1085,1063,,Metformin,2
+156,1063,,Molnupiravir,2
+1086,1063,,PF-07321332,2
+887,1063,,Paxlovid,2
+1087,1063,,Ravulizumab,2
+409,1063,,Remdesivir,2
+1088,1063,,Ruxolitinib,2
+1089,1063,,Sarilumab,2
+1090,1063,,Sotrovimab,2
+1091,1063,,Tixagevimab,2
+1092,1063,,Tocilizumab,2
+1093,1063,,Tofacitinib,2
+3,1063,,Vitamin D,2
+1094,1063,,Genesungsplasma,2
+290,1063,,Behandlung,2
+2,1095,,Treatments,2
+3,1095,,Vitamin D,2
+1096,1095,,Fall-Kontrolle,2
+1097,1095,,klinischer Schweregrad,2
+2,1098,,Treatments,2
+1099,1098,,schlechte Prognose,2
+65,1098,,Pandemie,2
+895,1098,,Atemwegserkrankungen,2
+178,1098,,Zytokinsturm,2
 2,1100,,Treatments,2
-1101,1100,,schlechte Prognose,2
-66,1100,,Pandemie,2
-897,1100,,Atemwegserkrankungen,2
-179,1100,,Zytokinsturm,2
-2,1102,,Treatments,2
-1103,1102,,Israelische Bevölkerungsstudie,2
-1104,1102,,niedriger 25(OH)-Vitamin-D-Plasmaspiegel,2
-1105,1102,,Infektionsrisiko,2
-3,1102,,Vitamin D,2
-2,1106,,Treatments,2
-80,1106,,Ivermectin,2
+1101,1100,,Israelische Bevölkerungsstudie,2
+1102,1100,,niedriger 25(OH)-Vitamin-D-Plasmaspiegel,2
+1103,1100,,Infektionsrisiko,2
+3,1100,,Vitamin D,2
+2,1104,,Treatments,2
+79,1104,,Ivermectin,2
+2,1105,,Treatments,2
+1106,1105,,körperliches Aktivitätsniveau,2
+65,1105,,Pandemie,2
+44,1105,,Lockdown,2
 2,1107,,Treatments,2
-1108,1107,,körperliches Aktivitätsniveau,2
-66,1107,,Pandemie,2
-44,1107,,Lockdown,2
-2,1109,,Treatments,2
-48,1109,,Coronavirus,2
-1110,1109,,psychische Störung,2
-69,1109,,psychische Gesundheit,2
-87,1109,,Meta-Analyse,2
-1111,1109,,öffentliche Gesundheit,2
-6,1109,,Supplementierung,2
-3,1109,,Vitamin D,2
+1108,1107,,psychische Störung,2
+68,1107,,psychische Gesundheit,2
+86,1107,,Meta-Analyse,2
+1109,1107,,öffentliche Gesundheit,2
+6,1107,,Supplementierung,2
+3,1107,,Vitamin D,2
+2,1110,,Treatments,2
+1111,1110,,Überblick,2
+85,1110,,systematische Überprüfung,2
+3,1110,,Vitamin D,2
+39,1110,,Vitamin C,2
+227,1110,,Melatonin,2
+40,1110,,Zink,2
+426,1110,,Entzündung,2
+230,1110,,Nutrazeutika,2
 2,1112,,Treatments,2
-1113,1112,,Überblick,2
-86,1112,,systematische Überprüfung,2
-3,1112,,Vitamin D,2
-39,1112,,Vitamin C,2
-228,1112,,Melatonin,2
-40,1112,,Zink,2
-427,1112,,Entzündung,2
-231,1112,,Nutrazeutika,2
-2,1114,,Treatments,2
-808,1114,,Nirmatrelvir,2
-1115,1114,,NMV,2
-1116,1114,,PAXLOVID,2
-48,1114,,Coronavirus,2
-1117,1114,,embryofötale Entwicklung,2
-1118,1114,,Fruchtbarkeit,2
-1119,1114,,genetische Toxizität,2
-1120,1114,,Ratte,2
-1121,1114,,Kaninchen,2
-1122,1114,,orale COVID-19-Therapie,2
-2,1123,,Treatments,2
-1124,1123,,Heilpflanzen,2
-40,1123,,Zink,2
-1125,1123,,Virusinfektionen,2
-2,1126,,Treatments,2
-1127,1126,,Mundspülungen,2
-173,1128,,Virus,2
-2,1129,,Treatments,2
-1130,1129,,Entzündungshemmung,2
-818,1129,,Antioxidantien,2
-226,1129,,Nahrungsergänzungsmittel,2
-1131,1129,,Immunstärkung,2
-9,1129,,Pathogenese,2
-25,1132,,Immunity,2
-2,1133,,Treatments,2
-1127,1133,,Mundspülungen,2
-1134,1133,,Povidon-Jod,2
-1135,1133,,Cetylpyridiniumchlorid,2
-1136,1133,,Chlorhexidin,2
-83,1137,,Vaccines,2
-1138,1137,,Zerebrale Venenthrombose,2
-902,1137,,COVID-19-Impfung,2
-1139,1137,,Vereinigtes Königreich,2
+806,1112,,Nirmatrelvir,2
+1113,1112,,NMV,2
+1114,1112,,PAXLOVID,2
+1115,1112,,embryofötale Entwicklung,2
+1116,1112,,Fruchtbarkeit,2
+1117,1112,,genetische Toxizität,2
+1118,1112,,Ratte,2
+1119,1112,,Kaninchen,2
+1120,1112,,orale COVID-19-Therapie,2
+2,1121,,Treatments,2
+1122,1121,,Heilpflanzen,2
+40,1121,,Zink,2
+1123,1121,,Virusinfektionen,2
+2,1124,,Treatments,2
+1125,1124,,Mundspülungen,2
+172,1126,,Virus,2
+2,1127,,Treatments,2
+1128,1127,,Entzündungshemmung,2
+816,1127,,Antioxidantien,2
+225,1127,,Nahrungsergänzungsmittel,2
+1129,1127,,Immunstärkung,2
+9,1127,,Pathogenese,2
+25,1130,,Immunity,2
+2,1131,,Treatments,2
+1125,1131,,Mundspülungen,2
+1132,1131,,Povidon-Jod,2
+1133,1131,,Cetylpyridiniumchlorid,2
+1134,1131,,Chlorhexidin,2
+82,1135,,Vaccines,2
+1136,1135,,Zerebrale Venenthrombose,2
+900,1135,,COVID-19-Impfung,2
+1137,1135,,Vereinigtes Königreich,2
+2,1138,,Treatments,2
+315,1138,,Vitamine,2
+779,1138,,Spurenelemente,2
+195,1138,,Immunsystem,2
+1139,1138,,Bibliometrische Analyse,2
 2,1140,,Treatments,2
-316,1140,,Vitamine,2
-781,1140,,Spurenelemente,2
-196,1140,,Immunsystem,2
-1141,1140,,Bibliometrische Analyse,2
-2,1142,,Treatments,2
-29,1142,,Sportbeteiligung,2
-69,1142,,psychische Gesundheit,2
-651,1142,,Lebensqualität,2
-15,1142,,Körperliche Aktivität,2
-2,1143,,Treatments,2
-665,1143,,EGCG,2
-1144,1143,,Tee-Polyphenol,2
-457,1143,,antiviral,2
-1145,1143,,SARS-CoV,2
-83,1146,,Vaccines,2
-2,1147,,Treatments,2
-14,1147,,Gebrechlichkeit,2
-1148,1147,,Vulnerabilität,2
-194,1147,,ältere Menschen,2
-1149,1147,,CGA,2
-474,1147,,funktionelle Lebensmittel,2
+29,1140,,Sportbeteiligung,2
+68,1140,,psychische Gesundheit,2
+649,1140,,Lebensqualität,2
+15,1140,,Körperliche Aktivität,2
+2,1141,,Treatments,2
+663,1141,,EGCG,2
+1142,1141,,Tee-Polyphenol,2
+456,1141,,antiviral,2
+1143,1141,,SARS-CoV,2
+82,1144,,Vaccines,2
+2,1145,,Treatments,2
+14,1145,,Gebrechlichkeit,2
+1146,1145,,Vulnerabilität,2
+193,1145,,ältere Menschen,2
+1147,1145,,CGA,2
+473,1145,,funktionelle Lebensmittel,2
+2,1148,,Treatments,2
+40,1148,,Zink,2
+290,1148,,Behandlung,2
+1149,1148,,Fallserien,2
 2,1150,,Treatments,2
 40,1150,,Zink,2
-291,1150,,Behandlung,2
-1151,1150,,Fallserien,2
-2,1152,,Treatments,2
-40,1152,,Zink,2
-42,1152,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-1153,1152,,CVD und COVID-19 Komorbidität,2
-1154,1152,,Bluthochdruck,2
-1155,1152,,Vasokonstriktion,2
-2,1156,,Treatments,2
-1157,1156,,Mulnupiravir,2
-1158,1156,,antivirales Medikament,2
-1015,1156,,Delta-Variante,2
-1159,1156,,Wildtyp,2
-83,1160,,Vaccines,2
-1161,1160,,Stigmatisierung,2
-1162,1160,,Ungeimpfte,2
-1163,1160,,Geimpfte,2
-1164,1160,,Rolle bei der Übertragung,2
-2,1165,,Treatments,2
-228,1165,,Melatonin,2
-692,1165,,angeborene Immunität,2
-759,1165,,adaptive Immunität,2
-427,1165,,Entzündung,2
-1166,1165,,Hauptprotease,2
-808,1165,,Nirmatrelvir,2
-1167,1165,,Ritonavir,2
-2,1168,,Treatments,2
-69,1168,,psychische Gesundheit,2
-1169,1168,,PCSS,2
-1170,1168,,nicht-pharmakologisch,2
-501,1168,,Waldbaden,2
-196,1168,,Immunsystem,2
-83,1171,,Vaccines,2
-2,1172,,Treatments,2
-1173,1172,,Übungen,2
-1174,1172,,Gerowissenschaft,2
-3,1172,,Vitamin D,2
-76,1172,,Immunität,2
-1175,1172,,Irisin,2
-414,1172,,Stress,2
-1176,1172,,neurotropher Faktor des Gehirns (BDNF),2
+42,1150,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+1151,1150,,CVD und COVID-19 Komorbidität,2
+1152,1150,,Bluthochdruck,2
+1153,1150,,Vasokonstriktion,2
+2,1154,,Treatments,2
+1155,1154,,Mulnupiravir,2
+1156,1154,,antivirales Medikament,2
+1012,1154,,Delta-Variante,2
+1157,1154,,Wildtyp,2
+82,1158,,Vaccines,2
+1159,1158,,Stigmatisierung,2
+1160,1158,,Ungeimpfte,2
+1161,1158,,Geimpfte,2
+1162,1158,,Rolle bei der Übertragung,2
+2,1163,,Treatments,2
+227,1163,,Melatonin,2
+690,1163,,angeborene Immunität,2
+757,1163,,adaptive Immunität,2
+426,1163,,Entzündung,2
+1164,1163,,Hauptprotease,2
+806,1163,,Nirmatrelvir,2
+1165,1163,,Ritonavir,2
+2,1166,,Treatments,2
+68,1166,,psychische Gesundheit,2
+1167,1166,,PCSS,2
+1168,1166,,nicht-pharmakologisch,2
+499,1166,,Waldbaden,2
+195,1166,,Immunsystem,2
+82,1169,,Vaccines,2
+2,1170,,Treatments,2
+1171,1170,,Übungen,2
+1172,1170,,Gerowissenschaft,2
+3,1170,,Vitamin D,2
+75,1170,,Immunität,2
+1173,1170,,Irisin,2
+413,1170,,Stress,2
+1174,1170,,neurotropher Faktor des Gehirns (BDNF),2
+2,1175,,Treatments,2
+79,1175,,Ivermectin,2
+274,1175,,Prophylaxe,2
+275,1175,,Prävention,2
+2,1176,,Treatments,2
+221,1176,,25-Hydroxyvitamin D,2
+3,1176,,Vitamin D,2
+121,1176,,Schweregrad,2
+111,1176,,Sterblichkeit,2
 2,1177,,Treatments,2
-80,1177,,Ivermectin,2
-275,1177,,Prophylaxe,2
-276,1177,,Prävention,2
-48,1177,,Coronavirus,2
-2,1178,,Treatments,2
-222,1178,,25-Hydroxyvitamin D,2
-3,1178,,Vitamin D,2
-122,1178,,Schweregrad,2
-112,1178,,Sterblichkeit,2
-2,1179,,Treatments,2
-1180,1179,,Infektionen,2
-395,1179,,Risikofaktoren,2
-1181,1179,,antivirale Mechanismen,2
-1182,1179,,Renin-Angiotensin-Achse,2
-1183,1179,,biologische Aktivität,2
-3,1179,,Vitamin D,2
-2,1184,,Treatments,2
-1185,1184,,Arzneipflanzen,2
-1186,1184,,Lycorin,2
-1187,1184,,Gingerol Shogaol,2
-1188,1184,,Resveratrol,2
-1189,1184,,Rhoifolin,2
-1190,1184,,Oleanolsäure,2
-1191,1184,,Kaempferol,2
-1192,1184,,Rosmarinsäure,2
-1193,1184,,Mandelöl,2
-1194,1184,,Ursolsäure,2
-1195,1184,,Hederagenin,2
-1196,1184,,Nigellidin,2
-1197,1184,,α-Hederin,2
-1198,1184,,Apigenin,2
-1199,1184,,Nobiletin,2
-1200,1184,,Tangeretin,2
-1201,1184,,Chalkon,2
-290,1184,,Hesperidin,2
-366,1184,,Epigallocatechingallat,2
-1202,1184,,Allicin,2
-1203,1184,,Diallyltrisulfid,2
-1204,1184,,Ajoen,2
-1205,1184,,Aloenin,2
-1206,1184,,Artemisinin,2
-1207,1184,,Glucobrassicin,2
-492,1184,,Curcumin,2
-1208,1184,,Piperin,2
-259,1184,,Flavonoide,2
-1209,1184,,Anthrachinon,2
-90,1184,,Hydroxychloroquin,2
-1210,1184,,Jensenon,2
-2,1211,,Treatments,2
-1212,1211,,natürliche antivirale Mittel,2
-1213,1211,,Immunstärker,2
-370,1211,,Baicalin,2
-258,1211,,Glycyrrhizin,2
-666,1211,,Theaflavin,2
-1214,1211,,Herbacetin,2
-173,1215,,Virus,2
-2,1216,,Treatments,2
-1217,1216,,Catechine,2
-665,1216,,EGCG,2
-1218,1216,,Ubiquitinierung,2
-1219,1216,,ISGylierung,2
-427,1216,,Entzündung,2
-1220,1216,,rheumatoide Arthritis,2
-484,1216,,Impfstoffe,2
-1221,1216,,PLPro,2
+1178,1177,,Infektionen,2
+394,1177,,Risikofaktoren,2
+1179,1177,,antivirale Mechanismen,2
+1180,1177,,Renin-Angiotensin-Achse,2
+1181,1177,,biologische Aktivität,2
+3,1177,,Vitamin D,2
+2,1182,,Treatments,2
+1183,1182,,Arzneipflanzen,2
+1184,1182,,Lycorin,2
+1185,1182,,Gingerol Shogaol,2
+1186,1182,,Resveratrol,2
+1187,1182,,Rhoifolin,2
+1188,1182,,Oleanolsäure,2
+1189,1182,,Kaempferol,2
+1190,1182,,Rosmarinsäure,2
+1191,1182,,Mandelöl,2
+1192,1182,,Ursolsäure,2
+1193,1182,,Hederagenin,2
+1194,1182,,Nigellidin,2
+1195,1182,,α-Hederin,2
+1196,1182,,Apigenin,2
+1197,1182,,Nobiletin,2
+1198,1182,,Tangeretin,2
+1199,1182,,Chalkon,2
+289,1182,,Hesperidin,2
+365,1182,,Epigallocatechingallat,2
+1200,1182,,Allicin,2
+1201,1182,,Diallyltrisulfid,2
+1202,1182,,Ajoen,2
+1203,1182,,Aloenin,2
+1204,1182,,Artemisinin,2
+1205,1182,,Glucobrassicin,2
+490,1182,,Curcumin,2
+1206,1182,,Piperin,2
+258,1182,,Flavonoide,2
+1207,1182,,Anthrachinon,2
+89,1182,,Hydroxychloroquin,2
+1208,1182,,Jensenon,2
+2,1209,,Treatments,2
+1210,1209,,natürliche antivirale Mittel,2
+1211,1209,,Immunstärker,2
+369,1209,,Baicalin,2
+257,1209,,Glycyrrhizin,2
+664,1209,,Theaflavin,2
+1212,1209,,Herbacetin,2
+172,1213,,Virus,2
+2,1214,,Treatments,2
+1215,1214,,Catechine,2
+663,1214,,EGCG,2
+1216,1214,,Ubiquitinierung,2
+1217,1214,,ISGylierung,2
+426,1214,,Entzündung,2
+1218,1214,,rheumatoide Arthritis,2
+466,1214,,Impfstoffe,2
+1219,1214,,PLPro,2
+2,1220,,Treatments,2
+3,1220,,Vitamin D,2
+119,1220,,Magnesium,2
+786,1220,,Vitamin B12,2
+82,1221,,Vaccines,2
+466,1221,,Impfstoffe,2
+1033,1221,,mRNA,2
 2,1222,,Treatments,2
-3,1222,,Vitamin D,2
-120,1222,,Magnesium,2
-788,1222,,Vitamin B12,2
-83,1223,,Vaccines,2
-484,1223,,Impfstoffe,2
-1035,1223,,mRNA,2
-2,1224,,Treatments,2
-1225,1224,,demographische Faktoren,2
-1226,1224,,epidemiologische Faktoren,2
-1227,1224,,Oman,2
-2,1228,,Treatments,2
-80,1228,,Ivermectin,2
+1223,1222,,demographische Faktoren,2
+1224,1222,,epidemiologische Faktoren,2
+1225,1222,,Oman,2
+2,1226,,Treatments,2
+79,1226,,Ivermectin,2
+2,1227,,Treatments,2
+3,1227,,Vitamin D,2
+111,1227,,Sterblichkeit,2
+930,1227,,SARS-CoV-2-Infektion,2
+1228,1227,,Atemnotsyndrom,2
+395,1227,,Intensivstation,2
 2,1229,,Treatments,2
-3,1229,,Vitamin D,2
-112,1229,,Sterblichkeit,2
-932,1229,,SARS-CoV-2-Infektion,2
-1230,1229,,Atemnotsyndrom,2
-396,1229,,Intensivstation,2
+462,1229,,Covid-19,2
+89,1229,,Hydroxychloroquin,2
+1230,1229,,Ionophor,2
+111,1229,,Sterblichkeit,2
+40,1229,,Zink,2
 2,1231,,Treatments,2
-463,1231,,Covid-19,2
-48,1231,,Coronavirus,2
-90,1231,,Hydroxychloroquin,2
-1232,1231,,Ionophor,2
-112,1231,,Sterblichkeit,2
-40,1231,,Zink,2
-2,1233,,Treatments,2
-1234,1233,,RNA-Virus,2
-194,1233,,ältere Menschen,2
-33,1233,,Fettleibigkeit,2
-476,1233,,oxidativer Stress,2
-160,1233,,Selen,2
-1235,1233,,Thioredoxin-Reduktase,2
-25,1236,,Immunity,2
-1237,1236,,Herdenimmunität,2
-1238,1236,,Impfrate,2
-2,1239,,Treatments,2
-196,1239,,Immunsystem,2
-198,1239,,Influenza,2
-225,1239,,Mikronährstoffe,2
-45,1239,,Ernährung,2
+1232,1231,,RNA-Virus,2
+193,1231,,ältere Menschen,2
+33,1231,,Fettleibigkeit,2
+475,1231,,oxidativer Stress,2
+159,1231,,Selen,2
+1233,1231,,Thioredoxin-Reduktase,2
+25,1234,,Immunity,2
+1235,1234,,Herdenimmunität,2
+1236,1234,,Impfrate,2
+2,1237,,Treatments,2
+195,1237,,Immunsystem,2
+197,1237,,Influenza,2
+224,1237,,Mikronährstoffe,2
+45,1237,,Ernährung,2
+2,1238,,Treatments,2
+3,1238,,Vitamin D,2
+1239,1238,,Infektionsraten,2
+121,1238,,Schweregrad,2
+103,1238,,Vitamin D-Mangel,2
 2,1240,,Treatments,2
-3,1240,,Vitamin D,2
-1241,1240,,Infektionsraten,2
-122,1240,,Schweregrad,2
-104,1240,,Vitamin D-Mangel,2
-2,1242,,Treatments,2
-80,1242,,Ivermectin,2
-1243,1242,,Dosis-Wirkung,2
-83,1244,,Vaccines,2
-1245,1244,,COVID Spike Protein,2
-264,1244,,BNT162b2,2
-466,1244,,Impfstoff,2
-1246,1244,,Immunaktivierung,2
+79,1240,,Ivermectin,2
+1241,1240,,Dosis-Wirkung,2
+82,1242,,Vaccines,2
+1243,1242,,COVID Spike Protein,2
+263,1242,,BNT162b2,2
+1244,1242,,Immunaktivierung,2
+466,1242,,Impfstoffe,2
+2,1245,,Treatments,2
+3,1245,,Vitamin D,2
+75,1245,,Immunität,2
+519,1245,,Infektion,2
+1246,1245,,Übersicht,2
 2,1247,,Treatments,2
+79,1247,,Ivermectin,2
+407,1247,,Doxycyclin,2
+40,1247,,Zink,2
 3,1247,,Vitamin D,2
-48,1247,,Coronavirus,2
-76,1247,,Immunität,2
-521,1247,,Infektion,2
-1248,1247,,Übersicht,2
-2,1249,,Treatments,2
-80,1249,,Ivermectin,2
-408,1249,,Doxycyclin,2
-40,1249,,Zink,2
-3,1249,,Vitamin D,2
-39,1249,,Vitamin C,2
-2,1250,,Treatments,2
-1251,1250,,pflanzliche Arzneimittel,2
-1252,1250,,ayurvedische Heilmittel,2
-1253,1250,,nutrazeutische Arzneimittel,2
-1254,1250,,chinesische Kräuter,2
-1255,1250,,traditionelle chinesische Medizin,2
-226,1250,,Nahrungsergänzungsmittel,2
-83,1256,,Vaccines,2
+39,1247,,Vitamin C,2
+2,1248,,Treatments,2
+1249,1248,,pflanzliche Arzneimittel,2
+1250,1248,,ayurvedische Heilmittel,2
+1251,1248,,nutrazeutische Arzneimittel,2
+1252,1248,,chinesische Kräuter,2
+1253,1248,,traditionelle chinesische Medizin,2
+225,1248,,Nahrungsergänzungsmittel,2
+82,1254,,Vaccines,2
+2,1255,,Treatments,2
+3,1255,,Vitamin D,2
+1256,1255,,hospitalisierte Patienten,2
 2,1257,,Treatments,2
-3,1257,,Vitamin D,2
-1258,1257,,hospitalisierte Patienten,2
-2,1259,,Treatments,2
-392,1259,,Mineralien,2
-45,1259,,Ernährung,2
-316,1259,,Vitamine,2
-137,1259,,Nahrungsergänzung,2
+391,1257,,Mineralien,2
+45,1257,,Ernährung,2
+315,1257,,Vitamine,2
+136,1257,,Nahrungsergänzung,2
+2,1258,,Treatments,2
+3,1258,,Vitamin D,2
+121,1258,,Schweregrad,2
+111,1258,,Sterblichkeit,2
+1259,1258,,Vereinigte Arabische Emirate,2
 2,1260,,Treatments,2
+195,1260,,Immunsystem,2
+166,1260,,Grippe,2
+224,1260,,Mikronährstoffe,2
+391,1260,,Mineralien,2
+1261,1260,,Omega-3-Fettsäuren,2
+971,1260,,Virusinfektion,2
+39,1260,,Vitamin C,2
 3,1260,,Vitamin D,2
-122,1260,,Schweregrad,2
-112,1260,,Sterblichkeit,2
-1261,1260,,Vereinigte Arabische Emirate,2
-2,1262,,Treatments,2
-196,1262,,Immunsystem,2
-167,1262,,Grippe,2
-225,1262,,Mikronährstoffe,2
-392,1262,,Mineralien,2
-1263,1262,,Omega-3-Fettsäuren,2
-973,1262,,Virusinfektion,2
-39,1262,,Vitamin C,2
-3,1262,,Vitamin D,2
-316,1262,,Vitamine,2
-83,1264,,Vaccines,2
-1265,1264,,Infektionsausbruch,2
-182,1264,,Impfstoff-Durchbruchsinfektionen,2
-2,1266,,Treatments,2
-3,1266,,Vitamin D,2
-1267,1266,,ultraviolettes Licht,2
-1268,1266,,Morbidität,2
-123,1266,,Mortalität,2
-1269,1266,,Risikopatienten,2
-59,1270,,Interventions,2
-1271,1270,,Th1/Th2-Verhältnis,2
-1272,1270,,Hypoxie,2
-449,1270,,Immunmodulation,2
-1273,1270,,intermittierende hypoxische Präkonditionierung,2
-25,1274,,Immunity,2
-873,1274,,Immungedächtnis,2
-384,1274,,Antikörper,2
-1275,1274,,Langlebige Plasmazellen aus dem Knochenmark,2
-1276,1274,,BMPCs,2
-2,1277,,Treatments,2
-451,1277,,RT-PCR,2
-1278,1277,,Biochemische Parameter,2
-1279,1277,,Serum-Ferritin,2
-1280,1277,,d-Dimer,2
-2,1281,,Treatments,2
-588,1281,,akutes Atemnotsyndrom (ARDS),2
-48,1281,,Coronavirus,2
-179,1281,,Zytokinsturm,2
-1282,1281,,Inflammasom,2
-1283,1281,,neutrophile extrazelluläre Fallen (NETs),2
-3,1281,,Vitamin D,2
-83,1284,,Vaccines,2
-83,1285,,Vaccines,2
-1286,1285,,Reinfektionen,2
-83,1287,,Vaccines,2
-1288,1287,,Multisystemisches Entzündungssyndrom,2
-484,1287,,Impfstoffe,2
-2,1289,,Treatments,2
-1290,1289,,Pflanzen-Selen-Verbindungen,2
-1291,1289,,Selenit,2
-1292,1289,,organisches Se,2
-733,1289,,Selenoproteine,2
-59,1293,,Interventions,2
-1294,1293,,Bewegungsmangel,2
-716,1293,,Kinder,2
-1295,1293,,Beschleunigungsmesser,2
-350,1293,,sitzendes Verhalten,2
-83,1296,,Vaccines,2
+315,1260,,Vitamine,2
+82,1262,,Vaccines,2
+1263,1262,,Infektionsausbruch,2
+181,1262,,Impfstoff-Durchbruchsinfektionen,2
+2,1264,,Treatments,2
+3,1264,,Vitamin D,2
+1265,1264,,ultraviolettes Licht,2
+1266,1264,,Morbidität,2
+122,1264,,Mortalität,2
+1267,1264,,Risikopatienten,2
+58,1268,,Interventions,2
+1269,1268,,Th1/Th2-Verhältnis,2
+1270,1268,,Hypoxie,2
+448,1268,,Immunmodulation,2
+1271,1268,,intermittierende hypoxische Präkonditionierung,2
+25,1272,,Immunity,2
+871,1272,,Immungedächtnis,2
+383,1272,,Antikörper,2
+1273,1272,,Langlebige Plasmazellen aus dem Knochenmark,2
+1274,1272,,BMPCs,2
+2,1275,,Treatments,2
+450,1275,,RT-PCR,2
+1276,1275,,Biochemische Parameter,2
+1277,1275,,Serum-Ferritin,2
+1278,1275,,d-Dimer,2
+2,1279,,Treatments,2
+586,1279,,akutes Atemnotsyndrom (ARDS),2
+178,1279,,Zytokinsturm,2
+1280,1279,,Inflammasom,2
+1281,1279,,neutrophile extrazelluläre Fallen (NETs),2
+3,1279,,Vitamin D,2
+82,1282,,Vaccines,2
+82,1283,,Vaccines,2
+1284,1283,,Reinfektionen,2
+82,1285,,Vaccines,2
+1286,1285,,Multisystemisches Entzündungssyndrom,2
+466,1285,,Impfstoffe,2
+2,1287,,Treatments,2
+1288,1287,,Pflanzen-Selen-Verbindungen,2
+1289,1287,,Selenit,2
+1290,1287,,organisches Se,2
+731,1287,,Selenoproteine,2
+58,1291,,Interventions,2
+1292,1291,,Bewegungsmangel,2
+714,1291,,Kinder,2
+1293,1291,,Beschleunigungsmesser,2
+349,1291,,sitzendes Verhalten,2
+82,1294,,Vaccines,2
+2,1295,,Treatments,2
+45,1295,,Ernährung,2
+66,1295,,Eisen,2
+159,1295,,Selen,2
+1296,1295,,Zink n-3 PUFA,2
+3,1295,,Vitamin D,2
+502,1295,,Mangel,2
+75,1295,,Immunität,2
 2,1297,,Treatments,2
 45,1297,,Ernährung,2
-67,1297,,Eisen,2
-160,1297,,Selen,2
-1298,1297,,Zink n-3 PUFA,2
-3,1297,,Vitamin D,2
-504,1297,,Mangel,2
-76,1297,,Immunität,2
-2,1299,,Treatments,2
-45,1299,,Ernährung,2
-196,1299,,Immunsystem,2
-1300,1299,,Doppelbelastung durch Mangelernährung,2
-1301,1299,,Ernährungsverhalten,2
-1302,1299,,Gewichtsveränderungen,2
-1303,1299,,Ernährungsunsicherheit,2
-1304,1299,,Ageusie,2
-1305,1299,,Dysgeusie,2
-44,1299,,Lockdown,2
+195,1297,,Immunsystem,2
+1298,1297,,Doppelbelastung durch Mangelernährung,2
+1299,1297,,Ernährungsverhalten,2
+1300,1297,,Gewichtsveränderungen,2
+1301,1297,,Ernährungsunsicherheit,2
+1302,1297,,Ageusie,2
+1303,1297,,Dysgeusie,2
+44,1297,,Lockdown,2
+2,1304,,Treatments,2
+75,1304,,Immunität,2
+275,1304,,Prävention,2
+1123,1304,,Virusinfektionen,2
+315,1304,,Vitamine,2
+160,1304,,Vitamin A,2
+3,1304,,Vitamin D,2
+391,1304,,Mineralien,2
+224,1304,,Mikronährstoffe,2
+82,1305,,Vaccines,2
+263,1305,,BNT162b2,2
+466,1305,,Impfstoffe,2
 2,1306,,Treatments,2
-76,1306,,Immunität,2
-276,1306,,Prävention,2
-1125,1306,,Virusinfektionen,2
-316,1306,,Vitamine,2
-161,1306,,Vitamin A,2
-3,1306,,Vitamin D,2
-392,1306,,Mineralien,2
-225,1306,,Mikronährstoffe,2
-83,1307,,Vaccines,2
-466,1307,,Impfstoff,2
-264,1307,,BNT162b2,2
-2,1308,,Treatments,2
-1309,1308,,Bromhexinhydrochlorid,2
-1310,1308,,COVID-19-Krankheit,2
-444,1308,,TMPRSS2,2
-1311,1308,,COVID-19-Pneumonie,2
-613,1308,,COVID-19-Behandlung,2
-2,1312,,Treatments,2
-179,1312,,Zytokinsturm,2
-427,1312,,Entzündung,2
-104,1312,,Vitamin D-Mangel,2
-2,1313,,Treatments,2
-1314,1313,,Adjuvans,2
-1315,1313,,Compounding,2
-48,1313,,Coronavirus,2
-226,1313,,Nahrungsergänzungsmittel,2
-1316,1313,,Arzneimittel,2
-1317,1313,,immunologisch,2
-1318,1313,,Pharmakologie,2
-1319,1313,,Therapeutika,2
-2,1320,,Treatments,2
-3,1320,,Vitamin D,2
-1321,1320,,25(OH)D,2
-1322,1320,,Jahreszeiten,2
-1323,1320,,Breitengrade,2
-1324,1320,,Klima,2
-1325,1320,,Wetter,2
-2,1326,,Treatments,2
-3,1326,,Vitamin D,2
-196,1326,,Immunsystem,2
-1327,1326,,Regulierung der Zytokinantwort,2
-25,1328,,Immunity,2
-902,1328,,COVID-19-Impfung,2
-1329,1328,,COVID-19-Infektion,2
-1105,1328,,Infektionsrisiko,2
-1330,1328,,Inzidenz,2
-2,1331,,Treatments,2
-1332,1331,,Funktionelle Lebensmittel,2
-1333,1331,,Lebensstilprävention,2
-200,1331,,Bewegung,2
-973,1331,,Virusinfektion,2
-196,1331,,Immunsystem,2
-2,1334,,Treatments,2
-3,1334,,Vitamin D,2
-45,1334,,Ernährung,2
-137,1334,,Nahrungsergänzung,2
-521,1334,,Infektion,2
-122,1334,,Schweregrad,2
-1335,1334,,solares UV-B,2
-1336,1334,,UV-A,2
-1337,1334,,Robertson-Berger-Meter,2
-83,1338,,Vaccines,2
-2,1339,,Treatments,2
-1340,1339,,Coronavirus-Infektionen,2
-1059,1339,,Systematische Überprüfung,2
-1341,1339,,Verzerrung,2
-80,1339,,Ivermectin,2
-820,1339,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+1307,1306,,Bromhexinhydrochlorid,2
+1308,1306,,COVID-19-Krankheit,2
+443,1306,,TMPRSS2,2
+1309,1306,,COVID-19-Pneumonie,2
+611,1306,,COVID-19-Behandlung,2
+2,1310,,Treatments,2
+178,1310,,Zytokinsturm,2
+426,1310,,Entzündung,2
+103,1310,,Vitamin D-Mangel,2
+2,1311,,Treatments,2
+1312,1311,,Adjuvans,2
+1313,1311,,Compounding,2
+225,1311,,Nahrungsergänzungsmittel,2
+1314,1311,,Arzneimittel,2
+1315,1311,,immunologisch,2
+1316,1311,,Pharmakologie,2
+1317,1311,,Therapeutika,2
+2,1318,,Treatments,2
+3,1318,,Vitamin D,2
+1319,1318,,25(OH)D,2
+1320,1318,,Jahreszeiten,2
+1321,1318,,Breitengrade,2
+1322,1318,,Klima,2
+1323,1318,,Wetter,2
+2,1324,,Treatments,2
+3,1324,,Vitamin D,2
+195,1324,,Immunsystem,2
+1325,1324,,Regulierung der Zytokinantwort,2
+25,1326,,Immunity,2
+900,1326,,COVID-19-Impfung,2
+1327,1326,,COVID-19-Infektion,2
+1103,1326,,Infektionsrisiko,2
+1328,1326,,Inzidenz,2
+2,1329,,Treatments,2
+1330,1329,,Funktionelle Lebensmittel,2
+1331,1329,,Lebensstilprävention,2
+199,1329,,Bewegung,2
+971,1329,,Virusinfektion,2
+195,1329,,Immunsystem,2
+2,1332,,Treatments,2
+3,1332,,Vitamin D,2
+45,1332,,Ernährung,2
+136,1332,,Nahrungsergänzung,2
+519,1332,,Infektion,2
+121,1332,,Schweregrad,2
+1333,1332,,solares UV-B,2
+1334,1332,,UV-A,2
+1335,1332,,Robertson-Berger-Meter,2
+82,1336,,Vaccines,2
+2,1337,,Treatments,2
+1338,1337,,Coronavirus-Infektionen,2
+1057,1337,,Systematische Überprüfung,2
+1339,1337,,Verzerrung,2
+79,1337,,Ivermectin,2
+818,1337,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+2,1340,,Treatments,2
+79,1340,,Ivermectin,2
+1341,1340,,Infektionsrate,2
+49,1340,,Sterblichkeitsrate,2
+113,1340,,Krankenhausaufenthalt,2
 2,1342,,Treatments,2
-80,1342,,Ivermectin,2
-1343,1342,,Infektionsrate,2
-50,1342,,Sterblichkeitsrate,2
-114,1342,,Krankenhausaufenthalt,2
-2,1344,,Treatments,2
-1345,1344,,Kuhmilch,2
-196,1344,,Immunsystem,2
-1346,1344,,Mineral,2
-135,1344,,Vitamin,2
-2,1347,,Treatments,2
-1348,1347,,Adaptive Immunität,2
-1349,1347,,Komplementkaskade,2
-1350,1347,,Genregulation in Immunzellen,2
-427,1347,,Entzündung,2
+1343,1342,,Kuhmilch,2
+195,1342,,Immunsystem,2
+1344,1342,,Mineral,2
+134,1342,,Vitamin,2
+2,1345,,Treatments,2
+1346,1345,,Adaptive Immunität,2
+1347,1345,,Komplementkaskade,2
+1348,1345,,Genregulation in Immunzellen,2
+426,1345,,Entzündung,2
+2,1349,,Treatments,2
+3,1349,,Vitamin D,2
+1350,1349,,Coronaviruserkrankung 2019,2
+983,1349,,Risiko,2
+121,1349,,Schweregrad,2
 2,1351,,Treatments,2
 3,1351,,Vitamin D,2
-1352,1351,,Coronaviruserkrankung 2019,2
-985,1351,,Risiko,2
-122,1351,,Schweregrad,2
-2,1353,,Treatments,2
-3,1353,,Vitamin D,2
-222,1353,,25-Hydroxyvitamin D,2
-122,1353,,Schweregrad,2
-83,1354,,Vaccines,2
-484,1354,,Impfstoffe,2
-1355,1354,,Komplikationen,2
-1356,1354,,Unerwünschte Ereignisse,2
-2,1357,,Treatments,2
-1358,1357,,entzündungshemmende Stoffe,2
-818,1357,,Antioxidantien,2
-200,1357,,Bewegung,2
-474,1357,,funktionelle Lebensmittel,2
-76,1357,,Immunität,2
-427,1357,,Entzündung,2
-813,1357,,Stoffwechsel,2
-1359,1357,,Muskelschäden,2
-476,1357,,oxidativer Stress,2
-1360,1357,,Training,2
-2,1361,,Treatments,2
-1362,1361,,Herz-Kreislauf-Erkrankungen,2
-70,1361,,Depression,2
-1363,1361,,Gender-Medizin,2
-427,1361,,Entzündung,2
-1364,1361,,Long-COVID,2
-2,1365,,Treatments,2
-1366,1365,,Anti-antivirale Aktivität,2
-1367,1365,,Coronavirus-Erkrankungen-19,2
-1368,1365,,in silico molecular docking,2
-1369,1365,,Naturstoffe,2
-1370,1365,,Phytokonstituenten,2
-1371,1365,,Anti-antivirale Aktivität und Coronavirus-Erkrankungen-19,2
-1372,1365,,Wirkstoffkandidaten,2
-2,1373,,Treatments,2
-521,1373,,Infektion,2
-45,1373,,Ernährung,2
-59,1374,,Interventions,2
-15,1374,,Körperliche Aktivität,2
-1375,1374,,Wearable,2
-1376,1374,,Smartwatch,2
-1377,1374,,sesshaftes Verhalten,2
-44,1374,,Lockdown,2
-2,1378,,Treatments,2
-3,1378,,Vitamin D,2
-488,1378,,Immunantwort,2
-53,1378,,Immunpathogenese,2
-25,1379,,Immunity,2
-488,1379,,Immunantwort,2
-141,1379,,T-Zellen,2
-932,1379,,SARS-CoV-2-Infektion,2
-484,1379,,Impfstoffe,2
-83,1380,,Vaccines,2
-1381,1380,,COVID-19 Pneumonie-bedingte Thrombose,2
-1382,1380,,Impfstoff-induzierte thrombotische Thrombozytopenie (VITT),2
-968,1380,,Heparin-induzierte Thrombozytopenie (HIT),2
-1383,1380,,DNA-PF4-Interaktionen,2
-1384,1380,,VITT-Modell,2
-2,1385,,Treatments,2
-635,1385,,IL-6,2
-1386,1385,,Myokin,2
-200,1385,,Bewegung,2
-1387,1385,,löslicher IL-6R,2
-1388,1385,,gp130,2
-1389,1385,,NAFLD,2
-2,1390,,Treatments,2
-112,1390,,Sterblichkeit,2
-3,1390,,Vitamin D,2
+221,1351,,25-Hydroxyvitamin D,2
+121,1351,,Schweregrad,2
+82,1352,,Vaccines,2
+466,1352,,Impfstoffe,2
+1353,1352,,Komplikationen,2
+1354,1352,,Unerwünschte Ereignisse,2
+2,1355,,Treatments,2
+1356,1355,,entzündungshemmende Stoffe,2
+816,1355,,Antioxidantien,2
+199,1355,,Bewegung,2
+473,1355,,funktionelle Lebensmittel,2
+75,1355,,Immunität,2
+426,1355,,Entzündung,2
+811,1355,,Stoffwechsel,2
+1357,1355,,Muskelschäden,2
+475,1355,,oxidativer Stress,2
+1358,1355,,Training,2
+2,1359,,Treatments,2
+1360,1359,,Herz-Kreislauf-Erkrankungen,2
+69,1359,,Depression,2
+1361,1359,,Gender-Medizin,2
+426,1359,,Entzündung,2
+1362,1359,,Long-COVID,2
+2,1363,,Treatments,2
+1364,1363,,Anti-antivirale Aktivität,2
+1365,1363,,Coronavirus-Erkrankungen-19,2
+1366,1363,,in silico molecular docking,2
+1367,1363,,Naturstoffe,2
+1368,1363,,Phytokonstituenten,2
+1369,1363,,Anti-antivirale Aktivität und Coronavirus-Erkrankungen-19,2
+1370,1363,,Wirkstoffkandidaten,2
+2,1371,,Treatments,2
+519,1371,,Infektion,2
+45,1371,,Ernährung,2
+58,1372,,Interventions,2
+15,1372,,Körperliche Aktivität,2
+1373,1372,,Wearable,2
+1374,1372,,Smartwatch,2
+1375,1372,,sesshaftes Verhalten,2
+44,1372,,Lockdown,2
+2,1376,,Treatments,2
+3,1376,,Vitamin D,2
+486,1376,,Immunantwort,2
+52,1376,,Immunpathogenese,2
+25,1377,,Immunity,2
+486,1377,,Immunantwort,2
+140,1377,,T-Zellen,2
+930,1377,,SARS-CoV-2-Infektion,2
+466,1377,,Impfstoffe,2
+82,1378,,Vaccines,2
+1379,1378,,COVID-19 Pneumonie-bedingte Thrombose,2
+1380,1378,,Impfstoff-induzierte thrombotische Thrombozytopenie (VITT),2
+966,1378,,Heparin-induzierte Thrombozytopenie (HIT),2
+1381,1378,,DNA-PF4-Interaktionen,2
+1382,1378,,VITT-Modell,2
+2,1383,,Treatments,2
+633,1383,,IL-6,2
+1384,1383,,Myokin,2
+199,1383,,Bewegung,2
+1385,1383,,löslicher IL-6R,2
+1386,1383,,gp130,2
+1387,1383,,NAFLD,2
+2,1388,,Treatments,2
+111,1388,,Sterblichkeit,2
+3,1388,,Vitamin D,2
+2,1389,,Treatments,2
+3,1389,,Vitamin D,2
+1103,1389,,Infektionsrisiko,2
+121,1389,,Schweregrad,2
+58,1390,,Interventions,2
+65,1390,,Pandemie,2
+46,1390,,ältere Erwachsene,2
+15,1390,,Körperliche Aktivität,2
 2,1391,,Treatments,2
-3,1391,,Vitamin D,2
-1105,1391,,Infektionsrisiko,2
-122,1391,,Schweregrad,2
-59,1392,,Interventions,2
-66,1392,,Pandemie,2
-46,1392,,ältere Erwachsene,2
-15,1392,,Körperliche Aktivität,2
-2,1393,,Treatments,2
-179,1393,,Zytokinsturm,2
-316,1393,,Vitamine,2
-818,1393,,Antioxidantien,2
-449,1393,,Immunmodulation,2
-11,1393,,Virale Infektionen,2
-2,1394,,Treatments,2
-427,1394,,Entzündung,2
-179,1394,,Zytokinsturm,2
-1395,1394,,Effektgröße,2
-1396,1394,,antivirale Mittel,2
-178,1394,,Kortikosteroide,2
-228,1394,,Melatonin,2
-3,1394,,Vitamin D,2
-1397,1394,,Meditation,2
-1398,1394,,ganzheitliche Gesundheit,2
+178,1391,,Zytokinsturm,2
+315,1391,,Vitamine,2
+816,1391,,Antioxidantien,2
+448,1391,,Immunmodulation,2
+11,1391,,Virale Infektionen,2
+2,1392,,Treatments,2
+426,1392,,Entzündung,2
+178,1392,,Zytokinsturm,2
+1393,1392,,Effektgröße,2
+1394,1392,,antivirale Mittel,2
+177,1392,,Kortikosteroide,2
+227,1392,,Melatonin,2
+3,1392,,Vitamin D,2
+1395,1392,,Meditation,2
+1396,1392,,ganzheitliche Gesundheit,2
+2,1397,,Treatments,2
+65,1397,,Pandemie,2
+448,1397,,Immunmodulation,2
+3,1397,,Vitamin D,2
+39,1397,,Vitamin C,2
+784,1397,,Vitamin E,2
+40,1397,,Zink,2
+159,1397,,Selen,2
+1398,1397,,Omega-3,2
 2,1399,,Treatments,2
-66,1399,,Pandemie,2
-449,1399,,Immunmodulation,2
 3,1399,,Vitamin D,2
-39,1399,,Vitamin C,2
-786,1399,,Vitamin E,2
-40,1399,,Zink,2
-160,1399,,Selen,2
-1400,1399,,Omega-3,2
-2,1401,,Treatments,2
-3,1401,,Vitamin D,2
-220,1401,,Coronavirus-Erkrankung 2019,2
-86,1401,,systematische Überprüfung,2
-87,1401,,Meta-Analyse,2
-2,1402,,Treatments,2
-1403,1402,,Alarmine,2
-1404,1402,,Mikrobiota,2
-1405,1402,,Phototherapie,2
-1406,1402,,Sonnenlicht,2
-822,1402,,Vitamin D3,2
-2,1407,,Treatments,2
-1408,1407,,Ergänzung zu Impfstoffen,2
-276,1407,,Prävention,2
-1409,1407,,Cannabinoide,2
-25,1410,,Immunity,2
-239,1410,,Reinfektion,2
-2,1411,,Treatments,2
-225,1411,,Mikronährstoffe,2
-1412,1411,,Makronährstoffe,2
-173,1413,,Virus,2
-2,1414,,Treatments,2
-80,1414,,Ivermectin,2
-396,1414,,Intensivstation,2
-1415,1414,,beatmet,2
-1416,1414,,Durchfall,2
-1417,1414,,gastrointestinal,2
-1418,1414,,beatmungsfreie Tage,2
-2,1419,,Treatments,2
-391,1419,,Epigenetik,2
-159,1419,,Quercetin,2
-492,1419,,Curcumin,2
-366,1419,,Epigallocatechingallat,2
-1420,1419,,Phloretin,2
-1421,1419,,Berberin,2
-2,1422,,Treatments,2
-1423,1422,,antimikrobielles Peptid,2
-1424,1422,,Defensin,2
-216,1422,,Cathelicidin,2
-1425,1422,,Chemokinrezeptor,2
-1426,1422,,Toll-like-Rezeptor,2
-15,1422,,Körperliche Aktivität,2
-83,1427,,Vaccines,2
-1428,1427,,Impfstoff-Nationalismus,2
-1429,1427,,Gesundheitssicherheit,2
-1430,1427,,lokale Kapazitäten,2
-2,1431,,Treatments,2
-1432,1431,,Chemoprophylaxe,2
-1433,1431,,Coronavirus-Krankheit-2019-Prävention,2
-1434,1431,,Gesundheitspersonal,2
-80,1431,,Ivermectin,2
-1435,1431,,ressourcenbeschränkte Bedingungen,2
-2,1436,,Treatments,2
-463,1436,,Covid-19,2
-90,1436,,Hydroxychloroquin,2
-40,1436,,Zink,2
-91,1436,,Azithromycin,2
-316,1436,,Vitamine,2
-39,1436,,Vitamin C,2
-3,1436,,Vitamin D,2
-2,1437,,Treatments,2
-45,1437,,Ernährung,2
-1332,1437,,Funktionelle Lebensmittel,2
-1438,1437,,Darm-Lungen-Achse,2
-449,1437,,Immunmodulation,2
-1439,1437,,Mikrobiom,2
-66,1437,,Pandemie,2
-83,1440,,Vaccines,2
-1441,1440,,Labortests,2
-1442,1440,,Thrombozytenfaktor-4-Antikörper,2
-853,1440,,Thrombose mit Thrombozytopenie-Syndrom,2
-1443,1440,,Impfstoff-assoziierte thrombotische Thrombozytopenie,2
-1444,1440,,Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie,2
-2,1445,,Treatments,2
-1446,1445,,saisonale Variation,2
-1447,1445,,Blutparameter,2
-1448,1445,,Trainingsbelastung,2
-1449,1445,,Heimisolation,2
-83,1450,,Vaccines,2
-150,1450,,Impfung,2
-1451,1450,,mRNA-Impfstoffe,2
-1452,1450,,Virale Vektorimpfstoffe,2
-1356,1450,,Unerwünschte Ereignisse,2
-1453,1450,,Impfstoffsicherheit,2
-2,1454,,Treatments,2
-3,1454,,Vitamin D,2
-1455,1454,,Vitamin-D-Rezeptoren (VDR),2
-1456,1454,,1-25-Dihidroxyvitamin D,2
-417,1454,,Cholecalciferol,2
-1457,1454,,Rachitis,2
-1458,1454,,Nebenschilddrüsenhormon (PTH),2
-1459,1454,,Knochenstoffwechsel,2
-427,1454,,Entzündung,2
-196,1454,,Immunsystem,2
-764,1454,,Autoimmunerkrankungen,2
-2,1460,,Treatments,2
-80,1460,,Ivermectin,2
-627,1460,,Sicherheit,2
-128,1460,,Wirksamkeit,2
-275,1460,,Prophylaxe,2
-83,1461,,Vaccines,2
-1462,1461,,Peru,2
-466,1461,,Impfstoff,2
-150,1461,,Impfung,2
-48,1461,,Coronavirus,2
-484,1461,,Impfstoffe,2
-66,1461,,Pandemie,2
-2,1463,,Treatments,2
-100,1463,,Coronavirus-Krankheit 2019,2
-179,1463,,Zytokinsturm,2
-46,1463,,ältere Erwachsene,2
-194,1463,,ältere Menschen,2
-1464,1463,,Altern,2
-1465,1463,,altersbedingte nicht übertragbare Krankheiten,2
-286,1463,,Mangelernährung,2
-1466,1463,,Ernährungsdefizite,2
-1467,1463,,Nutrition Risk Screening 2002,2
-1468,1463,,der Controlling Nutritional Status Score,2
-1469,1463,,CONUT-Score,2
-168,1463,,Anämie,2
-23,1463,,Ferritin,2
-3,1463,,Vitamin D,2
-160,1463,,Selen,2
-225,1463,,Mikronährstoffe,2
-59,1470,,Interventions,2
-1471,1470,,Körpergewicht,2
-1472,1470,,Gewichtszunahme,2
-36,1470,,Lebensmittel,2
-45,1470,,Ernährung,2
-60,1470,,Übergewicht,2
-1473,1470,,Pandemien,2
-15,1470,,Körperliche Aktivität,2
-2,1474,,Treatments,2
-3,1474,,Vitamin D,2
-1330,1474,,Inzidenz,2
-122,1474,,Schweregrad,2
-522,1474,,Tod,2
+219,1399,,Coronavirus-Erkrankung 2019,2
+85,1399,,systematische Überprüfung,2
+86,1399,,Meta-Analyse,2
+2,1400,,Treatments,2
+1401,1400,,Alarmine,2
+1402,1400,,Mikrobiota,2
+1403,1400,,Phototherapie,2
+1404,1400,,Sonnenlicht,2
+820,1400,,Vitamin D3,2
+2,1405,,Treatments,2
+1406,1405,,Ergänzung zu Impfstoffen,2
+275,1405,,Prävention,2
+1407,1405,,Cannabinoide,2
+25,1408,,Immunity,2
+238,1408,,Reinfektion,2
+2,1409,,Treatments,2
+224,1409,,Mikronährstoffe,2
+1410,1409,,Makronährstoffe,2
+172,1411,,Virus,2
+2,1412,,Treatments,2
+79,1412,,Ivermectin,2
+395,1412,,Intensivstation,2
+1413,1412,,beatmet,2
+1414,1412,,Durchfall,2
+1415,1412,,gastrointestinal,2
+1416,1412,,beatmungsfreie Tage,2
+2,1417,,Treatments,2
+390,1417,,Epigenetik,2
+158,1417,,Quercetin,2
+490,1417,,Curcumin,2
+365,1417,,Epigallocatechingallat,2
+1418,1417,,Phloretin,2
+1419,1417,,Berberin,2
+2,1420,,Treatments,2
+1421,1420,,antimikrobielles Peptid,2
+1422,1420,,Defensin,2
+215,1420,,Cathelicidin,2
+1423,1420,,Chemokinrezeptor,2
+1424,1420,,Toll-like-Rezeptor,2
+15,1420,,Körperliche Aktivität,2
+82,1425,,Vaccines,2
+1426,1425,,Impfstoff-Nationalismus,2
+1427,1425,,Gesundheitssicherheit,2
+1428,1425,,lokale Kapazitäten,2
+2,1429,,Treatments,2
+1430,1429,,Chemoprophylaxe,2
+1431,1429,,Coronavirus-Krankheit-2019-Prävention,2
+1432,1429,,Gesundheitspersonal,2
+79,1429,,Ivermectin,2
+1433,1429,,ressourcenbeschränkte Bedingungen,2
+2,1434,,Treatments,2
+462,1434,,Covid-19,2
+89,1434,,Hydroxychloroquin,2
+40,1434,,Zink,2
+90,1434,,Azithromycin,2
+315,1434,,Vitamine,2
+39,1434,,Vitamin C,2
+3,1434,,Vitamin D,2
+2,1435,,Treatments,2
+45,1435,,Ernährung,2
+1330,1435,,Funktionelle Lebensmittel,2
+1436,1435,,Darm-Lungen-Achse,2
+448,1435,,Immunmodulation,2
+1437,1435,,Mikrobiom,2
+65,1435,,Pandemie,2
+82,1438,,Vaccines,2
+1439,1438,,Labortests,2
+1440,1438,,Thrombozytenfaktor-4-Antikörper,2
+851,1438,,Thrombose mit Thrombozytopenie-Syndrom,2
+1441,1438,,Impfstoff-assoziierte thrombotische Thrombozytopenie,2
+1442,1438,,Impfstoff-induzierte (immunologische) thrombotische Thrombozytopenie,2
+2,1443,,Treatments,2
+1444,1443,,saisonale Variation,2
+1445,1443,,Blutparameter,2
+1446,1443,,Trainingsbelastung,2
+1447,1443,,Heimisolation,2
+82,1448,,Vaccines,2
+149,1448,,Impfung,2
+1449,1448,,mRNA-Impfstoffe,2
+1450,1448,,Virale Vektorimpfstoffe,2
+1354,1448,,Unerwünschte Ereignisse,2
+1451,1448,,Impfstoffsicherheit,2
+2,1452,,Treatments,2
+3,1452,,Vitamin D,2
+1453,1452,,Vitamin-D-Rezeptoren (VDR),2
+1454,1452,,1-25-Dihidroxyvitamin D,2
+416,1452,,Cholecalciferol,2
+1455,1452,,Rachitis,2
+1456,1452,,Nebenschilddrüsenhormon (PTH),2
+1457,1452,,Knochenstoffwechsel,2
+426,1452,,Entzündung,2
+195,1452,,Immunsystem,2
+762,1452,,Autoimmunerkrankungen,2
+2,1458,,Treatments,2
+79,1458,,Ivermectin,2
+625,1458,,Sicherheit,2
+127,1458,,Wirksamkeit,2
+274,1458,,Prophylaxe,2
+82,1459,,Vaccines,2
+1460,1459,,Peru,2
+149,1459,,Impfung,2
+466,1459,,Impfstoffe,2
+65,1459,,Pandemie,2
+466,1459,,Impfstoffe,2
+2,1461,,Treatments,2
+99,1461,,Coronavirus-Krankheit 2019,2
+178,1461,,Zytokinsturm,2
+46,1461,,ältere Erwachsene,2
+193,1461,,ältere Menschen,2
+1462,1461,,Altern,2
+1463,1461,,altersbedingte nicht übertragbare Krankheiten,2
+285,1461,,Mangelernährung,2
+1464,1461,,Ernährungsdefizite,2
+1465,1461,,Nutrition Risk Screening 2002,2
+1466,1461,,der Controlling Nutritional Status Score,2
+1467,1461,,CONUT-Score,2
+167,1461,,Anämie,2
+23,1461,,Ferritin,2
+3,1461,,Vitamin D,2
+159,1461,,Selen,2
+224,1461,,Mikronährstoffe,2
+58,1468,,Interventions,2
+1469,1468,,Körpergewicht,2
+1470,1468,,Gewichtszunahme,2
+36,1468,,Lebensmittel,2
+45,1468,,Ernährung,2
+59,1468,,Übergewicht,2
+1471,1468,,Pandemien,2
+15,1468,,Körperliche Aktivität,2
+2,1472,,Treatments,2
+3,1472,,Vitamin D,2
+1328,1472,,Inzidenz,2
+121,1472,,Schweregrad,2
+520,1472,,Tod,2
+2,1473,,Treatments,2
+1474,1473,,immunmodulierende Nährstoffe,2
+39,1473,,Vitamin C,2
+3,1473,,Vitamin D,2
+40,1473,,Zink,2
 2,1475,,Treatments,2
-1476,1475,,immunmodulierende Nährstoffe,2
-39,1475,,Vitamin C,2
-3,1475,,Vitamin D,2
-40,1475,,Zink,2
-2,1477,,Treatments,2
-1478,1477,,Anthelminthikum,2
-1479,1477,,Antivirus,2
-1480,1477,,Importin-Protein,2
-80,1477,,Ivermectin,2
-2,1481,,Treatments,2
-225,1481,,Mikronährstoffe,2
-3,1481,,Vitamin D,2
-161,1481,,Vitamin A,2
-48,1481,,Coronavirus,2
-197,1481,,Atemwegsinfektionen,2
-33,1481,,Fettleibigkeit,2
-1303,1481,,Ernährungsunsicherheit,2
+1476,1475,,Anthelminthikum,2
+1477,1475,,Antivirus,2
+1478,1475,,Importin-Protein,2
+79,1475,,Ivermectin,2
+2,1479,,Treatments,2
+224,1479,,Mikronährstoffe,2
+3,1479,,Vitamin D,2
+160,1479,,Vitamin A,2
+196,1479,,Atemwegsinfektionen,2
+33,1479,,Fettleibigkeit,2
+1301,1479,,Ernährungsunsicherheit,2
+2,1480,,Treatments,2
+723,1480,,COVID-19-Pandemie,2
+225,1480,,Nahrungsergänzungsmittel,2
+1481,1480,,rezeptfreie Arzneimittel,2
 2,1482,,Treatments,2
-725,1482,,COVID-19-Pandemie,2
-226,1482,,Nahrungsergänzungsmittel,2
-1483,1482,,rezeptfreie Arzneimittel,2
-2,1484,,Treatments,2
-1485,1484,,Neurodegeneration,2
-1486,1484,,Autismus,2
-33,1484,,Fettleibigkeit,2
-406,1484,,Diabetes,2
-1487,1484,,Unfruchtbarkeit,2
-40,1484,,Zink,2
-2,1488,,Treatments,2
-316,1488,,Vitamine,2
-3,1488,,Vitamin D,2
-39,1488,,Vitamin C,2
-2,1489,,Treatments,2
-3,1489,,Vitamin D,2
-1258,1489,,hospitalisierte Patienten,2
-83,1490,,Vaccines,2
-1491,1490,,Biologische Wissenschaften,2
-1492,1490,,Biotechnologie,2
-49,1490,,Immunologie,2
-59,1493,,Interventions,2
-1108,1493,,körperliches Aktivitätsniveau,2
-1494,1493,,Ängstlichkeit,2
-186,1493,,Erwachsene,2
-2,1495,,Treatments,2
-45,1495,,Ernährung,2
-1496,1495,,Krankheitsrisiko,2
-1497,1495,,Krankheitsverlauf,2
-225,1495,,Mikronährstoffe,2
-86,1495,,systematische Überprüfung,2
-2,1498,,Treatments,2
-1499,1498,,niedermolekulare Arzneimittel,2
-1500,1498,,Protease-Inhibitor,2
-1501,1498,,Polymerase-Inhibitor,2
-133,1498,,Klinische Studien,2
-2,1502,,Treatments,2
-1503,1502,,H. pylori,2
-80,1502,,Ivermectin,2
-1504,1502,,Spike-Protein,2
-83,1505,,Vaccines,2
-116,1505,,COVID-19-Impfstoffe,2
-1506,1505,,Schwere unerwünschte Ereignisse,2
-1507,1505,,Venöse Thrombose,2
-970,1505,,Thrombozytopenie,2
-395,1505,,Risikofaktoren,2
-59,1508,,Interventions,2
-69,1508,,psychische Gesundheit,2
-541,1508,,Wohlbefinden,2
-1509,1508,,sportliche Betätigung,2
-66,1508,,Pandemie,2
-2,1510,,Treatments,2
-225,1510,,Mikronährstoffe,2
-1511,1510,,sportliche Leistung,2
-45,1510,,Ernährung,2
-1512,1510,,Darmmikrobiota,2
-1513,1510,,kardiale Pathologien,2
-1359,1510,,Muskelschäden,2
-2,1514,,Treatments,2
-1515,1514,,Metalle,2
-1516,1514,,Metalloide,2
-1517,1514,,COVID-19-Patienten,2
-1518,1514,,Defizite,2
-1519,1514,,Toxische Wirkungen,2
-2,1520,,Treatments,2
-323,1520,,Zitrusfrüchte,2
-259,1520,,Flavonoide,2
-290,1520,,Hesperidin,2
-324,1520,,Hesperetin,2
-275,1520,,Prophylaxe,2
-457,1520,,antiviral,2
-2,1521,,Treatments,2
-1522,1521,,Fachkräfte des Gesundheitswesens,2
-1523,1521,,Nigeria,2
-1524,1521,,Selbstmedikation,2
-83,1525,,Vaccines,2
-2,1526,,Treatments,2
-3,1526,,Vitamin D,2
-40,1526,,Zink,2
-1527,1526,,Glutamin,2
-390,1526,,Zytokine,2
-1528,1526,,OncoTherad,2
-83,1529,,Vaccines,2
-1530,1529,,neurologische Nebenwirkungen,2
-1531,1529,,SARS-CoV-2-Impfungen,2
-83,1532,,Vaccines,2
-1533,1532,,Myokarditis,2
-1534,1532,,VAERS,2
-1535,1532,,unerwünschte Ereignisse (AEs),2
-1536,1532,,COVID-19-Injektionsbedingte Myokarditis (CIRM),2
-2,1537,,Treatments,2
-287,1537,,Ascorbinsäure,2
-1538,1537,,intravenöses Vitamin C,2
-1539,1537,,Pathophysiologie von COVID-19,2
-1540,1537,,Sars-Cov-2,2
-2,1541,,Treatments,2
-80,1541,,Ivermectin,2
-593,1541,,Infektionskrankheit,2
-1542,1541,,Lungeninfektion,2
-1543,1541,,respiratorische Insuffizienz,2
-59,1544,,Interventions,2
-1545,1544,,körperliche Betätigung,2
-73,1544,,Quarantäne,2
-95,1544,,Gesundheit,2
-1546,1544,,Grünflächen,2
-2,1547,,Treatments,2
-3,1547,,Vitamin D,2
-635,1547,,IL-6,2
-1094,1547,,Tocilizumab,2
-179,1547,,Zytokinsturm,2
-83,1548,,Vaccines,2
-1035,1548,,mRNA,2
-100,1548,,Coronavirus-Krankheit 2019,2
-463,1548,,Covid-19,2
-1549,1548,,mRNA Covid-19 Impfstoffe Sicherheit,2
-1550,1548,,Schwangere,2
+1483,1482,,Neurodegeneration,2
+1484,1482,,Autismus,2
+33,1482,,Fettleibigkeit,2
+405,1482,,Diabetes,2
+1485,1482,,Unfruchtbarkeit,2
+40,1482,,Zink,2
+2,1486,,Treatments,2
+315,1486,,Vitamine,2
+3,1486,,Vitamin D,2
+39,1486,,Vitamin C,2
+2,1487,,Treatments,2
+3,1487,,Vitamin D,2
+1256,1487,,hospitalisierte Patienten,2
+82,1488,,Vaccines,2
+1489,1488,,Biologische Wissenschaften,2
+1490,1488,,Biotechnologie,2
+48,1488,,Immunologie,2
+58,1491,,Interventions,2
+1106,1491,,körperliches Aktivitätsniveau,2
+1492,1491,,Ängstlichkeit,2
+185,1491,,Erwachsene,2
+2,1493,,Treatments,2
+45,1493,,Ernährung,2
+1494,1493,,Krankheitsrisiko,2
+1495,1493,,Krankheitsverlauf,2
+224,1493,,Mikronährstoffe,2
+85,1493,,systematische Überprüfung,2
+2,1496,,Treatments,2
+1497,1496,,niedermolekulare Arzneimittel,2
+1498,1496,,Protease-Inhibitor,2
+1499,1496,,Polymerase-Inhibitor,2
+132,1496,,Klinische Studien,2
+2,1500,,Treatments,2
+1501,1500,,H. pylori,2
+79,1500,,Ivermectin,2
+1502,1500,,Spike-Protein,2
+82,1503,,Vaccines,2
+115,1503,,COVID-19-Impfstoffe,2
+1504,1503,,Schwere unerwünschte Ereignisse,2
+1505,1503,,Venöse Thrombose,2
+968,1503,,Thrombozytopenie,2
+394,1503,,Risikofaktoren,2
+58,1506,,Interventions,2
+68,1506,,psychische Gesundheit,2
+539,1506,,Wohlbefinden,2
+1507,1506,,sportliche Betätigung,2
+65,1506,,Pandemie,2
+2,1508,,Treatments,2
+224,1508,,Mikronährstoffe,2
+1509,1508,,sportliche Leistung,2
+45,1508,,Ernährung,2
+1510,1508,,Darmmikrobiota,2
+1511,1508,,kardiale Pathologien,2
+1357,1508,,Muskelschäden,2
+2,1512,,Treatments,2
+1513,1512,,Metalle,2
+1514,1512,,Metalloide,2
+1515,1512,,COVID-19-Patienten,2
+1516,1512,,Defizite,2
+1517,1512,,Toxische Wirkungen,2
+2,1518,,Treatments,2
+322,1518,,Zitrusfrüchte,2
+258,1518,,Flavonoide,2
+289,1518,,Hesperidin,2
+323,1518,,Hesperetin,2
+274,1518,,Prophylaxe,2
+456,1518,,antiviral,2
+2,1519,,Treatments,2
+1520,1519,,Fachkräfte des Gesundheitswesens,2
+1521,1519,,Nigeria,2
+1522,1519,,Selbstmedikation,2
+82,1523,,Vaccines,2
+2,1524,,Treatments,2
+3,1524,,Vitamin D,2
+40,1524,,Zink,2
+1525,1524,,Glutamin,2
+389,1524,,Zytokine,2
+1526,1524,,OncoTherad,2
+82,1527,,Vaccines,2
+1528,1527,,neurologische Nebenwirkungen,2
+1529,1527,,SARS-CoV-2-Impfungen,2
+82,1530,,Vaccines,2
+1531,1530,,Myokarditis,2
+1532,1530,,VAERS,2
+1533,1530,,unerwünschte Ereignisse (AEs),2
+1534,1530,,COVID-19-Injektionsbedingte Myokarditis (CIRM),2
+2,1535,,Treatments,2
+286,1535,,Ascorbinsäure,2
+1536,1535,,intravenöses Vitamin C,2
+1537,1535,,Pathophysiologie von COVID-19,2
+1538,1535,,Sars-Cov-2,2
+2,1539,,Treatments,2
+79,1539,,Ivermectin,2
+591,1539,,Infektionskrankheit,2
+1540,1539,,Lungeninfektion,2
+1541,1539,,respiratorische Insuffizienz,2
+58,1542,,Interventions,2
+1543,1542,,körperliche Betätigung,2
+72,1542,,Quarantäne,2
+94,1542,,Gesundheit,2
+1544,1542,,Grünflächen,2
+2,1545,,Treatments,2
+3,1545,,Vitamin D,2
+633,1545,,IL-6,2
+1092,1545,,Tocilizumab,2
+178,1545,,Zytokinsturm,2
+82,1546,,Vaccines,2
+1033,1546,,mRNA,2
+99,1546,,Coronavirus-Krankheit 2019,2
+462,1546,,Covid-19,2
+1547,1546,,mRNA Covid-19 Impfstoffe Sicherheit,2
+1548,1546,,Schwangere,2
+2,1549,,Treatments,2
+99,1549,,Coronavirus-Krankheit 2019,2
+818,1549,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
+3,1549,,Vitamin D,2
+757,1549,,adaptive Immunität,2
+690,1549,,angeborene Immunität,2
+42,1549,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+1550,1549,,Renin-Angiotensin-Aldosteron-System,2
 2,1551,,Treatments,2
-100,1551,,Coronavirus-Krankheit 2019,2
-820,1551,,Schweres Akutes Respiratorisches Syndrom Coronavirus 2,2
-3,1551,,Vitamin D,2
-759,1551,,adaptive Immunität,2
-692,1551,,angeborene Immunität,2
-42,1551,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-1552,1551,,Renin-Angiotensin-Aldosteron-System,2
-2,1553,,Treatments,2
-1554,1553,,Krankheitsschwere,2
-1555,1553,,entzündliche Erkrankugnen,2
-33,1553,,Fettleibigkeit,2
-83,1556,,Vaccines,2
-1557,1556,,ADE,2
-466,1556,,Impfstoff,2
-1558,1556,,Antikörper-abhängiges Enhancement,2
-2,1559,,Treatments,2
-781,1559,,Spurenelemente,2
-782,1559,,Zellvermittelte Immunität,2
-40,1559,,Zink,2
-160,1559,,Selen,2
-121,1559,,Kupfer,2
-783,1559,,Mangan,2
-390,1559,,Zytokine,2
-784,1559,,Reaktive Sauerstoffspezies,2
-83,1560,,Vaccines,2
-1561,1560,,Impfquote,2
-2,1562,,Treatments,2
-1473,1562,,Pandemien,2
-1188,1562,,Resveratrol,2
-1563,1562,,Mundschleimhaut,2
-1564,1562,,Furin,2
-1565,1562,,Zytokin-Sturm-Syndrom,2
-1439,1562,,Mikrobiom,2
-484,1562,,Impfstoffe,2
-1566,1562,,Endovir-Stopspray,2
-2,1567,,Treatments,2
-179,1567,,Zytokinsturm,2
-1568,1567,,Lymphopenie,2
-814,1567,,Thrombose,2
-970,1567,,Thrombozytopenie,2
-1569,1567,,Vaskulitis,2
-1570,1567,,ACE/ACE2,2
-484,1567,,Impfstoffe,2
-83,1571,,Vaccines,2
-1572,1571,,messenger RNA (mRNA) COVID-19 Impfstoffe,2
-1533,1571,,Myokarditis,2
-2,1573,,Treatments,2
-48,1573,,Coronavirus,2
-45,1573,,Ernährung,2
-316,1573,,Vitamine,2
-76,1573,,Immunität,2
-781,1573,,Spurenelemente,2
-2,1574,,Treatments,2
-54,1574,,Infektionskrankheiten,2
-286,1574,,Mangelernährung,2
-1439,1574,,Mikrobiom,2
-1575,1574,,Nährstoffdefizite,2
-1576,1574,,Lungenerkrankung,2
-2,1577,,Treatments,2
-66,1577,,Pandemie,2
-1578,1577,,Soziale Isolation,2
-73,1577,,Quarantäne,2
-1579,1577,,Empfehlungen,2
-15,1577,,Körperliche Aktivität,2
-2,1580,,Treatments,2
-1581,1580,,Biochemie,2
-1582,1580,,Blutbild,2
-200,1580,,Bewegung,2
-97,1580,,Sport,2
-1583,1580,,Spirometrie,2
-3,1580,,Vitamin D,2
-2,1584,,Treatments,2
-1072,1584,,Baricitinib,2
-1056,1584,,Casirivimab,2
-1585,1584,,Dexamethasone,2
-1057,1584,,Imdevimab,2
-483,1584,,Omicron,2
-889,1584,,Paxlovid,2
-410,1584,,Remdesivir,2
-1092,1584,,Sotrovimab,2
-1094,1584,,Tocilizumab,2
-83,1586,,Vaccines,2
-1451,1586,,mRNA-Impfstoffe,2
-1587,1586,,Alpha-Variante,2
-1015,1586,,Delta-Variante,2
-1588,1586,,Prävalenz,2
-83,1589,,Vaccines,2
+1552,1551,,Krankheitsschwere,2
+1553,1551,,entzündliche Erkrankugnen,2
+33,1551,,Fettleibigkeit,2
+82,1554,,Vaccines,2
+1555,1554,,ADE,2
+1556,1554,,Antikörper-abhängiges Enhancement,2
+466,1554,,Impfstoffe,2
+2,1557,,Treatments,2
+779,1557,,Spurenelemente,2
+780,1557,,Zellvermittelte Immunität,2
+40,1557,,Zink,2
+159,1557,,Selen,2
+120,1557,,Kupfer,2
+781,1557,,Mangan,2
+389,1557,,Zytokine,2
+782,1557,,Reaktive Sauerstoffspezies,2
+82,1558,,Vaccines,2
+1559,1558,,Impfquote,2
+2,1560,,Treatments,2
+1471,1560,,Pandemien,2
+1186,1560,,Resveratrol,2
+1561,1560,,Mundschleimhaut,2
+1562,1560,,Furin,2
+1563,1560,,Zytokin-Sturm-Syndrom,2
+1437,1560,,Mikrobiom,2
+466,1560,,Impfstoffe,2
+1564,1560,,Endovir-Stopspray,2
+2,1565,,Treatments,2
+178,1565,,Zytokinsturm,2
+1566,1565,,Lymphopenie,2
+812,1565,,Thrombose,2
+968,1565,,Thrombozytopenie,2
+1567,1565,,Vaskulitis,2
+1568,1565,,ACE/ACE2,2
+466,1565,,Impfstoffe,2
+82,1569,,Vaccines,2
+1570,1569,,messenger RNA (mRNA) COVID-19 Impfstoffe,2
+1531,1569,,Myokarditis,2
+2,1571,,Treatments,2
+45,1571,,Ernährung,2
+315,1571,,Vitamine,2
+75,1571,,Immunität,2
+779,1571,,Spurenelemente,2
+2,1572,,Treatments,2
+53,1572,,Infektionskrankheiten,2
+285,1572,,Mangelernährung,2
+1437,1572,,Mikrobiom,2
+1573,1572,,Nährstoffdefizite,2
+1574,1572,,Lungenerkrankung,2
+2,1575,,Treatments,2
+65,1575,,Pandemie,2
+1576,1575,,Soziale Isolation,2
+72,1575,,Quarantäne,2
+1577,1575,,Empfehlungen,2
+15,1575,,Körperliche Aktivität,2
+2,1578,,Treatments,2
+1579,1578,,Biochemie,2
+1580,1578,,Blutbild,2
+199,1578,,Bewegung,2
+96,1578,,Sport,2
+1581,1578,,Spirometrie,2
+3,1578,,Vitamin D,2
+2,1582,,Treatments,2
+1070,1582,,Baricitinib,2
+1054,1582,,Casirivimab,2
+1583,1582,,Dexamethasone,2
+1055,1582,,Imdevimab,2
+482,1582,,Omicron,2
+887,1582,,Paxlovid,2
+409,1582,,Remdesivir,2
+1090,1582,,Sotrovimab,2
+1092,1582,,Tocilizumab,2
+82,1584,,Vaccines,2
+1449,1584,,mRNA-Impfstoffe,2
+1585,1584,,Alpha-Variante,2
+1012,1584,,Delta-Variante,2
+1586,1584,,Prävalenz,2
+82,1587,,Vaccines,2
+2,1588,,Treatments,2
+1362,1588,,Long-COVID,2
+811,1588,,Stoffwechsel,2
+75,1588,,Immunität,2
+1589,1588,,Folge,2
+923,1588,,Ergebnis,2
 2,1590,,Treatments,2
-1364,1590,,Long-COVID,2
-813,1590,,Stoffwechsel,2
-76,1590,,Immunität,2
-1591,1590,,Folge,2
-925,1590,,Ergebnis,2
-2,1592,,Treatments,2
-1593,1592,,Mikronährstoffergänzungen,2
-1594,1592,,akute Atemwegsinfektionen,2
-3,1592,,Vitamin D,2
-39,1592,,Vitamin C,2
-40,1592,,Zink,2
+1591,1590,,Mikronährstoffergänzungen,2
+1592,1590,,akute Atemwegsinfektionen,2
+3,1590,,Vitamin D,2
+39,1590,,Vitamin C,2
+40,1590,,Zink,2
+2,1593,,Treatments,2
+42,1593,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+1594,1593,,Renin,2
+3,1593,,Vitamin D,2
 2,1595,,Treatments,2
-42,1595,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-1596,1595,,Renin,2
-3,1595,,Vitamin D,2
+1501,1595,,H. pylori,2
+79,1595,,Ivermectin,2
+1502,1595,,Spike-Protein,2
+2,1596,,Treatments,2
+1437,1596,,Mikrobiom,2
+3,1596,,Vitamin D,2
+136,1596,,Nahrungsergänzung,2
+1319,1596,,25(OH)D,2
+275,1596,,Prävention,2
 2,1597,,Treatments,2
-1503,1597,,H. pylori,2
-80,1597,,Ivermectin,2
-1504,1597,,Spike-Protein,2
-2,1598,,Treatments,2
-1439,1598,,Mikrobiom,2
-3,1598,,Vitamin D,2
-137,1598,,Nahrungsergänzung,2
-1321,1598,,25(OH)D,2
-276,1598,,Prävention,2
-2,1599,,Treatments,2
-1600,1599,,Demenz,2
-463,1599,,Covid-19,2
-316,1599,,Vitamine,2
-59,1601,,Interventions,2
-716,1601,,Kinder,2
-1602,1601,,Bildschirmzeit,2
-1603,1601,,Europa,2
-15,1601,,Körperliche Aktivität,2
-2,1604,,Treatments,2
-725,1604,,COVID-19-Pandemie,2
-1605,1604,,Heimarbeit,2
-272,1604,,Lebensstil,2
-709,1604,,sitzende Tätigkeit,2
-317,1604,,Ernährungsmuster,2
-1362,1604,,Herz-Kreislauf-Erkrankungen,2
-15,1604,,Körperliche Aktivität,2
-83,1606,,Vaccines,2
-83,1607,,Vaccines,2
-83,1608,,Vaccines,2
+1598,1597,,Demenz,2
+462,1597,,Covid-19,2
+315,1597,,Vitamine,2
+58,1599,,Interventions,2
+714,1599,,Kinder,2
+1600,1599,,Bildschirmzeit,2
+1601,1599,,Europa,2
+15,1599,,Körperliche Aktivität,2
+2,1602,,Treatments,2
+723,1602,,COVID-19-Pandemie,2
+1603,1602,,Heimarbeit,2
+271,1602,,Lebensstil,2
+707,1602,,sitzende Tätigkeit,2
+316,1602,,Ernährungsmuster,2
+1360,1602,,Herz-Kreislauf-Erkrankungen,2
+15,1602,,Körperliche Aktivität,2
+82,1604,,Vaccines,2
+82,1605,,Vaccines,2
+82,1606,,Vaccines,2
+2,1607,,Treatments,2
+79,1607,,Ivermectin,2
+625,1607,,Sicherheit,2
+127,1607,,Wirksamkeit,2
+274,1607,,Prophylaxe,2
+2,1608,,Treatments,2
 2,1609,,Treatments,2
-80,1609,,Ivermectin,2
-627,1609,,Sicherheit,2
-128,1609,,Wirksamkeit,2
-275,1609,,Prophylaxe,2
-2,1610,,Treatments,2
-2,1611,,Treatments,2
-3,1611,,Vitamin D,2
-137,1611,,Nahrungsergänzung,2
-1612,1611,,Verlauf,2
-173,1613,,Virus,2
-1614,1613,,Viruslast,2
-1615,1613,,SARS-CoV-2 Delta-Variante,2
-150,1613,,Impfung,2
-2,1616,,Treatments,2
-1617,1616,,kritisch krank,2
-396,1616,,Intensivstation,2
-1618,1616,,Serumelektrolyte,2
-1619,1616,,Anomalien,2
-1620,1616,,Beatmungsunterstützung,2
-522,1616,,Tod,2
-59,1621,,Interventions,2
-25,1622,,Immunity,2
-1623,1622,,IG-B-Zellen,2
-1624,1622,,IgG,2
-1625,1622,,IgA,2
-445,1622,,ACE2,2
-83,1626,,Vaccines,2
-1627,1626,,Impfstoffschutz,2
-2,1628,,Treatments,2
-2,1629,,Treatments,2
-276,1629,,Prävention,2
-3,1629,,Vitamin D,2
-83,1630,,Vaccines,2
-1631,1630,,Impfungen,2
-133,1630,,Klinische Studien,2
-15,1630,,Körperliche Aktivität,2
-2,1632,,Treatments,2
-48,1632,,Coronavirus,2
-197,1632,,Atemwegsinfektionen,2
-1633,1632,,Chinesische Kräutermedizin,2
-45,1632,,Ernährung,2
-225,1632,,Mikronährstoffe,2
-83,1634,,Vaccines,2
-2,1635,,Treatments,2
-69,1635,,psychische Gesundheit,2
-530,1635,,Jugendliche,2
-1636,1635,,Affektregulation,2
+3,1609,,Vitamin D,2
+136,1609,,Nahrungsergänzung,2
+1610,1609,,Verlauf,2
+172,1611,,Virus,2
+1612,1611,,Viruslast,2
+1613,1611,,SARS-CoV-2 Delta-Variante,2
+149,1611,,Impfung,2
+2,1614,,Treatments,2
+1615,1614,,kritisch krank,2
+395,1614,,Intensivstation,2
+1616,1614,,Serumelektrolyte,2
+1617,1614,,Anomalien,2
+1618,1614,,Beatmungsunterstützung,2
+520,1614,,Tod,2
+58,1619,,Interventions,2
+25,1620,,Immunity,2
+1621,1620,,IG-B-Zellen,2
+1622,1620,,IgG,2
+1623,1620,,IgA,2
+444,1620,,ACE2,2
+82,1624,,Vaccines,2
+1625,1624,,Impfstoffschutz,2
+2,1626,,Treatments,2
+2,1627,,Treatments,2
+275,1627,,Prävention,2
+3,1627,,Vitamin D,2
+82,1628,,Vaccines,2
+1629,1628,,Impfungen,2
+132,1628,,Klinische Studien,2
+15,1628,,Körperliche Aktivität,2
+2,1630,,Treatments,2
+196,1630,,Atemwegsinfektionen,2
+1631,1630,,Chinesische Kräutermedizin,2
+45,1630,,Ernährung,2
+224,1630,,Mikronährstoffe,2
+82,1632,,Vaccines,2
+2,1633,,Treatments,2
+68,1633,,psychische Gesundheit,2
+528,1633,,Jugendliche,2
+1634,1633,,Affektregulation,2
+15,1633,,Körperliche Aktivität,2
+58,1635,,Interventions,2
+1636,1635,,isolierte und eingeschränkte Umgebung,2
+1637,1635,,Einsperren,2
+1638,1635,,Schlaf,2
+1639,1635,,Raumanalogie,2
 15,1635,,Körperliche Aktivität,2
-59,1637,,Interventions,2
-1638,1637,,isolierte und eingeschränkte Umgebung,2
-1639,1637,,Einsperren,2
-1640,1637,,Schlaf,2
-1641,1637,,Raumanalogie,2
-15,1637,,Körperliche Aktivität,2
+2,1640,,Treatments,2
+195,1640,,Immunsystem,2
+15,1640,,Körperliche Aktivität,2
+82,1641,,Vaccines,2
 2,1642,,Treatments,2
-196,1642,,Immunsystem,2
-15,1642,,Körperliche Aktivität,2
-83,1643,,Vaccines,2
-2,1644,,Treatments,2
-1645,1644,,Thrombozyten-aktivierender Faktor,2
-814,1644,,Thrombose,2
-427,1644,,Entzündung,2
-1646,1644,,mediterrane Ernährung,2
-1647,1644,,PAF-Hemmer,2
-2,1648,,Treatments,2
-114,1648,,Krankenhausaufenthalt,2
-272,1648,,Lebensstil,2
-1649,1648,,Körperliche Inaktivität,2
-1650,1648,,Prognose,2
-83,1651,,Vaccines,2
-1652,1651,,COVID-19 Impfstoff Durchbruchinfektionen,2
-1653,1651,,Vereinigte Staaten von Amerika,2
-2,1654,,Treatments,2
-3,1654,,Vitamin D,2
-1655,1654,,Saudi,2
-1656,1654,,Vitamin-D-Insuffizienz,2
-133,1654,,Klinische Studien,2
-83,1657,,Vaccines,2
-150,1657,,Impfung,2
-422,1657,,zerebrale venöse Sinusthrombose,2
-970,1657,,Thrombozytopenie,2
-2,1658,,Treatments,2
-1659,1658,,1.25(OH)2D,2
-1660,1658,,1.25-Dihydroxyvitamin D,2
-1321,1658,,25(OH)D,2
-222,1658,,25-Hydroxyvitamin D,2
-1661,1658,,HIV,2
-1662,1658,,Humanes Immundefizienz-Virus,2
-654,1658,,SARS,2
-714,1658,,Schweres Akutes Respiratorisches Syndrom,2
-1663,1658,,TB,2
-1664,1658,,Tuberkulose,2
-1665,1658,,MTB,2
-1666,1658,,Mycobacterium tuberculosis,2
-167,1658,,Grippe,2
-2,1667,,Treatments,2
-3,1667,,Vitamin D,2
-1668,1667,,Saudi-Arabien,2
-83,1669,,Vaccines,2
-1670,1669,,Wirksamkeit der Impfstoffe,2
-2,1671,,Treatments,2
-593,1671,,Infektionskrankheit,2
-160,1671,,Selen,2
-173,1671,,Virus,2
-39,1671,,Vitamin C,2
-3,1671,,Vitamin D,2
-25,1672,,Immunity,2
-66,1672,,Pandemie,2
-1673,1672,,One-Health,2
-145,1672,,Epidemiologie,2
-123,1672,,Mortalität,2
-2,1674,,Treatments,2
-112,1674,,Sterblichkeit,2
-3,1674,,Vitamin D,2
-205,1674,,Calcidiol,2
-591,1674,,Calcitriol,2
-1675,1674,,D3,2
-427,1674,,Entzündung,2
-311,1674,,ARDS,2
-1676,1674,,Immunstatus,2
-1677,1674,,Immunschwäche,2
-1596,1674,,Renin,2
-1678,1674,,Angiotensin,2
-445,1674,,ACE2,2
-973,1674,,Virusinfektion,2
-1679,1674,,Cytokin-Release-Syndrom,2
-1680,1674,,CRS,2
-2,1681,,Treatments,2
-1682,1681,,Atherothrombose,2
-635,1681,,IL-6,2
-1683,1681,,Gewebefaktor,2
-3,1681,,Vitamin D,2
+1643,1642,,Thrombozyten-aktivierender Faktor,2
+812,1642,,Thrombose,2
+426,1642,,Entzündung,2
+1644,1642,,mediterrane Ernährung,2
+1645,1642,,PAF-Hemmer,2
+2,1646,,Treatments,2
+113,1646,,Krankenhausaufenthalt,2
+271,1646,,Lebensstil,2
+1647,1646,,Körperliche Inaktivität,2
+1648,1646,,Prognose,2
+82,1649,,Vaccines,2
+1650,1649,,COVID-19 Impfstoff Durchbruchinfektionen,2
+1651,1649,,Vereinigte Staaten von Amerika,2
+2,1652,,Treatments,2
+3,1652,,Vitamin D,2
+1653,1652,,Saudi,2
+1654,1652,,Vitamin-D-Insuffizienz,2
+132,1652,,Klinische Studien,2
+82,1655,,Vaccines,2
+149,1655,,Impfung,2
+421,1655,,zerebrale venöse Sinusthrombose,2
+968,1655,,Thrombozytopenie,2
+2,1656,,Treatments,2
+1657,1656,,1.25(OH)2D,2
+1658,1656,,1.25-Dihydroxyvitamin D,2
+1319,1656,,25(OH)D,2
+221,1656,,25-Hydroxyvitamin D,2
+1659,1656,,HIV,2
+1660,1656,,Humanes Immundefizienz-Virus,2
+652,1656,,SARS,2
+712,1656,,Schweres Akutes Respiratorisches Syndrom,2
+1661,1656,,TB,2
+1662,1656,,Tuberkulose,2
+1663,1656,,MTB,2
+1664,1656,,Mycobacterium tuberculosis,2
+166,1656,,Grippe,2
+2,1665,,Treatments,2
+3,1665,,Vitamin D,2
+1666,1665,,Saudi-Arabien,2
+82,1667,,Vaccines,2
+1668,1667,,Wirksamkeit der Impfstoffe,2
+2,1669,,Treatments,2
+591,1669,,Infektionskrankheit,2
+159,1669,,Selen,2
+172,1669,,Virus,2
+39,1669,,Vitamin C,2
+3,1669,,Vitamin D,2
+25,1670,,Immunity,2
+65,1670,,Pandemie,2
+1671,1670,,One-Health,2
+144,1670,,Epidemiologie,2
+122,1670,,Mortalität,2
+2,1672,,Treatments,2
+111,1672,,Sterblichkeit,2
+3,1672,,Vitamin D,2
+204,1672,,Calcidiol,2
+589,1672,,Calcitriol,2
+1673,1672,,D3,2
+426,1672,,Entzündung,2
+310,1672,,ARDS,2
+1674,1672,,Immunstatus,2
+1675,1672,,Immunschwäche,2
+1594,1672,,Renin,2
+1676,1672,,Angiotensin,2
+444,1672,,ACE2,2
+971,1672,,Virusinfektion,2
+1677,1672,,Cytokin-Release-Syndrom,2
+1678,1672,,CRS,2
+2,1679,,Treatments,2
+1680,1679,,Atherothrombose,2
+633,1679,,IL-6,2
+1681,1679,,Gewebefaktor,2
+3,1679,,Vitamin D,2
+2,1682,,Treatments,2
+883,1682,,Omicron-Variante,2
+444,1682,,ACE2,2
+884,1682,,NRP1,2
+1683,1682,,Medikamentenwirksamkeit,2
+886,1682,,Wirt-Pathogen-Interaktion,2
+79,1682,,Ivermectin,2
+887,1682,,Paxlovid,2
+888,1682,,Lopinavir,2
 2,1684,,Treatments,2
-885,1684,,Omicron-Variante,2
-445,1684,,ACE2,2
-886,1684,,NRP1,2
-1685,1684,,Medikamentenwirksamkeit,2
-888,1684,,Wirt-Pathogen-Interaktion,2
-80,1684,,Ivermectin,2
-889,1684,,Paxlovid,2
-890,1684,,Lopinavir,2
-2,1686,,Treatments,2
-157,1686,,Molnupiravir,2
-1687,1686,,nicht geimpft,2
-114,1686,,Krankenhausaufenthalt,2
-522,1686,,Tod,2
-59,1688,,Interventions,2
-2,1689,,Treatments,2
-222,1689,,25-Hydroxyvitamin D,2
-3,1689,,Vitamin D,2
-59,1690,,Interventions,2
-66,1690,,Pandemie,2
-69,1690,,psychische Gesundheit,2
-71,1690,,Angst,2
-15,1690,,Körperliche Aktivität,2
-83,1691,,Vaccines,2
-1061,1691,,Gerinnung,2
-1692,1691,,Antikoagulation,2
-802,1691,,Thromboembolie,2
-83,1693,,Vaccines,2
-1533,1693,,Myokarditis,2
-484,1693,,Impfstoffe,2
-2,1694,,Treatments,2
-159,1694,,Quercetin,2
-3,1694,,Vitamin D,2
-276,1694,,Prävention,2
-291,1694,,Behandlung,2
-59,1695,,Interventions,2
-44,1695,,Lockdown,2
-1696,1695,,aktiver Lebensstil,2
-15,1695,,Körperliche Aktivität,2
-2,1697,,Treatments,2
-275,1697,,Prophylaxe,2
-1698,1697,,Behandlung im Frühstadium,2
-1699,1697,,OTC,2
-40,1697,,Zink,2
-1700,1697,,Ionophore,2
-1701,1697,,Stärkung der Immunität,2
-1702,1697,,Therapietreue,2
-2,1703,,Treatments,2
-591,1703,,Calcitriol,2
-1704,1703,,Endokrin,2
-252,1703,,Therapie,2
-3,1703,,Vitamin D,2
-25,1705,,Immunity,2
-1706,1705,,Immunologisches Gedächtnis,2
-521,1705,,Infektion,2
-141,1705,,T-Zellen,2
-2,1707,,Treatments,2
-1640,1707,,Schlaf,2
-1708,1707,,Büroangestellte,2
-1709,1707,,Typ-2-Diabetes,2
-15,1707,,Körperliche Aktivität,2
-59,1710,,Interventions,2
-44,1710,,Lockdown,2
-15,1710,,Körperliche Aktivität,2
-2,1711,,Treatments,2
-3,1711,,Vitamin D,2
-504,1711,,Mangel,2
-1712,1711,,Assoziation,2
-1713,1711,,Rheumatoide Arthritis,2
-6,1711,,Supplementierung,2
+156,1684,,Molnupiravir,2
+1685,1684,,nicht geimpft,2
+113,1684,,Krankenhausaufenthalt,2
+520,1684,,Tod,2
+58,1686,,Interventions,2
+2,1687,,Treatments,2
+221,1687,,25-Hydroxyvitamin D,2
+3,1687,,Vitamin D,2
+58,1688,,Interventions,2
+65,1688,,Pandemie,2
+68,1688,,psychische Gesundheit,2
+70,1688,,Angst,2
+15,1688,,Körperliche Aktivität,2
+82,1689,,Vaccines,2
+1059,1689,,Gerinnung,2
+1690,1689,,Antikoagulation,2
+800,1689,,Thromboembolie,2
+82,1691,,Vaccines,2
+1531,1691,,Myokarditis,2
+466,1691,,Impfstoffe,2
+2,1692,,Treatments,2
+158,1692,,Quercetin,2
+3,1692,,Vitamin D,2
+275,1692,,Prävention,2
+290,1692,,Behandlung,2
+58,1693,,Interventions,2
+44,1693,,Lockdown,2
+1694,1693,,aktiver Lebensstil,2
+15,1693,,Körperliche Aktivität,2
+2,1695,,Treatments,2
+274,1695,,Prophylaxe,2
+1696,1695,,Behandlung im Frühstadium,2
+1697,1695,,OTC,2
+40,1695,,Zink,2
+1698,1695,,Ionophore,2
+1699,1695,,Stärkung der Immunität,2
+1700,1695,,Therapietreue,2
+2,1701,,Treatments,2
+589,1701,,Calcitriol,2
+1702,1701,,Endokrin,2
+251,1701,,Therapie,2
+3,1701,,Vitamin D,2
+25,1703,,Immunity,2
+1704,1703,,Immunologisches Gedächtnis,2
+519,1703,,Infektion,2
+140,1703,,T-Zellen,2
+2,1705,,Treatments,2
+1638,1705,,Schlaf,2
+1706,1705,,Büroangestellte,2
+1707,1705,,Typ-2-Diabetes,2
+15,1705,,Körperliche Aktivität,2
+58,1708,,Interventions,2
+44,1708,,Lockdown,2
+15,1708,,Körperliche Aktivität,2
+2,1709,,Treatments,2
+3,1709,,Vitamin D,2
+502,1709,,Mangel,2
+1710,1709,,Assoziation,2
+1711,1709,,Rheumatoide Arthritis,2
+6,1709,,Supplementierung,2
+2,1712,,Treatments,2
+1713,1712,,nachhaltige Gesundheit,2
+76,1712,,Bildung,2
+796,1712,,Adipositas,2
+15,1712,,Körperliche Aktivität,2
 2,1714,,Treatments,2
-1715,1714,,nachhaltige Gesundheit,2
-77,1714,,Bildung,2
-798,1714,,Adipositas,2
-15,1714,,Körperliche Aktivität,2
+930,1714,,SARS-CoV-2-Infektion,2
+395,1714,,Intensivstation,2
+111,1714,,Sterblichkeit,2
+1228,1714,,Atemnotsyndrom,2
+3,1714,,Vitamin D,2
+2,1715,,Treatments,2
+3,1715,,Vitamin D,2
+1648,1715,,Prognose,2
+519,1715,,Infektion,2
+111,1715,,Sterblichkeit,2
 2,1716,,Treatments,2
-932,1716,,SARS-CoV-2-Infektion,2
-396,1716,,Intensivstation,2
-112,1716,,Sterblichkeit,2
-1230,1716,,Atemnotsyndrom,2
 3,1716,,Vitamin D,2
-2,1717,,Treatments,2
-3,1717,,Vitamin D,2
-1650,1717,,Prognose,2
-521,1717,,Infektion,2
-112,1717,,Sterblichkeit,2
-2,1718,,Treatments,2
-3,1718,,Vitamin D,2
-822,1718,,Vitamin D3,2
-417,1718,,Cholecalciferol,2
-590,1718,,Calcifediol,2
-1719,1718,,25-Hydroxyvitamin D31α,2
-1720,1718,,25(OH)2D,2
-1721,1718,,25-Dihydroxyvitamin D,2
-591,1718,,Calcitriol,2
-1722,1718,,Akutes Respiratorisches Distress-Syndrom (ARDS),2
-179,1718,,Zytokinsturm,2
-1723,1718,,Chemokinsturm,2
-526,1718,,Renin-Angiotensin-System,2
-1062,1718,,Hyperkoagulabilität,2
-90,1718,,Hydroxychloroquin,2
-117,1718,,Chloroquin,2
-1724,1718,,Covidiol,2
-1725,1718,,Neutrophile Aktivität,2
-3,1718,,Vitamin D,2
-1726,1718,,endokrines System,2
-1727,1718,,Cuboidal alveolar coating cells type II,2
-1728,1718,,Cathelicidin Peptide,2
-1424,1718,,Defensin,2
-1729,1718,,TLR-Co-Rezeptor CD14,2
-835,1718,,Vitamin D-Rezeptor,2
+820,1716,,Vitamin D3,2
+416,1716,,Cholecalciferol,2
+588,1716,,Calcifediol,2
+1717,1716,,25-Hydroxyvitamin D31α,2
+1718,1716,,25(OH)2D,2
+1719,1716,,25-Dihydroxyvitamin D,2
+589,1716,,Calcitriol,2
+1720,1716,,Akutes Respiratorisches Distress-Syndrom (ARDS),2
+178,1716,,Zytokinsturm,2
+1721,1716,,Chemokinsturm,2
+524,1716,,Renin-Angiotensin-System,2
+1060,1716,,Hyperkoagulabilität,2
+89,1716,,Hydroxychloroquin,2
+116,1716,,Chloroquin,2
+1722,1716,,Covidiol,2
+1723,1716,,Neutrophile Aktivität,2
+3,1716,,Vitamin D,2
+1724,1716,,endokrines System,2
+1725,1716,,Cuboidal alveolar coating cells type II,2
+1726,1716,,Cathelicidin Peptide,2
+1422,1716,,Defensin,2
+1727,1716,,TLR-Co-Rezeptor CD14,2
+833,1716,,Vitamin D-Rezeptor,2
+2,1728,,Treatments,2
+931,1728,,Asthma,2
+714,1728,,Kinder,2
+707,1728,,sitzende Tätigkeit,2
+15,1728,,Körperliche Aktivität,2
+58,1729,,Interventions,2
+195,1729,,Immunsystem,2
+184,1729,,körperliche Inaktivität,2
 2,1730,,Treatments,2
-933,1730,,Asthma,2
-716,1730,,Kinder,2
-709,1730,,sitzende Tätigkeit,2
-15,1730,,Körperliche Aktivität,2
-59,1731,,Interventions,2
-196,1731,,Immunsystem,2
-185,1731,,körperliche Inaktivität,2
-2,1732,,Treatments,2
-1733,1732,,ACE2-Bindungsinhibitor,2
-1734,1732,,Löwenzahn,2
-1735,1732,,SARS-CoV-2-Prävention,2
-1736,1732,,S1-Spike-Mutation,2
+1731,1730,,ACE2-Bindungsinhibitor,2
+1732,1730,,Löwenzahn,2
+1733,1730,,SARS-CoV-2-Prävention,2
+1734,1730,,S1-Spike-Mutation,2
+2,1735,,Treatments,2
+1736,1735,,Zytokinstürme,2
+290,1735,,Behandlung,2
+39,1735,,Vitamin C,2
 2,1737,,Treatments,2
-1738,1737,,Zytokinstürme,2
-291,1737,,Behandlung,2
-39,1737,,Vitamin C,2
-2,1739,,Treatments,2
-1740,1739,,Magnesium-Supplementierung,2
-1741,1739,,Unterstützende Therapie,2
-2,1742,,Treatments,2
-1053,1742,,orale Anti-COVID-19 Medikamente,2
-1054,1742,,Bamlanivimab,2
-1055,1742,,Etesevimab,2
-1056,1742,,Casirivimab,2
-1057,1742,,Imdevimab,2
-2,1743,,Treatments,2
-3,1743,,Vitamin D,2
-282,1743,,25(OH)D3,2
-932,1743,,SARS-CoV-2-Infektion,2
-1744,1743,,Multisystem,2
-1745,1743,,Kawasaki-ähnliches Syndrom,2
+1738,1737,,Magnesium-Supplementierung,2
+1739,1737,,Unterstützende Therapie,2
+2,1740,,Treatments,2
+1051,1740,,orale Anti-COVID-19 Medikamente,2
+1052,1740,,Bamlanivimab,2
+1053,1740,,Etesevimab,2
+1054,1740,,Casirivimab,2
+1055,1740,,Imdevimab,2
+2,1741,,Treatments,2
+3,1741,,Vitamin D,2
+281,1741,,25(OH)D3,2
+930,1741,,SARS-CoV-2-Infektion,2
+1742,1741,,Multisystem,2
+1743,1741,,Kawasaki-ähnliches Syndrom,2
+2,1744,,Treatments,2
+3,1744,,Vitamin D,2
+923,1744,,Ergebnis,2
+121,1744,,Schweregrad,2
+1745,1744,,Retrospektive,2
 2,1746,,Treatments,2
-3,1746,,Vitamin D,2
-925,1746,,Ergebnis,2
-122,1746,,Schweregrad,2
-1747,1746,,Retrospektive,2
-2,1748,,Treatments,2
-157,1748,,Molnupiravir,2
-1080,1748,,Fluvoxamin,2
-889,1748,,Paxlovid,2
-2,1749,,Treatments,2
-3,1749,,Vitamin D,2
-1750,1749,,Vitamin-D-Status,2
-1268,1749,,Morbidität,2
-123,1749,,Mortalität,2
-1751,1749,,Ethnizität,2
+156,1746,,Molnupiravir,2
+1078,1746,,Fluvoxamin,2
+887,1746,,Paxlovid,2
+2,1747,,Treatments,2
+3,1747,,Vitamin D,2
+1748,1747,,Vitamin-D-Status,2
+1266,1747,,Morbidität,2
+122,1747,,Mortalität,2
+1749,1747,,Ethnizität,2
+2,1750,,Treatments,2
+3,1750,,Vitamin D,2
+121,1750,,Schweregrad,2
+519,1750,,Infektion,2
+82,1751,,Vaccines,2
 2,1752,,Treatments,2
-3,1752,,Vitamin D,2
-122,1752,,Schweregrad,2
-521,1752,,Infektion,2
-83,1753,,Vaccines,2
-2,1754,,Treatments,2
-1045,1754,,Spurenelement,2
-427,1754,,Entzündung,2
-1755,1754,,Ceruloplasmin,2
-1046,1754,,Mikronährstoff,2
-83,1756,,Vaccines,2
-316,1756,,Vitamine,2
-466,1756,,Impfstoff,2
-1757,1756,,humorale Antwort,2
-49,1756,,Immunologie,2
-45,1756,,Ernährung,2
-2,1758,,Treatments,2
-120,1758,,Magnesium,2
-476,1758,,oxidativer Stress,2
-427,1758,,Entzündung,2
-279,1758,,Alterung,2
-54,1758,,Infektionskrankheiten,2
-3,1758,,Vitamin D,2
-2,1759,,Treatments,2
-3,1759,,Vitamin D,2
-1760,1759,,Interleukin-6,2
-635,1759,,IL-6,2
-1761,1759,,D-Dimer,2
-1762,1759,,Covid-19-Krankheit,2
-83,1763,,Vaccines,2
-484,1763,,Impfstoffe,2
-570,1763,,Lipid-Nanopartikel,2
-1764,1763,,Bioprinting,2
-1765,1763,,Verabreichungsweg,2
-1035,1763,,mRNA,2
-2,1766,,Treatments,2
-200,1766,,Bewegung,2
-1767,1766,,Gesundheit und Wellness,2
-1768,1766,,Frauengesundheit,2
-467,1766,,Gesundheitsvorsorge,2
-150,1766,,Impfung,2
-1769,1766,,Risikominderung,2
-1770,1766,,nicht-pharmakologische Interventionen,2
-15,1766,,Körperliche Aktivität,2
-2,1771,,Treatments,2
-66,1771,,Pandemie,2
-392,1771,,Mineralien,2
-973,1771,,Virusinfektion,2
-161,1771,,Vitamin A,2
-39,1771,,Vitamin C,2
+1043,1752,,Spurenelement,2
+426,1752,,Entzündung,2
+1753,1752,,Ceruloplasmin,2
+1044,1752,,Mikronährstoff,2
+82,1754,,Vaccines,2
+315,1754,,Vitamine,2
+1755,1754,,humorale Antwort,2
+48,1754,,Immunologie,2
+45,1754,,Ernährung,2
+466,1754,,Impfstoffe,2
+2,1756,,Treatments,2
+119,1756,,Magnesium,2
+475,1756,,oxidativer Stress,2
+426,1756,,Entzündung,2
+278,1756,,Alterung,2
+53,1756,,Infektionskrankheiten,2
+3,1756,,Vitamin D,2
+2,1757,,Treatments,2
+3,1757,,Vitamin D,2
+1758,1757,,Interleukin-6,2
+633,1757,,IL-6,2
+1759,1757,,D-Dimer,2
+1760,1757,,Covid-19-Krankheit,2
+82,1761,,Vaccines,2
+466,1761,,Impfstoffe,2
+568,1761,,Lipid-Nanopartikel,2
+1762,1761,,Bioprinting,2
+1763,1761,,Verabreichungsweg,2
+1033,1761,,mRNA,2
+2,1764,,Treatments,2
+199,1764,,Bewegung,2
+1765,1764,,Gesundheit und Wellness,2
+1766,1764,,Frauengesundheit,2
+465,1764,,Gesundheitsvorsorge,2
+149,1764,,Impfung,2
+1767,1764,,Risikominderung,2
+1768,1764,,nicht-pharmakologische Interventionen,2
+15,1764,,Körperliche Aktivität,2
+2,1769,,Treatments,2
+65,1769,,Pandemie,2
+391,1769,,Mineralien,2
+971,1769,,Virusinfektion,2
+160,1769,,Vitamin A,2
+39,1769,,Vitamin C,2
+2,1770,,Treatments,2
+225,1770,,Nahrungsergänzungsmittel,2
+75,1770,,Immunität,2
+1771,1770,,Bevölkerung,2
+779,1770,,Spurenelemente,2
 2,1772,,Treatments,2
-226,1772,,Nahrungsergänzungsmittel,2
-76,1772,,Immunität,2
-1773,1772,,Bevölkerung,2
-781,1772,,Spurenelemente,2
-2,1774,,Treatments,2
-1775,1774,,Entlassung,2
-1776,1774,,mechanische Beatmung,2
-112,1774,,Sterblichkeit,2
-1777,1774,,Netzwerk-Meta-Analyse,2
-1778,1774,,virale Clearance,2
-83,1779,,Vaccines,2
+1773,1772,,Entlassung,2
+1774,1772,,mechanische Beatmung,2
+111,1772,,Sterblichkeit,2
+1775,1772,,Netzwerk-Meta-Analyse,2
+1776,1772,,virale Clearance,2
+82,1777,,Vaccines,2
+2,1778,,Treatments,2
+42,1778,,Angiotensin konvertierendes Enzym 2 (ACE2),2
+1779,1778,,Komorbidität-COVID-19,2
+178,1778,,Zytokinsturm,2
+103,1778,,Vitamin D-Mangel,2
 2,1780,,Treatments,2
-42,1780,,Angiotensin konvertierendes Enzym 2 (ACE2),2
-1781,1780,,Komorbidität-COVID-19,2
-179,1780,,Zytokinsturm,2
-104,1780,,Vitamin D-Mangel,2
-2,1782,,Treatments,2
-48,1782,,Coronavirus,2
-1783,1782,,Mangel an spezifischen Medikamenten,2
-1784,1782,,Boceprevir,2
-1785,1782,,Ombitasvir,2
-1786,1782,,Paritaprevir,2
-1787,1782,,Tipranavir,2
-80,1782,,Ivermectin,2
-1788,1782,,Micafungin,2
-1789,1782,,3CLPro-Inhibitoren,2
-2,1790,,Treatments,2
-725,1790,,COVID-19-Pandemie,2
-1131,1790,,Immunstärkung,2
-38,1790,,Nährstoffe,2
-565,1790,,Öffentliche Gesundheit,2
-1791,1790,,Synergistische Rolle,2
-39,1790,,Vitamin C,2
-161,1790,,Vitamin A,2
-3,1790,,Vitamin D,2
-120,1790,,Magnesium,2
-160,1790,,Selen,2
-40,1790,,Zink,2
-1792,1790,,Phytonährstoffe,2
+1781,1780,,Mangel an spezifischen Medikamenten,2
+1782,1780,,Boceprevir,2
+1783,1780,,Ombitasvir,2
+1784,1780,,Paritaprevir,2
+1785,1780,,Tipranavir,2
+79,1780,,Ivermectin,2
+1786,1780,,Micafungin,2
+1787,1780,,3CLPro-Inhibitoren,2
+2,1788,,Treatments,2
+723,1788,,COVID-19-Pandemie,2
+1129,1788,,Immunstärkung,2
+38,1788,,Nährstoffe,2
+563,1788,,Öffentliche Gesundheit,2
+1789,1788,,Synergistische Rolle,2
+39,1788,,Vitamin C,2
+160,1788,,Vitamin A,2
+3,1788,,Vitamin D,2
+119,1788,,Magnesium,2
+159,1788,,Selen,2
+40,1788,,Zink,2
+1790,1788,,Phytonährstoffe,2
+2,1791,,Treatments,2
+3,1791,,Vitamin D,2
+103,1791,,Vitamin D-Mangel,2
+2,1792,,Treatments,2
+79,1792,,Ivermectin,2
+251,1792,,Therapie,2
+290,1792,,Behandlung,2
+172,1792,,Virus,2
 2,1793,,Treatments,2
-3,1793,,Vitamin D,2
-104,1793,,Vitamin D-Mangel,2
-2,1794,,Treatments,2
-80,1794,,Ivermectin,2
-252,1794,,Therapie,2
-291,1794,,Behandlung,2
-173,1794,,Virus,2
-2,1795,,Treatments,2
-40,1795,,Zink,2
-276,1795,,Prävention,2
-291,1795,,Behandlung,2
-1796,1795,,akute virale Infektionen der Atemwege,2
-59,1797,,Interventions,2
-1798,1797,,Freizeitradfahren,2
-1799,1797,,Hanoi,2
-1800,1797,,Vietnam,2
-1801,1797,,aktiver Verkehr,2
-1802,1797,,globaler Süden,2
-66,1797,,Pandemie,2
-2,1803,,Treatments,2
-3,1803,,Vitamin D,2
-291,1803,,Behandlung,2
-145,1803,,Epidemiologie,2
-46,1803,,ältere Erwachsene,2
+40,1793,,Zink,2
+275,1793,,Prävention,2
+290,1793,,Behandlung,2
+1794,1793,,akute virale Infektionen der Atemwege,2
+58,1795,,Interventions,2
+1796,1795,,Freizeitradfahren,2
+1797,1795,,Hanoi,2
+1798,1795,,Vietnam,2
+1799,1795,,aktiver Verkehr,2
+1800,1795,,globaler Süden,2
+65,1795,,Pandemie,2
+2,1801,,Treatments,2
+3,1801,,Vitamin D,2
+290,1801,,Behandlung,2
+144,1801,,Epidemiologie,2
+46,1801,,ältere Erwachsene,2
+2,1802,,Treatments,2
+1803,1802,,essentielle Metalle,2
+120,1802,,Kupfer,2
+40,1802,,Zink,2
+20,1802,,CRP,2
 2,1804,,Treatments,2
-1805,1804,,essentielle Metalle,2
-121,1804,,Kupfer,2
-40,1804,,Zink,2
-20,1804,,CRP,2
-2,1806,,Treatments,2
-445,1806,,ACE2,2
-1807,1806,,Immunzellen,2
-1808,1806,,ALI,2
-2,1809,,Treatments,2
-3,1809,,Vitamin D,2
-634,1809,,akutes Atemnotsyndrom,2
-1810,1809,,Coronavirus-induzierte Krankheit 2019,2
-1811,1809,,regulatorische T-Zellen,2
-835,1809,,Vitamin D-Rezeptor,2
+444,1804,,ACE2,2
+1805,1804,,Immunzellen,2
+1806,1804,,ALI,2
+2,1807,,Treatments,2
+3,1807,,Vitamin D,2
+632,1807,,akutes Atemnotsyndrom,2
+1808,1807,,Coronavirus-induzierte Krankheit 2019,2
+1809,1807,,regulatorische T-Zellen,2
+833,1807,,Vitamin D-Rezeptor,2
+2,1810,,Treatments,2
+3,1810,,Vitamin D,2
+111,1810,,Sterblichkeit,2
+2,1811,,Treatments,2
+826,1811,,Glutathion,2
+3,1811,,Vitamin D,2
 2,1812,,Treatments,2
 3,1812,,Vitamin D,2
-112,1812,,Sterblichkeit,2
-2,1813,,Treatments,2
-828,1813,,Glutathion,2
-3,1813,,Vitamin D,2
-2,1814,,Treatments,2
-3,1814,,Vitamin D,2
-1815,1814,,Erhaltung,2
-1816,1814,,Dosierung,2
-128,1814,,Wirksamkeit,2
-2,1817,,Treatments,2
-66,1817,,Pandemie,2
-1818,1817,,Nahrungsaufnahme,2
-1819,1817,,ernährungsbedingter Entzündungsindex,2
-1512,1817,,Darmmikrobiota,2
-45,1817,,Ernährung,2
-15,1817,,Körperliche Aktivität,2
-2,1820,,Treatments,2
-1821,1820,,Vitamin-D-Supplementierung,2
-1822,1820,,Serum-Vitamin-D-Spiegel,2
-521,1820,,Infektion,2
-1268,1820,,Morbidität,2
-123,1820,,Mortalität,2
-1823,1820,,Ergebnisse,2
-2,1824,,Treatments,2
-157,1824,,Molnupiravir,2
-409,1824,,Favipiravir,2
-1825,1824,,Evidenz,2
-483,1824,,Omicron,2
-83,1826,,Vaccines,2
+1813,1812,,Erhaltung,2
+1814,1812,,Dosierung,2
+127,1812,,Wirksamkeit,2
+2,1815,,Treatments,2
+65,1815,,Pandemie,2
+1816,1815,,Nahrungsaufnahme,2
+1817,1815,,ernährungsbedingter Entzündungsindex,2
+1510,1815,,Darmmikrobiota,2
+45,1815,,Ernährung,2
+15,1815,,Körperliche Aktivität,2
+2,1818,,Treatments,2
+1819,1818,,Vitamin-D-Supplementierung,2
+1820,1818,,Serum-Vitamin-D-Spiegel,2
+519,1818,,Infektion,2
+1266,1818,,Morbidität,2
+122,1818,,Mortalität,2
+1821,1818,,Ergebnisse,2
+2,1822,,Treatments,2
+156,1822,,Molnupiravir,2
+408,1822,,Favipiravir,2
+1823,1822,,Evidenz,2
+482,1822,,Omicron,2
+82,1824,,Vaccines,2
+2,1825,,Treatments,2
+172,1825,,Virus,2
+48,1825,,Immunologie,2
+199,1825,,Bewegung,2
+94,1825,,Gesundheit,2
+33,1825,,Fettleibigkeit,2
+15,1825,,Körperliche Aktivität,2
+2,1826,,Treatments,2
+3,1826,,Vitamin D,2
 2,1827,,Treatments,2
-173,1827,,Virus,2
-49,1827,,Immunologie,2
-200,1827,,Bewegung,2
-95,1827,,Gesundheit,2
-33,1827,,Fettleibigkeit,2
-15,1827,,Körperliche Aktivität,2
-2,1828,,Treatments,2
-3,1828,,Vitamin D,2
-2,1829,,Treatments,2
-665,1829,,EGCG,2
-664,1829,,Tee-Polyphenole,2
-1830,1829,,antivirale Eigenschaften,2
-83,1831,,Vaccines,2
-466,1831,,Impfstoff,2
-1832,1831,,TTP,2
-1833,1831,,Thrombotische Thrombozytopenie Purpura,2
-59,1834,,Interventions,2
-1835,1834,,Persönliche Schutzausrüstung,2
-1836,1834,,Masken,2
-1837,1834,,N95-Gesichtsmaske,2
-1838,1834,,chirurgische Maske,2
-985,1834,,Risiko,2
-1839,1834,,unerwünschte Wirkungen,2
-1840,1834,,langfristige unerwünschte Wirkungen,2
-1841,1834,,Kontraindikationen,2
-1842,1834,,Bewertung des Gesundheitsrisikos,2
-1843,1834,,Hyperkapnie,2
-1272,1834,,Hypoxie,2
-1844,1834,,Kopfschmerzen,2
-1845,1834,,Dyspnoe,2
-1846,1834,,körperliche Anstrengung,2
-1847,1834,,MIES-Syndrom,2
+663,1827,,EGCG,2
+662,1827,,Tee-Polyphenole,2
+1828,1827,,antivirale Eigenschaften,2
+82,1829,,Vaccines,2
+1830,1829,,TTP,2
+1831,1829,,Thrombotische Thrombozytopenie Purpura,2
+466,1829,,Impfstoffe,2
+58,1832,,Interventions,2
+1833,1832,,Persönliche Schutzausrüstung,2
+1834,1832,,Masken,2
+1835,1832,,N95-Gesichtsmaske,2
+1836,1832,,chirurgische Maske,2
+983,1832,,Risiko,2
+1837,1832,,unerwünschte Wirkungen,2
+1838,1832,,langfristige unerwünschte Wirkungen,2
+1839,1832,,Kontraindikationen,2
+1840,1832,,Bewertung des Gesundheitsrisikos,2
+1841,1832,,Hyperkapnie,2
+1270,1832,,Hypoxie,2
+1842,1832,,Kopfschmerzen,2
+1843,1832,,Dyspnoe,2
+1844,1832,,körperliche Anstrengung,2
+1845,1832,,MIES-Syndrom,2
+2,1846,,Treatments,2
+1847,1846,,Immunmodulator,2
+426,1846,,Entzündung,2
+178,1846,,Zytokinsturm,2
+79,1846,,Ivermectin,2
 2,1848,,Treatments,2
-1849,1848,,Immunmodulator,2
-427,1848,,Entzündung,2
-179,1848,,Zytokinsturm,2
-80,1848,,Ivermectin,2
-2,1850,,Treatments,2
-445,1850,,ACE2,2
-1851,1850,,CD147,2
-1852,1850,,Catch and clump,2
-228,1850,,Melatonin,2
-1853,1850,,Receptor,2
+444,1848,,ACE2,2
+1849,1848,,CD147,2
+1850,1848,,Catch and clump,2
+227,1848,,Melatonin,2
+1851,1848,,Receptor,2
+2,1852,,Treatments,2
+39,1852,,Vitamin C,2
+1853,1852,,Pathogenese von COVID-19,2
+75,1852,,Immunität,2
 2,1854,,Treatments,2
-39,1854,,Vitamin C,2
-1855,1854,,Pathogenese von COVID-19,2
-76,1854,,Immunität,2
-2,1856,,Treatments,2
-1738,1856,,Zytokinstürme,2
-1857,1856,,Lungenschäden,2
-225,1856,,Mikronährstoffe,2
-1858,1856,,Bioaktive Substanzen,2
-59,1859,,Interventions,2
-988,1859,,Alkohol,2
-1860,1859,,Distress,2
-1861,1859,,Rauchen,2
-15,1859,,Körperliche Aktivität,2
-59,1862,,Interventions,2
-2,1863,,Treatments,2
-1864,1863,,Übung,2
-196,1863,,Immunsystem,2
-1340,1863,,Coronavirus-Infektionen,2
-1473,1863,,Pandemien,2
-25,1865,,Immunity,2
-1866,1865,,ungeimpfte Personen,2
-1867,1865,,natürliche Immunität,2
-384,1865,,Antikörper,2
-2,1868,,Treatments,2
-286,1868,,Mangelernährung,2
-1869,1868,,Selen-Nanopartikel,2
-1870,1868,,Eisen-Nanopartikel,2
-40,1868,,Zink,2
-1871,1868,,Kupfer-Nanopartikel,2
+1736,1854,,Zytokinstürme,2
+1855,1854,,Lungenschäden,2
+224,1854,,Mikronährstoffe,2
+1856,1854,,Bioaktive Substanzen,2
+58,1857,,Interventions,2
+986,1857,,Alkohol,2
+1858,1857,,Distress,2
+1859,1857,,Rauchen,2
+15,1857,,Körperliche Aktivität,2
+58,1860,,Interventions,2
+2,1861,,Treatments,2
+1862,1861,,Übung,2
+195,1861,,Immunsystem,2
+1338,1861,,Coronavirus-Infektionen,2
+1471,1861,,Pandemien,2
+25,1863,,Immunity,2
+1864,1863,,ungeimpfte Personen,2
+1865,1863,,natürliche Immunität,2
+383,1863,,Antikörper,2
+2,1866,,Treatments,2
+285,1866,,Mangelernährung,2
+1867,1866,,Selen-Nanopartikel,2
+1868,1866,,Eisen-Nanopartikel,2
+40,1866,,Zink,2
+1869,1866,,Kupfer-Nanopartikel,2
+2,1870,,Treatments,2
+39,1870,,Vitamin C,2
+633,1870,,IL-6,2
+1871,1870,,Wirkstoffentdeckung,2
 2,1872,,Treatments,2
-39,1872,,Vitamin C,2
-635,1872,,IL-6,2
-1873,1872,,Wirkstoffentdeckung,2
+1873,1872,,Ultraviolette Strahlung,2
+3,1872,,Vitamin D,2
+1404,1872,,Sonnenlicht,2
 2,1874,,Treatments,2
-48,1874,,Coronavirus,2
-1875,1874,,Ultraviolette Strahlung,2
-3,1874,,Vitamin D,2
-1406,1874,,Sonnenlicht,2
-2,1876,,Treatments,2
-1877,1876,,Diabetes mellitus,2
-1878,1876,,Hyperglykämie,2
-1879,1876,,Blutzuckerkontrolle,2
-1880,1876,,Blutzuckermessung,2
-1881,1876,,Telemedizin,2
-83,1882,,Vaccines,2
-1883,1882,,Impfverzögerung,2
-1884,1882,,Impfverweigerung,2
-1885,1882,,Überredung,2
-1886,1882,,Anreize,2
-1887,1882,,Mandate,2
-1888,1882,,Zwang,2
-1867,1882,,natürliche Immunität,2
-83,1889,,Vaccines,2
-2,1890,,Treatments,2
-3,1890,,Vitamin D,2
-1891,1890,,Ergänzungen,2
-484,1890,,Impfstoffe,2
-1664,1890,,Tuberkulose,2
-1892,1890,,Polio,2
-1893,1890,,Masern,2
-463,1890,,Covid-19,2
-83,1894,,Vaccines,2
-484,1894,,Impfstoffe,2
-1895,1894,,Thrombose - arteriell,2
-970,1894,,Thrombozytopenie,2
-1692,1894,,Antikoagulation,2
-1896,1894,,Antiplättchenfaktor 4,2
-2,1897,,Treatments,2
-171,1897,,Probiotika,2
-1404,1897,,Mikrobiota,2
-45,1897,,Ernährung,2
-25,1898,,Immunity,2
-395,1898,,Risikofaktoren,2
-559,1898,,BMI,2
-1861,1898,,Rauchen,2
-406,1898,,Diabetes,2
-316,1898,,Vitamine,2
-3,1898,,Vitamin D,2
-786,1898,,Vitamin E,2
-1899,1898,,Kalzium,2
-1900,1898,,Retinol,2
+1875,1874,,Diabetes mellitus,2
+1876,1874,,Hyperglykämie,2
+1877,1874,,Blutzuckerkontrolle,2
+1878,1874,,Blutzuckermessung,2
+1879,1874,,Telemedizin,2
+82,1880,,Vaccines,2
+1881,1880,,Impfverzögerung,2
+1882,1880,,Impfverweigerung,2
+1883,1880,,Überredung,2
+1884,1880,,Anreize,2
+1885,1880,,Mandate,2
+1886,1880,,Zwang,2
+1865,1880,,natürliche Immunität,2
+82,1887,,Vaccines,2
+2,1888,,Treatments,2
+3,1888,,Vitamin D,2
+1889,1888,,Ergänzungen,2
+466,1888,,Impfstoffe,2
+1662,1888,,Tuberkulose,2
+1890,1888,,Polio,2
+1891,1888,,Masern,2
+462,1888,,Covid-19,2
+82,1892,,Vaccines,2
+466,1892,,Impfstoffe,2
+1893,1892,,Thrombose - arteriell,2
+968,1892,,Thrombozytopenie,2
+1690,1892,,Antikoagulation,2
+1894,1892,,Antiplättchenfaktor 4,2
+2,1895,,Treatments,2
+170,1895,,Probiotika,2
+1402,1895,,Mikrobiota,2
+45,1895,,Ernährung,2
+25,1896,,Immunity,2
+394,1896,,Risikofaktoren,2
+557,1896,,BMI,2
+1859,1896,,Rauchen,2
+405,1896,,Diabetes,2
+315,1896,,Vitamine,2
+3,1896,,Vitamin D,2
+784,1896,,Vitamin E,2
+1897,1896,,Kalzium,2
+1898,1896,,Retinol,2
+2,1899,,Treatments,2
+1900,1899,,TNF-α,2
+633,1899,,IL-6,2
+3,1899,,Vitamin D,2
 2,1901,,Treatments,2
-1902,1901,,TNF-α,2
-635,1901,,IL-6,2
-3,1901,,Vitamin D,2
-2,1903,,Treatments,2
-1904,1903,,Medikamente auf Metallbasis,2
-1905,1903,,Metallement-Nährstoffe,2
-1906,1903,,Metallhydrogel,2
-40,1903,,Zink,2
-160,1903,,Selen,2
-120,1903,,Magnesium,2
-121,1903,,Kupfer,2
-67,1903,,Eisen,2
+1902,1901,,Medikamente auf Metallbasis,2
+1903,1901,,Metallement-Nährstoffe,2
+1904,1901,,Metallhydrogel,2
+40,1901,,Zink,2
+159,1901,,Selen,2
+119,1901,,Magnesium,2
+120,1901,,Kupfer,2
+66,1901,,Eisen,2
+2,1905,,Treatments,2
+3,1905,,Vitamin D,2
+1906,1905,,klinische Ergebnisse,2
 2,1907,,Treatments,2
+1908,1907,,2019 neuartiges Coronavirus,2
+204,1907,,Calcidiol,2
+1648,1907,,Prognose,2
+1909,1907,,Sars-Cov,2
 3,1907,,Vitamin D,2
-1908,1907,,klinische Ergebnisse,2
-2,1909,,Treatments,2
-1910,1909,,2019 neuartiges Coronavirus,2
-205,1909,,Calcidiol,2
-1650,1909,,Prognose,2
-1911,1909,,Sars-Cov,2
-3,1909,,Vitamin D,2
-1912,1909,,Coronaviridae,2
-1913,1909,,Brasilien,2
-1914,1909,,WHO,2
-1915,1909,,akutes respiratorisches Krankheitssyndrom,2
-1916,1909,,Thrombomodulin,2
-83,1917,,Vaccines,2
-1918,1917,,Adenovirus-vermittelte Impfstoffe,2
-1919,1917,,Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff,2
-1920,1917,,PF4-Antikörper,2
-1921,1917,,thrombotische thrombozytopenische Purpura,2
-2,1922,,Treatments,2
-1346,1922,,Mineral,2
-1923,1922,,Nährstoff,2
-6,1922,,Supplementierung,2
-316,1922,,Vitamine,2
-3,1922,,Vitamin D,2
-39,1922,,Vitamin C,2
-786,1922,,Vitamin E,2
-160,1922,,Selen,2
-40,1922,,Zink,2
-83,1924,,Vaccines,2
-1925,1924,,AstraZeneca,2
-1926,1924,,AstraZeneca Impfstoff,2
-1927,1924,,ChAdOx1 nCoV-19,2
-1000,1924,,HIT,2
-1928,1924,,Heparin-induzierte Thrombozytopenie,2
-1929,1924,,Hyperkoagulation,2
-1930,1924,,Hyperstimulation,2
-1931,1924,,Molekulare Mimikry,2
-1001,1924,,PF4,2
-970,1924,,Thrombozytopenie,2
-814,1924,,Thrombose,2
-150,1924,,Impfung,2
-2,1932,,Treatments,2
-1933,1932,,antimikrobielle Mittel,2
-1934,1932,,Bakterien,2
-1935,1932,,Pilze,2
-1515,1932,,Metalle,2
-1936,1932,,Viren,2
-83,1937,,Vaccines,2
-25,1938,,Immunity,2
-1939,1938,,kreuzreaktive CD4+ T-Zellen,2
-1940,1938,,SARS-CoV-2 Immunantworten,2
-521,1938,,Infektion,2
-150,1938,,Impfung,2
-59,1941,,Interventions,2
-550,1941,,Intensität,2
-551,1941,,IPAQ,2
-15,1941,,Körperliche Aktivität,2
-173,1942,,Virus,2
-1943,1942,,Spike,2
-1944,1942,,DNA-Schaden-Reparatur,2
-1945,1942,,V(D)J-Rekombination,2
-466,1942,,Impfstoff,2
+1910,1907,,Coronaviridae,2
+1911,1907,,Brasilien,2
+1912,1907,,WHO,2
+1913,1907,,akutes respiratorisches Krankheitssyndrom,2
+1914,1907,,Thrombomodulin,2
+82,1915,,Vaccines,2
+1916,1915,,Adenovirus-vermittelte Impfstoffe,2
+1917,1915,,Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff,2
+1918,1915,,PF4-Antikörper,2
+1919,1915,,thrombotische thrombozytopenische Purpura,2
+2,1920,,Treatments,2
+1344,1920,,Mineral,2
+1921,1920,,Nährstoff,2
+6,1920,,Supplementierung,2
+315,1920,,Vitamine,2
+3,1920,,Vitamin D,2
+39,1920,,Vitamin C,2
+784,1920,,Vitamin E,2
+159,1920,,Selen,2
+40,1920,,Zink,2
+82,1922,,Vaccines,2
+1014,1922,,AstraZeneca,2
+1923,1922,,ChAdOx1 nCoV-19,2
+998,1922,,HIT,2
+1924,1922,,Heparin-induzierte Thrombozytopenie,2
+1925,1922,,Hyperkoagulation,2
+1926,1922,,Hyperstimulation,2
+1927,1922,,Molekulare Mimikry,2
+999,1922,,PF4,2
+968,1922,,Thrombozytopenie,2
+812,1922,,Thrombose,2
+149,1922,,Impfung,2
+2,1928,,Treatments,2
+1929,1928,,antimikrobielle Mittel,2
+1930,1928,,Bakterien,2
+1931,1928,,Pilze,2
+1513,1928,,Metalle,2
+1932,1928,,Viren,2
+82,1933,,Vaccines,2
+25,1934,,Immunity,2
+1935,1934,,kreuzreaktive CD4+ T-Zellen,2
+1936,1934,,SARS-CoV-2 Immunantworten,2
+519,1934,,Infektion,2
+149,1934,,Impfung,2
+58,1937,,Interventions,2
+548,1937,,Intensität,2
+549,1937,,IPAQ,2
+15,1937,,Körperliche Aktivität,2
+172,1938,,Virus,2
+1939,1938,,Spike,2
+1940,1938,,DNA-Schaden-Reparatur,2
+1941,1938,,V(D)J-Rekombination,2
+466,1938,,Impfstoffe,2
+2,1942,,Treatments,2
+159,1942,,Selen,2
+1943,1942,,Oxidativer Stress,2
+224,1942,,Mikronährstoffe,2
+779,1942,,Spurenelemente,2
+2,1944,,Treatments,2
+1945,1944,,Schwermetalle,2
 2,1946,,Treatments,2
-160,1946,,Selen,2
-1947,1946,,Oxidativer Stress,2
-225,1946,,Mikronährstoffe,2
-781,1946,,Spurenelemente,2
+409,1946,,Remdesivir,2
+1947,1946,,Erholungszeit,2
+113,1946,,Krankenhausaufenthalt,2
 2,1948,,Treatments,2
-1949,1948,,Schwermetalle,2
-2,1950,,Treatments,2
-410,1950,,Remdesivir,2
-1951,1950,,Erholungszeit,2
-114,1950,,Krankenhausaufenthalt,2
-2,1952,,Treatments,2
-557,1952,,Alter,2
-427,1952,,Entzündung,2
-396,1952,,Intensivstation,2
-112,1952,,Sterblichkeit,2
-3,1952,,Vitamin D,2
-83,1953,,Vaccines,2
-1954,1953,,Adenovirus-DNA-Integration in Säugetiergenome,2
-1955,1953,,Adenovirus-Vektor-DNA-Integration in menschliches Genom,2
-1956,1953,,Expression adenoviraler Gene in Vektor-DNA,2
-1957,1953,,Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe,2
-1958,1953,,epigenetische Konsequenzen der Fremd-DNA-Integration,2
-1959,1953,,Retrotranskription von SARS-CoV-2-RNA in DNA,2
-2,1960,,Treatments,2
-1077,1960,,Dexamethason,2
-1961,1960,,Famotidin,2
-1962,1960,,Fluoxetin,2
-1080,1960,,Fluvoxamin,2
-80,1960,,Ivermectin,2
-228,1960,,Melatonin,2
-1963,1960,,Monoklonale Antikörper,2
-1964,1960,,Nanobodies,2
-410,1960,,Remdesivir,2
-1965,1960,,SSRI,2
-1966,1960,,Serotonin,2
-1094,1960,,Tocilizumab,2
-2,1967,,Treatments,2
-3,1967,,Vitamin D,2
-216,1967,,Cathelicidin,2
-179,1967,,Zytokinsturm,2
-112,1967,,Sterblichkeit,2
-122,1967,,Schweregrad,2
-2,1968,,Treatments,2
-104,1968,,Vitamin D-Mangel,2
-1969,1968,,Schwere der Infektion,2
-2,1970,,Treatments,2
-95,1970,,Gesundheit,2
-1971,1970,,demografische Ökonomie,2
-1972,1970,,Ökonomie von Minderheiten,2
-1973,1970,,Rassen,2
-1974,1970,,indigene Völker,2
-1975,1970,,Einwanderer,2
-1976,1970,,Diskriminierung außerhalb des Arbeitsmarktes,2
-2,1977,,Treatments,2
-1099,1977,,klinischer Schweregrad,2
-1978,1977,,Laborergebnisse,2
-1582,1977,,Blutbild,2
-20,1977,,CRP,2
-1979,1977,,Glukose,2
-1899,1977,,Kalzium,2
-120,1977,,Magnesium,2
-3,1977,,Vitamin D,2
+555,1948,,Alter,2
+426,1948,,Entzündung,2
+395,1948,,Intensivstation,2
+111,1948,,Sterblichkeit,2
+3,1948,,Vitamin D,2
+82,1949,,Vaccines,2
+1950,1949,,Adenovirus-DNA-Integration in Säugetiergenome,2
+1951,1949,,Adenovirus-Vektor-DNA-Integration in menschliches Genom,2
+1952,1949,,Expression adenoviraler Gene in Vektor-DNA,2
+1953,1949,,Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe,2
+1954,1949,,epigenetische Konsequenzen der Fremd-DNA-Integration,2
+1955,1949,,Retrotranskription von SARS-CoV-2-RNA in DNA,2
+2,1956,,Treatments,2
+1075,1956,,Dexamethason,2
+1957,1956,,Famotidin,2
+1958,1956,,Fluoxetin,2
+1078,1956,,Fluvoxamin,2
+79,1956,,Ivermectin,2
+227,1956,,Melatonin,2
+1959,1956,,Monoklonale Antikörper,2
+1960,1956,,Nanobodies,2
+409,1956,,Remdesivir,2
+1961,1956,,SSRI,2
+1962,1956,,Serotonin,2
+1092,1956,,Tocilizumab,2
+2,1963,,Treatments,2
+3,1963,,Vitamin D,2
+215,1963,,Cathelicidin,2
+178,1963,,Zytokinsturm,2
+111,1963,,Sterblichkeit,2
+121,1963,,Schweregrad,2
+2,1964,,Treatments,2
+103,1964,,Vitamin D-Mangel,2
+1965,1964,,Schwere der Infektion,2
+2,1966,,Treatments,2
+94,1966,,Gesundheit,2
+1967,1966,,demografische Ökonomie,2
+1968,1966,,Ökonomie von Minderheiten,2
+1969,1966,,Rassen,2
+1970,1966,,indigene Völker,2
+1971,1966,,Einwanderer,2
+1972,1966,,Diskriminierung außerhalb des Arbeitsmarktes,2
+2,1973,,Treatments,2
+1097,1973,,klinischer Schweregrad,2
+1974,1973,,Laborergebnisse,2
+1580,1973,,Blutbild,2
+20,1973,,CRP,2
+1975,1973,,Glukose,2
+1897,1973,,Kalzium,2
+119,1973,,Magnesium,2
+3,1973,,Vitamin D,2
+2,1976,,Treatments,2
+53,1976,,Infektionskrankheiten,2
+128,1976,,Lungenentzündung,2
+1977,1976,,pflanzliche Stoffe,2
+1978,1976,,Phytosome®,2
+2,1979,,Treatments,2
+121,1979,,Schweregrad,2
+103,1979,,Vitamin D-Mangel,2
+11,1979,,Virale Infektionen,2
 2,1980,,Treatments,2
-54,1980,,Infektionskrankheiten,2
-48,1980,,Coronavirus,2
-129,1980,,Lungenentzündung,2
-1981,1980,,pflanzliche Stoffe,2
-1982,1980,,Phytosome®,2
-2,1983,,Treatments,2
-122,1983,,Schweregrad,2
-104,1983,,Vitamin D-Mangel,2
-11,1983,,Virale Infektionen,2
-2,1984,,Treatments,2
-1985,1984,,Kardiorespiratorische Fitness,2
-609,1984,,Inaktivität,2
-1986,1984,,Mentale Gesundheit,2
-1987,1984,,Metabolische Gesundheit,2
-1988,1984,,Mitochondriale Fitness,2
-2,1989,,Treatments,2
-45,1989,,Ernährung,2
-200,1989,,Bewegung,2
-2,1990,,Treatments,2
-1991,1990,,SARS-Cov-2-Virus,2
-1992,1990,,pharmazeutische Gesundheitsinfrastruktur,2
-996,1990,,Medikamente,2
-83,1993,,Vaccines,2
-1533,1993,,Myokarditis,2
-1994,1993,,Perikarditis,2
-530,1993,,Jugendliche,2
-1995,1993,,Komirnatie,2
-1996,1993,,Hongkong,2
-2,1997,,Treatments,2
-3,1997,,Vitamin D,2
-1588,1997,,Prävalenz,2
-2,1998,,Treatments,2
-445,1998,,ACE2,2
-1999,1998,,Komorbiditäten,2
-179,1998,,Zytokinsturm,2
-200,1998,,Bewegung,2
-427,1998,,Entzündung,2
-83,2000,,Vaccines,2
-2001,2000,,neutralisierende Antikörperreaktion,2
-2002,2000,,SARS-CoV-2-S1-bindende Antikörperreaktion,2
-1839,2000,,unerwünschte Wirkungen,2
-2003,2000,,Immunkinetik,2
-264,2000,,BNT162b2,2
-2004,2000,,geimpft,2
-2,2005,,Treatments,2
-222,2005,,25-Hydroxyvitamin D,2
-2006,2005,,Ergebnisse der Intensivpflege,2
+1981,1980,,Kardiorespiratorische Fitness,2
+607,1980,,Inaktivität,2
+1982,1980,,Mentale Gesundheit,2
+1983,1980,,Metabolische Gesundheit,2
+1984,1980,,Mitochondriale Fitness,2
+2,1985,,Treatments,2
+45,1985,,Ernährung,2
+199,1985,,Bewegung,2
+2,1986,,Treatments,2
+1987,1986,,SARS-Cov-2-Virus,2
+1988,1986,,pharmazeutische Gesundheitsinfrastruktur,2
+994,1986,,Medikamente,2
+82,1989,,Vaccines,2
+1531,1989,,Myokarditis,2
+1990,1989,,Perikarditis,2
+528,1989,,Jugendliche,2
+1991,1989,,Komirnatie,2
+1992,1989,,Hongkong,2
+2,1993,,Treatments,2
+3,1993,,Vitamin D,2
+1586,1993,,Prävalenz,2
+2,1994,,Treatments,2
+444,1994,,ACE2,2
+1995,1994,,Komorbiditäten,2
+178,1994,,Zytokinsturm,2
+199,1994,,Bewegung,2
+426,1994,,Entzündung,2
+82,1996,,Vaccines,2
+1997,1996,,neutralisierende Antikörperreaktion,2
+1998,1996,,SARS-CoV-2-S1-bindende Antikörperreaktion,2
+1837,1996,,unerwünschte Wirkungen,2
+1999,1996,,Immunkinetik,2
+263,1996,,BNT162b2,2
+2000,1996,,geimpft,2
+2,2001,,Treatments,2
+221,2001,,25-Hydroxyvitamin D,2
+2002,2001,,Ergebnisse der Intensivpflege,2
+2,2003,,Treatments,2
+2004,2003,,entzündungshemmende Medikamente,2
+2005,2003,,monoklonale Anti-SARS-CoV-2-Antikörper,2
+154,2003,,antivirale Medikamente,2
+2006,2003,,immunmodulierende Wirkstoffe,2
 2,2007,,Treatments,2
-2008,2007,,entzündungshemmende Medikamente,2
-2009,2007,,monoklonale Anti-SARS-CoV-2-Antikörper,2
-155,2007,,antivirale Medikamente,2
-2010,2007,,immunmodulierende Wirkstoffe,2
-2,2011,,Treatments,2
-449,2011,,Immunmodulation,2
-2012,2011,,therapeutisch,2
-3,2011,,Vitamin D,2
-2,2013,,Treatments,2
-2014,2013,,Kinder-Adipositas,2
-200,2013,,Bewegung,2
-709,2013,,sitzende Tätigkeit,2
-2015,2013,,Online-Trainingsprogramm,2
-1881,2013,,Telemedizin,2
-2016,2013,,Pädiatrie,2
-83,2017,,Vaccines,2
-2,2018,,Treatments,2
-2019,2018,,allgemeine Ängstlichkeit,2
-70,2018,,Depression,2
-2020,2018,,soziales Interaktionsniveau,2
-2021,2018,,Argentinien,2
-15,2018,,Körperliche Aktivität,2
-25,2022,,Immunity,2
-2023,2022,,frühere Infektion,2
-2024,2022,,Antikörper-positiv,2
-2025,2022,,Antikörper-negativ,2
-2,2026,,Treatments,2
-40,2026,,Zink,2
-3,2026,,Vitamin D,2
-39,2026,,Vitamin C,2
-2027,2026,,Integrität der physischen Gewebebarriere,2
-196,2026,,Immunsystem,2
-59,2028,,Interventions,2
-2029,2028,,COVID-19-Einschränkungen,2
-2030,2028,,körperliche Aktivität nach der Pandemie,2
-2031,2028,,Long-COVID-Syndrom,2
-83,2032,,Vaccines,2
-2033,2032,,Übertragung,2
-2034,2032,,ungeimpft,2
-2004,2032,,geimpft,2
-1015,2032,,Delta-Variante,2
+448,2007,,Immunmodulation,2
+2008,2007,,therapeutisch,2
+3,2007,,Vitamin D,2
+2,2009,,Treatments,2
+2010,2009,,Kinder-Adipositas,2
+199,2009,,Bewegung,2
+707,2009,,sitzende Tätigkeit,2
+2011,2009,,Online-Trainingsprogramm,2
+1879,2009,,Telemedizin,2
+2012,2009,,Pädiatrie,2
+82,2013,,Vaccines,2
+2,2014,,Treatments,2
+2015,2014,,allgemeine Ängstlichkeit,2
+69,2014,,Depression,2
+2016,2014,,soziales Interaktionsniveau,2
+2017,2014,,Argentinien,2
+15,2014,,Körperliche Aktivität,2
+25,2018,,Immunity,2
+2019,2018,,frühere Infektion,2
+2020,2018,,Antikörper-positiv,2
+2021,2018,,Antikörper-negativ,2
+2,2022,,Treatments,2
+40,2022,,Zink,2
+3,2022,,Vitamin D,2
+39,2022,,Vitamin C,2
+2023,2022,,Integrität der physischen Gewebebarriere,2
+195,2022,,Immunsystem,2
+58,2024,,Interventions,2
+2025,2024,,COVID-19-Einschränkungen,2
+2026,2024,,körperliche Aktivität nach der Pandemie,2
+2027,2024,,Long-COVID-Syndrom,2
+82,2028,,Vaccines,2
+2029,2028,,Übertragung,2
+2030,2028,,ungeimpft,2
+2000,2028,,geimpft,2
+1012,2028,,Delta-Variante,2
+2,2031,,Treatments,2
+1591,2031,,Mikronährstoffergänzungen,2
+3,2031,,Vitamin D,2
+39,2031,,Vitamin C,2
+40,2031,,Zink,2
+122,2031,,Mortalität,2
+2,2032,,Treatments,2
+44,2032,,Lockdown,2
+2033,2032,,Rumänien,2
+836,2032,,junge Erwachsene,2
+15,2032,,Körperliche Aktivität,2
+2,2034,,Treatments,2
+1070,2034,,Baricitinib,2
+1054,2034,,Casirivimab,2
+1583,2034,,Dexamethasone,2
+1055,2034,,Imdevimab,2
+409,2034,,Remdesivir,2
+1090,2034,,Sotrovimab,2
+1092,2034,,Tocilizumab,2
+887,2034,,Paxlovid,2
+482,2034,,Omicron,2
 2,2035,,Treatments,2
-1593,2035,,Mikronährstoffergänzungen,2
-3,2035,,Vitamin D,2
-39,2035,,Vitamin C,2
 40,2035,,Zink,2
-123,2035,,Mortalität,2
-2,2036,,Treatments,2
-44,2036,,Lockdown,2
-2037,2036,,Rumänien,2
-838,2036,,junge Erwachsene,2
-15,2036,,Körperliche Aktivität,2
-2,2038,,Treatments,2
-1072,2038,,Baricitinib,2
-1056,2038,,Casirivimab,2
-1585,2038,,Dexamethasone,2
-1057,2038,,Imdevimab,2
-410,2038,,Remdesivir,2
-1092,2038,,Sotrovimab,2
-1094,2038,,Tocilizumab,2
-889,2038,,Paxlovid,2
-483,2038,,Omicron,2
+1906,2035,,klinische Ergebnisse,2
+25,2036,,Immunity,2
+1239,2036,,Infektionsraten,2
+2020,2036,,Antikörper-positiv,2
+2021,2036,,Antikörper-negativ,2
+58,2037,,Interventions,2
+1375,2037,,sesshaftes Verhalten,2
+199,2037,,Bewegung,2
+2038,2037,,neurologische Erkrankung,2
+15,2037,,Körperliche Aktivität,2
 2,2039,,Treatments,2
-40,2039,,Zink,2
-1908,2039,,klinische Ergebnisse,2
-25,2040,,Immunity,2
-1241,2040,,Infektionsraten,2
-2024,2040,,Antikörper-positiv,2
-2025,2040,,Antikörper-negativ,2
-59,2041,,Interventions,2
-1377,2041,,sesshaftes Verhalten,2
-200,2041,,Bewegung,2
-2042,2041,,neurologische Erkrankung,2
-15,2041,,Körperliche Aktivität,2
+3,2039,,Vitamin D,2
+121,2039,,Schweregrad,2
+2040,2039,,Beobachtungsstudie,2
+1666,2039,,Saudi-Arabien,2
+2,2041,,Treatments,2
+3,2041,,Vitamin D,2
+930,2041,,SARS-CoV-2-Infektion,2
+103,2041,,Vitamin D-Mangel,2
+281,2041,,25(OH)D3,2
+2042,2041,,COVID-19-Schweregrad,2
 2,2043,,Treatments,2
+1550,2043,,Renin-Angiotensin-Aldosteron-System,2
 3,2043,,Vitamin D,2
-122,2043,,Schweregrad,2
-2044,2043,,Beobachtungsstudie,2
-1668,2043,,Saudi-Arabien,2
-2,2045,,Treatments,2
-3,2045,,Vitamin D,2
-932,2045,,SARS-CoV-2-Infektion,2
-104,2045,,Vitamin D-Mangel,2
-282,2045,,25(OH)D3,2
-2046,2045,,COVID-19-Schweregrad,2
-2,2047,,Treatments,2
-1552,2047,,Renin-Angiotensin-Aldosteron-System,2
-3,2047,,Vitamin D,2
-2,2048,,Treatments,2
-2049,2048,,physical activity,2
-2050,2048,,catching COVID-19,2
-2051,2048,,overcome COVID-19,2
-83,2052,,Vaccines,2
-2053,2052,,mRNA-basierter Impfstoff,2
-488,2052,,Immunantwort,2
-2054,2052,,entzündliche Zytokine,2
-2,2055,,Treatments,2
-48,2055,,Coronavirus,2
-76,2055,,Immunität,2
-2056,2055,,Energieaufnahme,2
-2057,2055,,Proteine,2
-2058,2055,,Fettsäuren,2
-2059,2055,,Omega-3-Vitamine,2
-316,2055,,Vitamine,2
-392,2055,,Mineralien,2
-2060,2055,,Elektrolyte,2
-2,2061,,Treatments,2
-3,2061,,Vitamin D,2
-1851,2061,,CD147,2
-140,2061,,CD8,2
-2062,2061,,Lektin,2
-2063,2061,,Glykan,2
-142,2061,,Epitope,2
-2064,2061,,Angioödem,2
+2,2044,,Treatments,2
+2045,2044,,physical activity,2
+2046,2044,,catching COVID-19,2
+2047,2044,,overcome COVID-19,2
+82,2048,,Vaccines,2
+2049,2048,,mRNA-basierter Impfstoff,2
+486,2048,,Immunantwort,2
+2050,2048,,entzündliche Zytokine,2
+2,2051,,Treatments,2
+75,2051,,Immunität,2
+2052,2051,,Energieaufnahme,2
+2053,2051,,Proteine,2
+2054,2051,,Fettsäuren,2
+2055,2051,,Omega-3-Vitamine,2
+315,2051,,Vitamine,2
+391,2051,,Mineralien,2
+2056,2051,,Elektrolyte,2
+2,2057,,Treatments,2
+3,2057,,Vitamin D,2
+1849,2057,,CD147,2
+139,2057,,CD8,2
+2058,2057,,Lektin,2
+2059,2057,,Glykan,2
+141,2057,,Epitope,2
+2060,2057,,Angioödem,2
