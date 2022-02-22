@@ -68,6 +68,8 @@ Bewegung:
   - körperliche Betätigung
   - Körperliche Inaktivität
   - körperliche Anstrengung
+  - körperliche Aktivität
+  - körperliche Fitness
   matches:
   - körperlich
   aliases:
@@ -147,6 +149,7 @@ Gesundheit:
   - pharmazeutische Gesundheitsinfrastruktur
   - gesundes Altern
   - gesunder Lebensstil
+  - Gesundheitszustand
   matches:
   - gesund
   aliases: []
@@ -185,7 +188,8 @@ Immunität:
   matches: []
   aliases: []
 Immunsystem:
-  tags: []
+  tags:
+  - geschwächtes Immunsystem
   aliases: []
   matches: []
 Impfstoffe:
@@ -225,6 +229,13 @@ Impfstoffe:
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - mRNA-basierter Impfstoff
   - Impfung
+  - Impfstoffadjuvans
+  - Impfstoff-Nanoträger
+  - mRNA COVID-19-Impfstoffe
+  - COVID-19-Impfstoff
+  - Impfstoff von Pfizer
+  - Anti-Impfstoff
+  - Impfstoffmisstrauen
   aliases:
   - Impfung
   matches:
@@ -439,6 +450,7 @@ Virus:
   - Adenovirus-Vektor-DNA-Integration in menschliches Genom
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - SARS-Cov-2-Virus
+  - Virusvarianten
   matches: []
   aliases: []
 Vitamin B:
@@ -477,6 +489,8 @@ Vitamin D:
   - Vitamin-D-Status
   - Vitamin-D-Supplementierung
   - Serum-Vitamin-D-Spiegel
+  - Vitamin-D-Supplementation
+  - Vitamin-D-Mangel
   matches: []
   aliases: []
 Vitamin E:
@@ -512,6 +526,7 @@ Zink:
   - Zink-Homöostase
   - Zink-Ionen-koordinierte Bindung
   - Zink n-3 PUFA
+  - Zinkmangel
   matches: []
   aliases: []
 Zytokin:
@@ -534,6 +549,8 @@ mRNA-Impfstoff:
   - mRNA
   - messenger RNA (mRNA) COVID-19 Impfstoffe
   - mRNA-basierter Impfstoff
+  - mrna
+  - mRNA COVID-19-Impfstoffe
   matches:
   - mRNA
   aliases: []
