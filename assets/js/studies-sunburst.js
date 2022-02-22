@@ -41,7 +41,7 @@ d3.json("tree-studies.json")
     .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
     .attr("fill-opacity", d => arcVisible(d.current) ? (d.children ? 0.6 : 0.4) : 0)
     .attr("pointer-events", d => arcVisible(d.current) ? "auto" : "none")
-    .attr("d", d => arc(d.current));
+    .attr("d", d => arc(d.current))
 
   path.filter(d => d.children)
     .style("cursor", "pointer")
