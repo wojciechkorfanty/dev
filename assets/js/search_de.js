@@ -7,7 +7,6 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        console.log(item);
         if ( item.status != "default" ) {
           appendString += '<article id="' + item.article + '-article"><div><p>' + item.journal + '</p><p>&emsp;<em>' + item.status + '</em>&emsp;<time datetime="' + item.date +'">' + item.date + '</time></p></div>';
         } else {
