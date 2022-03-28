@@ -169,6 +169,7 @@ Ernährung:
   - mediterrane Ernährung
   - ernährungsbedingter Entzündungsindex
   - Essen zum Mitnehmen
+  - Nahrungsergänzung
   - Nahrungsergänzungsmittel
   - Nahrungsaufnahme
   matches:
@@ -243,13 +244,14 @@ Immunglobuline:
   - Anti-Spike-IgG
   - IgG
   - IgA
+  - Epigallocatechingallat
+  - Fertiggerichte
+  - Ciganilmab
   matches:
   - Immunglobulin
-  - "^IgA"
-  - "^IgG"
   aliases:
-  - IgA$
-  - IgG$
+  - IgA
+  - IgG
 Immunität:
   tags:
   - T-Zellen-Immunität
@@ -294,23 +296,10 @@ Impfstatus:
   - Geimpft
   - Ungeimpft
   matches: []
-Impfstoff (mRNA):
-  tags:
-  - mRNA-Impfstoff
-  - LNP-formulierte mRNA-Impfstoffe
-  - mRNA-Impfstoffe
-  - mRNA-Omicron
-  - mRNA-1273
-  - messenger RNA (mRNA) COVID-19 Impfstoffe
-  - mRNA-basierter Impfstoff
-  - mrna
-  - mRNA COVID-19-Impfstoffe
-  matches:
-  - mRNA
-  aliases: []
 Impfstoffe:
   tags:
   - SARS-CoV-2-Impfungen
+  - Impfstoffe
   - Impfstoff-Durchbruchsinfektionen
   - impfstoffinduzierte immunthrombotische Thrombozytopenie
   - mRNA-Impfstoff
@@ -343,6 +332,7 @@ Impfstoffe:
   - Vermeidung von heparinähnlichen Antikoagulantien ChAdOx-Impfstoff
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - mRNA-basierter Impfstoff
+  - Impfung
   - Impfstoffadjuvans
   - Impfstoff-Nanoträger
   - mRNA COVID-19-Impfstoffe
@@ -1151,7 +1141,11 @@ Vitamine:
   matches:
   - Vitamin$
 Vorbeugung:
-  tags: []
+  tags:
+  - Erfahrung in der Behandlung
+  - Frühbehandlung
+  - COVID-19-Behandlung
+  - Behandlung im Frühstadium
   aliases: []
   matches: []
 Vorsorge:
@@ -1196,6 +1190,20 @@ Zitrusfrüchte:
   - Zitrone
   - Orange
   - Zitrus
+  aliases: []
+mRNA-Impfstoff:
+  tags:
+  - LNP-formulierte mRNA-Impfstoffe
+  - mRNA-Impfstoffe
+  - mRNA-Omicron
+  - mRNA-1273
+  - mRNA
+  - messenger RNA (mRNA) COVID-19 Impfstoffe
+  - mRNA-basierter Impfstoff
+  - mrna
+  - mRNA COVID-19-Impfstoffe
+  matches:
+  - mRNA
   aliases: []
 Ältere Menschen:
   tags:
