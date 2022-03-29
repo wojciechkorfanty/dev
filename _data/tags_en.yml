@@ -72,6 +72,9 @@ vitamin D:
   - "/studies/2021/12/02/10.3390_medicina57121321.html"
 - - 'Does vitamin D supplementation reduce COVID-19 severity?: a systematic review'
   - "/studies/2022/02/15/10.1093-qjmed-hcac040.html"
+- - 'Therapeutic Vitamin D Supplementation Following COVID-19 Diagnosis: Where Do
+    We Stand?—A Systematic Review'
+  - "/studies/2022/03/08/10.3390-jpm12030419.html"
 - - Vitamin D and its role in the COVID-19 pandemic
   - "/studies/2022/01/25/10.18004_rvspmi_2312-3893_2021.08.02.09.html"
 - - 'Association between vitamin D status and risk of covid-19 in-hospital mortality:
@@ -1257,6 +1260,9 @@ mortality:
   - "/studies/2021/06/28/10.1093_cid_ciab591.html"
 - - Influence of Nutritional Intakes in Japan and the United States on COVID-19 Infection
   - "/studies/2022/02/01/10.3390-nu14030633.html"
+- - 'Therapeutic Vitamin D Supplementation Following COVID-19 Diagnosis: Where Do
+    We Stand?—A Systematic Review'
+  - "/studies/2022/03/08/10.3390-jpm12030419.html"
 - - 'Association between vitamin D status and risk of covid-19 in-hospital mortality:
     A systematic review and meta-analysis of observational studies'
   - "/studies/2021/12/09/10.1080_10408398.2021.2012419.html"
@@ -1380,6 +1386,148 @@ immune system:
 - - High-Dose Vitamin C Supplementation as a Legitimate Anti-SARS-CoV-2 Prophylaxis
     in Healthy Subjects—Yes or No?
   - "/studies/2022/02/25/10.3390-nu14050979.html"
+COVID-19:
+- - Considerations in boosting COVID-19 vaccine immune responses
+  - "/studies_en/2021/09/13/10.1016-S0140-6736(21)02046-8.html"
+- - 'Subacute thyroiditis following COVID-19 vaccination: Case report and Society
+    for Endocrinology survey'
+  - "/studies/2022/03/09/10.1111-cen.14716.html"
+- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
+    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
+    Propensity Score Matching'
+  - "/studies/2022/01/01/research-gate_356962821.html"
+- - Trends in ambulatory cardiology consultations for suspected myocarditis after
+    COVID-19 vaccination
+  - "/studies/2021/11/23/10.1007-s00392-021-01974-0.html"
+- - Myocarditis Associated With COVID-19 Vaccination
+  - "/studies/2021/08/25/10.1161-CIRCIMAGING.121.013236.html"
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies/2021/10/28/10.3390-jpm11111106.html"
+- - Boosters appear effective, but are they always needed?
+  - "/studies/2021/10/29/10.1016-S0140-6736(21)02388-6.html"
+- - Association of Myocarditis With BNT162b2 Messenger RNA COVID-19 Vaccine in a Case
+    Series of Children
+  - "/studies/2021/08/10/10.1001-jamacardio.2021.3471.html"
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies/2022/03/02/10.1056-NEJMoa2119451.html"
+- - 'Cutting Edge: Serum but Not Mucosal Antibody Responses Are Associated with Pre-Existing
+    SARS-CoV-2 Spike Cross-Reactive CD4+ T Cells following BNT162b2 Vaccination in
+    the Elderly'
+  - "/studies/2022/03/01/10.4049-jimmunol.2100990.html"
+- - Myocarditis Following COVID-19 BNT162b2 Vaccination Among Adolescents in Hong
+    Kong
+  - "/studies/2022/02/25/10.1001-jamapediatrics.2022.0101.html"
+- - 'Clinical Presentation and Outcomes of Myocarditis Post mRNA Vaccination: A Meta-Analysis
+    and Systematic Review'
+  - "/studies/2021/11/03/10.7759-cureus.19240.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
+    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
+    Propensity Score Matching'
+  - "/studies/2022/01/01/research-gate_356962821.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016-j.vaccine.2021.09.004.html"
+- - Mechanisms that could increase cancer vulnerability in COVID-19 mRNA vaccine recipients
+  - "/studies/2021/11/04/10.31219-osf.io-2ts54.html"
+- - 'Myocarditis and pericarditis in association with COVID-19 mRNA-vaccination: cases
+    from a regional pharmacovigilance centre'
+  - "/studies/2022/03/22/10.21542-gcsp.2021.18.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - 'Cardiac Inflammation after COVID-19 mRNA Vaccines: A Global Pharmacovigilance
+    Analysis'
+  - "/studies/2021/08/18/10.1101-2021.08.12.21261955 .html"
+- - Myocarditis after COVID-19 mRNA vaccines
+  - "/studies/2021/09/21/10.1093-qjmed-hcab244.html"
+- - 'Pharmacological treatment of COVID-19: an opinion paper'
+  - "/studies/2021/12/11/10.37201_158.2021.html"
+- - Myocarditis With COVID-19 mRNA Vaccines
+  - "/studies/2021/07/20/10.1161-CIRCULATIONAHA.121.056135.html"
+- - Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From
+    December 2020 to August 2021
+  - "/studies/2022/01/25/10.1001-jama.2021.24110.html"
+- - 'Pharmacological treatment of COVID-19: an opinion paper'
+  - "/studies/2021/12/11/10.37201_158.2021.html"
+- - 'SARS-CoV-2 mRNA Vaccination-Associated Myocarditis in Children Ages 12-17: A
+    Stratified National Database Analysis'
+  - "/studies/2022/02/28/10.1101-2021.08.30.21262866.html"
+- - Immunosequencing and epitope mapping reveal substantial preservation of the T
+    cell immune response to Omicron generated by SARS-CoV-2 vaccines
+  - "/studies/2021/12/27/10.1101-2021.12.20.21267877.html"
+- - Perimyocarditis in Adolescents After Pfizer-BioNTech COVID-19 Vaccine
+  - "/studies/2021/07/28/10.1093-jpids-piab060.html"
+SARS-CoV-2:
+- - Considerations in boosting COVID-19 vaccine immune responses
+  - "/studies_en/2021/09/13/10.1016-S0140-6736(21)02046-8.html"
+- - 'Subacute thyroiditis following COVID-19 vaccination: Case report and Society
+    for Endocrinology survey'
+  - "/studies/2022/03/09/10.1111-cen.14716.html"
+- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
+    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
+    Propensity Score Matching'
+  - "/studies/2022/01/01/research-gate_356962821.html"
+- - Trends in ambulatory cardiology consultations for suspected myocarditis after
+    COVID-19 vaccination
+  - "/studies/2021/11/23/10.1007-s00392-021-01974-0.html"
+- - Myocarditis Associated With COVID-19 Vaccination
+  - "/studies/2021/08/25/10.1161-CIRCIMAGING.121.013236.html"
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies/2021/10/28/10.3390-jpm11111106.html"
+- - Boosters appear effective, but are they always needed?
+  - "/studies/2021/10/29/10.1016-S0140-6736(21)02388-6.html"
+- - Association of Myocarditis With BNT162b2 Messenger RNA COVID-19 Vaccine in a Case
+    Series of Children
+  - "/studies/2021/08/10/10.1001-jamacardio.2021.3471.html"
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies/2022/03/02/10.1056-NEJMoa2119451.html"
+- - 'Cutting Edge: Serum but Not Mucosal Antibody Responses Are Associated with Pre-Existing
+    SARS-CoV-2 Spike Cross-Reactive CD4+ T Cells following BNT162b2 Vaccination in
+    the Elderly'
+  - "/studies/2022/03/01/10.4049-jimmunol.2100990.html"
+- - Myocarditis Following COVID-19 BNT162b2 Vaccination Among Adolescents in Hong
+    Kong
+  - "/studies/2022/02/25/10.1001-jamapediatrics.2022.0101.html"
+- - 'Clinical Presentation and Outcomes of Myocarditis Post mRNA Vaccination: A Meta-Analysis
+    and Systematic Review'
+  - "/studies/2021/11/03/10.7759-cureus.19240.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
+    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
+    Propensity Score Matching'
+  - "/studies/2022/01/01/research-gate_356962821.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016-j.vaccine.2021.09.004.html"
+- - Mechanisms that could increase cancer vulnerability in COVID-19 mRNA vaccine recipients
+  - "/studies/2021/11/04/10.31219-osf.io-2ts54.html"
+- - 'Myocarditis and pericarditis in association with COVID-19 mRNA-vaccination: cases
+    from a regional pharmacovigilance centre'
+  - "/studies/2022/03/22/10.21542-gcsp.2021.18.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - 'Cardiac Inflammation after COVID-19 mRNA Vaccines: A Global Pharmacovigilance
+    Analysis'
+  - "/studies/2021/08/18/10.1101-2021.08.12.21261955 .html"
+- - 'Pharmacological treatment of COVID-19: an opinion paper'
+  - "/studies/2021/12/11/10.37201_158.2021.html"
+- - Myocarditis With COVID-19 mRNA Vaccines
+  - "/studies/2021/07/20/10.1161-CIRCULATIONAHA.121.056135.html"
+- - Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From
+    December 2020 to August 2021
+  - "/studies/2022/01/25/10.1001-jama.2021.24110.html"
+- - 'Pharmacological treatment of COVID-19: an opinion paper'
+  - "/studies/2021/12/11/10.37201_158.2021.html"
+- - 'SARS-CoV-2 mRNA Vaccination-Associated Myocarditis in Children Ages 12-17: A
+    Stratified National Database Analysis'
+  - "/studies/2022/02/28/10.1101-2021.08.30.21262866.html"
+- - Immunosequencing and epitope mapping reveal substantial preservation of the T
+    cell immune response to Omicron generated by SARS-CoV-2 vaccines
+  - "/studies/2021/12/27/10.1101-2021.12.20.21267877.html"
+- - Perimyocarditis in Adolescents After Pfizer-BioNTech COVID-19 Vaccine
+  - "/studies/2021/07/28/10.1093-jpids-piab060.html"
 overweight:
 - - 'COVID-19 confinement impact on weight gain and physical activity in the older
     adult population: data from the LOST in Lombardia study'
@@ -1965,6 +2113,9 @@ Mortality:
 ICU admission:
 - - 'The link between COVID-19 and VItamin D (VIVID): A systematic review and meta-analysis'
   - "/studies_en/2021/03/24/10.1016_j.metabol.2021.154753.html"
+- - 'Therapeutic Vitamin D Supplementation Following COVID-19 Diagnosis: Where Do
+    We Stand?—A Systematic Review'
+  - "/studies/2022/03/08/10.3390-jpm12030419.html"
 - - 'Vitamin D supplementation and clinical outcomes in COVID-19: a systematic review
     and meta-analysis'
   - "/studies/2021/06/24/10.1007_s40618-021-01614-4.html"
@@ -2111,6 +2262,10 @@ evidence-based practice:
 - - 'COVID-19 incidence, severity, medication use, and vaccination among dentists:
     Staggering body of evidence obtained from a survey during the second wave in Brazil'
   - "/studies_en/2022/01/12/10.1590_SciELOPreprints.3483.html"
+subacute thyroiditis:
+- - 'Subacute thyroiditis following COVID-19 vaccination: Case report and Society
+    for Endocrinology survey'
+  - "/studies_en/2022/03/09/10.1111-cen.14716.html"
 magnesium:
 - - Comparative Analysis of Serum Zinc, Copper and Magnesium Level and Their Relations
     in Association with Severity and Mortality in SARS-CoV-2 Patients
@@ -2913,6 +3068,105 @@ Cytokine storm:
 - - Metabolic and inflammatory health in SARS-CoV-2 and the potential role for habitual
     exercise in reducing disease severity
   - "/studies/2021/11/01/10.1007_s00011-021-01517-3.html"
+Myocarditis:
+- - Myocarditis after Covid-19 Vaccination in a Large Health Care Organization
+  - "/studies_en/2021/10/06/10.1056-NEJMoa2110737.html"
+- - Trends in ambulatory cardiology consultations for suspected myocarditis after
+    COVID-19 vaccination
+  - "/studies/2021/11/23/10.1007-s00392-021-01974-0.html"
+- - Myocarditis Associated With COVID-19 Vaccination
+  - "/studies/2021/08/25/10.1161-CIRCIMAGING.121.013236.html"
+- - Association of Myocarditis With BNT162b2 Messenger RNA COVID-19 Vaccine in a Case
+    Series of Children
+  - "/studies/2021/08/10/10.1001-jamacardio.2021.3471.html"
+- - 'Myocarditis-induced Sudden Death after BNT162b2 mRNA COVID-19 Vaccination in
+    Korea: Case Report Focusing on Histopathological Findings'
+  - "/studies/2021/10/18/10.3346-jkms.2021.36.e286.html"
+- - 'Clinical Presentation and Outcomes of Myocarditis Post mRNA Vaccination: A Meta-Analysis
+    and Systematic Review'
+  - "/studies/2021/11/03/10.7759-cureus.19240.html"
+- - Safety of the BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Setting
+  - "/studies/2021/08/25/10.1056-NEJMoa2110475.html"
+- - 'Myocarditis and pericarditis in association with COVID-19 mRNA-vaccination: cases
+    from a regional pharmacovigilance centre'
+  - "/studies/2022/03/22/10.21542-gcsp.2021.18.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From
+    December 2020 to August 2021
+  - "/studies/2022/01/25/10.1001-jama.2021.24110.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016_j.vaccine.2021.09.004.html"
+- - 'SARS-CoV-2 mRNA Vaccination-Associated Myocarditis in Children Ages 12-17: A
+    Stratified National Database Analysis'
+  - "/studies/2022/02/28/10.1101-2021.08.30.21262866.html"
+- - Myocarditis after BNT162b2 mRNA Vaccine against Covid-19 in Israel
+  - "/studies/2021/10/06/10.1056-NEJMoa2109730.html"
+- - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
+    Comirnaty Vaccination
+  - "/studies/2021/11/28/10.1093_cid_ciab989.html"
+BNT162b2:
+- - Myocarditis after Covid-19 Vaccination in a Large Health Care Organization
+  - "/studies_en/2021/10/06/10.1056-NEJMoa2110737.html"
+- - Antibody titres decline 3-month post-vaccination with BNT162b2
+  - "/studies/2021/07/22/10.1080_22221751.2021.1953403.html"
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies/2021/10/28/10.3390-jpm11111106.html"
+- - Spike-antibody waning after second dose of BNT162b2 or ChAdOx1
+  - "/studies/2021/07/15/10.1016_S0140-6736(21)01642-1.html"
+- - Boosters appear effective, but are they always needed?
+  - "/studies/2021/10/29/10.1016-S0140-6736(21)02388-6.html"
+- - Association of Myocarditis With BNT162b2 Messenger RNA COVID-19 Vaccine in a Case
+    Series of Children
+  - "/studies/2021/08/10/10.1001-jamacardio.2021.3471.html"
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies/2022/03/02/10.1056-NEJMoa2119451.html"
+- - 'Cutting Edge: Serum but Not Mucosal Antibody Responses Are Associated with Pre-Existing
+    SARS-CoV-2 Spike Cross-Reactive CD4+ T Cells following BNT162b2 Vaccination in
+    the Elderly'
+  - "/studies/2022/03/01/10.4049-jimmunol.2100990.html"
+- - Myocarditis Following COVID-19 BNT162b2 Vaccination Among Adolescents in Hong
+    Kong
+  - "/studies/2022/02/25/10.1001-jamapediatrics.2022.0101.html"
+- - Immune imprinting, breadth of variant recognition, and germinal center response
+    in human SARS-CoV-2 infection and vaccination
+  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
+- - 'Myocarditis-induced Sudden Death after BNT162b2 mRNA COVID-19 Vaccination in
+    Korea: Case Report Focusing on Histopathological Findings'
+  - "/studies/2021/10/18/10.3346-jkms.2021.36.e286.html"
+- - 'Clinical Presentation and Outcomes of Myocarditis Post mRNA Vaccination: A Meta-Analysis
+    and Systematic Review'
+  - "/studies/2021/11/03/10.7759-cureus.19240.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - 'Cutting Edge: Circulating Exosomes with COVID Spike Protein Are Induced by BNT162b2
+    (Pfizer–BioNTech) Vaccination prior to Development of Antibodies: A Novel Mechanism
+    for Immune Activation by mRNA Vaccines'
+  - "/studies/2021/10/15/10.4049_jimmunol.2100637.html"
+- - 'Symptomatic SARS-CoV-2 infections after full schedule BNT162b2 vaccination in
+    seropositive healthcare workers: a case series from a single institution'
+  - "/studies/2021/06/09/10.1080_22221751.2021.1942230.html"
+- - Safety of the BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Setting
+  - "/studies/2021/08/25/10.1056-NEJMoa2110475.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016-j.vaccine.2021.09.004.html"
+- - Mechanisms that could increase cancer vulnerability in COVID-19 mRNA vaccine recipients
+  - "/studies/2021/11/04/10.31219-osf.io-2ts54.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - Myocarditis With COVID-19 mRNA Vaccines
+  - "/studies/2021/07/20/10.1161-CIRCULATIONAHA.121.056135.html"
+- - Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From
+    December 2020 to August 2021
+  - "/studies/2022/01/25/10.1001-jama.2021.24110.html"
+- - Myocarditis after BNT162b2 mRNA Vaccine against Covid-19 in Israel
+  - "/studies/2021/10/06/10.1056-NEJMoa2109730.html"
+- - Perimyocarditis in Adolescents After Pfizer-BioNTech COVID-19 Vaccine
+  - "/studies/2021/07/28/10.1093-jpids-piab060.html"
+- - Correlates of Neutralizing/SARS-CoV-2-S1-binding Antibody Response with Adverse
+    Effects and Immune Kinetics in BNT162b2-Vaccinated Individuals
+  - "/studies/2021/07/30/10.1101_2021.07.27.21261237.html"
 healthy behaviour:
 - - 'Changes in Active Behaviours, Physical Activity, Sedentary Time, and Physical
     Fitness in Chilean Parents during the COVID-19 Pandemic: A Retrospective Study'
@@ -2945,32 +3199,6 @@ Reinfection:
 - - Evolution of antibody responses up to 13 months after SARS-CoV-2 infection and
     risk of reinfection
   - "/studies_en/2021/08/26/10.1016_j.ebiom.2021.103561.html"
-COVID-19:
-- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
-    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
-    Propensity Score Matching'
-  - "/studies_en/2022/01/01/research-gate_356962821.html"
-- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
-    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
-    Propensity Score Matching'
-  - "/studies/2022/01/01/research-gate_356962821.html"
-- - 'Pharmacological treatment of COVID-19: an opinion paper'
-  - "/studies/2021/12/11/10.37201_158.2021.html"
-- - 'Pharmacological treatment of COVID-19: an opinion paper'
-  - "/studies/2021/12/11/10.37201_158.2021.html"
-SARS-CoV-2:
-- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
-    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
-    Propensity Score Matching'
-  - "/studies_en/2022/01/01/research-gate_356962821.html"
-- - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
-    Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
-    Propensity Score Matching'
-  - "/studies/2022/01/01/research-gate_356962821.html"
-- - 'Pharmacological treatment of COVID-19: an opinion paper'
-  - "/studies/2021/12/11/10.37201_158.2021.html"
-- - 'Pharmacological treatment of COVID-19: an opinion paper'
-  - "/studies/2021/12/11/10.37201_158.2021.html"
 prophylaxis:
 - - 'Ivermectin Prophylaxis Used for COVID-19 Reduces COVID-19 Infection and Mortality
     Rates: A City-Wide, Prospective Observational Study of 223,128 Subjects Using
@@ -3146,24 +3374,6 @@ mRNA vaccine:
     to “potential antigenic cross-reactivity between SARS-CoV-2 and human tissue with
     a possible link to an increase in autoimmune diseases”
   - "/studies/2021/01/08/10.1016_j.clim.2021.108665.html"
-BNT162b2:
-- - Antibody titres decline 3-month post-vaccination with BNT162b2
-  - "/studies_en/2021/07/22/10.1080_22221751.2021.1953403.html"
-- - Spike-antibody waning after second dose of BNT162b2 or ChAdOx1
-  - "/studies/2021/07/15/10.1016_S0140-6736(21)01642-1.html"
-- - Immune imprinting, breadth of variant recognition, and germinal center response
-    in human SARS-CoV-2 infection and vaccination
-  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
-- - 'Cutting Edge: Circulating Exosomes with COVID Spike Protein Are Induced by BNT162b2
-    (Pfizer–BioNTech) Vaccination prior to Development of Antibodies: A Novel Mechanism
-    for Immune Activation by mRNA Vaccines'
-  - "/studies/2021/10/15/10.4049_jimmunol.2100637.html"
-- - 'Symptomatic SARS-CoV-2 infections after full schedule BNT162b2 vaccination in
-    seropositive healthcare workers: a case series from a single institution'
-  - "/studies/2021/06/09/10.1080_22221751.2021.1942230.html"
-- - Correlates of Neutralizing/SARS-CoV-2-S1-binding Antibody Response with Adverse
-    Effects and Immune Kinetics in BNT162b2-Vaccinated Individuals
-  - "/studies/2021/07/30/10.1101_2021.07.27.21261237.html"
 antibody response:
 - - Antibody titres decline 3-month post-vaccination with BNT162b2
   - "/studies_en/2021/07/22/10.1080_22221751.2021.1953403.html"
@@ -3972,6 +4182,8 @@ minerals:
 - - The Effect of Nutritional Micronutrients in Immune System against Coronavirus
     Disease (COVID-19)
   - "/studies/2021/10/29/annals-food-science-and-technology_22-2.html"
+- - 'COVID-19: A Review of Immuneenhancing Nutrients and Supplements'
+  - "/studies/2022/01/01/10.18576-JANS.html"
 storm:
 - - 'Epigenetic modifications associated with genes implicated in cytokine storm:
     The potential biotherapeutic effects of vitamins and minerals in COVID-19'
@@ -4019,6 +4231,8 @@ vitamins:
 - - Relationship between Vitamin D Status and Antibody Response to COVID-19 mRNA Vaccination
     in Healthy Adults
   - "/studies/2021/11/18/10.3390_biomedicines9111714.html"
+- - 'COVID-19: A Review of Immuneenhancing Nutrients and Supplements'
+  - "/studies/2022/01/01/10.18576-JANS.html"
 - - Shared genomic architecture between COVID-19 severity and numerous clinical and
     physiologic parameters revealed by LD score regression analysis
   - "/studies/2022/02/03/10.1038-s41598-022-05832-5.html"
@@ -4111,6 +4325,9 @@ thyroid:
 - - A prospective observational safety study on ChAdOx1 nCoV-19 corona virus vaccine
     (recombinant) use in healthcare workers - first results from India
   - "/studies/2021/07/23/10.1016_j.eclinm.2021.101038.html"
+- - Endocrine, metabolic, and hepatic dysfunction in patients with COVID-19 pneumonia
+    with severe and critically ill status
+  - "/studies/2022/03/10/10.1186-s43168-022-00118-w.html"
 testes:
 - - Early and late endocrine complications of COVID-19
   - "/studies_en/2021/09/20/10.1530_EC-21-0184.html"
@@ -4593,6 +4810,8 @@ Omicron:
 - - mRNA-1273 or mRNA-Omicron boost in vaccinated macaques elicits comparable B cell
     expansion, neutralizing antibodies and protection against Omicron
   - "/studies_en/2022/02/04/10.1101-2022.02.03.479037.html"
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies/2022/03/02/10.1056-NEJMoa2119451.html"
 - - An update on drugs with therapeutic potential for SARS-CoV-2 (COVID-19) treatment
   - "/studies/2021/12/09/10.1016-j.drup.2021.100794.html"
 - - 'Newer oral antivirals for COVID-19: Are they the real game changer?'
@@ -4972,6 +5191,66 @@ Vaccine induced thrombotic thrombocytopenia:
 behavioral changes:
 - - Nutrition, physical activity and psychological status during lockdown due to covid-19
   - "/studies_en/2022/01/17/10.4025_actascihealthsci.v44i1.57231.html"
+Myokarditis:
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies_en/2021/10/28/10.3390-jpm11111106.html"
+- - Myocarditis Following COVID-19 BNT162b2 Vaccination Among Adolescents in Hong
+    Kong
+  - "/studies/2022/02/25/10.1001-jamapediatrics.2022.0101.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - Myocarditis following COVID-19 vaccination – A case series
+  - "/studies/2021/10/08/10.1016-j.vaccine.2021.09.004.html"
+- - Myocarditis With COVID-19 mRNA Vaccines
+  - "/studies/2021/07/20/10.1161-CIRCULATIONAHA.121.056135.html"
+Pericarditis:
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies_en/2021/10/28/10.3390-jpm11111106.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - 'Myocarditis and pericarditis in association with COVID-19 mRNA-vaccination: cases
+    from a regional pharmacovigilance centre'
+  - "/studies/2022/03/22/10.21542-gcsp.2021.18.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
+    Comirnaty Vaccination
+  - "/studies/2021/11/28/10.1093_cid_ciab989.html"
+mRNA-1273:
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies_en/2021/10/28/10.3390-jpm11111106.html"
+- - mRNA-1273 or mRNA-Omicron boost in vaccinated macaques elicits comparable B cell
+    expansion, neutralizing antibodies and protection against Omicron
+  - "/studies/2022/02/04/10.1101_2022.02.03.479037.html"
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies/2022/03/02/10.1056-NEJMoa2119451.html"
+- - Immune imprinting, breadth of variant recognition, and germinal center response
+    in human SARS-CoV-2 infection and vaccination
+  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
+- - 'Clinical Presentation and Outcomes of Myocarditis Post mRNA Vaccination: A Meta-Analysis
+    and Systematic Review'
+  - "/studies/2021/11/03/10.7759-cureus.19240.html"
+- - 'COVID 19 Vaccine for Adolescents. Concern about Myocarditis and Pericarditis '
+  - "/studies/2021/09/01/10.3390-pediatric13030061.html"
+- - Mechanisms that could increase cancer vulnerability in COVID-19 mRNA vaccine recipients
+  - "/studies/2021/11/04/10.31219-osf.io-2ts54.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
+- - Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From
+    December 2020 to August 2021
+  - "/studies/2022/01/25/10.1001-jama.2021.24110.html"
+Ad26.COV2.S:
+- - 'Myocarditis and Pericarditis following COVID-19 Vaccination: Inequalities in
+    Age and Vaccine Types'
+  - "/studies_en/2021/10/28/10.3390-jpm11111106.html"
+- - 'Fatal vaccine-induced immune thrombotic thrombocytopenia (VITT) post Ad26.COV2.S:
+    first documented case outside US'
+  - "/studies/2021/10/09/10.1007_s15010-021-01712-8.html"
+- - Myocarditis and Pericarditis After Vaccination for COVID-19
+  - "/studies/2021/08/04/10.1001-jama.2021.13443.html"
 intensity:
 - - Analysis of Young People’s Physical Activity in East Java During the Covid-19
     Pandemic
@@ -5059,6 +5338,19 @@ risk-benefit ratio:
 vaccine adverse events:
 - - COVID vaccination and age-stratified all-cause mortality risk
   - "/studies_en/2021/12/08/researchgate_355581860.html"
+hospitalization:
+- - 'Therapeutic Vitamin D Supplementation Following COVID-19 Diagnosis: Where Do
+    We Stand?—A Systematic Review'
+  - "/studies_en/2022/03/08/10.3390-jpm12030419.html"
+- - 'Ivermectin Prophylaxis Used for COVID-19: A Citywide, Prospective, Observational
+    Study of 223,128 Subjects Using Propensity Score Matching'
+  - "/studies/2022/01/15/10.7759_cureus.21272.html"
+- - Remdesivir for the Treatment of Covid-19 — Final Report
+  - "/studies/2020/11/05/10.1056_NEJMoa2007764.html"
+intubation:
+- - 'Therapeutic Vitamin D Supplementation Following COVID-19 Diagnosis: Where Do
+    We Stand?—A Systematic Review'
+  - "/studies_en/2022/03/08/10.3390-jpm12030419.html"
 lipid nanoparticle:
 - - Long-term predictions of humoral immunity after two doses of BNT162b2 and mRNA-1273
     vaccines based on dosage, age and sex
@@ -5645,6 +5937,8 @@ mRNA COVID-19 vaccines:
 myocarditis:
 - - 'Myocarditis and COVID-19 mRNA vaccines: a mechanistic hypothesis involving dsRNA'
   - "/studies_en/2021/12/06/10.2217_fvl-2021-0280.html"
+- - Myocarditis after COVID-19 mRNA vaccines
+  - "/studies/2021/09/21/10.1093-qjmed-hcab244.html"
 - - A Report on Myocarditis Adverse Events in the U.S. Vaccine Adverse Events Reporting
     System (VAERS) in Association with COVID-19 Injectable Biological Products
   - "/studies/2021/10/01/a-report-on-myocarditis-adverse-events.html"
@@ -5888,13 +6182,6 @@ mRNA-Omicron:
 - - mRNA-1273 or mRNA-Omicron boost in vaccinated macaques elicits comparable B cell
     expansion, neutralizing antibodies and protection against Omicron
   - "/studies_en/2022/02/04/10.1101_2022.02.03.479037.html"
-mRNA-1273:
-- - mRNA-1273 or mRNA-Omicron boost in vaccinated macaques elicits comparable B cell
-    expansion, neutralizing antibodies and protection against Omicron
-  - "/studies_en/2022/02/04/10.1101_2022.02.03.479037.html"
-- - Immune imprinting, breadth of variant recognition, and germinal center response
-    in human SARS-CoV-2 infection and vaccination
-  - "/studies/2022/01/24/10.1016-j.cell.2022.01.018.html"
 non-ivermectin:
 - - 'A comparison of Ivermectin and Non Ivermectin based regimen for covid 19 in Abuja:
     effects on virus clearance, Days-to-Discharge and Mortality'
@@ -6212,6 +6499,8 @@ adipokines:
 cardiovascular system:
 - - 'Evaluating Possible Mechanisms Linking Obesity to COVID-19: a Narrative Review'
   - "/studies_en/2022/02/03/10.1007-s11695-022-05933-0.html"
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies/2021/09/29/10.1093-qjmed-hcab252.html"
 insulin resistance:
 - - 'Evaluating Possible Mechanisms Linking Obesity to COVID-19: a Narrative Review'
   - "/studies_en/2022/02/03/10.1007-s11695-022-05933-0.html"
@@ -6420,10 +6709,6 @@ antioxidants:
 - - The association of dietary inflammatory index, functional foods and some antioxidants
     intake with COVID-19 vaccine side effects in Iranian adults
   - "/studies/2022/02/16/ISSN-0034-6659.html"
-Ad26.COV2.S:
-- - 'Fatal vaccine-induced immune thrombotic thrombocytopenia (VITT) post Ad26.COV2.S:
-    first documented case outside US'
-  - "/studies_en/2021/10/09/10.1007_s15010-021-01712-8.html"
 Vaccine-induced thrombotic thrombocytopenia:
 - - 'Fatal vaccine-induced immune thrombotic thrombocytopenia (VITT) post Ad26.COV2.S:
     first documented case outside US'
@@ -6613,6 +6898,14 @@ respiratory illness:
 cell-free DNA marker:
 - - 'Cell-Free DNA: Potential Application in COVID-19 Diagnostics and Management'
   - "/studies_en/2022/02/04/10.3390-v14020321.html"
+B.1.1.529:
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies_en/2022/03/02/10.1056-NEJMoa2119451.html"
+ChAdOx1 nCoV-19:
+- - Covid-19 Vaccine Effectiveness against the Omicron (B.1.1.529) Variant
+  - "/studies_en/2022/03/02/10.1056-NEJMoa2119451.html"
+- - Perspectives on vaccine induced thrombotic thrombocytopenia
+  - "/studies/2021/05/18/10.1016_j.jaut.2021.102663.html"
 Prothrombotic Immune Thrombocytopenia:
 - - Prothrombotic immune thrombocytopenia after COVID-19 vaccination
   - "/studies_en/2021/07/29/10.1182_blood.2021011958.html"
@@ -6655,6 +6948,14 @@ Clinical trial:
     A randomized, double-blind, placebo-controlled, parallel-group trial. Results
     of the first interim analysis'
   - "/studies_en/2021/09/09/10.1016_j.eclinm.2021.101125.html"
+CD4+ T cells:
+- - 'Cutting Edge: Serum but Not Mucosal Antibody Responses Are Associated with Pre-Existing
+    SARS-CoV-2 Spike Cross-Reactive CD4+ T Cells following BNT162b2 Vaccination in
+    the Elderly'
+  - "/studies_en/2022/03/01/10.4049-jimmunol.2100990.html"
+- - Immunosequencing and epitope mapping reveal substantial preservation of the T
+    cell immune response to Omicron generated by SARS-CoV-2 vaccines
+  - "/studies/2021/12/27/10.1101-2021.12.20.21267877.html"
 Effectiveness:
 - - 'Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection,
     Hospitalization, and Death Up to 9 Months: A Swedish Total-Population Cohort Study'
@@ -7172,6 +7473,38 @@ Vitamin:
 economy:
 - - The effect of COVID-19 on sport, physical activity, well-being and economy
   - "/studies_en/2021/06/20/ISSN-2456-0057.html"
+myocardial infarction:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+acute myocarditis:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+cardiogenic shock:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+heart failure:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+singapore:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+vaccination mortality:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+cardiac complications:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+cardiovascular findings:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+embase:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+COVID-19 vaccines:
+- - Acute myocardial infarction and myocarditis following COVID-19 vaccination
+  - "/studies_en/2021/09/29/10.1093-qjmed-hcab252.html"
+- - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
+  - "/studies/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
 respiratory medicine:
 - - The clinical course of a 79-year-old stroke survivor in the setting of a late-onset
     COVID-19 infection
@@ -7732,6 +8065,22 @@ tea polyphenol:
 SARS-CoV:
 - - Antiviral Effects of Green Tea EGCG and Its Potential Application against COVID-19
   - "/studies_en/2021/06/29/10.3390_molecules26133962.html"
+Cardiology:
+- - COVID-19 Vaccination–Associated Myocarditis in Adolescents
+  - "/studies_en/2021/11/01/10.1542-peds.2021-053427.html"
+Public Health:
+- - COVID-19 Vaccination–Associated Myocarditis in Adolescents
+  - "/studies_en/2021/11/01/10.1542-peds.2021-053427.html"
+- - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
+  - "/studies/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
+Vaccine:
+- - COVID-19 Vaccination–Associated Myocarditis in Adolescents
+  - "/studies_en/2021/11/01/10.1542-peds.2021-053427.html"
+- - COVID-19 vaccine injury compensation programs
+  - "/studies/2021/12/31/10.35500_jghs.2021.3.e21.html"
+Immunization:
+- - COVID-19 Vaccination–Associated Myocarditis in Adolescents
+  - "/studies_en/2021/11/01/10.1542-peds.2021-053427.html"
 vulnerability:
 - - 'Direct and Indirect Effects of COVID-19 in Frail Elderly: Interventions and Recommendations'
   - "/studies_en/2021/10/02/10.3390_jpm11100999.html"
@@ -8199,9 +8548,6 @@ Anaphylaxis:
 VACC:
 - - COVID-19 vaccine injury compensation programs
   - "/studies_en/2021/12/31/10.35500_jghs.2021.3.e21.html"
-Vaccine:
-- - COVID-19 vaccine injury compensation programs
-  - "/studies_en/2021/12/31/10.35500_jghs.2021.3.e21.html"
 Pfizer vaccine:
 - - COVID-19 vaccine injury compensation programs
   - "/studies_en/2021/12/31/10.35500_jghs.2021.3.e21.html"
@@ -8433,12 +8779,6 @@ infection rate:
 - - 'Ivermectin Prophylaxis Used for COVID-19: A Citywide, Prospective, Observational
     Study of 223,128 Subjects Using Propensity Score Matching'
   - "/studies_en/2022/01/15/10.7759_cureus.21272.html"
-hospitalization:
-- - 'Ivermectin Prophylaxis Used for COVID-19: A Citywide, Prospective, Observational
-    Study of 223,128 Subjects Using Propensity Score Matching'
-  - "/studies_en/2022/01/15/10.7759_cureus.21272.html"
-- - Remdesivir for the Treatment of Covid-19 — Final Report
-  - "/studies/2020/11/05/10.1056_NEJMoa2007764.html"
 Cow milk:
 - - Beneficial Effects of Vitamins, Minerals, and Bioactive Peptides on Strengthening
     the Immune System Against COVID-19 and the Role of Cow’s Milk in the Supply of
@@ -8631,6 +8971,9 @@ oldest-old:
 macronutrients:
 - - Effects of Potential Micro- and Macro-nutrients in Combatting COVID-19
   - "/studies_en/2021/08/30/10.1007_s40137-021-00301-w.html"
+cancer vulnerability:
+- - Mechanisms that could increase cancer vulnerability in COVID-19 mRNA vaccine recipients
+  - "/studies_en/2021/11/04/10.31219-osf.io-2ts54.html"
 ventilated:
 - - 'Ivermectin administration is associated with lower gastrointestinal complications
     and greater ventilator-free days in ventilated patients with COVID-19: A propensity
@@ -8778,6 +9121,14 @@ diagnosis:
 - - 'Cytokine storm in COVID-19: from viral infection to immune responses, diagnosis
     and therapy'
   - "/studies_en/2022/01/01/10.7150_ijbs.59272.html"
+Cardiac Inflammation:
+- - 'Cardiac Inflammation after COVID-19 mRNA Vaccines: A Global Pharmacovigilance
+    Analysis'
+  - "/studies_en/2021/08/18/10.1101-2021.08.12.21261955 .html"
+mRNA Vaccines:
+- - 'Cardiac Inflammation after COVID-19 mRNA Vaccines: A Global Pharmacovigilance
+    Analysis'
+  - "/studies_en/2021/08/18/10.1101-2021.08.12.21261955 .html"
 virus variants:
 - - Cases and Hospitalizations by COVID-19 Vaccination Status and Previous COVID-19
     Diagnosis — California and New York, May–November 2021
@@ -8991,6 +9342,9 @@ disease progression:
 - - 'The Role of Nutrition in COVID-19 Susceptibility and Severity of Disease: A Systematic
     Review'
   - "/studies_en/2021/05/19/10.1093_jn_nxab059.html"
+mRNA-vaccines:
+- - Myocarditis after COVID-19 mRNA vaccines
+  - "/studies_en/2021/09/21/10.1093-qjmed-hcab244.html"
 small molecule drugs:
 - - Giant progress in small molecule antiviral drugs for SARS-CoV-2
   - "/studies_en/2022/01/01/10.19803_j.1672-8629.2022.01.01.html"
@@ -9256,6 +9610,12 @@ diet pattern:
 school-age:
 - - The effect of two COVID-19 lockdowns on physical activity of school-age children
   - "/studies_en/2022/01/31/10.1016-j.smhs.2022.01.002.html"
+nutrition therapy:
+- - Nutritional Support Protocol for patients with COVID-19
+  - "/studies_en/2022/03/11/10.1016-j.clnesp.2022.03.002.html"
+nutritional assessment:
+- - Nutritional Support Protocol for patients with COVID-19
+  - "/studies_en/2022/03/11/10.1016-j.clnesp.2022.03.002.html"
 SARS-CoV-2 delta variant:
 - - No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic
     and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant
@@ -9330,9 +9690,6 @@ Physical Activity:
     Prevention in Sebelimbingan Village Rt.03, Pulau Laut Utara District, Kotabaru
     Regency
   - "/studies_en/2021/12/31/JNHS_ISSN_2798-1118.html"
-COVID-19 vaccines:
-- - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
-  - "/studies_en/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
 Diagnosis:
 - - New diagnosis of multiple sclerosis in the setting of mRNA COVID-19 vaccine exposure
   - "/studies_en/2021/12/09/10.1016_j.jneuroim.2021.577785.html"
@@ -9508,12 +9865,6 @@ anticoagulation:
 - - Life-changing consequences of vaccine-induced immune-mediated thrombosis with
     thrombocytopenia
   - "/studies/2021/12/28/10.1111_bjh.18005.html"
-Myocarditis:
-- - Myocarditis following COVID-19 vaccination – A case series
-  - "/studies_en/2021/10/08/10.1016_j.vaccine.2021.09.004.html"
-- - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
-    Comirnaty Vaccination
-  - "/studies/2021/11/28/10.1093_cid_ciab989.html"
 health behavior:
 - - Changes in Physical Activity, Healthy Diet, and Sleeping Time during the COVID-19
     Pandemic in South Korea
@@ -9872,9 +10223,6 @@ Immune Boosting:
 Nutrients:
 - - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
   - "/studies_en/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
-Public Health:
-- - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
-  - "/studies_en/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
 Synergistic Role:
 - - 'COVID-19 Pandemic and Immune Boost up: The Synergistic Role of Nutrients'
   - "/studies_en/2021/10/07/10.12944_CRNFSJ.9.3.04.html"
@@ -9884,6 +10232,18 @@ Phytonutrients:
 vitamin d deficiency:
 - - Vitamin D status of critically ill patients with Covid-19
   - "/studies_en/2021/11/30/10.1016_j.clnesp.2021.09.284.html"
+electrolytes:
+- - Endocrine, metabolic, and hepatic dysfunction in patients with COVID-19 pneumonia
+    with severe and critically ill status
+  - "/studies_en/2022/03/10/10.1186-s43168-022-00118-w.html"
+hepatic:
+- - Endocrine, metabolic, and hepatic dysfunction in patients with COVID-19 pneumonia
+    with severe and critically ill status
+  - "/studies_en/2022/03/10/10.1186-s43168-022-00118-w.html"
+pancreatic:
+- - Endocrine, metabolic, and hepatic dysfunction in patients with COVID-19 pneumonia
+    with severe and critically ill status
+  - "/studies_en/2022/03/10/10.1186-s43168-022-00118-w.html"
 Th cell subsets:
 - - Vitamin D Status and Immune Response in Hospitalized Patients with Moderate and
     Severe COVID-19
@@ -9937,6 +10297,14 @@ regulatory T cells:
 vitamin D receptor:
 - - Role of vitamin D in regulating COVID-19 severity—An immunological perspective
   - "/studies_en/2021/01/19/10.1002_JLB.4COVR1020-698R.html"
+immunostimulants:
+- - 'COVID-19: A Review of Immuneenhancing Nutrients and Supplements'
+  - "/studies_en/2022/01/01/10.18576-JANS.html"
+probiotics:
+- - 'COVID-19: A Review of Immuneenhancing Nutrients and Supplements'
+  - "/studies_en/2022/01/01/10.18576-JANS.html"
+- - 'Patient Nutrition and Probiotic Therapy in COVID-19: What Do We Know in 2021?'
+  - "/studies/2021/09/26/10.3390_nu13103385.html"
 glutathione:
 - - 'Glutathione and Vitamin D to Prevent COVID-19: A Review'
   - "/studies_en/2021/12/01/ISSN-0976-0997.html"
@@ -10137,9 +10505,6 @@ anti-platelet factor 4:
 - - Life-changing consequences of vaccine-induced immune-mediated thrombosis with
     thrombocytopenia
   - "/studies_en/2021/12/28/10.1111_bjh.18005.html"
-probiotics:
-- - 'Patient Nutrition and Probiotic Therapy in COVID-19: What Do We Know in 2021?'
-  - "/studies_en/2021/09/26/10.3390_nu13103385.html"
 retinol:
 - - Shared genomic architecture between COVID-19 severity and numerous clinical and
     physiologic parameters revealed by LD score regression analysis
@@ -10227,9 +10592,6 @@ mineral:
 nutrient:
 - - Toxicity of Food Supplements as An Adjuvant for COVID-19 Treatment or Prevention
   - "/studies_en/2022/01/01/10.11594-jtls.12.01.04.html"
-ChAdOx1 nCoV-19:
-- - Perspectives on vaccine induced thrombotic thrombocytopenia
-  - "/studies_en/2021/05/18/10.1016_j.jaut.2021.102663.html"
 Heparin-induced thrombocytopenia:
 - - Perspectives on vaccine induced thrombotic thrombocytopenia
   - "/studies_en/2021/05/18/10.1016_j.jaut.2021.102663.html"
@@ -10360,6 +10722,9 @@ infection severity:
 - - 'Association of vitamin D deficiency with COVID-19 infection severity: Systematic
     review and meta-analysis'
   - "/studies_en/2021/06/23/10.1111_cen.14540.html"
+Perimyocarditis:
+- - Perimyocarditis in Adolescents After Pfizer-BioNTech COVID-19 Vaccine
+  - "/studies_en/2021/07/28/10.1093-jpids-piab060.html"
 demographic economics:
 - - Historical migration and contemporary health
   - "/studies_en/2021/01/07/10.1093_oep_gpaa047x.html"
@@ -10439,10 +10804,6 @@ pharma health infrastructure:
 medications:
 - - 'Polypharmacy in Times of COVID-19: A Narrative Review'
   - "/studies_en/2021/12/27/ISSN_2320-1215.html"
-Pericarditis:
-- - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
-    Comirnaty Vaccination
-  - "/studies_en/2021/11/28/10.1093_cid_ciab989.html"
 Hong Kong:
 - - Epidemiology of Acute Myocarditis/Pericarditis in Hong Kong Adolescents Following
     Comirnaty Vaccination

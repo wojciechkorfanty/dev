@@ -163,6 +163,7 @@ Entzündung:
   - entzündungshemmende Stoffe
   - ernährungsbedingter Entzündungsindex
   - entzündungshemmende Medikamente
+  - Herzentzündung
   matches: []
   aliases: []
 Ernährung:
@@ -188,6 +189,7 @@ Ernährung:
   - ungesunde Ernährung
   - Ernährungstherapie
   - enterale Ernährung
+  - Ernährungsbewertung
   matches:
   - Essen
   - Nahrung
@@ -241,6 +243,7 @@ Gesundheit:
   - physische Gesundheit
   - Gesundheit des Immunsystems
   - ungesunde Ernährung
+  - öffentliche Gesundheit
   matches:
   - gesund
   aliases: []
@@ -387,6 +390,7 @@ Impfstoffe:
   - Adenovirus-Vektor-DNA & RNA-basierte SARS-CoV-2-Impfstoffe
   - mRNA-basierter Impfstoff
   - SARS-CoV-2-Impfstoffe
+  - COVID-19-impfstoffe
   aliases:
   - Impfung
   matches:
@@ -694,6 +698,7 @@ Mortalität:
   - CVD und COVID-19 Komorbidität
   - Komorbidität-COVID-19
   - Komorbiditäten
+  - Impfsterblichkeit
   aliases:
   - Sterblichkeit
   - Morbidität
@@ -715,6 +720,7 @@ Myokarditis:
   tags:
   - fulminante Myokarditis
   - COVID-19-Injektionsbedingte Myokarditis (CIRM)
+  - akute Myokarditis
   aliases: []
   matches: []
 Nebenwirkungen:
@@ -1002,6 +1008,7 @@ T-Zellen:
   - CD8 T-Zellen
   - regulatorische T-Zellen
   - kreuzreaktive CD4+ T-Zellen
+  - CD4+ T cells
   aliases:
   - CD4
   - CD8
